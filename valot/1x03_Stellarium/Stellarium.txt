@@ -1,0 +1,42 @@
+{{CC-by}}
+'''Stellarium on avoimen lähdekoodin planetaario omalla tietokoneellasi.'''
+
+[[Image:Valo3-stellarium.png|left]]
+Kun asennat Stellariumin omalle koneellesi ja kerrot sille oman sijaintisi, pääset katselemaan tähtitaivasta juuri sellaisena kuin se on. Ilman kiikareita tai kaukoputkea. Ilman näkyvyyttä haittaavia pilviä tai valosaastetta. Sijainniksi ja ajaksi voi toki asettaa mitä haluaa. Voit siis tarkastella, miltä tähtitaivas on näyttänyt muinaisessa Egyptissä tai joskus tulevaisuudessa. Voit katsella menneitä ja tulevia auringon- ja kuunpimennyksiä eri puolilla maapalloa. Tähtitaivaan tarkastelu ei rajoitu myöskään maapallon näkymiin vaan sijainnikseen voi valita vaikka kuun, Marsin, auringon tai jonkin muun tarjolla olevista taivaankappaleista. Valitse vaikka maisemaksi kuun pinta ja katsele maannousua.
+
+Stellariumiin voi ladata myös vapaaehtoisten tekemiä maisemia. Miltä tuntuisi katsella tähtitaivasta Stonehengen kivipaasien keskellä niiden pystytyksen aikoihin?
+
+<div style="clear: left;"></div>
+;Kotisivu
+:http://www.stellarium.org/fi/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Mac OS X, Windows
+;VALO-CD
+:Stellarium löytyy myös [http://www.valo-cd.fi/ilmainen_stellarium VALO-CD]-kokoelmasta.
+;Asennus
+:Ohjelman asennuspaketin voi ladata sen kotisivulta tai VALO-CD:ltä. Stellarium löytyy suoraan useimpien Linux-jakeluiden paketinhallinnasta.
+;Oppaita
+:[http://fi.flossmanuals.net/stellarium/ FLOSS Manuals]
+
+<gallery>
+Image:stellarium-1.png
+Image:stellarium-2.png
+Image:stellarium-3.png
+Image:stellarium-4.png
+Image:stellarium-5.png
+Image:stellarium-6.png
+Image:stellarium-7.png
+Image:stellarium-8.png
+Image:stellarium-9.png
+Image:stellarium-10.png
+Image:stellarium-11.png
+Image:stellarium-12.png
+</gallery>
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

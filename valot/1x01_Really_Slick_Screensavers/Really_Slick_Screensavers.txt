@@ -1,0 +1,20 @@
+{{CC-by}}
+'''Really Slick Screensavers on kokoelma visuaalisesti näyttäviä vapaita avoimen lähdekoodin näytönsäästäjiä.'''
+
+[[Image:Valo1-rss.png|left]]
+Nämä värikkäät näytönsäästäjät ovat todella näyttäviä. Ilotulitusta, pyörremyrskyä, euforiaa, erilaisia 3D-efektejä.
+Näytönsäästäjät vaativat sulavasti toimiakseen, että tietokoneessa ovat 3D-asetukset kunnossa.
+<div style="clear: left;"></div>
+
+;Kotisivu: http://www.reallyslick.com/
+;Lisenssi: [[GNU GPL]]
+;Toimii seuraavilla alustoilla: Linux, Windows, Mac OS X, Solaris
+;Asennus: Windows- ja Mac OS X-asennuspaketit löytyvät paketin omilta kotisivuilta. Linux-järjestelmiin nämä näytönsäästäjät tulevat yleensä jakelun mukana ja, elleivät ole jo valmiiksi asennettuina, ne voidaan asentaa suoraan paketinhallinnan kautta.
+
+[[Image:rss-cyclone.png|200px]] [[Image:rss-euphoria.png|200px]] [[Image:rss-fieldlines.png|200px]] [[Image:rss-flocks.png|200px]] [[Image:rss-flux.png|200px]] [[Image:rss-helios.png|200px]] [[Image:rss-hyperspace.png|200px]] [[Image:rss-lattice.png|200px]] [[Image:rss-skyrocket.png|200px]] [[Image:rss-solarwinds.png|200px]]
+ 
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,33 @@
+{{CC-by}}
+'''Tux Paint on lapsille (ja lapsenmielisille) suunnattu piirtelyohjelma.'''
+
+[[Image:Valo2-tux paint.png|left]]
+Ohjelmassa on käytettävissä useita erilaisia siveltimiä ja kuvioita, valmiita leimasimia sekä erikoisefektejä. Piirtäminen on helppoa ja ohjelmasta löytyviä toimintoja on kiva tutkia. Halutessaan voi piirtoalueen taustalle avata valmiin kuvan ja käyttää ohjelmaa värityskirjana. Valmiit piirustukset on helppo tallentaa yhdellä hiiren klikkauksella. Aiemmin piirretyt kuvat on helppo avata uudelleen ja jatkaa piirtämistä.
+
+Piirrettyjä kuvia voi myös näyttää peräkkäin, jolloin ohjelmalla voidaan tehdä kuvitettuja tarinoita ja animaatioita.
+
+<div style="clear: left"></div>
+;Kotisivu
+:http://www.tuxpaint.org/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Windows, Linux, Mac OS X, BeOS, Haiku, FreeBSD, NetBSD, +muita
+;VALO-CD
+:Tux Paint löytyy myös [http://www.valo-cd.fi/ilmainen_tuxpaint VALO-CD]-kokoelmasta.
+;Asennus
+:Ohjelman asennuspaketit löytyvät sen kotisivulta. Tux Paint sisältyy useimpiin Linux-jakeluihin, joten niihin se voidaan asentaa jakelun omasta paketinhallinnasta käsin.
+
+
+[[Image:Tuxpaint-0.png|200px]]
+[[Image:Tuxpaint-1.png|200px]]
+[[Image:Tuxpaint-2.png|200px]]
+[[Image:Tuxpaint-3.png|200px]]
+[[Image:Tuxpaint-4.png|200px]]
+[[Image:Tuxpaint-5.png|200px]]
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

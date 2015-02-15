@@ -1,0 +1,4 @@
+[[Image:heckert_gnu.small.png|right]]
+[http://www.gnu.org/copyleft/gpl.html GNU General Public License] on Richard Stallmanin alun perin [http://www.gnu.org GNU-projektin] tarpeisiin luoma vapaille ohjelmille tarkoitettu ohjelmistolisenssi. Se antaa sillä lisensoidun ohjelman käyttäjälle vapauden käyttää, tutkia, muuttaa ja levittää ohjelmaa edelleen. GPL-lisenssille ominaista on sen tarttuvuus, eli sillä lisensoidusta työstä johdetut uudet työt pitää automaattisesti lisensoida myös samalla lisenssillä.
+
+Lisää tietoa GPL-lisenssistä: [http://fi.wikipedia.org/wiki/GNU_GPL Wikipediasta]

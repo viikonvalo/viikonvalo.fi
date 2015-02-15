@@ -1,0 +1,29 @@
+{{CC-by}} <!-- Jos haluat käyttää artikkelin lisenssinä CC-by-sa 3.0, poista tämä rivi. Muussa tapauksessa artikkelin lisenssiksi tulee CC-by 3.0.  -->
+'''Project Gutenberg on vapaiden sähkökirjojen verkkokirjasto.'''
+
+[[Image:valo5-Project_Gutenberg.png|left]]
+Project Gutenbergin arkistossa on yli 33000 vapaasti käytettävää sähkökirjaa. Valtaosa kirjoista on tekijänoikeuksista jo vapautuneita klassikoita. Pienempi osa kirjoista on yhä tekijänoikeuksien alaisia, mutta tekijöidensä itse vapaaseen jakeluun antamia teoksia. Kunkin kirjan alkusivuilla on kerrottu ehdot, joilla kirjoja voi käyttää.
+
+Kirjat on luokiteltu palveluun kielen mukaan. Suurin osa kirjoista on englanniksi. Loput kielet on jaoteltu yli 50 kirjaa sisältäviin, joihin myös suomenkieli kuuluu, sekä alle 50 kirjaa sisältäviin. Suomenkielisiä kirjoja on vanhoista suomalaisista klassikoista ([http://www.gutenberg.org/ebooks/7000 Kalevala], [http://www.gutenberg.org/ebooks/11940 Seitsemän veljestä], [http://www.gutenberg.org/ebooks/10863 Juha]) ulkomaisiin käännöskirjoihin ([http://www.gutenberg.org/browse/languages/fi#a65 Shakespearen näytelmät] Cajanderin käännöksinä, [http://www.gutenberg.org/ebooks/19674 Tristan ja Isolde], [http://www.gutenberg.org/ebooks/32536 Baskervillen koira]).
+
+Tekstimuotoiset kirjat on tallennettu monessa muodossa: html, epub, kindle, plucker, QiOO Mobile sekä puhtaana utf-8-tekstinä. Niitä voi siis lukea mm. www-selaimilla sekä e-kirjanlukulaitteilla ja -ohjelmilla, kuten [[FBReader]]illa. Osa kirjoista on myös muunnettu äänikirjoiksi joko koneellisesti tai vapaaehtoisten lukemina. Monet luetuista äänikirjoista ovat [http://librivox.org Librivox]-projektin tuottamia. Kirjojen ja äänikirjojen lisäksi Project Gutenbergin arkistoista löytyy muun muassa tekijänoikeusvapaita musiikki- ja muita äänityksiä ([http://www.gutenberg.org/ebooks/10177 Valkyrien ratsastus]), nuotteja, videopätkiä ([http://www.gutenberg.org/ebooks/116 Apollo 11:n laskeutuminen kuuhun]) ja kuvia ([http://www.gutenberg.org/ebooks/114 Liisa ihmemaassa -kirjan kuvitus]).
+<div style="clear: left;"></div>
+
+;Kotisivu: http://www.gutenberg.org/
+;Lisenssi: [http://www.gutenberg.org/wiki/Gutenberg:The_Project_Gutenberg_License Project Gutenberg Licence]
+:Tekijänoikeuksista vapautuneet kirjat ovat Public Domainia, eli julkista omaisuutta, Yhdysvaltalaisen tekijänoikeuslain mukaan.
+:Katso tarkempi tieto lisenssistä kunkin kirjan alusta.
+
+<gallery>
+Image:project_gutenberg-1.png
+Image:project_gutenberg-2.png
+Image:project_gutenberg-3.png
+Image:project_gutenberg-4.png
+Image:project_gutenberg-5.png
+</gallery>
+
+''Teksti: pesasa''<br />
+''Kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

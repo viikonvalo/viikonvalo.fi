@@ -1,0 +1,44 @@
+{{CC-by}}
+'''FBReader on avoimen lähdekoodin e-kirjojenlukuohjelma Windows- ja Linux/Unix-järjestelmille. FBReaderJ puolestaan on sen Android-puhelimiin tarkoitettu versio.'''
+
+[[Image:Valo4-fbreader.png|left]]
+FBReader osaa näyttää useassa avoimessa tiedostomuodossa tallennettuja (drm-vapaita) sähkökirjoja: fb2, html, chm, plucker, palmdoc, ztxt, tcr (psion text), rtf, oeb, openreader, drm-vapaa mobipocket, plain text ja epub. FBReader osaa muun muassa tavuttaa tekstin sisällön kielen mukaan, jolloin teksti piirtyy ruudulle sulavasti ja kauniisti. Tämä ominaisuus on erityisen käytännöllinen pieninäyttöisillä laitteilla, kuten matkapuhelimilla, joissa tavutuksen avulla niukka tila käytetään tehokkaammin hyödyksi. Tekstin ja taustan värejä saa muutettua oman mielensä mukaan. Voit esimerkiksi vaihtaa käyttöösi vaalean tekstin mustalla pohjalla helpottamaan pimeässä lukemista. Ohjelman kirjastotoiminnolla kirjat pysyvät hyvin järjestyksessä ja ne on helppo löytää tekijän tai kirjan nimen, aihealueen tai vaikka hakusanan perusteella. Ohjelma osaa tarvittaessa lukea tiedostot myös suoraan zip-, tar-, gzip- tai bzip2-paketista, mikä on kätevää esimerkiksi silloin, jos samaan pakettiin on tiivistetty useita sähkökirjoja. Ohjelmassa on sisäänrakennettuna tuki muutamalle verkossa toimivalle vapaita tai ilmaisia kirjoja jakavalle arkistolle, kuten [http://www.feedbooks.com/ feedbooks.com] ja [http://www.smashwords.com/ smashwords.com].
+
+FBReaderJ on ohjelmasta Android-puhelimille ja -tableteille sovitettu versio. Puhelimessa kirjat kulkevat helposti mukana ja ovat saatavilla aina, kun on hetki aikaa lukea. Lisää luettavaa voi ladata verkosta helposti, sillä ohjelmalla pääsee selaamaan suoraan useita verkkokirjastoja, joista löytyy paljon vapaita kirjoja. Muiden verkkokirjastojen, kuten [http://www.gutenberg.org/ Project Gutenberg]in lisääminen ohjelmaan on helppoa. 
+
+[http://www.gutenberg.org/ Project Gutenberg]in sivuilta löytyy paljon tekijänoikeuksista jo vapautunutta luettavaa myös suomeksi: klassikoita ''Seitsemästä veljeksestä'' ja ''Baskervillen koirasta'' aina Shakespearen näytelmiin.
+
+<div style="clear: left;"></div>
+;Kotisivu
+:http://www.fbreader.org/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Mac OS X, Windows, FreeBSD, Maemo, Android, +lukuisia muita (katso kotisivut)
+;Asennus
+:Ohjelman asennuspaketin voi ladata sen kotisivulta tai sieltä löytyvän linkin kautta. FBReader löytyy suoraan useimpien Linux-jakeluiden paketinhallinnasta. Android-puhelimiin ohjelma löytyy myös suoraan marketista nimellä '''Fbreader'''.
+
+<gallery>
+Image:fbreader-1.png
+Image:fbreader-2.png
+Image:fbreader-3.png
+Image:fbreaderj-1.png
+Image:fbreaderj-2.png
+Image:fbreaderj-3.png
+Image:fbreaderj-4.png
+Image:fbreaderj-4b.png
+Image:fbreaderj-5.png
+Image:fbreaderj-6.png
+Image:fbreaderj-7.png
+Image:fbreaderj-8.png
+Image:fbreaderj-9.png
+Image:fbreaderj-10.png
+Image:fbreaderj-11.png
+Image:fbreaderj-12.png
+Image:fbreaderj-13.png
+</gallery>
+
+''Teksti: pesasa''<br />
+''Kuvakaappaukset: pesasa''
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]
