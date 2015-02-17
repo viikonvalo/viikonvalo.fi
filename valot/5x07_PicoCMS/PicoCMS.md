@@ -2,6 +2,7 @@
 Title: 5x07 PicoCMS - Viikon VALO #215
 Date: 2015/02/16 23:00
 Tags: PHP,www
+Pageimage: valo215-picocms.png
 */
 
 **PicoCMS on kevyt ja yksinkertainen tietokannaton
