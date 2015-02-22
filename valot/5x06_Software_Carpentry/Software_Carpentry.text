@@ -1,0 +1,28 @@
+{{CC-by}}
+'''Sofware Carpentry -sivustolla on avointa opetusmateriaalia erityisesti tutkijoiden käyttöön sopivista ohjelmistoista.'''
+
+[[Image:valo214-softwarecarpentry.png|left]]
+Sivustoa ylläpitää Software Carpentry -säätiö, joka kertoo tavoitteekseen perus ohjelmistotaitojen opettamisen tutkijoille luonnontieteissä, insinööritieteissä, lääketieteessä sekä muilla aloilla. Säätiö toteuttaa tavoitettaan julkaisemalla avointa [http://creativecommons.org/licenses/by/4.0/deed.fi CC-BY]-lisensoitua oppimateriaalia sekä järjestämällä [http://software-carpentry.org/workshops/index.html työpajoja] ympäri maailmaa. [http://software-carpentry.org/lessons.html Oppimateriaalia] sivustolla on tarjolla tutkijoiden käyttöön sovellettavissa olevista avoimen lähdekoodin ohjelmistoista ja niihin liittyvistä aiheista, kuten: Unix-komentorivi, [Git]-versionhallinta, [Python]-ohjelmointi, [R]-tilasto-ohjelmisto sekä tietokannat ja SQL-kyselykieli. 
+
+Muita materiaalien aiheita ovat MATLAB, Mercurial, [http://imakewebthings.com/deck.js/ deck.js], Subversion, Make, taulukkolaskenta, matriisit NumPy:llä, testaaminen ja säännölliset lausekkeet.
+
+Vaikka materiaalit on alkujaan suunnattu tutkijoille, sopivat ne hyvin myös muille aiheista kiinnostuneille.
+
+;Kotisivu
+:http://software-carpentry.org
+;Lisenssi
+:[http://creativecommons.org/licenses/by/4.0/deed.fi CC-BY]
+;Toimii seuraavilla alustoilla
+:Kaikki
+
+<gallery>
+Image:software_carpentry-1.jpg|Sivuston etusivu
+Image:software_carpentry-2.jpg|Oppimateriaalit
+Image:software_carpentry-3.jpg|Ote Git-materiaalista
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

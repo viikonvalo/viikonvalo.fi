@@ -1,0 +1,59 @@
+/*
+Title: 1x09 Open Clip Art Library - Viikon VALO #9
+Date: 2011/02/27
+Pageimage: valo9-ocal.png
+Tags: Kaikki alustat,Kuvat,Aineisto
+*/
+
+**Open Clip Art Library eli *avoin leikekuvakirjasto* on kokoelma
+vapaasti käytettäviä kuvakkeita ja kuvitusta.**
+
+![](images/valo9-ocal.png "fig:valo9-ocal.png") Kokoelmasta löytyy kuvitusta
+webbi-sivuihin, artikkeleihin ja muihin julkaisuihin. Kirjastossa on
+symboleita, esimerkiksi tupakointikielto, pelikorttien maat, lippuja,
+suuntanuolia ja vaikka mitä, yli 40 000 kuvaa. Valokuvia kirjastossa ei
+ole, vaan kuvat ovat piirroksia. Perustiedostomuoto on SVG eli
+skaalautuva vektorigrafiikka, jota voi käyttää sellaisenaan monessa
+ohjelmassa, tai josta kuvat voi itse muuntaa haluamaansa
+kuvatiedostomuotoon. Vektorikuvan tyypillinen ominaisuus on, että sen
+voi suurentaa tai pienentää rajatta laadun kärsimättä. Esikatselua
+varten kirjastossa on samoista kuvista myös PNG-muotoiset versiot.
+Suurin osa www-selaimista sekä monet kuvankatselimet osaavat näyttää
+SVG-kuvia. SVG-kuvien muokkaaminen onnistuu avoimen lähdekoodin
+Inkscape-ohjelmalla.
+
+Kokoelman kehittämiseen voi osallistua lähettämällä itse tekemiään
+kuvia.
+
+Kotisivu:
+:    <http://www.openclipart.org/>
+
+Lisenssi:
+:    Vapaa, kuvia saa käyttää miten haluaa, [CC0](CC0 "wikilink").
+
+Toimii seuraavilla alustoilla:
+:    Kaikki
+
+Asennus:
+:    Linux-jakeluissa löytynee pakettivarastoista. Kotisivulta voi ladata kaikki kuvat .zip, .tar tai .bz2 pakettina tai yksittäisiä kuvia.
+
+Kuvia voi käyttää sellaisenaan tai muokata vaikkapa lisäämällä tekstiä
+kuvan sisään tai laatimalla oma kuva yhdistämällä useasta kuvasta.
+SVG-kuvien muokkaukseen sopii Inkscape-ohjelma, jolla suuri osa
+kirjaston kuvista on piirrettykin. Tässä kirjoitelmassa käytetty kuvitus
+löytyi Openclipartsista (paitsi Viikon Valo -logo).
+
+<div class="psgallery" markdown="1">
+* [](images/ocal-Swan.png)
+* [](images/ocal-talitiainen.png)
+* [](images/ocal-Keep_tidy_inside_01.png)
+* [](images/ocal-Defense_de_fumer_yves_gu_01.png)
+* [](images/ocal-Ribbon.png)
+* [](images/ocal-Rana01_architetto_france_01.png)
+* [](images/ocal-tree.png)
+* [](images/ocal-Led_rainbow_ganson.png)
+* [](images/ocal-packet6.png)
+</div>
+
+*Teksti: Taleman* <br />
+*Kuvat: Open Clip Art Library*

@@ -1,0 +1,63 @@
+{{CC-by}}
+'''Koodinimi Squeeze on 24 kuukauden kehitystyön tulos: Debian GNU/Linux -käyttöjärjestelmän versio 6.0.'''
+
+<!-- META
+Debianista mainittavia ominaisuuksia varmaan: yhteisöllisyys (riippumaton yhtiöistä), ikä (toinen 
+vanhimmista jakeluista), laaja pakettivarasto (pohjana muille jakeluille), paino vapaudessa ja vakaudessa 
+(hitaampi julkaisusykli), mitä muuta?
+
+uudistuksina mulle tulee mieleen eglibc, kfreebsd, blobless linux, systemtap normikerneleillä ja tietty 
+omhacks :-)
+11:32 < lindi-> mutta mun näkökulma ei ehkä ole se mistä suuri yleisö on kiinnostunut
+11:33 < lindi-> niin ja ehkä chromium-browser mutta se ei kyllä ole vielä mitenkään kehuttavassa kunnossa valitettavasti
+
+ask debian webbisivu http://ask.debian.net/
+debian-private, muut sähköpostilistat julkisia; vikatietokanta julkinen
+
+-->
+[[Image:Valo6-Debian.png|left]]
+Linux-jakelu Debian on taas entistä parempi; järjestelmä käynnistyy nopeammin kun käynnistyskriptejä ajetaan rinnakkain; toimintaa miniläppäreissä parantaa KDE Plasma Netbook -työpöytäympäristö; uudemmat versiot sovelluksista; uusia sovelluksia kuten [http://packages.debian.org/squeeze/chromium-browser Chromium-selain], verkkopalveluiden valvontajärjestelmä [http://packages.debian.org/squeeze/icinga Icinga], yhteensä noin 10000 uutta asennuspakettia.
+<!-- wicd, Corosync -->
+Yli 29000 [http://www.debian.org/distrib/packages asennuspaketista] löytyy jokaiselle jotakin. 
+
+Debian on vapaaehtoistyönä tehty jakelu, kehitystyö ei ole kytköksissä mihinkään yritykseen tai yksittäiseen ohjelmatoimittajaan. Debian-projekti on julkaissut [http://fi.wikipedia.org/wiki/Debianin_vapaiden_ohjelmistojen_ohjeisto vapaiden ohjelmien ohjeiston] määrittämään mitkä ohjelmistot ovat vapaita. Debian on laatinut myös [http://www.debian.org/social_contract.fi.html yhteisösopimuksen] vapaiden ohjelmien yhteisön kanssa määrittämään mitä sitoumuksia projekti noudattaa. Debiania on käytetty useiden jakeluhaarojen pohjana, muiden muassa   [http://www.knopper.net/knoppix/ Knoppix] ja [http://ubuntu-fi.org/ Ubuntu] pohjautuvat Debianiin. Debian soveltuu työpöytäkäyttöön, palvelinkoneelle, miniläppäriin jne. Debian on alusta lähtien painottanut julkaisun vakaata toimintaa ja seuraavaan versioon päivittämisen helppoutta. Uusi versio julkaistaankin vasta, kun sen luotettavasta toiminnasta on varmistuttu riittävän pitkän testausvaiheen aikana, versioiden väliä on saattanut olla yli kaksikin vuotta. 
+
+[[Image:Debian-Openlogo-nd.svg|left]]Ensimmäistä kertaa Debianissa on mukana muu kuin Linux-ydin, kun ''esittelyversiot'' FreeBSD-ytimestä ovat mukana i386:lle ja amd64:lle, siis 32-bittisille ja 64-bittisille PC-koneille. Linux-ytimessäkään ei enää ole suljettua koodia olevia laitetiedostoja, ne siirrettiin Debianin non-free -jakeluun. 
+
+Debian on vanhimpia Linux-jakeluita, projekti on perustettu vuonna 1993. Edellinen versio Lenny, eli versio 5.0, julkaistiin kaksi vuotta sitten 14. helmikuuta 2009.
+
+Debiania on pidetty vaikeana asentaa, mutta '''graafinen asennin''' on ollut käytettävissä jo vuodesta 2009 alkaen. Debian GNU/Linux voidaan asentaa useilta '''eri asennusmedioilta''' kuten DVD:ltä, CD:ltä, USB-muisteilta ja levykkeiltä tai suoraan verkosta. Debiania on moitittu myös sovellusten vanhoista versioista, aina ei ole julkaisuhetkelläkään mukana sovelluksen uusin versio vaan luotettavasti toimivaksi todettu vanhempi versio, lisäksi pitkä julkaisusykli vanhentaa. Syyskuusta 2010 alkaen on [http://backports.debian.org/ Debian Backports] ollut virallisestikin Debianin osa, sieltä saa uudempia versioita valikoiduista sovelluksista. [http://www.debian.org/volatile/ Debian Volatile]:n kautta saa päivittäin muuttuvia asennuspaketteja kuten virustorjuntaohjelmiston tunnistetietoja. '''Multimediatukea''' saa parannettua '''epävapailla''' osilla lisäämällä [http://debian-multimedia.org/ Debian Multimedia]:n käytettäviin pakettivarastoihin.
+
+Debianin kehitystyökin tehdään avoimesti, [http://www.debian.org/Bugs/ vikailmoitukset] ja [http://lists.debian.org/ sähköpostilistat] ovat julkisia. Myös sähköpostilistojen arkistot ovat kaikkien saatavilla. Ainoa poikkeus on sähköpostilista debian-private, jota pääsevät lukemaan vain [http://www.debian.org/devel/join/index.fi.html Debian-kehittäjät], jotta kehittäjät voivat ilmoittaa muille olevansa seuraavat kaksi viikkoa matkoilla ''ilmoittamatta samalla murtovarkaille'' mistä asunnosta voi noutaa arvotavarat pois. Lisäksi IRC-kanava #debian-private vaatii salasanan, tällöin on paikka jossa ei-julkisista Debian-asioista voidaan keskustella nopeammin kuin sähköpostilistalla.            
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.debian.org/
+;Lisenssi
+:Sisältää useilla vapailla lisensseillä lisensoituja ohjelmia.
+;Toimii seuraavilla alustoilla
+:Kämmentietokoneista supertietokoneisiin, 9 tuettua laitearkkitehtuuria  
+;Asennus
+:Asennustaltiot noudettavista [http://www.de.debian.org/CD/ kotisivulta], pikapuolin on myös mahdollista tilata [http://www.de.debian.org/CD/vendors/ maksulliset CD:t tai DVD:t].
+
+===Käyttöohjeet===
+
+Käyttöohjeita löytyy [http://www.debian.org/doc/ kotisivuilta] ja muualtakin Internetistä. [http://www.debian.org/releases/stable/installmanual Asennusohje] löytyy useilla kielillä HTML, PDF ja tekstitiedostona. 
+
+<gallery>
+Image:‎Squeeze-1.png|Oletustyöpöytä
+Image:Squeeze-Chromium-selain.png‎|Uusi Chromium-selain
+Image:Squeeze-sovellusvalikoima.png|Sovellusvalikoimasta asennetaan lisää ohjelmia
+Image:Squeeze-elokuvasoitin.png|DVD-elokuvatkin näkyvät ja kuuluvat
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+===Lisätietoa===
+
+* [http://fi.wikipedia.org/wiki/Debian Wikipedian Debian-artikkeli]
+* [http://www.debian.org/releases/stable/releasenotes Julkistusmuistio]
+* [http://lists.debian.org/ Debianin sähköpostilistat]
+* [http://ask.debian.net Shapado-instanssi kysymyksille ja vastauksille Debianista]. [http://en.wikipedia.org/wiki/Shapado Shapadossa] webbisivulle kirjoitetaan kysymys, rekisteröityneet käyttäjät voivat kirjoittaa vastauksen tai äänestämällä vastausta hyväksi tai huonoksi vaikuttaa vastauksen pisteytykseen.

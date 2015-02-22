@@ -1,0 +1,25 @@
+'''Wine mahdollistaa Windows-ohjelmien käyttämisen myös muissa käyttöjärjestelmissä.'''
+
+
+[[Image:Valo7-Wine.png|left]]
+Estääkö jokin välttämättä tarvitsemasi Windows-sovellus toiseen käyttöjärjestelmään siirtymisen? Etkö omista Windows-konetta, mutta haluaisit käyttää jotakin vain sellaisiin julkaistua ohjelmaa? Wine saattaa olla ratkaisu ongelmaasi! Ohjelmien toimivuus vaihtelee, mutta yhteisö kerää niistä tietoa osoitteessa http://appdb.winehq.org/ – katso sieltä toimiiko kaipaamasi.
+<div style="clear: left;"></div>
+
+;Kotisivu: http://www.winehq.org/
+;Lisenssi: [[GNU LGPL]]
+;Toimii seuraavilla alustoilla: Linux, FreeBSD, PC-BSD, Solaris
+;Asennus: Todennäköisesti asennuspaketti löytyy jakelun omasta pakettivarastosta, mutta tarvittaessa ne on saatavilla myös Winen kotisivuilta.
+
+[[Image:Wine_civ4-2.png|200px]] [[Image:Wine_cs-source.png|200px]] [[Image:Wine-fifa10.png|200px]]
+
+ 
+''Teksti: teroajk''<br />
+''kuvakaappaukset: teroajk''
+
+==Lisätietoa==
+
+* [[http://fi.wikipedia.org/wiki/Wine| Wine-artikkeli Wikipediassa]]
+* [[http://wiki.winehq.org/Licensing Lisenssitietoa]]
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

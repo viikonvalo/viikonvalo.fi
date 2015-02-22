@@ -1,0 +1,29 @@
+'''Open Clip Art Library eli ''avoin leikekuvakirjasto'' on kokoelma vapaasti käytettäviä kuvakkeita ja kuvitusta.'''
+
+[[Image:valo9-ocal.png|left]]
+Kokoelmasta löytyy kuvitusta webbi-sivuihin, artikkeleihin ja muihin julkaisuihin. Kirjastossa on symboleita, esimerkiksi tupakointikielto, pelikorttien maat, lippuja, suuntanuolia ja vaikka mitä, yli 40 000 kuvaa. Valokuvia kirjastossa ei ole, vaan kuvat ovat piirroksia. Perustiedostomuoto on SVG eli skaalautuva vektorigrafiikka, jota voi käyttää sellaisenaan monessa ohjelmassa, tai josta kuvat voi itse muuntaa haluamaansa kuvatiedostomuotoon. Vektorikuvan tyypillinen ominaisuus on, että sen voi suurentaa tai pienentää rajatta laadun kärsimättä. Esikatselua varten kirjastossa on samoista kuvista myös PNG-muotoiset versiot. Suurin osa www-selaimista sekä monet kuvankatselimet osaavat näyttää SVG-kuvia. SVG-kuvien muokkaaminen onnistuu avoimen lähdekoodin Inkscape-ohjelmalla.
+
+Kokoelman kehittämiseen voi osallistua lähettämällä itse tekemiään kuvia. 
+<div style="clear: left;"></div>
+
+;Kotisivu: http://www.openclipart.org/
+;Lisenssi: Vapaa, kuvia saa käyttää miten haluaa, [[CC0]].
+;Toimii seuraavilla alustoilla: Kaikki
+;Asennus: Linux-jakeluissa löytynee pakettivarastoista. Kotisivulta voi ladata kaikki kuvat .zip, .tar tai .bz2 pakettina tai yksittäisiä kuvia.
+
+Kuvia voi käyttää sellaisenaan tai muokata vaikkapa lisäämällä tekstiä kuvan sisään tai laatimalla oma kuva yhdistämällä useasta kuvasta. SVG-kuvien muokkaukseen sopii Inkscape-ohjelma, jolla suuri osa kirjaston kuvista on piirrettykin. Tässä kirjoitelmassa käytetty kuvitus löytyi Openclipartsista (paitsi Viikon Valo -logo). 
+
+[[Image:Swan.svg|200px]]
+[[Kuva:Keep_tidy_inside_01.svg‎|200px]]
+[[Kuva:Defense_de_fumer_yves_gu_01.svg|200px]]
+[[Kuva:Ribbon.svg‎|200px]]
+[[Kuva:Rana01_architetto_france_01.svg‎|200px]]
+[[Kuva:Tree_-_rpg_map_elements_07.svg‎|200px]]
+[[Kuva:Led_rainbow_ganson.svg‎|200px]]
+[[Kuva:Open_box_juliane_krug_r.svg‎|200px]]
+
+''Teksti: Taleman''<br />
+''kuvat: Open Clip Art Library''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

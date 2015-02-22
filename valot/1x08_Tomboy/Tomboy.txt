@@ -1,0 +1,37 @@
+{{CC-by}}
+'''Tomboy on näppärä wiki-tyyppisesti toimiva muistiinpanoväline työpöydälle'''
+
+[[Kuva:Valo8-Tomboy.png|left]]
+Tomboy on keltaisten muistilappujen korvike tietokoneen työpöydällä. Sähköisten muistilappujen suurena etuna paperisiin verrattuna on mahdollisuus linkittää niitä keskenään. Muistiinpanoihin voi kirjoittaa otsikoita, tekstiä, listoja ja muotoilla niitä lihavoinnein, kursivoinnein, alle- ja yliviivauksin sekä korostuksin. Mistä tahansa muistiinpanon sanasta voi tehdä linkin, jota klikkaamalla avautuu uusi muistiinpanoikkuna. Näin muistettavat asiat voi ryhmitellä järkevästi ja linkittää toisiin niihin liittyviin muistiinpanoihin. On käyttäjän oma asia, haluaako luoda muistiinpanoilleen hierarkisen rakenteen sisällysluetteloineen vai linkittääkö niitä verkkomaisesti. Tomboyta on mahdollista käyttää myös kevyeen projektinhallintaan, jossa pitää linkittää ihmisiä ja tehtäviä keskenään.
+
+Tomboyn toimintaa voi laajentaa lukuisilla siihen saatavilla lisäosilla. Lisäosia löytyy muun muassa muistiinpanojen muuttamiseen html-muotoon, niiden lähettämiseen Wordpress- tai Blogspot-blogiin sekä niiden synkronointiin tietokoneiden välillä.
+
+Samojen muistiinpanojen saatavuus eri koneilla, esimerkiksi koti- ja työkoneella, on hyödyllistä. Tomboylla tehtyjä muistiinpanoja voidaan synkronoida käyttäjien välillä paikallisesti tai eri tietokoneiden välillä verkkopalvelujen kautta. Verkon yli synkronointi on tuettu ainakin Tomboyn oman ''Tomboy online'' -palvelun ja Canonicalin ''Ubuntu One'' -palvelun kautta. Synkronointi on mahdollista laittaa toimintaan myös omalle palvelimelle joko ''Snowy''-ohjelmiston, ''webdav''-jaon tai ''ssh''-yhteyden kautta.
+
+Android-puhelimiin löytyy marketista [https://launchpad.net/tomdroid Tomdroid]-sovellus, jolla on mahdollista käyttää samoja verkkoon synkronoituja muistiinpanoja kuin tietokoneella. Toistaiseksi Tomdroidilla pystyy vain lukemaan muistiinpanoja, mutta muokkaustoiminnallisuuttakin on lupailtu tulevaisuudessa.
+
+Tomboy on toteutettu C#-kielellä ja käyttää Linux- ja Unix-järjestelmissä hyväkseen Mono-ympäristöä. Näissä järjestelmissä voi vaihtoehtoisesti myös käyttää toiminnoiltaan ja ulkoasultaan hyvinkin samanlaista, mutta C++-kielellä toteutettua [http://live.gnome.org/Gnote Gnote]-ohjelmaa.
+<div style="clear: left;"></div>
+
+;Kotisivu: http://projects.gnome.org/tomboy/
+;Lisenssi: [[GNU LGPL]]
+;Toimii seuraavilla alustoilla: Linux, Windows, Mac OS X, Unixit
+;Asennus: Asennuspaketit Windows- ja Mac OS X -ympäristöille löytyvät ohjelman kotisivulta. Useimmissa Linux-jakeluissa Tomboy löytyy suoraan paketinhallinnasta.
+
+<gallery>
+Image:Tomboy-1.png
+Image:Tomboy-2.png
+Image:Tomboy-3.png
+Image:Tomboy-4.png
+Image:Tomboy-5.png
+Image:Tomboy-6.png
+Image:Tomboy-7.png
+Image:Tomboy-8.png
+Image:Tomboy-9.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: kuvien tekijän nimimerkki''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,31 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''Pinta on yksinkertainen vapaa piirto- ja kuvankäsittelyohjelma'''
+[[Image:Valo17-pinta.png|left]]
+Pinta on pyritty tekemään käyttöliittymältään ja toiminnaltaan varsin samanlaiseksi kuin tunnetumpi Paint.net-piirto-ohjelma. ("Pinta" on anagrammi sanasta "paint".) Pinta ei ole yhtä monipuolinen kuin esimerkiksi Gimp tai Photoshop, mutta sen käyttöliittymä on yksinkertainen käyttää ja siksi helppo oppia. Siksi sillä saa helposti tuloksia aikaan jo vähemmälläkin opettelulla. Ohjelmassa ovat käytettävissä yleisimmät kuvankäsittelytyökalut, pensselit, kynät, kumit, valinnat ja valmiit kuviot. Kuvan osia voi jaotella useammille päällekkäisille tasoille. Pinta antaa käyttöön myös rajattoman ja täydellisen editointihistorian, jossa voi liikkua edestakaisin "kumoa"- ja "tee uudelleen"-toiminnoilla. Pinta sisältää myös laajan valikoiman säätöjä ja tehosteita kuvien muokkaamiseen.
+
+Pinta on ohjelmoitu C#-kielellä ja tarvitsee Windows-koneissa toimiakseen Microsoftin sivuilta saatavan [http://www.microsoft.com/downloads/details.aspx?familyid=333325FD-AE52-4E35-B531-508D977D32A6&displaylang=fi .NET-ympäristön] (vähintään versio 3.5). Windows-ympäristössä tarvitaan lisäksi Gtk#-kirjastot, jotka ovat ladattavissa [http://pinta-project.com/download Pintan sivujen] kautta. Linux- ja Mac OS X -ympäristöihin asennettaessa käyttöön tarvitaan Mono-ympäristö, joka Linux-jakeluihin löytyy yleensä paketinhallinnan kautta ja OS X:lle linkkinä [http://pinta-project.com/download Pintan lataussivulta].
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://pinta-project.com/
+;Lisenssi
+:[[MIT X11]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X
+;Asennus
+:Windows- ja Mac OS X -ympäristöihin asennuspaketit ovat saatavilla [http://pinta-project.com/download Pintan lataussivulta]. Linux-järjestelmiin ohjelma löytyy yleensä suoraan paketinhallinnasta.
+
+<gallery>
+Image:Pinta-1.png
+Image:Pinta-3.png
+Image:Pinta-6.png
+Image:Pinta-7.png
+Image:Pinta-5.png
+</gallery> 
+
+''Teksti: oma pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

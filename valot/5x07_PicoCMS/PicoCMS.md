@@ -2,6 +2,7 @@
 Title: 5x07 PicoCMS - Viikon VALO #215
 Date: 2015/02/16 23:00
 Tags: PHP,www
+Pageimage: valo215-picocms.png
 */
 
 **PicoCMS on kevyt ja yksinkertainen tietokannaton
@@ -11,8 +12,8 @@ sisällönhallintajärjestelmä www-sivujen ylläpitoon.**
 www-sivustojen ylläpitoon tietokantaa käyttävät
 sisällönhallintajärjestelmät, kuten Drupal, Wordpress ja Joomla,
 vaikuttavat yliampuvilta. Toisaalta, jo muutamastakin sivusta koostuvan
-kokonaisuuden ylläpito staattisina HTML-tiedostoina voi käydä työlääksi,
-jos niiden pitäisi yhtenäisiä, samalla sivupohjalla tehtyjä ja sisältää
+kokonaisuuden ylläpito staattisina HTML-tiedostoina voi käydä työlääksi ilman työkaluja,
+jos niiden pitäisi olla yhtenäisiä, samalla sivupohjalla tehtyjä ja sisältää
 samoja yhteisiä osia, kuten navigointi. Tällaiseen käyttöön voi sopia
 tietokannattomasti pelkillä tiedostoilla toteutettu Pico. Picolla tehty
 sivusto koostuu melko yksinkertaisesta PHP-kielellä toteutetusta
@@ -69,7 +70,7 @@ Asennus
 * [Esimerkkisivuston etusivu](images/picocms-1.jpg)
 * [Yksinkertainen oma sivu](images/picocms-2.jpg)
 * [Sivu ja sen kirjoittamiseen käytetty Markdown-teksti.](images/picocms-3.jpg)
-* [Markdownkin sekaan voi tarvittaessa kirjoittaa myös tavalista HTML-kieltä.](images/picocms-4.jpg)
+* [Markdownkin sekaan voi tarvittaessa kirjoittaa myös tavallista HTML-kieltä.](images/picocms-4.jpg)
 * [Picon kotisivu](images/picocms-5.jpg)
 * [Picoa voi laajentaa lisäosilla, joita löytyy sen kotisivuilta tai muiden vapaaehtoisten tekeminä.](images/picocms-6.jpg)
 </div>

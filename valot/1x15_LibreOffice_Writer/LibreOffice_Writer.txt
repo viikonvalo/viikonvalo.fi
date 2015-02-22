@@ -1,0 +1,33 @@
+'''LibreOffice on avoimeen lähdekoodiin perustuva toimisto-ohjelmisto, joka sisältää muun muassa tekstinkäsittelyohjelman (Writer).'''
+
+
+[[Image:Valo15-Libreoffice writer.png|left]]
+Writeriä käytetään tekstin kirjoittamiseen, muokkaamiseen ja tulostamiseen. 
+
+LibreOffice haarautui OpenOffice.org:sta, joka perustuu Sun Microsystemsin StarOffice-pakettiin, jonka Sun osti saksalaiselta StarDivisionilta 1999. Oraclen ostettua Sunin vuonna 2009 osa ohjelmiston johtavista kehittäjistä erosi syksyllä 2010 projektista ja perusti uuden Document Foundationin jatkamaan ohjelmiston kehitystä riippumattomana. Uuden säätiön merkittäviin tukijoihin kuuluvat Google ja Red Hat. Se on pyytänyt myös Oraclen jäsenekseen ja luovuttamaan sille OpenOffice.org-nimen oikeudet. Ensimmäisen uuden version julkaisussa se käytti nimeä [http://fi.wikipedia.org/wiki/LibreOffice LibreOffice]. Toistaiseksi ei ole oleellisia eroja LibreOfficen ja OpenOffice.org:n välillä. Jos siis LibreOffice ei ole saatavilla koneellesi, käytä OpenOffice.orgia odotellessa. 
+
+
+[[Kuva:400px-LibreOffice Mimetype Icon Draft2 Ivan.png|200px|left]]Writerissa sisältö näyttää muokattaessa hyvin samalta kuin lopputulos. Sen sijaan muotoa ja rakennetta kuvaavaa metadataa ei välttämättä näytetä. Writer osaa käyttää mallineita joilla esimerkiksi liikekirjeen vakio-osat ja suomalaisen kirjestandardin mukaiset asettelut voi tehdä kirjepohjaksi. Tekstin voi asemoida yhteen tai useampaan [http://en.wikipedia.org/wiki/Column_(typography) palstaan]. Mukaan voi liittää kuvia,  taulukoita ja matemaattisia kaavoja. Tiedoston voi viedä PDF-muotoiseksi lähetettäväksi kirjapainoon, sähköpostin liitteenä tai tulostettavaksi. Saatavilla on vapaa Voikko-niminen ohjelma suomen kielen oikolukuun ja tavutukseen. Writer osaa käyttää [http://fi.wikipedia.org/wiki/OpenDocument OpenDocument]-tiedostomuotoa lukuisten muiden tallennusmuotojen lisäksi. Writer osaa lukea ja kirjoittaa muun muassa Microsoft Officen tallennusmuotoja.  
+<div style="clear: left;"></div>
+
+;Kotisivu: http://fi.libreoffice.org/ tai http://www.documentfoundation.org/
+;Lisenssi: [[GNU LGPL]] http://www.libreoffice.org/download/license/
+;Toimii seuraavilla alustoilla: Mac OS X, Microsoft Windows, Linux. 
+;Asennus: Linux-jakeluissa tulee jakelun omista pakettivarastoista. Windows-käyttäjät joutuvat noutamaan asennustiedoston kotisivulta tai käyttämään VALO-CD:tä.
+;VALO-CD
+: Writer löytyy myös [http://www.valo-cd.fi/ilmainen_libreoffice VALO-CD]-kokoelmasta.
+
+Lyhyt käyttöohje löytyy [http://porixi.l-a.fi/TK-Tekstink%C3%A4sittely Porixin kurssista Tietokoneen käyttö]. Tuossa sivulla on myös kaksi ohjevideota, liikekirjeen mallineen teko ja miten mallinetta käyttäen tehdään uusi kirje. [http://fi.openoffice.org/dokumentaatio.html Hyviä suomenkielisiä ohjeita OpenOffice.Org:n käytöstä]. Lisää (englanninkielisiä) ohjevideoita löytyy [http://showmedo.com/videotutorials/openoffice Showmedosta].
+
+<gallery>
+Image:LibreOffice-Writer-1-sivu.png
+Image:LibreOffice-Writer-2-oikoluku.png
+Image:LibreOffice-Writer-3-tyylit.png
+</gallery>
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman, pesasa''<br />
+''LibreOffice logo Document Foundationin markkinointimateriaalista''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

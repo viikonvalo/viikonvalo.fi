@@ -2,7 +2,7 @@
 '''PicoCMS on kevyt ja yksinkertainen tietokannaton sisällönhallintajärjestelmä www-sivujen ylläpitoon.'''
 
 [[Image:valo215-picocms.png|left]]
-Joidenkin www-sivustojen ylläpitoon tietokantaa käyttävät sisällönhallintajärjestelmät, kuten Drupal, Wordpress ja Joomla, vaikuttavat yliampuvilta. Toisaalta, jo muutamastakin sivusta koostuvan kokonaisuuden ylläpito staattisina HTML-tiedostoina voi käydä työlääksi, jos niiden pitäisi yhtenäisiä, samalla sivupohjalla tehtyjä ja sisältää samoja yhteisiä osia, kuten navigointi. Tällaiseen käyttöön voi sopia tietokannattomasti pelkillä tiedostoilla toteutettu Pico. Picolla tehty sivusto koostuu melko yksinkertaisesta PHP-kielellä toteutetusta Pico-sisällönhallintajärjestelmästä, muokattavissa olevasta sivupohjasta sekä hakemistosta, johon sisältö kirjoitetaan Markdown-merkkauskielisinä tekstitiedostoina. Pico soveltuu erityisesti käyttäjille, jotka eivät pelkää tekstitiedostojen muokkausta ja niiden siirtämistä palvelimelle tiedostojensiirto-ohjelmalla. Pico ei oletusasennuksessaan sisällä lainkaan verkkoselaimen kautta tapahtuvaa kirjautumista ja sivujen muokkausta.
+Joidenkin www-sivustojen ylläpitoon tietokantaa käyttävät sisällönhallintajärjestelmät, kuten Drupal, Wordpress ja Joomla, vaikuttavat yliampuvilta. Toisaalta, jo muutamastakin sivusta koostuvan kokonaisuuden ylläpito staattisina HTML-tiedostoina voi käydä työlääksi ilman työkaluja, jos niiden pitäisi olla yhtenäisiä, samalla sivupohjalla tehtyjä ja sisältää samoja yhteisiä osia, kuten navigointi. Tällaiseen käyttöön voi sopia tietokannattomasti pelkillä tiedostoilla toteutettu Pico. Picolla tehty sivusto koostuu melko yksinkertaisesta PHP-kielellä toteutetusta Pico-sisällönhallintajärjestelmästä, muokattavissa olevasta sivupohjasta sekä hakemistosta, johon sisältö kirjoitetaan Markdown-merkkauskielisinä tekstitiedostoina. Pico soveltuu erityisesti käyttäjille, jotka eivät pelkää tekstitiedostojen muokkausta ja niiden siirtämistä palvelimelle tiedostojensiirto-ohjelmalla. Pico ei oletusasennuksessaan sisällä lainkaan verkkoselaimen kautta tapahtuvaa kirjautumista ja sivujen muokkausta.
 
 Picoon sisältö kirjoitetaan Markdown-kielellä, joka muistuttaa läheisesti tekstimuotoisissa sähköposteissakin käytettyä varsin luonnollista tapaa muotoilla tekstiä. Sama Markdown on käytössä myös esimerkiksi GitHub- ja Stack Overflow -palveluissa. Satunnaisia vaativampia muotoiluja voi Markdown-tekstin sekaan lisätä myös tavallisena HTML-tekstinä. Sisältöä voi myös ryhmitellä muodostamalla hakemistorakenteita.
 
@@ -25,7 +25,7 @@ Picon perusasennus on ominaisuuksiltaan melko suppea ja useimmat tarvittavat omi
 Image:picocms-1.jpg|Esimerkkisivuston etusivu
 Image:picocms-2.jpg|Yksinkertainen oma sivu
 Image:picocms-3.jpg|Sivu ja sen kirjoittamiseen käytetty Markdown-teksti.
-Image:picocms-4.jpg|Markdownkin sekaan voi tarvittaessa kirjoittaa myös tavalista HTML-kieltä.
+Image:picocms-4.jpg|Markdownkin sekaan voi tarvittaessa kirjoittaa myös tavallista HTML-kieltä.
 Image:picocms-5.jpg|Picon kotisivu
 Image:picocms-6.jpg|Picoa voi laajentaa lisäosilla, joita löytyy sen kotisivuilta tai muiden vapaaehtoisten tekeminä.
 </gallery> 

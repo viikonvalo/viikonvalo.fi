@@ -1,0 +1,41 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- {{CC-by-sa}}  Jos haluat käyttää artikkelin lisenssinä CC-by-sa 3.0 -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''MuseScore on ilmainen ja kätevä WYSIWYG-nuotinnusohjelma musiikintekijöille.'''
+
+[[Image:Valo14-Musescore.png|left]]
+MuseScoren käyttöön pääse helposti ja nopeasti &mdash; ehkäpä puolessa tunnissa &mdash; sisälle katsomalla ohjelman kotisivulta löytyvät lyhyet opetusvideot. MuseScoreen voidaan syöttää nuotteja suoraan näppäimistöltä. Nuottien syöttöä voidaan nopeuttaa käyttämällä erillistä MIDI-näppäimistöä. MuseScorella voi säveltää musiikkia vaikka suurelle sinfoniaorkesterille, sillä viivastojen määrä ei ole rajattu. Ohjelmaan on yhdistetty myös MIDI-sekvensseri ja ohjelmistosyntetisaattori. Koska ohjelma tuo ja vie MIDI:ä, sen avulla voidaan tuottaa MIDI-tiedostoista nuotinnuksia ja nuotinnoksista vastaavasti MIDI-tiedostoja. Lisäksi käytettävissä on standardi XML-formaatti, joten siihen voi tuoda muilla nuotinnusohjelmilla, kuten Finalella ja Sibeliuksella, tehtyjä partituureja.
+
+Ohjelma on monin tavoin kätevämpi käyttää kuin esim. 80-luvulta periytyvä Finale. Finalestä löytyy tietysti monia ominaisuuksia, joita ammattisäveltäjä saattaa tarvita työssään ja joita ei MuseScoresta löydy. Ohjelma on käännetty monelle kielelle ja myös suomeksi. Ohjelmistopaketit löytyvät niin Linuxiin, Macciin kuin Windowsiinkin. Ohjelma on [[GNU GPL]] lisenssoitu. MuseScoresta on vastikään ilmestynyt 1.0-versio. Aiemmat versiot olivat bugisempia, mutta niissäkin bugeista aiheutuvia ongelmia oppi nopeasti välttämään.
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+: http://musescore.org/ (kotisivu näkyy suomeksi jos selaimen kieliasetuksissa suomi on ensimmäisenä)
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+: Linux, Mac OS X, Windows
+;Asennus
+:Viimeisimmät asennuspaketit löytyvät ohjelman kotisivulta. Useimmissa Linux-jakeluissa ohjelma löytyy myös jakelun omasta pakettivarastosta.
+;Esimerkki
+:[[Media:MuseScoreDemo1.pdf|MuseScoreDemo1.pdf]]
+
+<gallery>
+Image:musescore-1.png
+Image:musescore-2.png
+Image:musescore-3.png
+Image:musescore-4.png
+</gallery> 
+
+==Viitteitä==
+
+* Projekti [http://www.kickstarter.com/projects/293573191/open-goldberg-variations-setting-bach-free Open Goldberg Variations] käyttää Musescorea. 
+* [http://www.uta.fi/~jari.eerola/musescoreopas/etusivu.html Musescoren käyttöopas]
+* [http://musescore.com/sheetmusic Nuotteja]
+
+''Teksti: ATTE TENKANEN''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

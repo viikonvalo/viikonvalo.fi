@@ -1,0 +1,36 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- {{CC-by-sa}}  Jos haluat käyttää artikkelin lisenssinä CC-by-sa 3.0 -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''R on tilastolliseen laskentaan tarkoitettu ohjelmointiympäristö.'''
+
+[[Kuva:Valo16-R.png|left]]
+Se on GNU-projekti, joka pohjautuu S-kieleen. Tätä nykyä R on erittäin laajasti käytetty ja sen käyttöä opetetaan esimerkiksi yliopistojen tilastotieteen oppiaineissa. R:ään liittyen järjestetään nykyään myös kansainvälisiä kongresseja ja julkaistaan korkeatasoista [http://journal.r-project.org/ nettilehteä]. Ohjelman kotisivuilta löytyy R:ään laajan perustyökaluvalikoiman lisäksi tuhansia käyttäjien valmistamia lisäpaketteja (packages). Ohjelman kotisivuilta löytyy myös eri tasoisia oppaita R:n käyttöön. Sopiva opas R:n opetteluun ja myös edistyneille tilastotieteilijöille on esimerkiksi Tommi Viitasen kirjoittama "[http://users.utu.fi/totavi/ Tilastotiedettä soveltajille]". Katso myös Itä-Suomen yliopiston tuottama [http://www.uef.fi/c/document_library/get_file?p_l_id=138103&folderId=138117&name=DLFE-3780.pdf R-opas].
+
+Vaikka R onkin tehty tilastolliseen laskentaan, sen helposta opittavuudesta ja käytettävyydestä johtuen allekirjoittanut on mm. [http://users.utu.fi/attenka/ analysoinut R:llä musiikkia], piirrättänyt sillä [http://fractalswithr.blogspot.com/ Fraktaaleja], käyttänyt sitä matriisilaskentaan, [http://www.math.utu.fi/opiskelu/opetusohjelma/kurssit/aineopinnot/smat5108_2009/index.html matemaattiseen optimointiin] jne. Tämä onnistuu funktionaalisella ohjelmoinnilla, mutta R on myös objektiorientoitunut kieli.
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+: http://www.r-project.org/
+;Lisenssi
+: [[GNU GPL]]
+;Toimii seuraavilla alustoilla
+: Linux, Mac OS X, Windows, FreeBSD, muut Unixit
+;Asennus
+: Asennuspaketit löytyvät ohjelman kotisivuilta. Useimpiin Linux- ja Unix-jakeluihin ohjelma löytyy myös suoraan jakelun omasta paketinhallinnasta. Debian GNU/Linuxissa ja Ubuntussa komennolla '''apt-cache search ^r-.*''' löytyy pitkä luettelo R-Projektin paketteja ([http://cran.r-project.org/bin/linux/debian/ http://cran.r-project.org/bin/linux/debian/]).
+;Käyttöohjeita
+: [http://users.utu.fi/totavi/ Tilastotiedettä soveltajille] (Tommi Viitanen)
+: [http://www.uef.fi/c/document_library/get_file?p_l_id=138103&folderId=138117&name=DLFE-3780.pdf R-opas] (Itä-Suomen yliopisto)
+: [http://www.r-ohjelmointi.org/ R-ohjelmointi]
+
+<gallery>
+Image:R-demoplot1.png
+Image:R-demoplot2.png
+Image:R-Fig4_AT2.png
+</gallery> 
+
+''Teksti: ATTE TENKANEN''<br />
+''kuvakaappaukset: ATTE TENKANEN''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,6 @@
+[[Image:heckert_gnu.small.png|right]]
+[http://www.gnu.org/licenses/lgpl.html GNU Lesser General Public License] on [http://www.gnu.org GNU-projektin] ohjelmistolisenssi, joka on laadittu kompromissiksi [[GNU GPL]]-lisenssin ja yksinkertaisempien, sallivampien (esim. BSD ja MIT) lisenssien välille. Lisenssi on saman kaltainen kuin [[GNU GPL]], mutta antaa mahdollisuuden linkittää suljettuja ohjelmia sillä lisensoitujen ohjelmien kanssa. Sitä käytetään yleensä kirjastojen kanssa, mutta toisinaan myös itsenäisiin ohjelmiin.
+
+Lisää tietoa LGPL-lisenssistä: [http://fi.wikipedia.org/wiki/GNU_LGPL Wikipediasta]
+
+[[Luokka:Lisenssi]]
