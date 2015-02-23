@@ -1,0 +1,96 @@
+__NOTOC__
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''[http://www.ubuntu.com/ Ubuntu] on helppokäyttöinen ja vapaa Linux-käyttöjärjestelmä. Myös suomen kielellä.'''
+
+[[Image:valo18-ubuntu.png|left]]
+Käyttöjärjestelmä on nimetty eteläafrikkalaisen [http://fi.wikipedia.org/wiki/Ubuntu_%28filosofia%29 Ubuntu]-ideologian mukaan. Sana on bantukieltä ja tarkoittaa vapaasti käännettynä "inhimillisyyttä toisia kohtaan". Käyttöjärjestelmänä Ubuntu pohjautuu [http://www.debian.org/ Debian GNU/Linux] -järjestelmään (esitelty myös [http://viikonvalo.fi/Debian_GNU/Linux Viikon VALOna]), jonka varastoista suuri osa ohjelmapaketeista on peräisin. Ubuntun kehittämisen taustalla ovat eteläafrikkalaisen [http://fi.wikipedia.org/wiki/Mark_Shuttleworth Mark Shuttleworthin] perustama yhtiö [http://www.canonical.com/ Canonical Ltd.] sekä vapaaehtoisten muodostama yhteisö. Ubuntun [http://www.ubuntu.com/project luvataan olevan vapaa nyt ja tulevaisuudessa].
+
+Asennus-CD:ltä vasta asennettu Ubuntu-järjestelmä on heti valmis käytettäväksi. Asennus-CD on myös [http://fi.wikipedia.org/wiki/Live_CD Live-CD], eli käynnistämällä kone CD:ltä Ubuntua voi kokeilla asentamatta mitään. Ohjelmien joukosta löytyy muun muassa [http://viikonvalo.fi/LibreOffice_Writer LibreOffice]-toimisto-ohjelmapaketti (vanhemmissa Ubuntuissa OpenOffice.org-nimisenä), [http://viikonvalo.fi/Firefox Firefox 4] -selain, ohjelmat musiikin kuunteluun, videoiden katseluun, valokuva-albumien ylläpitoon sekä yhteydenpitoon verkossa. Valmiiksi asennettujen ohjelmien lisäksi Ubuntussa on lukematon määrä erilaisia ohjelmia asennettavissa vain muutaman hiirenklikkauksen päässä. Kuten muissakin Linux-jakeluissa, Ubuntuun [http://blog.ubuntu-fi.org/2007/viisi-tarkeinta-asiaa-uudelle-ubuntun-kayttajalle/ asennettavia ohjelmia ei tyypillisesti etsitä verkkosivuilta ympäri Internetiä] vaan ne ovat valmiiksi tarjolla asennettaviksi Ubuntun ohjelmavaraston kautta. Ubuntun paketinhallintatyökalu pitää yllä tietokantaa tarjolla olevista ohjelmistoista ja sillä on helppo etsiä tarvittavaa ohjelmaa. Kun ohjelma on löytynyt, se voidaan asentaa parilla hiiren näpäytyksellä. Ohjelmien poistaminen onnistuu samalla tavoin.
+
+Ubuntusta julkaistaan uusi versio noin kuuden kuukauden välein. Suurimpaan osaan julkaisuista annetaan tukea mm. tietoturvapäivitysten muodossa 18 kuukautta. Noin kahden vuoden välein julkaistavia pitkäaikaistuettuja LTS-versioita (''long term support'') tuetaan työpöytäkäytössä kolme ja palvelimissa viisi vuotta. Ubuntun tuorein versio on 11.04, lempinimeltään '''Natty Narwhal''' (''siisti sarvivalas'' tai ''tyylikäs sarvivalas''). Viimeisin LTS-versio on 10.04 '''Lucid Lynx''' (''selvänäköinen ilves''). Ubuntu-julkaisujen versionumero koostuu julkaisuvuoden ja -kuukauden numeroista. Lempinimet taas ovat adjektiivilla kuvailtuja eläimiä, jotka etenevät aakkosjärjestyksessä julkaisusta seuraavaan.
+
+== Natty Narwhal ==
+Huhtikuussa 2011 julkaistu Ubuntu 11.04 Natty Narwhal sisältää muun muassa seuraavia ominaisuuksia:
+* Uusi Unity-käyttöliittymä, joka on suunniteltu toimimaan työpöytäkoneiden ja kannettavien isolta näytöltä, mutta myös miniläppärien pienemmiltä näytöiltä.<br /> Ubuntun perinteinen Gnome on myös vaihtoehtoisesti käytettävissä valitsemalla käyttöliittymä sisäänkirjautumisruudussa.
+* [http://fi.libreoffice.org/ LibreOffice] <nowiki>3.3.2</nowiki> -toimisto-ohjelmisto <br /> LibreOffice on käytännössä aiemmin OpenOffice.org-nimellä tunnettu toimistopaketti, mutta nyt uudella nimellä. LibreOffice-projekti on luonteeltaan aiempaa yhteisöllisempi.
+* [http://firefox.com Firefox 4.0]-selain
+* [http://yorba.org/shotwell/ Shotwell] <nowiki>0.9.1</nowiki> - ohjelma digitaalisten valokuvien järjestelyyn ja katseluun
+* Evolution <nowiki>2.32.2</nowiki> - sähköpostiohjelma
+* [http://banshee.fm/ Banshee 2.0] - musiikinsoitto-ohjelma, joka sisältää muun muassa integraation Amazonin musiikkikauppaan.
+* [https://one.ubuntu.com/ Ubuntu One] -palvelu, joka helpottaa tiedostojen varmuuskopiointia ja synkronointia useamman koneen välillä.
+
+== Rinnakkaisversiot ==
+Ubuntusta on olemassa useita erilaisiin käyttöihin ja erilaisille käyttäjille suunnattuja rinnakkaisversioita. Ne käyttävät taustalla samaa perusjärjestelmää ja ohjelmapakettien varastoa, mutta erona on asennuslevyltä oletuksena asentuvien ohjelmien kokoelma. Osassa on käytössä jokin vaihtoehtoisista käyttöliittymistä, osassa taas asennetaan kokoelma johonkin tiettyyn käyttötarkoitukseen sopivia ohjelmia. Kaikki ohjelmat on mahdollista asentaa myös muihin rinnakkaisversioihin joko yksittäin tai kokonaisuuksina. Yhden rinnakkaisversion ohjelmakokonaisuuden asentaminen toiseen tapahtuu helposti asentamalla yksi ohjelmapaketti. Esimerkiksi Lubuntun sisältämien ohjelmien asentaminen onnistuu asentamalla paketti nimeltä [http://packages.ubuntu.com/natty/lubuntu-desktop '''lubuntu-desktop''']. Erilaisia käyttöliittymiä käyttävät ohjelmat toimivat myös ristiin versioiden välillä.
+
+===Kubuntu===
+[http://www.kubuntu.org/ Kubuntu]-versiossa käyttöliittymänä on [http://www.kde.org/ KDE]-työpöytä. KDE-työpöydän ulkoasu ja käyttökokemus poikkeavat jonkin verran Ubuntun oletuksena asentuvasta käyttöympäristöstä. Kokonaisuuden mukana asentuu joukko ohjelmia, jotka vastaavat toiminnallisuudeltaan tavallisen Ubuntun kokoelmaa, mutta sopivat ulkoasultaan ja toiminnaltaan paremmin valittuun työpöytäympäristöön.
+
+Muutamia uusia ominaisuuksia Kubuntu 11.04:ssä:
+* KDE 4.6.2
+* Tiedostojen jako Samballa entistä helpommin
+* Tuki [http://owncloud.org OwnCloud] -pilvipalvelulle, jolla tiedostoja voi synkronoida verkkoon joko omalle tai muualta palveluna hankitulle palvelimelle.
+
+===Xubuntu===
+[http://www.xubuntu.org/ Xubuntu] käyttää XFCE-työpöytää, joka on suunniteltu kevyemmäksi käyttöliittymäksi. Xubuntu 11.04:ssä on käytössä uusi Xfce 4.8 -versio.
+
+===Lubuntu===
+[http://lubuntu.net/ Lubuntu] on toinen kevyellä käyttöliittymällä varustettu Ubuntun rinnakkaisversio. Lubuntu käyttää [http://lxde.org LXDE]-työpöytää.
+
+===Ubuntu Studio===
+[http://ubuntustudio.org/ Ubuntu Studio] on suunniteltu luovaan työhön. Se sisältää parhaat vapaat työkalut äänen, kuvan ja videon käsittelyyn.
+
+===Mythbuntu===
+[http://www.mythbuntu.org/ Mythbuntu]n avulla voi rakentaa itse oman verkkotietoisen kotiteatterijärjestelmän, joka toimii hyvin yhteen kodin muiden laitteiden kanssa.
+
+===Edubuntu===
+[http://www.edubuntu.org/ Edubuntun] mukana asentuva ohjelmakokonaisuus on koostettu opetustyötä silmälläpitäen. Edubuntuun on kerätty suuri joukko koulutyössä hyödyllisiä ohjelmistoja.
+
+Edubuntua voi kokeilla myös [http://www.edubuntu.org/weblive selaimen kautta].
+
+Uusia ohjelmia Edubuntu 11.04:ssä:
+* [http://www.pencil-animation.org/ Pencil]-animaatio-ohjelma
+* [http://www.geogebra.org/ Geogebra] - ohjelma geometrian ja matematiikan opetteluun
+* [http://calibre-ebook.com/ Calibre] - sähkökirjojen lukemiseen ja hallintaan
+* [http://librecad.com.ar/ LibreCAD]
+* [http://freemind.sourceforge.net/ Freemind] - mindmap-työkalu
+* [http://www.stellarium.org/ Stellarium] - planetario-ohjelma
+
+Näiden lisäksi tarjolla on myös muita rinnakkaisversioita. Joukossa on esimerkiksi erilaisia lokalisoituja versioita, joilla Ubuntu asentuu suoraan halutulla kielellä ja halutuilla paikallisasetuksilla, esimerkiksi [http://wiki.ubuntu-fi.org/Ubuntu_Finnish_Remix suomeksi]. Toinen esimerkki muunlaisista rinnakkaisversioista on sokeille ja heikkonäköisille suunnattu [https://wiki.ubuntu.com/DerivativeTeam/Derivatives/Vinux Vinux].
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:[http://www.ubuntu.com/ http://www.ubuntu.com/] ([http://www.ubuntu-fi.org/ Ubuntu Suomi])
+;Lisenssi
+:Sisältää ohjelmia useilla vapailla lisensseillä
+;Asennus
+:Asennus-cd:n levykuvan voi ladata joko suoraan Ubuntun kotisivuilta taikka Ubuntu Suomen [http://www.ubuntu-fi.org/lataa.html lataussivulta]. Sivuilla opastetaan lataamaan laitteeseen parhaiten sopiva versio. Ladattu levykuvatiedosto poltetaan cd-levylle tai kirjoitetaan USB-muistitikulle, jolta käyttöjärjestelmän asennus voidaan aloittaa.
+;Käyttöohjeet ja opastus
+:* [http://www.ubuntu.com/ubuntu/whats-new Mitä uutta Ubuntussa?]
+:* [http://blog.ubuntu-fi.org/2007/viisi-tarkeinta-asiaa-uudelle-ubuntun-kayttajalle/ Viisi tärkeintä asiaa uudelle Ubuntun käyttäjälle]
+:* [http://fi.wikibooks.org/wiki/Ubuntu_tutuksi Ubuntu tutuksi]-wikikirja
+:* [http://forum.ubuntu-fi.org/ Ubuntu Suomen keskustelualueet]
+:* [http://linux.fi Linux.fi-wiki], josta löytyy ohjeita ja opasteita moneen Linux-aiheiseen asiaan.
+:* [http://wiki.ubuntu-fi.org/Ohjeet Ubuntu Suomen ohjesivu]
+;Muuta materiaalia
+:[http://www.youtube.com/watch?v=ODQ4WiDsEBQ Nelson Mandela kertoo, mistä ubuntussa on kyse.]
+
+
+<gallery>
+Image:ubuntu-11.04-1.png
+Image:ubuntu-11.04-2.png
+Image:ubuntu-11.04-3.png
+Image:ubuntu-11.04-4.png
+Image:ubuntu-11.04-5.png
+Image:ubuntu-11.04-6.png
+Image:ubuntu-11.04-7.png
+Image:ubuntu-11.04-8.png
+Image:kubuntu-11.04-1.jpg
+Image:kubuntu-11.04-2.jpg
+</gallery> 
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]
