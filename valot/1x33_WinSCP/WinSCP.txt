@@ -1,0 +1,30 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''WinSCP on vapaa tiedostojensiirto-ohjelma Windows-alustalle.'''
+
+[[Image:valo33-winscp.png|left]]
+WinSCP on tarkoitettu asiakasohjelmaksi tiedostojen siirtoon SCP-, SFTP-, FTPS- ja FTP-protokollilla paikallisen tietokoneen ja etätietokoneen, esimerkiksi www-palvelimen, välillä. Graafisena ikkunoituna ohjelmana WinSCP on helppo käyttää. Ohjelman käyttöliittymän voi valita kahdesta vaihtoehdosta. ''Commander''-käyttöliittymä on toteutettu muun muassa [http://en.wikipedia.org/wiki/Norton_Commander Norton Commanderista] ja [http://en.wikipedia.org/wiki/Total_Commander Total Commanderista] tuttuun tyyliin kahdella sarakkeella, joista toinen esittää paikallisen koneen  ja toinen etäkoneen tiedostojärjestelmän. Tiedostojen siirto tapahtuu näiden kansioiden välillä. Toinen vaihtoehto on ''Explorer''-käyttöliittymä, joka muistuttaa Windowsin Explorer-tiedostonhallintaa. Tässä tilassa ikkuna sisältää vain näkymän etäkoneen kansioon ja tiedostoja voi siirrellä joko raahaamalla tai leikkaamalla ja liimaamalla tämän ikkunan ja Windowsin tavallisen tiedostohallinnan välillä.
+
+WinSCP:stä löytyvät myös toiminnot kansioiden synkronointiin koneiden välillä sekä mahdollisuus tiedosto-operaatioiden skriptaamiseen eräajona tapahtuvia siirtoja varten. Ohjelma tukee myös avainten käyttöä ssh-yhteyksien muodostamisessa.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://winscp.net/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Windows
+;Asennus
+:Asennuspaketit löytyvät ohjelman kotisivulta.
+;VALO-CD
+:WinSCP löytyy myös [http://www.valo-cd.fi/ilmainen_winscp VALO-CD]-kokoelmasta.
+
+<gallery>
+Image:WinSCP-1.png
+Image:WinSCP-2.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,37 @@
+{{CC-by}}
+'''Linphone on vapaa Internet-puhelinsovellus.'''
+
+[[Image:Valo24-Linphone.png|left]]
+Linphone-ohjelmalla voi soittaa SIP-standardin mukaisia Internet-puheluita. Internetistä löytyy useita SIP-yhteensopivia (ilmaisia tai maksullisia) verkkopuheluita tarjoavia palveluita, mukaan lukien [http://www.linphone.org/eng/linphone/register-a-linphone-account.html Linphonen oma palvelu]. Nämä palvelut ovat yhteensopivia keskenään, eli puheluita voi soittaa eri palveluiden tunnusten välillä. Tämä on toisin kuin esimerkiksi Skypellä, jolla voi soittaa vain toiselle Skype-käyttäjälle tai puhelimeen. Puhelut SIP-liittymien välillä ovat tyypillisesti ilmaisia. Jotkut palveluiden tarjoajat tarjoavat lisäksi maksusta mahdollisuuden soittaa myös tavallisen puhelinverkon numeroihin. Esimerkiksi [http://saunalahti.fi/nettipuhelin/ Saunalahden Nettipuhelimella] voi soittaa ilmaisia puheluita sekä SIP-liittymiin että Saunalahden GSM-liittymiin ja lisäksi maksullisia puheluita muihin puhelinliittymiin.
+
+Asentamalla Linphonen esimerkiksi Android-puhelimeen, voi soittaa ilmaisia nettipuheluita, jos käyttössä on joko langaton verkko tai liittymään sisältyvä kiinteähintainen datapaketti.
+
+Linphone tukee sekä äänen että videokuvan käyttöä puhelussa. (Mac OS X:ssä ja puhelimissa kuitenkin vain ääntä.)
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.linphone.org/
+;Lisenssi
+:[[GNU GPL]]v2
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X, Android, iOS, Blackberry
+;Asennus
+:Asennuspaketit löytyvät ohjelman kotisivuilta. Linux-jakeluille Linphone löytyy suoraan paketinhallinnan kautta ja Android-laitteille sen saa marketista.
+;Käyttöohjeet
+:[http://fi.flossmanuals.net/ Flossmanuals]-sivustolta löytyy [http://fi.flossmanuals.net/linphone/index opas Linphonen käyttöön] ja asetusten tekoon. Yksinkertaisimmillaan kuitenkin riittää syöttää SIP-tunnuksensa tiedot ohjelman asetuksiin.
+
+<gallery>
+Image:linphone-1.png
+Image:linphone-2.png
+Image:linphone-3.png
+Image:linphone-4.png
+Image:linphone-5.png
+Image:linphone-6.png
+Image:linphone-7.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

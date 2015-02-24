@@ -1,0 +1,38 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- {{CC-by-sa}}  Jos haluat käyttää artikkelin lisenssinä CC-by-sa 3.0 -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''Vapaa ohjelma diagrammien, graafien, vuokaavioiden, kytkentäkaavioiden sekä muiden vastaavien piirrosten tekemiseen.'''
+
+[[Image:valo27-Dia.png|left]]
+Dia-ohjelmalla voi piirtää monenlaisia vektoripohjaisia kuvaajia, mutta erityisesti se on tarkoitettu työkaluksi vuokaavioiden ja muiden graafien piirtämiseen. Näissä kaavioissa on tyypillisesti joukko objekteja ja niitä yhdistäviä janoja, nuolia, kaaria tai murtoviivoja sekä selittäviä tekstejä. Diassa objekteissa on tyypillisesti yksi tai useampia pisteitä, joihin viivat voi kytkeä niin, että kun objekteja siirtelee kaaviossa, viivat seuraavat niiden mukana. Tämä on oleellista kaavioiden piirtämisessä, sillä näin objektien uudelleensijoittelu on helppoa. Objekteja voidaan tarvittaessa ryhmitellä kokonaisuuksiksi sekä sijoitella eri tasoille niiden käsittelyn helpottamiseksi.
+
+Ohjelmassa on tarjolla useita objekti-paletteja erilaisiin tarkoituksiin tavallisista geometrisista kuvioista verkkolaitteiden symboleihin, loogisiin portteihin, kytkentäkaavioiden komponentteihin ja palapelin palasiin. Viivat voivat olla teräväkulmaisia tai kaarevia, yhtenäistä viivaa, katkoviivaa tai pisteviivaa ja niiden päihin voi valita erilaisia nuolenkärkiä sekä muita kuvioita. Dia on yksinkertainen mutta tehokas työkalu, oli piirrettävä kaavio sitten ER-, UML- tai kytkentäkaavio.
+
+Oman tiedostomuotonsa lisäksi Dia osaa tallettaa piirrokset lukuisissa vektori- ja bittikarttamuodoissa mukaan lukien svg, fig, pdf, eps, ps ja png. Dia osaa myös avata muutamaa eri tiedostomuotoa, esimerkiksi svg- ja fig-tiedostoja.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://live.gnome.org/Dia
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Mac OS X, Windows, Solaris, Irix
+;Asennus
+:Linux-jakeluissa Dia löytyy suoraan paketinhallinnasta. Windows- ja Mac OS X -ympäristöihin linkit asennuspaketteihin löytyvät ohjelman "download"-sivulta tai suoraan osoitteesta http://dia-installer.de/ . Download-sivulta löytyvät linkit myös kolmannen osapuolen asennuspaketteihin Solaris- ja Irix-ympäristöihin.
+;VALO-CD
+:Dia löytyy myös [http://www.valo-cd.fi/ilmainen_dia VALO-CD]-kokoelmasta.
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Dia-1.png
+Image:Dia-2.png
+Image:Dia-3.png
+Image:Dia-4.png
+Image:Dia-5.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

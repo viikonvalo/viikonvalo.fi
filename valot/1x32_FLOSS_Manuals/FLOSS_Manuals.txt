@@ -1,0 +1,35 @@
+{{CC-by}}    
+<!-- {{CC-by-sa}}  Jos haluat käyttää artikkelin lisenssinä CC-by-sa 3.0 -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''FLOSS Manualsin käyttöoppaat opastavat käyttämään avoimen lähdekoodin ohjelmia.'''
+
+[[Image:valo32-floss_manuals.png|left]]
+[http://fi.flossmanuals.net/ Suomen FLOSS Manuals] on kokoelma suomenkielisiä vapaiden ja avoimen lähdekoodin ohjelmien käyttöoppaita. Oppaiden aiheita ovat esimerkiksi vektorigrafiikan tekeminen [http://fi.flossmanuals.net/inkscape/index Inkscapella], [http://fi.flossmanuals.net/avoin-mediatuotanto/index avoin mediatuotanto] ja Linuxin [http://fi.flossmanuals.net/komentorivin-perusteet/index komentorivin perusteet]. Oppaista laajimmat ovat kirjan paksuisia. Kaikki oppaat on julkaistu GPL-lisenssillä ja ne voi ladata sivuilta ilmaiseksi ePub ja PDF-muodoissa. 
+
+FLOSS Manuals toimii avoimen wikin tapaan ja kuka tahansa voi osallistua oppaiden kehittämiseen. Tehokkain tapa oppaan kirjoittamiseen on muutaman päivän pituinen [http://fi.flossmanuals.net/kirjapyrahdys/index booksprint]-tapahtuma, jossa joukko ihmisiä kokoontuu yhteen kirjoittamaan intensiivisesti. Tällä menetelmällä laajoja oppaita on saatu tehtyä ällistyttävän nopeasti. 
+
+FLOSS Manualsin julkaisualustaksi on kehitetty [http://fi-new.flossmanuals.net/booki/index Booki], joka eroaa tavallisesta wikistä siten, että se mahdollistaa erilaisten painoa, verkkoa tai lukulaitteita varten muotoiltujen tiedostojen tekemisen suoraan käyttöoppaasta. Se on myös suunniteltu pitkien tekstien tekemiseen lyhyiden artikkelien sijasta. Lisäksi Bookissa on sosiaalisen median ominaisuuksia yhteistyön helpottamiseksi. Booki voi sopia käyttöoppaiden lisäksi käytettäväksi esimerkiksi opetusmateriaalien kirjoittamiseen yhteistyössä.
+
+Kansainvälinen FLOSS Manuals -verkosto on perustettu vuonna 2006 ja suomenkielinen sivusto on avattu vuonna 2009. Suomen- ja englanninkielisten wikien lisäksi on olemassa farsin-, hollannin- ja ranskankieliset wikit. Lisäksi käännöksiä tehdään erillisessä käännöswikissä lukuisille eri kielille. Venäjän- ja vietnaminkieliset wikit ovat perusteilla. 
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://fi.flossmanuals.net
+;Lisenssi
+:[[GNU GPL]]
+;VALO-CD
+:FLOSS Manualsin oppaita löytyy myös [http://www.valo-cd.fi/ VALO-CD]-kokoelmasta.
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:FM_mediatuotanto.png‎|FLOSS Manualsin Avoin mediatuotanto -oppaan kansikuva
+Image:FM_etusivu.png|FLOSS Manuals tarjoaa avoimen lähdekoodin oppaita
+Image:FM_booksprint.png|FLOSS Manualsin booksprintin kirjoittajat
+</gallery> 
+
+''Teksti: Tomi Toivio''<br />
+''Kuvakaappaukset: FLOSS Manuals''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

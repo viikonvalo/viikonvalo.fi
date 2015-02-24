@@ -1,0 +1,65 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''Voikko on vapaa ohjelmisto suomen kielen oikolukuun, kieliopin tarkistukseen, tavutukseen ja sanojen analysointiin.'''
+
+[[Image:valo40-Voikko.png|left]]
+
+Voikon kehitys lähti liikkeelle vuonna 2006, kun OpenOffice.orgin
+suomenkielisen oikolukusanaston ja suomenkielisiä tekstejä indeksoivan
+Sukija-ohjelmiston kehittäjät ryhtyivät yhteistyöhön. Voikko tarjoaa
+ohjelmistojen kehittäjille ja tutkijoille monipuolisen työkalun
+suomenkielisten tekstien tarkistukseen ja analysointiin.
+
+Useimmat tietokoneen käyttäjät tuntevat Voikon LibreOfficen,
+OpenOffice.orgin ja Firefox-selaimen oikolukulisäosista. Näiden lisäksi
+Voikkoa voi käyttää Linux- ja OS X -käyttöjärjestelmissä useimmissa
+muissakin sovelluksissa.
+
+Voikon tarjoamiin mahdollisuuksiin voi tutustua helposti 
+[http://joukahainen.puimula.org/webvoikko/spell Webvoikon] avulla.
+[[Kuva:Voikko-kuvake.svg|200px|right]]
+
+Vaativampia käyttäjiä varten Voikkoon on saatavilla myös erikoissanastoja,
+jotka laajentavat perussanastoa esimerkiksi matematiikan, fysiikan,
+kemian, lääketieteen ja tietotekniikan termeillä sekä murteellisilla ja
+puhekielisillä sanoilla. Ohjelmistokehittäjät voivat hyödyntää Voikkoa
+muun muassa WWW-sovelluksissa. Heille Voikko tarjoaa vapaasti
+mukautettavan sanaston ja jopa tuhansien eurojen säästöt
+lisenssikustannuksissa vastaaviin suljetun lähdekoodin ohjelmistoihin
+verrattuna.
+
+Voikon ensimmäisen version julkaisusta tuli elokuussa kuluneeksi viisi
+vuotta, mutta sen kehitys jatkuu edelleen aktiivisena. Työn alla tai
+suunnitteilla on tuki Chromium-selaimelle, kehittyneempi kieliopin
+tarkistin, synonyymisanasto sekä tuki pohjoissaamen ja grönlannin kielten
+oikoluvulle. Myös suomen kieli kehittyy jatkuvasti, joten sanastojen
+ajantasalla pitämiseksi niistä julkaistaan uudet versiot noin kolmesti
+vuodessa.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://voikko.sourceforge.net/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X
+;Asennus
+:Linux-jakeluissa jakeluiden omista pakettivarastoista. Windows- ja OS X -käyttäjät voivat ladata sovelluskohtaiset asennuspaketit Voikon kotisivuilta. Ohjelmistokehittäjille hyödyllistä tietoa löytyy [http://sourceforge.net/apps/trac/voikko/wiki Voikon wiki-sivuilta].
+
+;Käyttöohjeet
+:[http://voikko.sourceforge.net/ooo-kielityokalut.html Kielityökalut LibreOfficessa]
+:[http://voikko.sourceforge.net/sovellukset.html Voikko &ndash; Käyttö sovellusohjelmissa]
+:[http://voikko.sourceforge.net/linux-jakelut.html Voikko &ndash; Käyttö Linux-jakeluissa]
+:[http://voikko.sourceforge.net/faq.html Usein kysyttyjä kysymyksiä]
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Voikko-libreoffice.png|Voikko käytössä LibreOffice writerissa
+Image:Voikko-webvoikko.png|Webvoikko
+</gallery> 
+
+''Teksti: Harri Pitkänen''<br />
+''kuvakaappaukset: Harri Pitkänen''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

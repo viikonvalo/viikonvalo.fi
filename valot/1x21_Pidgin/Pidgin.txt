@@ -1,0 +1,32 @@
+{{CC-by}}
+'''Pidgin on vapaa avoimen lähdekoodin pikaviestinohjelma, joka tukee useita viestiverkkoja.'''
+
+[[Image:valo21-Pidgin.png|left]]
+Käyttävätkö ystäväsi useaa erilaista tekstipohjaista pikaviestijärjestelmää, kuten MSN, GoogleTalk, Yahoo!, Facebook-chat, jne. On kätevää, jos heidän kaikkien kanssa voi keskustella yhdellä ja samalla ohjelmalla. Pidgin soveltuu tähän erinomaisesti, sillä se osaa toimia yli kymmenessä eri viestiverkossa. Pidginin toimintaa voidaan myös laajentaa useilla lisäosilla. Näillä saadaan käyttöön esimerkiksi salattu keskustelu, käännöstyökalu, Twitter-integraatio tai keskustelijoiden yhteinen piirtoalusta. Myös tiedostojen siirto keskustelijoiden välillä onnistuu.
+
+Kahdenkeskisten pikaviestien lisäksi Pidginillä voi osallistua ryhmäkeskusteluihin esimerkiksi IRC-kanavilla tai Jabber-huoneissa.
+
+Mac OS X -käyttäjiä saattaa kiinnostaa myös [http://adium.im/ Adium], joka käyttää samaa taustakoneistoa kuin Pidgin, mutta istuu käyttöliittymältään ja ulkoasultaan luontevammin OS X:ään.
+<div style="clear: left;"></div>
+
+;Kotisivu: http://www.pidgin.im/
+;Lisenssi: [[GNU GPL]]
+;Toimii seuraavilla alustoilla: Linux, Mac OS X, Windows, Unixit
+;Asennus: Asennuspaketit Windowsille, Mac OS X:lle ja useammalle eri Linux-jakelulle löytyvät ohjelman kotisivulta. Linux-järjestelmiin Pidgin löytyy tyypillisesti myös suoraan sen omasta paketinhallinnasta.
+;VALO-CD
+:Pidgin löytyy myös [http://www.valo-cd.fi/ilmainen_pidgin VALO-CD]-kokoelmasta.
+
+<gallery><! -- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+Image:pidgin-1-tilit.png
+Image:pidgin-2-tuttavat.png
+Image:pidgin-3-keskustelu.png
+Image:pidgin-4-smiley.png
+Image:pidgin-5-jabber room.png
+Image:pidgin-6-liitannaiset.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

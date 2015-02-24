@@ -1,0 +1,29 @@
+{{CC-by}}
+'''Frozen Bubble on viihdytävä ajanvietepeli, jossa yritetään pudottaa katosta riippuvia värikkäitä palloja "ampumalla" niitä samanvärisillä palloilla alhaalta.'''
+
+[[Image:valo26-FrozenBubble.png|left]]
+Peli soveltuu kaikenikäisille, sillä sen pelaaminen on helppo oppia. Pelin ulkoasu on graafisesti viimeistelty ja värikäs. Frozen Bubble on yksinkertaisesta ideastaan huolimatta, tai ehkä pikemminkin sen ansioista, erittäin addiktiivinen. "Vielä yksi kenttä!" Lapset ja vanhemmatkin viihtyvät tämän pelin seurassa. Puhelimeen asennettuna peli on oivaa ajanvietettä esimerkiksi bussia odotellessa.
+
+Pelin tietokoneversio sisältää normaalin yksinpelin lisäksi muun muassa kaksinpelin, verkkopelin sekä kenttäeditorin. Erikoisuutena pelissä on erillinen värisokeille suunnattu tila, jossa pallot on merkitty värien lisäksi myös erimuotoisilla symboleilla.
+
+Peli on saatavilla usealle alustalle mukaan lukien yleisimmät älypuhelimet. Pelin [http://glenn.sanson.free.fr/fb/ Java-versiota] voi pelata suoraan selaimella millä tahansa Javaa ymmärtävällä alustalla.
+<div style="clear: left;"></div>
+
+;Kotisivu: http://www.frozen-bubble.org/
+;Lisenssi: [[GNU GPL]] v.2
+;Toimii seuraavilla alustoilla: Linux, Mac OS X, Windows (Java-applettina), Android, iOS, Symbian S60, Java
+;Asennus: Asennuspaketit tai linkit niitä jakaville sivuille löytyvät ohjelman kotisivujen ''downloads''-osiosta. Useimmissa Linux-jakeluissa peli on asennettavissa suoraan paketinhallinnasta ja Android-puhelimiin ja -tabletteihin se löytyy marketista. Windows-ympäristössä voidaan toistaiseksi pelata pelin [http://glenn.sanson.free.fr/fb/ Java-versiota].
+
+<gallery>
+Image:FrozenBubble-1.png
+Image:FrozenBubble-2.png
+Image:FrozenBubble-3.png
+Image:FrozenBubble-4.png
+Image:FrozenBubble-5.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

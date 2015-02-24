@@ -1,0 +1,56 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''Freeciv on [http://fi.wikipedia.org/wiki/Strategiapeli vuoropohjainen strategiapeli]. Pelaaja on heimopäällikkö joka johtaa väkensä vuodesta 4000 eKr. härkävankkurien ajasta avaruusteknologiaan ja maailmanvallaksi. '''
+<div style="clear: left;"></div>
+[[Image:valo35-freeciv.png|left]]
+Pelaaja perustaa kaupunkeja, rakentaa kaupunkeihin viljasiiloja, temppeleitä, kirjastoja jne. Rakentamalla laivoja voi valtakuntaansa laajentaa saarille ja naapurimantereelle. Kehittämällä teknologioita saa käyttöönsä lisää rakentamiskohteita ja parempia laivoja. Pelin voittaa perussäännöillä se, jolla sovittuna pelin loppumisvuonna on eniten pisteitä, tai ainoa jäljelle jäänyt pelaaja tai pelaaja joka ensiksi saa avaruusaluksensa perille Alfa Centaurin aurinkokuntaan. Youtubesta löytyy videoita pelistä [http://www.youtube.com/watch?v=cMqRjEdEABY selostuksen kera] (englanniksi tosin). 
+
+[http://freeciv.wikia.com Freeciv] osaa yksinpelin ja moninpelin. Moninpeliä voi pelata netissä kaikki osallistujat samaan aikaan tietokoneensa äärellä tai [http://freeciv.fi/wiki/Etusivu pitkänä pelinä], jossa pelataan yksi pelivuoro vuorokaudessa tai muuta sovittua tahtia. Nämä pitkät pelit kestävät puolesta vuodesta vuoteen.
+
+Freeciv on käännetty 32 kielelle, myös suomeksi. Heimoksi voi valita suomalaiset, tai jonkun muun kymmenistä kansakunnista. 
+
+[[Kuva:Freeciv-duunareita.svg|128px|left]]
+Kaupallinen vastine Freeciville on [http://fi.wikipedia.org/wiki/Civilization Civilization] -pelisarja, erityisesti Civilization II. Toki käyttöliittymää on uudistettu monipuolisemmaksi ja "nykyaikaisemmaksi". Freecivissä pelin säännöt ovat muokattavissa, saatavilla on grafiikkapaketteja joilla pelin ulkonäköäkin voi muokata, valmiita karttoja pelattavaksi on saatavilla ja muitakin valmiita modauspaketteja on tehty. 
+
+Pelistä oli myös HTML5:ttä tukevassa selaimessa pelattava versio Freeciv.net, mutta se [http://freeciv.tumblr.com/ lienee nyt lopetettu]. Vapaana ohjelmana sen [https://github.com/freecivnet/freeciv-web/ lähdekoodi] on kuitenkin yhä saatavilla Github-palvelussa. Youtubesta löytyy 
+[http://www.youtube.com/watch?v=PR_CSEnpZps esittelyvideo]. 
+
+Moninpeliin löytyy vastustajia, esimerkiksi [http://freeciv.fi freeciv.fi] on aloittamassa [http://freeciv.fi/wiki/Pelit pitkää peliä] syyskuun 5. päivä.  Valitsemalla käynnistyksessä "Yhdistä verkkopeliin" ja välilehti Internet-metapalvelin saa luettelon peleistä joihin voi liittyä. Peliä voi pelata myös paikallisverkossa LAN-pelinä, tällöin käynnistetään pelipalvelin ja pelaajat valitsevat välilehdellä Paikallisverkko palvelimen johon liittyvät. Pelaamaan voi opetella tietokonevastustajia vastaan pelaamalla, sitten kun ne tuntuvat liian helpolta saattavat ihmisvastustajat olla tiukempi vastus. Pelissä voi olla ihmispelaajia ja tietokonepelaajia samaan aikaan, suurin pelaajamäärä on 128. 
+
+Osallistuessasi moninpeliin '''varmistu etukäteen voivasi pelata peli loppuun asti'''. On hyvin epäkohteliasta lopettaa peli kesken, koska se pilaa muiden pelin. 
+
+Pelissä voi joutua sotimaan naapurivaltioita vastaan, mutta sotimista voi pyrkiä välttämään. Pelin voi voittaa käymättä yhtään sotaa. Hyvät suhteen naapurivaltioihin auttavat menestymään, toki pitää kilpailla jotta menestyy paremmin kuin naapurit. 
+
+Freeciviä kehitetään koko ajan, uusin versio 2.3.0 julkaistiin 8. elokuuta. Ensimmäinen versio julkaistiin jo vuonna 1996. 
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://freeciv.wikia.com
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Unixit, Mac OS X, OS/2, Cygwin, AmigaOS ym.  [http://en.wikipedia.org/wiki/Freeciv#Compatibility]
+;Asennus
+:Saatavilla Linux-jakeluissa yleensä jakelun omista pakettivarastoista. Windows ja Mac OS X löytyy pelin kotisivulta. Ubuntulle löytyy [http://www.playdeb.net/software/FreeCiv Playdebistä]. Voi myös kääntää itse, esimerkiksi Debian GNU/Linuxille onnistuu [http://freeciv.wikia.com/wiki/Install-Debian näin helposti] kunhan [http://fi.wiktionary.org/wiki/käännin käännin] ja tarvittavat kehityskirjastot on asennettu. 
+;Käyttöohjeet
+: http://freeciv.fi/wiki/Opas Suomenkielisen Freeciv -yhteisön lyhyt opas
+: http://freeciv.wikia.com/wiki/Game_Manual Kattava käsikirja, saatavilla seitsemällä kielellä (muttei suomeksi).
+: http://freeciv.wikia.com/wiki/Tutorials Aloitusoppaita peliin, englanninkielisiä
+: Civilization ja Civilization II pelien ohjekirjat pätevät aika hyvin, jos semmoinen sattuu olemaan käsillä
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Kuvakaappaus-Freeciv.png‎|Peli juuri aloitettu
+Image:Kuvakaappaus-Freeciv-1.png|Pelaajat: suomalaiset on ihminen, muita kansakuntia ohjaa tietokoneen tekoäly
+Image:Kuvakaappaus-Freeciv-2.png|Tieteen kehityspolkuja
+Image:Kuvakaappaus-Freeciv-4.png|Kaupungin rakentelua
+Image:Kuvakaappaus-Freeciv-5.png|Kaupungin tuotantojono
+Image:Kuvakaappaus-Freeciv-3.png|Diplomatiaa, eli neuvottelu toisen kansakunnan kanssa
+Image:Kuvakaappaus-Freeciv-6.jpg|Täyteen rakennettu saari
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

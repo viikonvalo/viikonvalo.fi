@@ -1,0 +1,67 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''PuTTY on vapaa SSH-pääteohjelma Windowsille ja Unixille. PuTTYn avulla Windows-koneesta voi etäkäyttää Linux- ja Unix-koneita pääteyhteydellä kätevästi ja tietoturvallisesti. '''
+
+[[Image:Valo38-putty.png|left]]
+Linux-jakeluissa on yleensä auto&shy;maat&shy;tisesti asennettuna SSH-asiakasohjelma, jolla voi ottaa salatun pääteyhteyden etäkoneeseen. Windowissa ei vastaavaa ole, mutta PuTTY pelastaa. PuTTY on helppo asentaa Windowsissa, riittää kun kopioi tiedoston '''<tt>putty.exe</tt>''' johonkin hakemistoon johon käyttäjällä on kirjoitusoikeus. Ei siis tarvita asennusvelhoa eikä asennusohjelmaa. Ohjelma käynnistyy kliksauttamalla ohjelman kuvaketta tai komentoikkunassa kirjoittamalla putty.exe tai tiedoston polkunimi jos se ei ole nykyhakemistossa eikä hakupolulla olevassa hakemistossa. 
+
+PuTTY osaa SSH:n käyttämän salauksen ja osaa toimia myös tavallisena telnet-pääteohjelmana. Salaamattomia etäyhteyksiä tosin on syytä välttää, matkan varrella voidaan kuunnella liikennettä ja vakoilla selväkielinen sisältö ja salasanat selville. SSH ja siis myös sitä käyttävä PuTTY osaa salakirjoittaa yhteyttä muodostettaessa lähetettävät salasanat ja koko yhteyden, yhteyden kuuntelusta ei siis ole hyötyä. 
+[[Image:computer1.svg|right|200px]]
+Etäkoneessa johon yhteys otetaan pitää olla asennettuna SSH-palvelinohjelmisto. Linux-jakeluissa tämä löytyy esimerkiksi nimellä '''<tt>openssh-server</tt>'''. 
+
+PuTTYä voi käyttää myös Linuxissa, jos vaikkapa on Windowsissa tottunut PuTTYyn tai haluaa graafisen käyttöliittymän SSH-asiakasohjelmaan. PuTTY tukee joustavia päätteen asetuksia, joita voi muuttaa myös
+istunnon aikana (Ctrl + oikea hiiren painike -toiminnolla), monia
+X11-todentamisyhteyskäytäntöjä ja lukuisia muita kiinnostavia toimintoja, joita xtermissä
+suoritettava ssh ei tarjoa.
+
+Sama tekijä tarjoaa samalla kotisivulla myös muita SSH-komentoja, esimerkiksi PSCP on secure copy, vastaava komento kuin Linuxin [http://linux.die.net/man/1/scp scp]. Se siis kopioi tiedostoja koneesta toiseen salatulla yhteydellä. Tuo scp on saatavilla muualta graafisen käyttöliittymän kera, [http://winscp.net/eng/index.php WinSCP] on esitelty [http://viikonvalo.fi/WinSCP Viikon VALOna]. Muut komennot ovat 
+* PSFTP (SFTP-asiakasohjelma)
+* PuTTYtel (PuTTY josta on poistettu salaus. Joissain maissa on salauksen käyttö kiellettyä.)
+* plink (komentorivikäyttöliittymä PuTTY:n taustaohjelmiin) 
+* Pagaent (SSH-autentikointiagentti ohjelmille PuTTY, PSCP, PSFTP ja Plink)
+* PuTTYgen (tekee RSA ja DSA avaimia)
+
+SSH-tunnelin saa tehtyä komennon plink avulla. Tällöin paikallisverkossa A oleva Windows-kone saadaan toimimaan ikään kuin se olisi paikallisverkossa B, kun ensin on luotu tunneli näiden verkkojen välille. 
+
+Otettaessa yhteys etäkoneeseen ensimmäistä kertaa SSH näyttää etäkoneen koneavaimen "sormenjäljen", eli fingerprint. Se on avaimesta laskettu lyhyt [http://fi.wikipedia.org/wiki/Tiiviste_%28tietotekniikka%29 tiiviste], ja tarkoitus on verrata muuta kautta hankittuun saman avaimen sormenjälkeen että ne täsmäävät. Näin varmistetaan otetun yhteys siihen etäkoneeseen johon oli tarkoitus, eikä johonkin vallan muuhun tietokoneeseen jolla sillä hetkellä sattuu olemaan sama IP-numero. Koneavaimen sormenjäljen näkee kirjautumalla koneeseen ja katsomalla komennolla
+  ssh-keygen -l -f /etc/ssh/ssh_host_rsa_key
+
+SSH osaa tunnistaa käyttäjän salasanan sijaan tunnistusavaimella. Jotkut tietoturvasta huolestuneet palvelut sallivat vain tunnistusavaimella tapahtuvan sisäänkirjautumisen. 
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.chiark.greenend.org.uk/~sgtatham/putty/
+;Lisenssi
+:[[MIT]]
+;Toimii seuraavilla alustoilla
+:Windows, Linux, Unix, Windows Mobile, Symbian OS [http://fi.wikipedia.org/wiki/PuTTY]
+;Asennus
+:Windowsissa noudetaan tiedosto putty.exe Puttyn kotisivulta. Linux-jakeluissa löytynee jakelun omista pakettivarastoista. 
+;Käyttöohjeet
+:[http://www.cs.tut.fi/~jkorpela/putty.html PuTTY-ohjelman asetukset - vinkkejä]
+:[http://edu.joroinen.fi/~jliik/putty.html PuTTYn käyttö]
+:[http://www.chiark.greenend.org.uk/~sgtatham/putty/docs.html PuTTY Documentation Page]
+:[http://www.debian-administration.org/articles/530 SSH tunnistusavaimella]
+:[http://www.debian-administration.org/articles/152 SSH ilman salasanan kyselyä]
+:[http://the.earth.li/~sgtatham/putty/0.60/htmldoc/Chapter7.html PuTTY:n käsikirjan luku plink:stä]
+:[http://cims.nyu.edu/webapps/content/systems/userservices/netaccess/tunnel SSH Tunneling for Windows]
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:‎PuTTY asetukset.png|Etäkoneen osoite, asetukset voi tallentaa konekohtaisesti
+Image:PuTTY kayttamaan Unicodea.png|Oletukset kelpaa paitsi merkistön vaihdan Unicodeksi
+Image:PuTTY SSH-tunnistaa-koneet.png|Koneavaimella tunnistetaan etäkone
+Image:PuTTY SSH-paateyhteys-muodostettu.png|Pääteyhteys muodostettu
+Image:PuTTY Varitkin toimivat paatteessa.png|Väritkin toimivat, PuTTYn asetuksissa voi säätää
+Image:PuTTY Myos Emacs toimii.png|Päätesovellukset toimivat
+Image:PuTTY Curses-sovelluksetkin toimivat.png|Iptraf toisena esimerkkinä
+Image:PuTTY pscp toimii.png|Kopioidaan tiedostoja etäkoneelle pscp.exe -komennolla
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]
