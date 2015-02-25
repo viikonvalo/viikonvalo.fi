@@ -1,0 +1,54 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''X-Moto on kaksiulotteinen moottoripyörällä ajettava taitopeli, jossa fysiikka on tärkeä osa peliä.'''
+
+[[Image:valo42-XMoto.png|left]]
+[[Image:xmoto.png]]
+Perusteiltaan peli on suuremmilta osin klooni [http://www.elastomania.com/ Elasto Maniasta], mutta fysiikkamalli on erilainen. [http://en.wikipedia.org/wiki/Elasto_Mania Elasto Mania] taas perustuu saman tekijän aikaisempaan [http://www.moposite.com/info_games_across.php Action Supercross] eli Across-nimiseen peliin. Kyseessä on omaperäinen peli-idea, joka onkin kerännyt innokkaita fanittajia. 
+
+Kenttiä on tehty ainakin 2500, en jaksanut itse laskea vaan luotin [http://en.wikipedia.org/wiki/X-Moto#Gameplay Wikipedian artikkeliin]. Saatavilla on kenttäeditori [http://wiki.xmoto.tuxfamily.org/index.php?title=Inksmoto-0.7.0 Inksmoto]. Se on toteutettu [http://fi.wikipedia.org/wiki/Inkscape Inkscapen] laajennoksena. Kenttäeditorin luvataan toimivan samoilla alustoilla kuin X-Moto. Ilmeisesti kenttien tekeminen ei ole liian vaikeaa, kun niitä kerran on niin paljon tehty. Itse olen tehnyt yhden kentän Acrossin aikoina, silloin se ainakin oli aika vaivatonta.
+[[Image:X-Moto-0.png|right|300px]]
+Pelissä on aloitusruudussa painike Pika-aloitus. Mielestäni sitä ei kannata käyttää, siitä olen saanut aina läpipelattavaksi mahdottomia kenttiä. Varmaan joku nekin osaa, mutta minä en. Ensiksi kannattaa pelata johdantokurssit eli Tutorial-kentät, niissä on ruudulla näkyvä suomenkielinen ohjeistus neuvomassa mitä pitää tehdä ja ohjeistus neuvoo myös miten se tehdään. Ruudulla näkyy myös "haamu", eli tallennus onnistuneesti läpi pelatusta kentästä eli voi seurata haamua ja katsoa siitä mallia. Peli on tosiaan omaperäinen, ilman näitä neuvoja voi olla ettei tajua pelistä mitään. 
+
+Kentät voivat olla vaikeita koska on vaikea keksiä millä tavalla sen loppuun pääsisi. Jotkut kentät taas ovat vaikeita koska läpipääsyyn vaadittava temppu, esimerkiksi ajaminen etupyörä ilmassa pitkä matka, on niin vaikea. Hankalat kentät ovat molemmilla tavoilla vaikeita. 
+
+Ominaisuusluettelo on kattava ja sovellus on muutenkin pieteetillä tehty. Kenttiä voi ladata Internetistä lisää. Parhaat tulokset voi lähettää netin tietokantaan, ja muut voivat katsoa haamuna läpipeluun ja käyttää haamua kirittäjänä vielä parempaan tulokseen. Moninpeli ja verkkopeli ovat tietenkin mukana. Kentistä voi tehdä peilikuvan, eli onkin kaksinkertainen määrä läpipelattavia kenttiä. Kenttiä on valmiiksi jaoteltu eri kriteereillä, esimerkiksi helpot kentät, kentän pituuden mukaan, hienoimmiksi äänestetyt, kentät jotka toimivat johdatuskurssina ja niin edelleen. Lisäksi voi kerätä omat suosikkikentät. Kentissä voi olla liikkuvia osia tai muuttuvia osia, vaikkapa pitää tehdä joku temppu ja vasta sen jälkeen avautuu pääsy eteenpäin kentässä, tai lautakasoja joiden ohi pitää päästä ja jotka tietysti sortuvat kun niihin ajaa. 
+
+Voi pelata vain pyrkimällä pääsemään kenttä loppuun asti. Joissain kentissä lasketaan pisteitä joita saa vaikkapa tekemällä voltin hyppyrissä. Pitempään pelanneet tuntuvat kiinnostuvan kenttien pelaamisesta läpi mahdollisimman nopeasti. Varmaankin voisi koota porukan pisteyttämään läpipeluita taiteellisen vaikutelman mukaan, ja tehdä tulostaulu tältä pohjalta jos vaan pystyy kokoamaan porukan samanmielisiä. 
+
+[http://youtube.com Youtubesta] löytyy videoita pelistä. Tässä yksi, jota ei kannata katsoa opettelumielessä. Mutta sitten kun joku X-Moton kenttä tuntuu vaikealta, voi [http://www.youtube.com/watch?v=KIS6kyhtPB0 katsoa] millaisia ovat ihan aikuisten oikeasti vaikeat kentät.  
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://xmoto.tuxfamily.org/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:FreeBSD, Linux, Mac OS X, Windows
+;Asennus
+:Saatavilla Linux-jakeluissa yleensä jakelun omista pakettivarastoista. Windows ja Mac OS X löytyy pelin kotisivulta. Ubuntulle löytyy myös [http://www.playdeb.net/updates/ubuntu/11.04/?q=xmoto Playdebistä]. 
+ 
+
+;Käyttöohjeet
+:Pelissä on mukana opettelukenttiä (Tutorial), joissa käydään läpi perusajelu ja pyörän hallinta. 
+:[http://wiki.xmoto.tuxfamily.org/index.php?title=Manual Englanninkielinen pikaohje ja pikanäppäinten kuvaus]
+:[http://wiki.xmoto.tuxfamily.org X-Moto Wiki]
+:[http://wiki.xmoto.tuxfamily.org/index.php?title=Manual X-Moto Manual]
+:[http://wiki.xmoto.tuxfamily.org/index.php?title=Faq X-Moto FAQ] eli Usein Kysytyt Kysymykset
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Xmoto01.png‎|kuvateksti
+Image:Xmoto02.png‎|kuvateksti
+Image:Xmoto03.png‎|kuvateksti
+Image:Xmoto04.png‎|kuvateksti
+Image:Xmoto05.png‎|kuvateksti
+Image:Xmoto06.png‎|kuvateksti
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,60 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''Wikimedia Commons on erikielisten Wikipedioiden yhteiseksi materiaalipankiksi tarkoitettu palvelu. Sinne tallennetut ja sallivasti lisensoidut materiaalit ovat kuitenkin yhtä hyvin myös muiden käytettävissä.'''
+
+[[Image:valo52-wikimediacommons.png|left]]
+Wikipedia tarvitsee artikkeleihinsa tekstiä elävöittämään ja havainnollistamaan kuvia, videoita ja ääninäytteitä. Koska samat materiaalit kelpaavat usein myös erikielisiin artikkeleihin, on niille perustettu oma sivusto, josta ne voidaan upottaa suoraan artikkeleihin. Koska taustalla ovat Wikipedian tarpeet, on helppo ymmärtää, miksi Wikimedia Commons on yksi suurimmista, ellei jopa suurin, vapaan kuvitusaineiston materiaalipankki.
+
+Kuva-aineistoa Wikimedia Commonsissa on laidasta laitaan. Joukossa on informatiivisia kuvia valokuvista piirrettyihin kaavakuviin, karttoihin ja vaakunoihin. Toisaalta valokuvia löytyy muotokuvista maisemakuviin ja vaikka taustakuviksi sopiviin [http://commons.wikimedia.org/wiki/Commons:Picture_of_the_Year taide-elämyksiin]. Wikimedia Commonsin [http://commons.wikimedia.org/wiki/Category:Sound ääninäytteet] ovat vapaassa [http://fi.wikipedia.org/wiki/Ogg Ogg] [http://fi.wikipedia.org/wiki/Vorbis Vorbis] -tiedostomuodossa. [http://commons.wikimedia.org/wiki/Category:Videos Videoille] käytetään vastaavasti avoimia ja käyttömaksuista vapaita gif- ja [http://fi.wikipedia.org/wiki/Theora Ogg Theora] -tiedostomuotoja. Esimerkiksi Firefox-selain osaa näyttää ja soittaa näitä kaikkia tiedostomuotoja suoraan.
+
+Wikimedia Commons -sivuston aineistoa voidaan kuitenkin käyttää myös muuhun tarkoitukseen. Kunkin kuvan, videon ja äänitiedoston kohdalla Commonsissa on ilmoitettu kyseisen tiedoston tekijätiedot sekä käyttöehdot. Wikimedia Commons huolii arkistoonsa vain vapaasti lisensoitua materiaalia. Tämä tarkoittaa käytännössä sitä, että materiaalia voi kuka tahansa käyttää mihin tahansa käyttötarkoitukseen, myös kaupalliseen käyttöön. Lisenssistä riippuen aineiston käyttöön voi olla pieniä lisävaatimuksia, kuten alkuperäisen tekijän mainitseminen tai materiaalin jakaminen edelleen samoilla ehdoilla.
+
+Vapaimmin ovat käytettävissä tekijänoikeuksista täysin vapaat Public Domain -materiaalit. Tällaista julkista omaisuutta ovat esimerkiksi riittävän vanhat kuvat taikka jotkin julkisten tahojen tuottamat materiaalit.
+
+Osa aineistosta on julkaistu vapailla Creative Commons -lisensseillä. Creative Commons -organisaation luomien lisenssien tarkoituksena on antaa teosten tekijöille muutama valmis ja selkeä lisenssi, joilla he voivat antaa muille eri tasoisia oikeuksia teostensa hyödyntämiseen. CC-lisenssit koostuvat muutamasta ominaisuudesta, joita yhdistelemällä julkaisija voi määritellä, miten heidän töitään saa käyttää. Kun teosta ei ole tarkoitus "pihdata", on tämä käytännöllistä, sillä teosten käyttäjien ei tarvitse erikseen kysellä lupia. Wikimedia Commonsissa käytettyjä vapaita CC-lisenssejä ovat:
+;Creative Commons Nimeä
+:''(CC-BY, Creative Commons Attribution)''
+:Tämä lisenssi antaa luvan materiaalin käyttöön, levittämiseen, muokkaamiseen ja muokatun teoksen levittämiseen, eli käytännössä teokselle voi tehdä lähes mitä haluaa. Ainoa ehto on, että teosta levitettäessä sen alkuperäinen tekijä mainitaan.
+;Creative Commons Nimeä-Tarttuva
+:''(CC-BY-SA, Creative Commons Attribution-ShareAlike)''
+:Tällä lisenssissä on edelliseen verrattuna lisäksi rajoitus, että johdetut teokset pitää julkaista samalla lisenssillä.
+
+Creative Commonsilla on tarjolla myös muita, rajoitetumpia lisenssejä, mutta nämä eivät kelpaa Wikimedia Commonsin käyttöön, sillä ne rajoittavat teosten muokkaamista tai niiden kaupallista käyttöä.
+
+Muita Wikimedia Commonsissa käytettyjä vapaita lisenssejä ovat [http://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License GNU Free Documentation License (GFDL)], [[GNU GPL]], [[GNU LGPL]], Free Art License ja Open Data Commons.
+
+<div style="clear: left;"></div>
+;Kotisivu
+:http://commons.wikimedia.org/
+;Lisenssi
+:Useita vapaita lisenssejä, muun muassa Creative Commons -lisenssit ([http://creativecommons.org/licenses/by/2.0/deed.en CC-BY], [http://creativecommons.org/licenses/by-sa/3.0/deed.en CC-BY-SA]), sekä [http://en.wikipedia.org/wiki/en:public_domain Public Domain] -materiaalia.
+<gallery>
+Image:Cyanocitta-cristata-004.jpg
+Image:Felis_catus-cat_on_snow.jpg
+Image:Laszlo-photo_-_Cabo_Cavalo_(by).jpg
+Image:Maldives_redtail_butterflyfish,_Chaetodon_collare.jpg
+Image:Anthony's_Green_Brown_Iris.jpg
+Image:Concerto_for_Twelve_Saxophones.jpg
+Image:Carcharhinus_melanopterus_Red_Sea.jpg
+Image:One_raspberry_macro.jpg
+Image:H.maculatus_juvenile.jpg
+Image:Churchill_HU_90973.jpg
+</gallery>
+
+
+''Teksti: pesasa''<br />
+''Kuvat: http://commons.wikimedia.org/''
+* http://commons.wikimedia.org/wiki/File:Cyanocitta-cristata-004.jpg (Mdf, CC-BY-SA)
+* http://commons.wikimedia.org/wiki/File:Felis_catus-cat_on_snow.jpg (Von.gzanka, CC-BY-SA)
+* http://commons.wikimedia.org/wiki/File:Laszlo-photo_-_Cabo_Cavalo_(by).jpg (Laszlo Ilyes, CC-BY)
+* http://commons.wikimedia.org/wiki/File:Maldives_redtail_butterflyfish,_Chaetodon_collare.jpg (Uxbona, CC-BY-SA)
+* http://commons.wikimedia.org/wiki/File:Anthony%27s_Green_Brown_Iris.jpg (Mobentec, CC-BY-SA)
+* http://commons.wikimedia.org/wiki/File:Concerto_for_Twelve_Saxophones.jpg (Olgierd Rudak, CC-BY-SA)
+* http://commons.wikimedia.org/wiki/File:Carcharhinus_melanopterus_Red_Sea.jpg (Daviddarom, pd)
+* http://commons.wikimedia.org/wiki/File:One_raspberry_macro.jpg (Serena, CC-BY-SA)
+* http://commons.wikimedia.org/wiki/File:H.maculatus_juvenile.jpg (Cordyceps, pd)
+* http://commons.wikimedia.org/wiki/File:Churchill_HU_90973.jpg (British Government, pd)
+
+'''Viikon VALO toivottaa kaikille lukijoille VALOisaa Joulua ja yhteisöllistä uutta vuotta!'''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

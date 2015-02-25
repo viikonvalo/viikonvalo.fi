@@ -1,0 +1,51 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''VALO-CD sisältää runsaasti hyödyllisiä suomenkielisiä vapaita ja avoimen lähdekoodin ohjelmia Windowsille yhdellä levyllä, jotta niiden asentaminen olisi mahdollisimman helppoa.'''
+
+[[Image:valo44-valocd.png|left]]
+<blockquote>Avoin lähdekoodi (engl. open source [əʊpən sɔːs]) tarkoittaa tietokoneohjelmien tuottamis- ja kehitysmenetelmiä, jotka tarjoavat käyttäjälle mahdollisuuden tutustua ohjelman lähdekoodiin ja muokata sitä omien tarpeidensa mukaisesti. Avoimen lähdekoodin periaatteisiin kuuluu myös oikeus käyttää ohjelmaa mihin tahansa ja kopioida ja levittää sekä alkuperäistä että muokattua versiota. Käytännössä avoin lähdekoodi tarkoittaa samaa asiaa kuin vapaat ohjelmistot, joista puhuttaessa halutaan usein painottaa ohjelmistokehityksen eettisiä ulottuvuuksia. Avoimesta lähdekoodista puhuttaessa huomio saattaa pikemminkin kiinnittyä vapaudesta ja avoimuudesta seuraaviin käytännön hyötyihin.</blockquote>[http://fi.wikipedia.org/wiki/Avoin_lähdekoodi --Wikipedia]
+
+VALO-CD on koonnut paljon käytetyt vapaat ohjelmat kätevästi asennettavaksi kokoelmaksi Windows-koneille. Linux-käyttäjät tosin pääsevät vielä helpommalla, kun samat sovellukset ovat Linux-jakelun omista jakeluvarastoista asennettavissa suoraan. 
+
+VALO-CD on tehnyt arvokasta työtä tekemällä sovellusten asentamisen helpoksi. Kun Windowsissakin voi käyttää vapaita ohjelmia, on mahdollista käyttää Linuxia helpommin, kun samat sovellukset ovat saatavissa molemmille käyttöjärjestelmille.
+[[Kuva:Valo-cd-tunnus.jpg|300px|right]]
+Kokoelmaan kuuluvat sovellukset on lueteltu [http://www.valo-cd.fi/ohjelmat projektin sivulla]. Huomattavimmat sovellukset ovat [http://www.valo-cd.fi/ilmainen_libreoffice  LibreOffice] (eli entinen OpenOffice.org), [http://www.valo-cd.fi/ilmainen_firefox Mozilla Firefox], [http://www.valo-cd.fi/ilmainen_thunderbird Mozilla Thunderbird], [http://www.valo-cd.fi/ilmainen_vlc VLC-mediasoitin], [http://www.valo-cd.fi/ilmainen_gimp Gimp], [http://www.valo-cd.fi/ilmainen_inkscape Inkscape], [http://www.valo-cd.fi/ilmainen_scribus Scribus] ja [http://www.valo-cd.fi/ilmainen_7zip 7-Zip]. Lisäksi erittäin kätevä on [http://www.valo-cd.fi/ilmainen_pdfcreator PDF-Creator], jonka avulla mistä tahansa ohjelmasta jossa on tulostustoiminto voi tulostaa PDF-tiedoston. PDF on kätevä lähetettäväksi sähköpostin liitteenä tai vietäväksi taskussa muistitikulla paremman tulostimen ääreen. Yhteensä sovelluksia on noin 22. 
+
+Kesällä 2008 toimintansa aloittanut VALO-CD-projekti on julkaissut uuden VALO-CD:n kerran tai kaksi vuodessa. Uusin versio VALO-CD 7 julkaistiin 8. huhtikuuta 2011. Tässä versiossa OpenOffice.Org-toimisto-ohjelmiston tilalle on tullut LibreOffice. Projektin tarkoitus on edistää tietotekniikan hyödyntämistä Suomessa ja levittää VALOa, eli vapaita ja avoimen lähdekoodin ohjelmia, mikä auttaa monikertaistamaan tietotekniikasta saatavan hyödyn.
+
+Vapaiden ohjelmien lisäksi cd-levylle on koottu pdf-muotoisia oppaita vapaisiin ohjelmiin liittyvistä aiheista. Mukana on muun muassa ohjeita sähköpostin turvaamiseen GPG-salauksella, muita salaukseen liittyviä oppaita, [[FLOSS Manuals]] -projektin tuottamia oppaita levyllä olevien ohjelmien käyttämiseen sekä opetushallituksen, oikeusministeriön ja valtionvarainministeriön julkaisemia ohjeita ja suosituksia.
+
+Kansainvälisen kiinnostuksen vuoksi VALO-CD:tä julkaiseva projekti alkoi syksyllä 2010 valmistella levystä myös englanninkielistä versiota. VALO-CD:n versiosta 7 julkaistiinkin [http://www.valo-cd.org englanninkielinen versio] <nowiki>15.9.2011</nowiki>.
+
+Sähköpostitiedotteita VALO-CD:n tulevien versioiden julkaisuista voi tilata [http://www.valo-cd.fi projektin etusivulta]. Projektia voi seurata myös usean sosiaalisen median palvelun, kuten [http://www.facebook.com/pages/VALO-CD-Parhaat-vapaat-ohjelmat-Windowsille/76061677970 Facebookin], kautta. VALO-CD:n kehittämiseen voi tulla mukaan [http://www.valo-cd.fi/osallistu liittymällä projektin sähköpostilistalle] ja kertomalla, minkälaista apua olisi kykeneväinen tarjoamaan.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://valo-cd.fi
+;Lisenssi
+:[[GNU GPL]] ja muita vapaita lisenssejä
+;Toimii seuraavilla alustoilla
+:Windows
+;Asennus
+:CD:tä on ollut jaossa vapaisiin ohjelmiin liittyvissä tapahtumissa, tai sen voi noutaa projektin kotisivulta ja kirjoittaa romppuaihiolle. Kotisivulta voi myös noutaa ohjelmat yksitellen asennettaviksi. Projektia voi tukea ostamalla valmiita CD-levyjä.
+;VALO-CD
+: Tämä on se VALO-CD josta aikaisemmissa Viikon VALOissa on usein ollut mainintaa.
+;Käyttöohjeet
+:CD:llä on mukana sovellusten käyttöohjeita suomeksi.
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Valo-cd-1.png
+Image:Firefox-3-sovellusvalilehdet.png
+Image:Stellarium-3.png
+Image:Inkscape-4.png
+Image:Vlc-1.png
+Image:Pidgin-3-keskustelu.png
+Image:LibreOffice-Writer-3-tyylit.png
+Image:WinSCP-1.png
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

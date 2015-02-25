@@ -1,0 +1,52 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''OpenSUSE on helppokäyttöinen ja vapaa GNU/Linux-käyttöjärjestelmä, jota kehitetään yhteisövetoisesti.'''
+[[Image:valo50-opensuse.png|left]]
+OpenSUSE-projekti kehittää yhtä parhaista Linux-järjestelmistä ja sen tavoitteena on järjestelmä, joka on helppokäyttöinen ja helposti hankittava. Käyttöjärjestelmän lisäksi openSUSE pyrkii tarjoamaan ympäristön avoimen lähdekoodin kehitystyölle sekä yksinkertaistamaan ja avaamaan kehitys- ja paketointiprosesseja. Tätä tavoitetta edistää muun muassa ''openSUSE Build Service'', joka helpottaa ohjelmistopakettien tekemistä openSUSEn lisäksi myös muille Linux-jakeluille.
+
+OpenSUSEn viimeisin versio 12.1 julkaistiin 16. marraskuuta 2011. Tässä versiossa on valittavissa neljä vaihtoehtoista tuettua työpöytäjärjestelmää, joista käyttäjä voi valita itselleen mieluisimman. Työpöytäympäristöistä KDE ja juuri uusiutunut Gnome 3.2 ovat näyttäviä ja kaikenkattavia, mutta hieman raskaampia, kun taas Xfce ja LXDE on suunniteltu kevyemmiksi vaihtoehdoiksi.
+
+Työpöytäympäristön ohella openSUSEn oletusasennus sisältää muun muassa Mozilla Firefox -selaimen, sähköpostiohjelman, [[GIMP]]-kuvankäsittelyohjelman, [[LibreOffice_Writer|LibreOffice]]-toimisto-ohjelmiston (tekstinkäsittely, taulukkolaskenta, esitysgrafiikka), musiikinsoitto-ohjelman, CD/DVD-levyjen poltto-ohjelman ja paljon muuta. Näiden lisäksi openSUSE sisältää lukemattomat määrät vapaita sovellusohjelmia, jotka ovat kaikki asennettavissa helposti ja ilmaiseksi vain muutamalla hiiren napsautuksella järjestelmän paketinhallinnan kautta. Nämä ohjelmat ovat valmiiksi paketoituina openSUSEn palvelimella odottamassa asentamistaan samaan tapaan kuin älypuhelinten ohjelmat ovat ladattavissa marketista tai storesta.
+
+OpenSUSEssa järjestelmän asetusten hallinta tapahtuu YaST-ohjelmalla, joka antaakin helpon graafisen käyttöliittymän tavallisimpiin ja useimmin tarvittuihin järjestelmän asetuksiin. Sen kautta ovat valittavissa niin ohjelmistojen asennukset ja päivitykset kuin laitteiden ja palveluidenkin tärkeimmät asetukset.
+
+Uusia ominaisuuksia openSUSE 12.1:ssä ovat muun muassa entistä parempi tuki pienille näytöille sekä useammalle näytölle, keskitetty hallinta online-tunnuksille, parannettu [http://www.oyranos.org/ Oyranos]-värienhallintajärjestelmä. OpenSUSE tarjoaa myös mahdollisuuden luoda oman Dropboxin kaltaisen pilvitallennusjärjestelmän OwnCloud-ohjelmistolla. Työpöytäkäyttöön sen voi integroida Mirall-ohjelmalla, joka synkronoi tiedostot OwnCloud-pilven ja paikallisen koneen välillä.
+
+OpenSUSEn voi hankkia joko ilmaisena, verkosta ladattavana versiona tai maksullisena myyntiversiona, joka sisältää ohjekirjan ja puhelintuen.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.opensuse.org/fi/
+:http://opensuse.fi/ (suomenkielisen yhteisön kotisivu)
+;Lisenssi
+:Sisältää ohjelmia useilla vapailla lisensseillä, kuten [[GNU GPL]]
+;Asennus
+:openSUSEn DVD-levykuvan voi ladata sen [http://software.opensuse.org/121/fi lataussivulta]. Sivulta löytyy myös tarvittavia lisäohjeita levykuvan polttamisesta tyhjälle DVD-levylle tai käynnistyvän usb-tikun luomisesta.
+;Käyttöohjeet ja tuki
+:Lisää ohjeita ja vertaistukea löytyy suomenkielisen openSUSE-yhteisön [http://opensuse.fi/Ohjeet sivuilta]. 
+:[http://opensuse.fi/Asennusopas_openSUSE_12.1 openSUSEn asennusopas]
+:[http://opensuse.fi/keskustelu/ opensuse.fi:n keskustelualue]
+:openSUSEsta voi keskustella myös irc-kanavalla #opensuse-fi, joka löytyy Freenode-verkosta. Kanavalle pääsee muun muassa [http://embed.mibbit.com/?server=irc.freenode.net&channel=%23opensuse-fi web-irkki]-sovelluksella.
+
+<gallery>
+Image:openSUSE-0.png
+Image:openSUSE-1.png
+Image:openSUSE-2.png
+Image:openSUSE-3.png
+Image:openSUSE-4.png
+Image:openSUSE-5.png
+Image:openSUSE-6.png
+Image:openSUSE-7.png
+Image:openSUSE-8.png
+Image:openSUSE-9.png
+Image:openSUSE-10.png
+Image:openSUSE-11.png
+Image:openSUSE-12.png
+Image:openSUSE-13.png
+Image:openSUSE-14.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''Kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

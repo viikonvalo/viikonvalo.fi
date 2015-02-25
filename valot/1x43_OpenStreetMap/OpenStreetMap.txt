@@ -1,0 +1,68 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''OpenStreetMap on yhteisöllisesti ylläpidetty karttapalvelu. Se on kuin karttojen Wikipedia, jonka kokoamiseen kuka tahansa voi osallistua.'''
+
+[[Image:Valo43-openstreetmap.png|left]]
+[http://www.openstreetmap.org OpenStreetMap] -projektin (OSM) tavoitteena on luoda, tarjota ja ylläpitää vapaata karttatietoa. Maailmassa on paljon karttoja ja karttapalveluita, kuten Google-maps ja vastaavat kotimaiset palvelut, mutta niiden käyttöoikeudet voivat aiheuttaa ongelmia. Niitä saa toki selata ja käyttää, mutta entä niiden kopiointi ja muokkaaminen tai käyttö omassa palvelussa? Näihin käyttöihin ei tavallisella käyttäjällä normaalisti ole lupaa, ainakaan maksamatta suurehkoja lisenssimaksuja. Myös valtion virastot keräävät verorahoin paikkatietoa, mutta nämäkään tiedot eivät aina ole vapaasti kansalaisten käytettävissä vaan ovat maksullisia. Vertailuna Yhdysvaltojen virastojen tuottama [http://wiki.openstreetmap.org/wiki/TIGER TIGER]-aineisto on julkista omaisuutta (public domain).
+
+Kansainvälinen OpenStreetMap -projekti koostaa karttatietoja eri lähteistä saatavista vapaasta aineistoista. Aineistojen lähteinä toimivat lukuisat vapaaehtoiset kartoittajat GPS-laitteineen sekä erilaiset vapaat paikkatietoarkistot, kuten TIGER. OSM-karttoihin on tuotu muun muassa Alankomaiden karttadataa projektille vuonna 2007 lahjoitetusta [http://wiki.openstreetmap.org/wiki/AND_Data AND]-aineistosta. GPS-laitteiden yleistyminen kuluttajilla autonavigaattoreiden sekä älypuhelimien muodossa on mahdollistanut helpon karttadatan keräämisen täysin riippumatta virallisista tahoista. Projektiin osallistuva vapaaehtoinen voi helposti GPS-laitteellaan tallentaa kulkemansa reitin koordinaattitiedot ja lähettää reittijäljen raakadatana OpenStreetMap-tietokantaan, josta muut vapaaehtoiset voivat käyttää sitä kartan piirtämiseen. Reittitiedon tallentamiseen ja lähettämiseen OSM-tietokantaan voi käyttää esimerkiksi Android-puhelimiin Marketista saatavaa [http://mendhak.github.com/gpslogger/ GPSLogger]-ohjelmaa. Varsinaiset karttakohteet voidaan piirtää joko Flash-pohjaisella [http://wiki.openstreetmap.org/wiki/Fi:Potlatch Potlatch]-ohjelmalla suoraan webbisivulle upotetussa editorissa taikka [http://wiki.openstreetmap.org/wiki/JOSM-opas JOSM]-nimisellä ohjelmalla omalla koneella. Koska karttojen tarkkuutta rajoittaa vain vapaaehtoisten kartoittajien innokkuus, voivat kartat olla paikoin hyvinkin yksityiskohtaisia.
+
+[[Image:Public-images-osm logo.png|right|250px]]
+OpenStreetMap -projektin kartat on tällä hetkellä lisensoitu Creative Commonsin Nimeä-Tarttuva 2.0 Raakaversio -lisenssilllä ([http://creativecommons.org/licenses/by-sa/2.0/ CC-BY-SA]) ja suunnitteilla on lisenssin vaihto vastaavaan, mutta paremmin tietokannoille sopivaan [http://www.opendatacommons.org/licenses/odbl/ Open Database License 1.0]-lisenssiin. Näistä molemmat mahdollistavat karttatiedon hyödyntämisen lähes miten haluaa, kunhan mainitsee karttojen lähteenä "OpenStreetMapin tekijät" ja kunhan mahdollisesti muutetut kartat julkaisee edelleen samalla lisenssillä. Näin karttoja voi käyttää helposti ja luvallisesti vaikka hääkutsussa tai oman yrityksen esitteen ajo-ohjeissa. Karttoja voi hyödyntää myös omissa ohjelmissa, kuten on tehty esimerkiksi jo aiemmin Viikon VALOna esitellyssä [[Marble]]ssa. OpenStreetMap -projekti kannustaakin kartta-aineiston käyttämiseen luovasti, tuottavasti tai muilla yllättävillä tavoilla.
+
+OpenStreetMap -sivusto muistuttaa ulkoasultaan jonkin verran Wikipediaa sillä erolla, että suurimman osan sivusta täyttää kartta, jota pystyy zoomaamaan hiiren rullalla ja siirtelemään hiirellä raahaamalla samaan tapaan kuin Googlen Maps-palvelussa. Kartan oikeasta reunasta on valittavissa muutama vaihtoehtoinen karttapohja, kuten esimerkiksi pyöräilykartta. Kartan yläpuolelta taas löytyy muun muassa "Vienti"-välilehti, josta pystyy tallentamaan itselleen tiedostoon ruudulla näkyvän tai erikseen valitun alueen kartasta. Karttakuville tallennusmuotoina ovat valittavissa png, jpg, svg, pdf sekä postscript. Vaihtoehtoisesti kartan tiedot voi tallentaa itselleen myös OpenStreetMapin XML-muodossa tai upottaa kartan suoraan haluamalleen verkkosivulle.
+
+Vaihtoehtoisena käyttöliittymänä OSM-kartoille voi käyttää [http://www.openstreetbrowser.org/ OpenStreet Browser]-sivustoa, joka käyttää samoja karttoja. Sivuston käyttöliittymästä on helposti valittavissa näkyviin erilaisia karttatietoja, kuten esimerkiksi hotellit, postit tai paikallisliikenteen linjat.
+
+Toisinaan kartoittamisesta innostuneet järjestävät tapahtumia ja tempauksia, joilla pyritään kartoittamaan jokin alue suuremmalla joukolla. Hyvä esimerkki tällaisesta tapahtumasta oli esimerkiksi Atlantassa (Georgia, USA) lokakuussa 2009 järjestetty [http://wiki.openstreetmap.org/wiki/Atlanta_Citywide_Mapathon Atlanta Citywide Mapathon], jonka tavoitteena oli tehdä Atlantan kartasta Yhdysvaltojen paras. ([http://news.bbc.co.uk/2/hi/8305924.stm BBC:n juttu aiheesta]) [http://www.openstreetmap.org/index.html?lat=33.792&lon=-84.336&zoom=10 Lopputulos] onkin varsin kattava. ([http://wiki.openstreetmap.org/wiki/Atlanta,_Georgia Atlantan wiki-projektisivu])
+
+Toinen erittäin hyvä esimerkki OpenStreetMap-projektin hyödyllisyydestä on [http://wiki.openstreetmap.org/wiki/HOT Humanitarian OSM Team] (H.O.T.). [http://www.openstreetmap.org/?mlat=18.53917&mlon=-72.335&zoom=12 Haitin] maanjäristyksen jälkihoidon yhteydessä vapaasti käytettävät ja ajankohtaiset karttamateriaalit nousivat tärkeään asemaan. OpenStreetMap-projekti osallistui kriisin hoitoon aktiivisesti parantamalla Haitin karttoja. Haitin kriisistä saatujen kokemusten inspiroimana H.O.T. on jatkanut humanitaarista työtä myös usean muun kohteen hyväksi.
+
+Myös suurimmat suomalaiset kaupungit on jo varsin kattavasti kartoitettuja, kuten [http://www.openstreetmap.org/index.html?lat=60.45&lon=22.25&zoom=12 Turku] ja [http://www.openstreetmap.org/index.html?lat=60.17&lon=24.95&zoom=12 Helsinki], mutta monet pienemmät paikat kaipaavat vielä innokkaita vapaaehtoisia kulkemaan katuja ja kevyenliikenteenväyliä GPS-laitteet taskuissaan. Monen kunnan voisi olla jopa kannattavaa innostaa asukkaitaan osallistumaan oman kotikuntansa saamiseen maailmankartalle. Näin kunta saisi myös omille verkkosivuilleen käyttöön tarkkaa paikallistuntemusta sisältävän kartan, jonka sisältöön ja oikeellisuuteen kunnalla on itsellään mahdollisuus vaikuttaa.
+
+Kartoittaminen voi olla myös oivaa ulkoilua. GPS-laite taskuun ja kartoittamaan!
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.openstreetmap.org
+;Lisenssi
+:Creative Commonsin Nimeä-Tarttuva 2.0 Raakaversio ([http://creativecommons.org/licenses/by-sa/2.0/ CC-BY-SA]) ja myöhemmin [http://www.opendatacommons.org/licenses/odbl/ Open Database License 1.0]
+;Toimii seuraavilla alustoilla
+:Toimii kaikilla alustoilla, kunhan selaimen ominaisuudet riittävät.
+;Ohjeita
+:[http://wiki.openstreetmap.org/wiki/Fi:Main_Page Ohjeita projektiin osallistujille]
+;Ohjelmia OSM-karttatiedon näyttämiseen ja tuottamiseen
+* [http://wiki.openstreetmap.org/wiki/Software/Desktop Tietokoneella]
+* [http://wiki.openstreetmap.org/wiki/Software/Mobile Mobiililaitteella] ([http://wiki.openstreetmap.org/wiki/Android Android], [http://wiki.openstreetmap.org/wiki/IOS iOS])
+;Linkkejä:
+* [http://wiki.openstreetmap.org/wiki/OpenStreetBrowser OpenStreetBrowser -wikisivu]
+* [http://wiki.openstreetmap.org/wiki/Atlanta,_Georgia Atlanta, Georgia]
+* [http://news.bbc.co.uk/2/hi/8305924.stm Mapathon Atlantassa] (BBC)
+* [http://wiki.openstreetmap.org/wiki/HOT Humanitarian OSM Team] (H.O.T.)
+* [http://wiki.openstreetmap.org/wiki/WikiProject_Finland WikiProject Finland]
+* [http://wiki.openstreetmap.org/wiki/Finland:Turku Turun wiki-sivu]
+* [http://www.openstreetmap.org/index.html?lat=60.45&lon=22.25&zoom=12 Turku]
+* [http://www.öpnvkarte.de/?lon=22.25&lat=60.45&zoom=12 Turun paikallisliikenne]
+* [http://wiki.openstreetmap.org/wiki/Finland:Helsinki Helsingin wiki-sivu]
+* [http://www.openstreetmap.org/index.html?lat=60.17&lon=24.95&zoom=12 Helsinki]
+* [http://www.öpnvkarte.de/?lon=24.95&lat=60.17&zoom=12 Helsingin paikallisliikenne]
+
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:osm-1.png
+Image:osm-2.png
+Image:osm-3.png
+Image:osm-4.png
+Image:osm-5.png
+Image:osm-6.png
+Image:osm-7.png
+Image:osm-8.png
+Image:osm-9.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa / © OpenStreetMapin tekijät, CC-BY-SA''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

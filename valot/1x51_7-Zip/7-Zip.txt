@@ -1,0 +1,39 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''7-Zip on vapaa ohjelma tiedostopakettien purkamiseen ja pakkaamiseen.'''
+
+[[Image:valo51-7zip.png|left]]
+7-Zip-ohjelman oletus pakkausmuoto on sen oma 7z-tiedostomuoto, mutta se osaa pakata ja purkaa myös yleisimpiä muita pakkausmuotoja. Sekä pakkaaminen että purkaminen onnistuu formaateilla: 7z, XZ, BZIP2, GZIP, TAR, ZIP sekä WIM. Pelkkä purkaminen taas on mahdollista seuraavilla tiedostomuodoilla: ARJ, CAB, CHM, CPIO, CramFS, DEB, DMG, FAT, HFS, ISO, LZH, LZMA, MBR, MSI, NSIS, NTFS, RAR, RPM, SquashFS, UDF, VHD, WIM, XAR ja Z.
+
+7-Zip lupaa pakata ZIP- ja GZIP-tiedostot jopa 2-10 % tiiviimmin kuin PKZip ja WinZip. Oman 7zip-tiedostomuotonsa ohjelma lupaa pakata vielä tiiviimmin. 7-Zip tukee myös ZIP- ja 7z-tiedostojen salaamista vahvalla AES-256-kryptauksella.
+
+7-Zip integroituu Windowsin tiedostohallintaan, joten siihen liittyvät toiminnot löytyvät helposti hiiren kakkospainikkeella tiedostoa napauttamalla esiin tulevasta kontekstivalikosta. Esimerkiksi uuden paketin luominen onnistuu valitsemalla pakattavat tiedostot tiedostonhallinnassa ja valitsemalla kontekstivalikon "7-Zip"-alavalikosta kohdan "Lisää pakettiin". Tämän jälkeen 7-Zip kysyy ennen pakkaamista vielä tarvittavat tiedot, kuten tiedostonimen ja pakkaustyypin.
+
+Ohjelman käyttöä helpottaa se, että se on käytettävissä myös suomeksi. Kieliä ohjelmassa on valittavissa yhteensä 79.
+
+Ohjelman vapauden kannalta huomattavaa on, että ohjelman kaikki muut toiminnot ovat vapaata lähdekoodia paitsi RAR-pakettien purku. RAR-purun rajoituksilla ei kuitenkaan ole vaikutusta ohjelman käytön kannalta.
+
+<div style="clear: left;"></div>
+;Kotisivu
+:http://www.7-zip.org/
+;Lisenssi
+:[[GNU LGPL]] (lukuun ottamatta RAR-purkua, joka sisältää epävapaita rajoituksia)
+;Toimii seuraavilla alustoilla
+:Windows
+;Asennus
+:Asennuspaketit löytyvät ohjelman kotisivuilta..
+;VALO-CD
+: 7-Zip löytyy myös [http://www.valo-cd.fi/ilmainen_7zip VALO-CD]-kokoelmasta.
+<gallery>
+Image:7-zip-1.png
+Image:7-zip-2.png
+Image:7-zip-3.png
+Image:7-zip-4.png
+Image:7-zip-5.png
+Image:7-zip-6.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,57 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''SuperTuxKart on 3-ulotteinen mikroautopeli. Ajajahahmoja ja ratoja on useita. Autoilu on hulvatonta kaahaamista ja kanssakilpailijoita voi kiusata kerättävillä välineillä.'''
+
+[[Image:Valo41-Supertuxkart.png|left]]
+Pelimuotoja on useita. Peruspeli on kilpa-ajo tietokoneen tai kaverien ohjaamia autoja vastaan valitulla radalla. Grand Prix ajetaan usealla radalla ja voittaja on eniten pisteitä kerännyt. Aika-ajossa pitää keskittyä ajamaan nopeampia kierrosaikoja kuin muut, koska muiden pelaajien kiusaamiseen tarkoitetut välineet ovat poissa käytöstä.
+
+Kanssa-autoilijoita voi hidastaa purukumiklönteillä, kunhan muistaa mihin kohtaan sen pudotti jotta itse muistaa kiertää sen seuraavalla kierroksella. Karhupumpun voi heittää taaksepäin auton tuulilasiin, jolloin se peittää hetkeksi näkymän ja pitää koittaa ajaa sen mukaan mitä reunoilta pilkottaa. Jos eteenpäin heitetty karhupumppu osuu autoon, voi sillä vetää itsensä ohi edellä ajavasta. Keilapallon voi heittää eteen tai taaksepäin, osuman saanut auto lennähtää ilmaan ja usein ulos radalta. Näitä ja muitakin välineitä löytyy radalla lojuvista sinisistä lahjapaketeista.
+
+Välineitä voi olla vain yhtä lajia kerrallaan, ja enintään 5 kappaletta. Niitä voi siis kerätä varastoon ja käyttää sopivassa tilanteessa. Mahdollisesti uusin versio on tässä kohtia hieman erilainen, tai pelin asetuksissa voi tähän vaikuttaa. 
+
+[[Kuva:Stkamiga4.jpg|320px|right|Näyttökuva Amiga-versiosta]]
+Radalla on myös banaaneita joita pitää välttää, niistä tapahtuu omalle autolle jotain hidastavaa. Toisaalta joskus banaaneista saa aikapommin, jonka voi siirtää kanssa-autoilijan kaaraan törmäämällä. Nitroakin löytyy radalta, sitä voi kerätä varastoon ja käyttää tarvittaessa jolloin auto kiihtyy nopeammin tai kulkee kovempaa. 
+
+Autoilu ei ole järin realistista, mutta kuitenkin järkeenkäypää. Autoa ei voi ohjata jos pyörät eivät kosketa rataan, näin ollen töyssyt mutkan kohdalla pitää ajaa varovasti. Ajolinjat vaikuttavat, nopeampia kierrosaikoja saa ajamalla kaarteet tarkasti ja välttämällä turhaa mutkittelua. Autot eivät hajoa törmäilystä tai ulosajoista. Ulosajaneet autot nostetaan takaisin radalle hetken kuluttua.
+
+Haasteita suorittamalla saa käyttöön lisää ratoja ja uusia haasteita. Ilmeisesti kaikki haasteet suorittamalla saa uuden pelihahmon, eli Gnu jolla on mikroauton sijasta lentävä matto. 
+
+Joillakin radoilla voi oikaista reilusti eikä peli mitenkään rankaise. Kavereita vastaan pelatessa pitäisi ottaa herrasmiessäännöt käyttöön, eli sovitaan ettei saa oikaista. Moninpeli on mahdollista jaetulla ruudulla, enintään neljä pelaajaa. Verkkopeli on pelin kotisivun mukaan [http://supertuxkart.sourceforge.net/Discover suunnitteilla].
+
+Pelin kehitys jatkuu, uusin versio 0.7.2 julkaistiin heinäkuun 15. päivä 2011. Peliin on saatavilla [http://stkaddons.net/ lisäosia], joissa on lisää autoja ja ratoja. Pelin kehitys aloitettiin nimellä Tuxkart vuonna 2000. Vuonna 2006 uusia kehittäjiä tuli mukaan nimensä SuperTuxKartiksi vaihtaneeseen projektiin. 
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://supertuxkart.sourceforge.net/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:[http://www.supertuxkart-amiga.de/ Amiga], FreeBSD, Linux, Mac Os X, Solaris, Windows
+;Asennus
+: Linux-jakeluissa löytynee jakelun omista pakettivarastoista. Mac Os X ja Windows-käyttäjät voivat noutaa asennuspaketin pelin kotisivulta. Ubuntulle saatavilla myös [http://www.playdeb.net/updates/ubuntu/11.04/?q=supertuxkart PlayDebistä]. 
+
+;Käyttöohjeet
+:Pelissä on kattavasti suomennettu sisäänrakennettu ohjeistus. 
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:SuperTuxKart-0.png‎|kuvateksti
+Image:SuperTuxKart-1.png‎|kuvateksti
+Image:SuperTuxKart-2.png‎|kuvateksti
+Image:SuperTuxKart-3.png‎|kuvateksti
+Image:SuperTuxKart-4.png‎|kuvateksti
+Image:SuperTuxKart-5.png‎|kuvateksti
+Image:SuperTuxKart-6.png‎|kuvateksti
+</gallery> 
+
+SuperTuxKart muualla:
+; Videoita Youtubessa
+: [http://www.youtube.com/results?search_query=supertuxkart&aq=1&oq=supertux]
+; Usein kysytyt kysymykset ja niiden vastaukset
+: [http://supertuxkart.sourceforge.net/FAQ]
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

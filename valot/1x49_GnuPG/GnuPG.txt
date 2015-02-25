@@ -1,0 +1,56 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''GNU Privacy Guard eli GnuPG on julkisen avaimen salakirjoitusohjelmisto tiedon ja viestinnän salaamiseen.'''
+
+[[Image:valo49-gnupg.png|left]]
+
+GnuPG:llä voi [http://fi.wikipedia.org/wiki/Salakirjoitus salakirjoittaa] tiedoston jolloin ilman avainta sisältöä ei saa selväkieliseksi. Sähköpostin voi salata siten, etteivät muut kuin vastaanottaja pysty viestiä lukemaan. Lisäksi viestiin voi lisätä [http://fi.wikipedia.org/wiki/Digitaalinen_allekirjoitus digitaalisen allekirjoituksen], jolloin varmistutaan lähettäjän henkilöllisyydestä ja myös tiedetään, ettei viestiä ole muutettu allekirjoittamisen jälkeen. 
+
+[http://fi.wikipedia.org/wiki/Salaus#Salausalgoritmeja Julkisen avaimen salakirjoituksessa] tarvitaan kaksi avainta, toinen yksityinen tiukasti salaisena pidettävä avain jolla viesti avataan eli muutetaan selväkielisiksi, toinen julkinen avain jolla viesti salakirjoitetaan. Julkisen avaimen tunteminen ei ollenkaan helpota viestin avaamista, niinpä julkisen avaimen voi huoletta julkistaa webbisivullaan, puhelinluettelossa, [http://linux.fi/wiki/Gpg#Avainpalvelimet avainpalvelimella] tai muussa kaikkien saatavilla olevassa mediassa. 
+
+Viestin lähettäjä etsii vastaanottajan julkisen avaimen, salakirjoittaa viestin ja lähettää sen. Viestiä ei saa selväkieliseksi muuten kun tuntemalla oikean yksityisen avaimen. Viestin voi huoletta lähettää sähköpostissa tai postikortilla eikä haittaa vaikka asiaankuulumattomat saavat viestin haltuunsa. 
+
+GnuPG:tä voi käyttää myös digitaaliseen allekirjoitukseen. Tällöin allekirjoittaja muodostaa viestistä tiivisteen ja salakirjoittaa sen yksityisen avaimensa avulla. Allekirjoituksen varmistusta haluava laskee saman tiivisteen, etsii lähettäjän julkisen avaimen ja purkaa sillä salakirjoitetun tiivisteen. Jos tiivisteet ovat samat, oli viesti allekirjoitettu avainparin yksityisellä osalla eikä viestin sisältö ole muuttunut matkan aikana. 
+
+[[Kuva:Key_juliane_krug_01.svg‎|right|150px]]
+GnuPG ei käytä [http://fi.wikipedia.org/wiki/PKI keskitettyä avaintietokantaa] eikä muutakaan keskusjohtoisuutta. Näin ollen pulmaksi jää varmistua avaimen omistajan henkilöllisyydestä. Jos osapuolet voivat tavata kasvokkain, tarkistetaan viranomaisen antamista kuvallisista henkilöllisyystodistuksista henkilöllisyys ja vaihdetaan avaimia tai avainten "sormenjälkiä". Sormenjälki on avaimesta laskettu [http://fi.wikipedia.org/wiki/Tiiviste_%28tietotekniikka%29 tiiviste], joka yksilöi avaimen tarpeeksi luotettavasti. Avaimet ovat varsin pitkiä, 4000 bittiä esimerkiksi, jolloin lyhyt 8 merkin mittainen sormenjälki on helpompi kirjoittaa muistiin ja noutaa varsinainen avain myöhemmin avainpalvelimelta. Jos avaimesta laskettu sormenjälki täsmää saatuun sormenjälkeen kuuluu avain sormenjäljen antaneelle henkilölle.
+
+Voidaan myös rakentaa luottamusverkkoa, [http://en.wikipedia.org/wiki/Web_of_trust web of trust], allekirjoittamalla avain kun avaimen haltija on varmistettu ja haltijan henkilöllisyys todennettu mieluummin kahdesta virallisesta kuvallisesta henkilöllisyystodistuksesta. Kun saadussa avaimessa on allekirjoitus henkilöltä jonka tietää luotettavaksi avainten tarkistajaksi, voi halutessaan luottaa avaimeen vaikkei ole itse tavannut avaimen haltijaa ja vaihtanut sormenjälkiä.  
+
+Luottamusverkkoa voi kasvattaa osallistumalla [http://en.wikipedia.org/wiki/Key_signing_party avainten allekirjoitustilaisuuksiin]. On tärkeää noudattaa sovittua menettelytapaa avaimia allekirjoitettaessa, jottei luottamusverkkoa heikennetä väärillä henkilöllisyyksillä tai väärillä avaimilla.
+
+Sähköpostiohjelmaan on mahdollista lisätä GnuPG-toiminnallisuus. Suosittuun sähköpostiasiakasohjelmaan [http://fi.wikipedia.org/wiki/Mozilla_Thunderbird Thunderbird], saatavilla myös [http://www.valo-cd.fi/ilmainen_thunderbird VALO-CD:llä], on saatavilla lisäosa [http://linux.fi/wiki/Enigmail Enigmail] joka sekin on saatavilla [http://www.valo-cd.fi/ilmainen_enigmail-opas VALO-CD:llä]. Salauksen käyttöönotto on hieman mutkikasta, kannattaa lukea asennus- ja käyttöohje ensin.
+
+GnuPG on GNU-projektin tekemä OpenPGP toteutus. [http://www.openpgp.org/ OpenPGP] on standardi, määritelty [http://www.ietf.org/rfc/rfc4880.txt RFC4880:ssa]. OpenPGP kehitettiin [http://www.philzimmermann.com/EN/background/index.html Phil Zimmermannin] [http://fi.wikipedia.org/wiki/PGP Pretty Good Privacy] -sovelluksesta, jonka Zimmermann julkaisi vuonna 1991. 
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.gnupg.org/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:FreeBSD, GNU/Hurd, Linux, MacOS X, NetBSD, OpenBSD, VMS, Windows ja muita
+;Asennus
+:Linux-jakeluissa tulee jakelun omista pakettivarastoista. MacOS X käyttäjät noutavat asennustiedoston kotisivulta. Windows-käyttäjille
+saatavilla [http://www.valo-cd.fi/ilmainen_gpg-opas VALO-CD:llä] tai kotisivuilta. 
+;Käyttöohjeet
+:[http://linux.fi/wiki/Gpg Linux.fi wikin artikkeli GPG:stä] 
+:[http://www.valo-cd.fi/ilmainen_gpg-opas Ilmainen GPG-opas VALO-CD:llä]
+:[http://www.gnupg.org/documentation/index.en.html GnuPG ohjeet] (englanniksi)
+:[http://www.debian.org/events/keysigning Debian-projektin ohje avainten allekirjoittamisesta] (suomeksi, jos selaimen oletuskieli suomi)
+:[http://cryptnet.net/fdp/crypto/keysigning_party/en/keysigning_party.html Ohje avainten allekirjoitustilaisuuden järjestämisestä] (englanniksi).
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Kuvakaappaus-OpenPGP-avainten hallintaikkuna.png|Thunderbirdin lisäosa Enigmail
+Image:Kuvakaappaus-OpenPGP-asetukset.png|Thunderbirdin lisäosa Enigmail
+Image:Kuvakaappaus-gnupg-1.png|GnuPG komentorivillä
+Image:Kuvakaappaus-gpg-avaimia.png|gpg --list-public-keys
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]
