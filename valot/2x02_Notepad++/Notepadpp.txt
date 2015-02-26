@@ -1,0 +1,44 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''Notepad++ on vapaa ja erittäin monipuolinen tekstieditori, joka on suunnattu erityisesti ohjelmointiin, mutta sopii myös yleisemmin Windowsin Notepad-ohjelman korvaajaksi.'''
+
+[[Image:valo54-Notepadpp.png|left]]
+Notepad++ ymmärtää yli 50 ohjelmointi-, skripti- tai merkkauskielen syntaksin ja osaa korostaa niiden avainsanat väreillä. Myös omien kielten määrittely ohjelmaan on mahdollista.
+
+Nykyisin Notepad++ tukee ainakin seuraavia kieliä: ActionScript, Ada, asp, Assembly, autolt, bash, Batch, C, C++, C#, Caml, CMakeFile, COBOL, CSS, D, DIFF, Fortran, Gui4CLI, Haskell, HTML, ini, InnoSetup, Java, JavaScript, JSP, KiXtart, LISP, Lua, Makefile, Matlab, NSIS, Objective-C, Pascal, Perl, PHP, PowerShell, Postscript, Python, R ja VHDL.
+
+Ohjelma tukee yhtä aikaa auki olevien tallennettujen tiedostojen kokonaisuuden tallentamista istuntona, jolloin samaan projektiin kuuluvat tiedostot on helppo avata seuraavalla kerralla samaan tilanteeseen. Muita ohjelman tukemia ominaisuuksia ovat muun muassa: tuki lukuisille merkistökoodauksille, ohjelmakoodin sisennys, lohkojen piilottaminen (folding), edistyneet etsi- ja korvaa-toiminnot, valitun sanan korostaminen kaikkialla tiedostossa, suljeparien korostaminen sekä toimintomakrojen nauhoittaminen ja suorittaminen.
+
+Ohjelman käyttöliittymän kieli on valittavissa lukuisista kielistä, joiden joukossa on myös suomi. Editorin tekstin värimaailma on myös täysin kustomoitavissa joko valmiilla teemoilla tai itse valituilla väreillä. Jos vaaleanpunainen taustaväri kuulostaa hyvältä, voi valita käyttöön vaikka ''Hello Kitty''-teeman.
+
+Editoriin on mahdollista lisätä ominaisuuksia plugin-lisäosilla. Muutamia lisäosia on mahdollista valita asennettavaksi suoraan ohjelman asennuksen yhteydessä, kuten esimerkiksi [http://nppftp.sourceforge.net/ nppftp]-lisäosa, joka mahdollistaa tiedostojen avaamisen ja tallentamisen etäkoneelle ftp- tai sftp-yhteyden kautta. Tämä on erityisen hyödyllistä esimerkiksi www-sivujen ylläpitoa tehdessä, jolloin tiedostoja voidaan muokata suoraan palvelimella. Toinen jo asennuksessa mukaan valittavissa oleva erittäin hyödyllinen lisäosa on "Compare"-lisäosa, jolla on mahdollista vertailla kahta editorissa auki olevaa tekstiä keskenään rinnakkain. Työkalu merkitsee väreillä selkeästi näkyviin, mitkä rivit ja merkkijonot eroavat tiedostoissa. Tämä helpottaa suuresti erityisesti saman tiedoston eri versioiden vertailua. [http://sourceforge.net/projects/phpfornppplugin/ PHP Automation] -lisäosan avulla puolestaan on mahdollista suorittaa PHP-skriptejä asentamatta Apachea ja PHP:tä.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://notepad-plus-plus.org/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Windows
+;Asennus
+:Ohjelman asennuspaketit löytyvät kotisivuilta.
+;VALO-CD
+:Notepad++ löytyy myös [http://www.valo-cd.fi/ilmainen_notepadpp VALO-CD]-kokoelmasta.
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:notepadpp-1.png
+Image:notepadpp-2.png
+Image:notepadpp-3.png
+Image:notepadpp-4.png
+Image:notepadpp-5.png
+Image:notepadpp-6.png
+Image:notepadpp-7.png
+Image:notepadpp-8.png
+Image:notepadpp-9.png
+</gallery> 
+
+''Teksti: pesasa & Tomi Toivio''<br />
+''Kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

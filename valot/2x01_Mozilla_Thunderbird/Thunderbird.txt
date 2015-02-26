@@ -1,0 +1,47 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''Thunderbird on suosittu ja monipuolinen vapaa avoimen lähdekoodin sähköpostiohjelma'''
+
+[[Image:valo53-Thunderbird.png|left]]
+Thunderbird on moderni sähköpostiohjelma, jossa on älykäs roskapostisuodatin, oikeinkirjoituksen tarkistus, paljon erilaisia teemoja ja mukautuva ulkoasu. Lisäksi Thunderbirdissä on IMAP/POP-tuki, mahdollisuus HTML-sähköpostien kirjoittamiseen, nopea haku, osoitekirja, edistynyt viestien suodatus, osoitteen täydennys, tuontityökalut ja kyky hallita useita eri sähköpostitilejä sekä uutisryhmiä. Mozilla Thunderbirdin on kehittänyt [http://www.mozilla.org/about/governance.html Mozilla], joka on myös suositun [[Firefox]]-selaimen taustalla.
+
+Uuden sähköpostitilin lisääminen Thunderbirdiin on helppoa. Yleisimmin käytettyjen sähköpostipalveluiden, kuten Gmailin tai Yahoon, osoitteille ohjelma osaa asettaa suoraan oikeat sähköpostiasetukset tietokannastaan. Muille, tuntemattomammille sähköpostiosoitteille Thunderbird osaa varsin menestyksekkäästi löytää automaattisesti oikeat asetukset kokeilemalla yleisimmin käytettyjä palvelinasetuksia. Automatiikan pettäessä, voi asetukset toki laittaa kohdalleen myös käsin.
+
+Turvallisuus on Thunderbirdissä keskeinen teema. Thunderbirdin älykäs roskapostisuodin analysoi sähköpostisi ja tunnistaa viestit, jotka ovat todennäköisesti roskapostia. Roskapostit voidaan määritellä automaattisesti poistettaviksi tai vain siirrettäviksi toiseen kansioon. Suodin on mukautuva, ja se parantaa tarkkuuttaan itsenäisesti osoitekirjasi ja käyttösi perusteella. Se siis oppii tarkemmaksi aina, kun merkitset viestin roskaksi tai kun lisäät uuden yhteystiedon osoitekirjaasi. Thunderbird ei merkitse osoitekirjassasi olevista osoitteista tulevia sähköposteja roskapostiksi.
+
+Lisäksi Thunderbird tuo yritysten ja julkisyhteisöjen turvallisuustarpeisiin sellaiset ominaisuudet kuten S/MIME, sähköinen allekirjoitus, viestin salaus ja tuki sertifikaateille sekä turvallisuuslaitteille.
+
+Thunderbirdiin voit asentaa paljon erilaisia laajennoksia projektin [https://addons.mozilla.org/fi/thunderbird/ lisäosasivulta]. Thunderbird-laajennokset lisäävät uusia ominaisuuksia ja muokkaavat ulkoasua sinulle paremmin sopivaksi. Esimerkiksi [https://addons.mozilla.org/fi/thunderbird/addon/enigmail/?src=cb-dl-featured Enigmail-laajennos] yhdessä [[GnuPG]]:n kanssa lisää sähköpostiisi OpenPGP-standardin mukaisen salauksen. [https://addons.mozilla.org/fi/thunderbird/addon/adblock-plus/?src=cb-dl-featured Adblockin] avulla taas voit estää mainoksia näkymästä. Lisäksi voit asentaa Thunderbirdiin [https://addons.mozilla.org/fi/thunderbird/themes/ teemoja], jotka muuttavat ohjelman ulkoasua.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.mozilla.org/fi/thunderbird/
+;Lisenssi
+:MPL/[[GNU_GPL|GPL]]/[[GNU_LGPL|LGPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X
+;Asennus
+:Linux-järjestelmiin Thunderbird löytyy suoraan pakettivarastosta. Debian-järjestelmissä ohjelma löytyy nimellä [http://en.wikipedia.org/wiki/Mozilla_Corporation_software_rebranded_by_the_Debian_project Icedove]. Muille alustoille ohjelman voi ladata sen [http://www.mozilla.org/fi/thunderbird/ kotisivuilta].
+;VALO-CD
+: Mozilla Thunderbird löytyy myös [http://www.valo-cd.fi/ilmainen_thunderbird VALO-CD]-kokoelmasta.
+;Käyttöohjeet
+:[http://archive.valo-cd.org/oppaat/enigmail-opas.html Enigmail-opas] (VALO-CD)
+;Muuta
+:[http://www.valo-cd.fi/ohjelmat/thunderbird/addon-3826-latest.xpi Suomen kielen oikoluku] (valo-cd.fi)
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Thunderbird-1.png
+Image:Thunderbird-2.png
+Image:Thunderbird-3.png
+Image:Thunderbird-4.png
+Image:Thunderbird-5.png
+Image:Thunderbird-6.png
+Image:Thunderbird-7.png
+Image:Thunderbird-8.png
+</gallery> 
+
+''Teksti: Tomi Toivio & Pesasa''<br />
+''kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,47 @@
+'''Scribus on [http://fi.wikipedia.org/wiki/Julkaisuohjelma taitto- ja julkaisuohjelma (DTP)] Linux-, Mac OS X-, Unix- ja Windows-työpöytäkäyttäjille.'''
+[[Image:valo57-scribus.png|left]]
+Scribus on vapaan koodin sovellus ammattitason sivutaittoon ja painovalmiiden PDF-tiedostojen tuottamiseen. Käyttöliittymä on nykyaikainen ja käyttäjäystävällinen. Scribus tukee ammattikäyttäjien tarvitsemia ominaisuuksia kuten värierottelu,  CMYK- ja spottivärien tuki, ICC väriprofiilit ja monipuolinen PDF-tiedostojen luonti. 
+
+Scribuksen avulla on mahdollista tuottaa uutislehtiä, sanomalehtiä, kirjoja, CD-levyn kansia, urheilutapahtuman käsiohjelmia, esityskalvoja ja animoituja interaktiivisia PDF-lomakkeita. Muita käyttökohteita voivat olla yrityksen tarvitseman paperitavaran yksilöiminen, esitteet, julisteet ja kaikenlaiset asiakirjat, jotka vaativat joustavaa kuvien ja tekstin asettelua sekä ammattimaista värienhallintaa. Scribus soveltuu siis monipuolisesti sekä painettavan että digitaalisesti näytettävän materiaalin tuottamiseen.
+
+Scribus tukee monia bittikartta- ja vektorigrafiikkamuotoja. Se pystyy tuomaan ja tallentamaan SVG-kuvia. Tekstiä Scribukseen voi tuoda muun muassa LibreOffice/OpenOffice.org Writer-, OpenDocument-, PostScript- ja Encapsulated PostScript-tiedostoista.
+
+Asiakirjan tallennus onnistuu myös PDF-tiedostona, jossa on mahdollista käyttää läpinäkyvyyttä, salausta ja suurta joukkoa muita PDF 1.3-1.5:n ominaisuuksia mukaan lukien interaktiiviset PDF-lomakkeen kentät, kirjanmerkit, tasot ja huomautukset. Värienhallinnassa on tuettu LittleCMS versiot 1 ja 2.  [[Kuva:Scribus-icon2.png|right]]
+
+Scribus ei ole tekstinkäsittelyohjelma eikä kuvankäsittelyohjelmakaan. Scribus osaa kumpaakin jonkin verran, mutta tarkoitus on kirjoittaa ensin teksti valmiiksi ja muokata kuvat julkaisukuntoon niihin tarkoitetuilla ohjelmilla, ja sen jälkeen Scribuksella sijoitella tekstit ja kuvat julkaisun sivuille sivuasemoinnin mukaisesti. Scribuksella kannattaa kirjoittaa otsikoita tai muita lyhyitä tekstejä, tai teksti jossa erikoisefektejä kuten kolmannessa esimerkkikuvassa kansilehdellä lehden nimessä. 
+
+Tekstien esittämiseen Scribuksessa käytetään kappale- ja kirjaintyylejä, joilla samassa asemassa olevien tekstien ulkoasua voi muokata helposti yhdestä paikasta. Tyylit voi joko luoda itse tai tuoda LibreOffice-tiedostosta tekstin mukana ja muokata käyttöön sopivaksi. Scribus tukee myös tekstilaatikoiden ketjutusta. Näin teksti saadaan juoksemaan sujuvasti palstalta ja sivulta toiselle. Useampisivuisten julkaisujen kanssa käteviä ovat myös sivupohjat. Scribuksessa voi luoda omat sivupohjat esimerkiksi vasemmalle ja oikealle sivulle sekä etusivulle, jolloin jokaisen sivun asettelua ei tarvitse tehdä erikseen vaan valita käyttöön jokin olemassa olevista pohjista.
+
+Uusin versio 1.4 julkaistiin 1.1.2012 melkein neljän vuoden kehitystyön tuloksena, 2000 viankorjausta tai ominaisuustoivomusta on toteutettu.  [http://wiki.scribus.net/canvas/1.4.0_Release Julkaisumuistio]
+
+<div style="clear: left;"></div>
+
+;Kotisivu: http://www.scribus.net
+;Lisenssi: [[GNU GPL]], käsikirjan [http://www.opencontent.org/openpub/ Open Publication License] 
+;Toimii seuraavilla alustoilla: Linux, Mac OS X, OS/2 Warp 4/eComStation, Unix, Windows,  
+;VALO-CD
+:Scribus löytyy myös [http://www.valo-cd.fi/ilmainen_scribus VALO-CD]-kokoelmasta. Uusi versio 1.4 on tulossa seuraavaksi julkaistavalle VALO-CD:lle. 
+;Asennus: Ohjelman asennuspaketit löytyvät sen [http://wiki.scribus.net/canvas/Download kotisivulta]. Scribus sisältyy useimpiin Linux-jakeluihin, joten se voidaan asentaa jakelun oman paketinhallinnan kautta.
+;Esimerkki
+:[http://viikonvalo.fi/files/la-esite-20120128.pdf Linux-Aktivaattorin esite]
+
+===Käyttöohjeet===
+
+Esittelyvideo [http://www.youtube.com/watch?v=SAicUk-p0lU Youtubessa] (englanniksi). Riku Leinon [http://blogi.tsoots.fi/2008/05/scribus-opas-loytyy-nyt-taalta.html suomenkielinen ohje]. Englanninkielisiä [http://showmedo.com/videotutorials/series?name=NfUrduNov opetusvideoita] Scribuksen käytöstä. Scribuksen kotisivuilta löytyy [http://docs.scribus.net/ ohjeita ja tutoriaaleja]. [http://wiki.scribus.net/canvas/Success_stories Esimerkkejä] Scribuksella tehdyistä julkaisuista. 
+
+<gallery>
+Image:Scribus-kaynnistys.png|Käynnistys sovellusvalikosta
+Image:Scribus-Uusi asiakirja.png|Uuden asiakirjan aloitus
+Image:Scribus-Kansilehti.png|Scibuksella tehty kansilehti
+Image:scribus-4.png
+Image:scribus-5.png
+Image:scribus-6.png
+Image:scribus-7.png
+Image:scribus-8.png
+</gallery> 
+
+''Teksti: Taleman, pesasa''<br />
+''kuvakaappaukset: Taleman, pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

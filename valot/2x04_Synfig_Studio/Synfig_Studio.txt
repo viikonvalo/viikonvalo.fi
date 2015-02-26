@@ -1,0 +1,42 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''Synfig Studio on avoimen lähdekoodin ohjelma 2D-animaatioiden tekoon.'''
+
+[[Image:valo56-synfigstudio.png|left]]
+Synfig Studio on animaatio-ohjelma, jolla pystyy tekemään korkealaatuisia animaatioita jo pienellä harjoittelulla. Synfig Studiossa ruudun sisältö koostuu erilaisista "layer"-elementeistä, jotka voivat olla piirros-objekteja, kuvia, efektifilttereitä sekä näistä hierarkkisesti muodostettuja kokonaisuuksia. Animointi ohjelmassa tapahtuu määrittelemällä aikajanalle avainruutuja, joiden kohdalla kerrotaan kunkin layer-elementin sijainti, asento, koko, muodonmuutokset sekä mahdollisia muita ominaisuuksia. Synfig Studio laskee automaattisesti elementtien sijainnit ja muut ominaisuudet avainruutujen välillä. Elementit voidaan laittaa myös kulkemaan annettua käyrää pitkin annetulla vaihtelevalla nopeudella esimerkiksi realistisesti pomppivan pallon luomiseksi. Elementtejä voi joko piirtää suoraan Synfig Studiossa tai tuoda niitä vektori- tai bittikarttakuvina toisista ohjelmista. Muun muassa [[Inkscape]]lla piirretyt svg-kuvat ovat tuettuja.
+
+[[Image:Pomppivat pallot.gif|right]]
+Synfig-projektin wiki-sivuilla on useita [http://wiki.synfig.org/wiki/Category:Tutorials tutorialeja], joita lukemalla voi opetella ohjelman käyttöä. Tutoriaalit on jaoteltu kolmeen vaikeustasoon: perustaso (basic), keskitaso (intermediate) ja edistyneet (advanced). Perustason tutorialeissa opetellaan ohjelman perustoiminnot, kuten kuvioiden piirtäminen ja animoinnin perusteet. Keskitasolla keskitytään monipuolisempiin animaatiomenetelmiin, kuten [http://wiki.synfig.org/wiki/Doc:Lipsync huulien synkronointiin] puheen kanssa sekä [http://wiki.synfig.org/wiki/Doc:Cut-out_Animation pala-animaatioihin], joissa hahmot koostetaan toisissaan kiinni olevista osista, kuten vartalo, raajat ja pää. Edistyneissä tutorialeissa päästään jo monimutkaisempiin efekteihin, kuten realistisen näköiseen sateeseen ja kamera-ajoihin.
+
+Synfig Studiolla valmistellut animaatiot voidaan renderöidä useaan erilaiseen video- tai kuvamuotoon. Ne voidaan renderöidä esimerkiksi ffmpeg-ohjelmistoa hyväksi käyttäen Ogg Theora-, MPEG-4- tai Flash-video-muotoihin. Toisaalta animaatio voidaan esittää myös gif-muodossa tai se voidaan tallettaa sarjana erillisiä kuvatiedostoja, jotka voidaan tarvittaessa yhdistää videoksi jollain muulla ohjelmalla. Videotiedostojen renderöintiin voi halutessaan käyttää myös Synfig Studion mukana tulevaa erillistä komentoriviohjelmaa, jolloin pidempienkin animaatioiden ja niiden osien laskentavaiheen voi helposti ohjelmoida tapahtumaan esimerkiksi taustalla, yöaikaan tai useammalla koneella.
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.synfig.org/
+;Lisenssi
+:[[GNU GPL]] v.2
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X
+;Asennus
+:Synfig Studion asennuspaketit Windowsille, Linux-jakeluille (rpm-, deb- ja lähdekoodipaketteina) sekä Mac OS X:lle löytyvät ohjelman kotisivujen "download"-sivulta. Ohjelma saattaa löytyä myös joidenkin Linux-jakeluiden pakettivarastosta suoraan.
+;Käyttöohjeet
+:[http://wiki.synfig.org/wiki/Category:Manual Käyttöohjeita], [http://wiki.synfig.org/wiki/Category:Tutorials tutorialeja] sekä muuta [http://wiki.synfig.org/wiki/User_Documentation dokumentaatiota] Synfig Studiosta löytyy ohjelman wiki-sivuilta: http://wiki.synfig.org/wiki/Main_Page
+;Esimerkkejä
+:[http://www.youtube.com/results?search_query=synfig&oq=synfig&aq=f&aqi=g10&aql=&gs_sm=e&gs_upl=217l217l0l482l1l1l0l0l0l0l143l143l0.1l1l0 Youtube]-palvelusta löytyy lukuisia video-tutorialeja ja esimerkkejä Synfigillä tehdyistä kuvista ja animaatioista.
+
+<gallery>
+Image:Synfigstudio-1.png
+Image:Synfigstudio-2.png
+Image:Synfigstudio-3.png
+Image:Synfigstudio-4.png
+Image:Synfigstudio-5.png
+Image:Synfigstudio-6.png
+Image:Synfigstudio-7.png
+Image:Synfigstudio-8.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,50 @@
+{{CC-by}}
+'''The Battle for Wesnoth on vapaa vuoropohjainen taktisen tason strategiapeli fantasiateemalla.'''
+
+[[Image:valo58-wesnoth.png|left]]
+The Battle for Wesnothissa pelaaja johtaa sotajoukkojaan fantasiahenkisessä ympäristössä. Peli on erittäin viimeistellyn oloinen grafiikkoja ja taustalla soivaa, teemaan sopivaa, musiikkia myöten. Kuten fantasiateemaan kuuluu, koostuvat joukot muun muassa ihmisistä, haltioista, örkeistä, sudenratsastajista sekä shamaaneista, joilla kaikilla ovat omat vahvuutensa, heikkoutensa sekä käyttönsä. Uusia joukkoja saadaan käyttöön joko rekrytoimalla tai kutsumalla takaisin jo kuolleita, mutta kokemusta keränneitä sotilaita. Molemmat vaativat tietyn määrän rahaa yksilön tyypistä riippuen ja rahaa saadaan joka vuoro riippuen omassa hallinnassa olevien kylien määrästä. Vaurauden lisäksi kylät toimivat huoltokeskuksina, jotka parantavat sinne saapuneita haavoittuneita joukkoja. Peliin ja sen toimintoihin pääsee helposti sisään pelaamalla ensimmäiseksi tutorial-muotoiset kentät, joissa pelaajaa opastetaan omaksumaan tärkeimmät toiminnot ja strategiset periaatteet.
+
+Varsinaista peliä voi pelata joko yksinpelinä eri vaikeustasoilla olevia tehtäviä, eli kampanjoita suorittamalla, tai moninpelinä muita ihmispelaajia tai tietokonevastustajia vastaan. Moninpelejä voi pelata Wesnothin virallisella palvelimella tai jollain muulla palvelimella. Pelaaja voi myös käynnistää oman pelipalvelimen, johon pelikaverit voivat ottaa yhteyttä. Verkon kautta pelaamisen lisäksi moninpeli on vuoropohjaisuuden ansiosta mahdollista myös samalla koneella.
+
+Pelin mukana tulee myös karttaeditori, jolla on mahdollista rakentaa omia karttoja ja tehtäviä. Wesnothiin on myös helppo ladata verkosta lisäosia, kuten uusia kampanjoita sekä karttapaketteja, suoraan pelin valikoiden kautta. Pelattava ei siis lopu kesken. Peli on käännetty useille kielille ja käytettäviksi kieliksi voikin englannin lisäksi valita muun muassa suomen tai latinan. Tämän esittelyn kirjoitushetkellä viimeisin pelin versio on juuri viikkoa aiemmin (29.1.2012) julkaistu versio 1.10.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.wesnoth.org/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X, OpenPandora
+;Asennus
+:Linux-jakeluissa Wesnoth löytyy yleensä valmiina pakettivarastoista, muille käyttöjärjestelmille peli on ladattavissa sen kotisivuilta.
+;Käyttöohjeet
+:Ohjeita ja vinkkejä peliin voi lukea sen [http://wiki.wesnoth.org/Play wiki]-sivustolta.
+;Muuta
+:[http://www.youtube.com/watch?v=w3P39lppcH4 The Battle for Wesnothin] virallinen traileri Youtubessa.
+:Toinen [http://www.youtube.com/watch?v=EIt69vznegs The Battle for Wesnoth] -traileri Youtubessa.
+:Linux Journal -lehden arvostelu [http://www.youtube.com/watch?v=szENcNiRD9Y The Battle for Wesnothista].
+
+<gallery>
+Image:wesnoth-1.jpg
+Image:wesnoth-2.jpg
+Image:wesnoth-3.jpg
+Image:wesnoth-4.jpg
+Image:wesnoth-5.jpg
+Image:wesnoth-6.jpg
+Image:wesnoth-7.jpg
+Image:wesnoth-8.jpg
+Image:wesnoth-9.jpg
+Image:wesnoth-10.jpg
+Image:wesnoth-11.jpg
+Image:wesnoth-12.jpg
+Image:wesnoth-13.jpg
+Image:wesnoth-14.jpg
+Image:wesnoth-15.jpg
+Image:wesnoth-16.jpg
+</gallery> 
+
+''Teksti: teroajk, pesasa''<br />
+''kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]
