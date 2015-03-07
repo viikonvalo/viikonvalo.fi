@@ -1,0 +1,44 @@
+{{CC-by}}
+'''Pandoc on komentorivityökalu tekstipohjaisten tiedostojen muuntamiseen muodosta toiseen.'''
+
+[[Image:valo218-pandoc.png|left]]
+Pandoc on todellinen monitoimityökalu, kun on tarve muuntaa yhdellä merkintäkielellä kirjoitettua tekstimateriaalia toiseen merkintäkieleen. Pandoc osaa lukea monessa muodossa kirjoitettuja tiedostoja ja tallentaa luetun tekstin vielä useammalla muotoilukielellä. Pandocilla on helppoa vaikka automatisoida useiden tiedostojen muuntaminen muodosta toiseen. Toki tällaisia muunnoksia tehdessä Pandocin tuottamia tiedostoja voi joutua vielä muokkaamaan ja viimeistelemään käsin, mutta suurin osa rutiinityöstä hoituu Pandocilla.
+
+Kieliä ja tiedostomuotoja, joita Pandoc osaa lukea, ovat muun muassa: [http://fi.wikipedia.org/wiki/HTML HTML], [http://en.wikipedia.org/wiki/Markdown Markdown], [http://fi.wikipedia.org/wiki/Latex LaTeX], [http://en.wikipedia.org/wiki/MediaWiki#Markup MediaWiki] ja [http://en.wikipedia.org/wiki/Textile_%28markup_language%29 textile]. Pandocin tuottamia kieliä ja tiedostomuotoja on jo mainittujen lisäksi muun muassa Microsoftin Word-ohjelman DOCX-tiedostomuoto, OpenOffice- ja LibreOffice-ohjelmistojen käyttämä ODT, sähkökirjojen tiedostomuoto EPUB sekä PDF-tiedostot. Pandoc osaa tuottaa myös muutamien HTML- ja LaTeX-pohjaisten esitystiedostojen mukaista tekstiä. Näitä ovat esimerkiksi [http://www.w3.org/Talks/Tools/Slidy2/Overview.html#%281%29 Slidy], [http://viikonvalo.fi/Reveal.js reveal.js], [http://goessner.net/articles/slideous/ Slidous], [http://meyerweb.com/eric/tools/s5/ S5] ja [http://paulrouget.com/dzslides/ DZSlides] sekä [https://en.wikipedia.org/wiki/Beamer_%28LaTeX%29 Beamer]. Tarkempi luettelo tuetuista muodoista löytyy ohjelman kotisivuilta tai sen mukana tulevasta dokumentaatiosta.
+
+Markdown-kielestä Pandoc osaa useampia variaatiota ja laajennuksia, mukaan lukien GitHubin laajennettu syntaksi. Näiden ansiosta Markdownilla kirjoitetut tekstit voivat sisältää muun muassa taulukoita, alaviitteitä, koodilohkoja, automaattisia sisällysluetteloita, upotettua LaTeX-tyylistä matematiikkaa sekä HTML-koodin sisään kirjoitettua Markdown-syntaksia. Markdown-tekstiä HTML-tiedostoksi käännettäessä on mahdollista valita käytettäväksi vaikka ohjelmakoodin syntaksin korostus väreillä.
+
+Pandoc on toteutettu siten, että kukin ohjelmaan sisään luettu tiedosto käännetään ohjelman sisäiseen muotoon, josta puolestaan muodostetaan halutun kohdekielen mukainen tuloste. Näin ohjelmasta on saatu modulaarinen ja uuden tuetun kielen lisääminen on joustavaa. Ohjelma tukee myös esimerkiksi LaTeX-muotoisten matemaattisten kaavojen esittämistä HTML-muodossa useammallakin tavalla, mukaan lukien MathJax ja MathML.
+
+Pandocin käytön aloittaminen on varsin helppoa. Yksinkertaisimmillaan Pandoc tunnistaa syötetiedostossa käytetyn muodon ja tallentaa <tt>-o</tt> -valitsimella määrätyn tulostiedoston päätteensä mukaisessa muodossa. Esimerkiksi:
+ pandoc -o testi.pdf testi.html
+
+Syöte- ja tulostiedostojen muodon voi kuitenkin kertoa Pandocille käyttäen <tt>-f</tt> -valitsinta (from) ja <tt>-t</tt> -valitsinta (to). (Vaihtoehtoisesti <tt>-r</tt> (read) ja <tt>-w</tt> (write)).
+ pandoc -f markdown -t html -o index.html index.md
+
+Pandocista löytyy lisäksi suuri määrä muita valitsimia, joilla sen toimintaa voi muokata haluamakseen. Esimerkiksi <tt>--template=TIEDOSTO</tt> -valitsimella voi valita haluamansa dokumenttipohjan luotavan tiedoston malliksi. Muita esimerkkejä valitsimista ovat sisällysluettelon generointi, rivinumeroiden ja syntaksikorostuksen lisääminen ohjelmakoodiin ja matematiikkapaketin valinta HTML-tulostukseen.
+
+;Kotisivu
+:http://johnmacfarlane.net/pandoc/
+;Lähdekoodi
+:https://github.com/jgm/pandoc
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X, FreeBSD, NetBSD, OpenBSD
+;Asennus
+:Ohjelma on ladattavissa sen kotisivuilta. Linux-järjestelmiin se on yleensä asennettavissa paketinhallinnan kautta.
+
+<gallery>
+Image:pandoc-1.jpg|Markdown-tiedosto ja siitä tehty HTML-tiedosto.
+Image:pandoc-2.jpg|HTML-tiedosto selaimessa. Sivun ulkoasua voi jatkomuokata vaikka CSS:llä. Sivulle voi käyttää myös omaa tiedostopohjaa.
+Image:pandoc-3.jpg|Samasta Markdown-tiedostosta tuotettu PDF-tiedosto. PDF-tiedostojen luontiin hyödynnetään pdflatex-ohjelmaa.
+Image:pandoc-4.jpg|Edelleen samasta tiedostosta tuotettu ODT-tiedosto.
+Image:pandoc-5.jpg|Muunnos Markdownin ja MediaWikin wikisyntaksin välillä.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

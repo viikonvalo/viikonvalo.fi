@@ -23,6 +23,12 @@ Myös näiden projektien toimintaan on mahdollista osallistua.
 Lukuvihjeet
 -----------
 
+-   Isaac Asimov
+    -   The Foundation Trilogy
+    -   [BBC:n kuunnelma 1973](https://archive.org/details/IsaacAsimov-TheFoundationTrilogy)
+        ![](images/audio.png "fig:audio.png")
+    -   [Kirjat Wikipediassa](https://fi.wikipedia.org/wiki/S%C3%A4%C3%A4ti%C3%B6-sarja)
+
 -   Johannes Linnankoski, 1905
     -   Laulu tulipunaisesta kukasta
     -   [e-kirja](http://www.gutenberg.org/ebooks/12780)

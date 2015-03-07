@@ -3,6 +3,12 @@ Title: Lukuvalosivulista
 Lukuvalo: true
 */
 
+Isaac Asimov:
+:   The Foundation Trilogy
+:   [BBC:n kuunnelma](https://archive.org/details/IsaacAsimov-TheFoundationTrilogy)
+:   [Kirjat Wikipediassa](https://fi.wikipedia.org/wiki/S%C3%A4%C3%A4ti%C3%B6-sarja)
+
+
 Johannes Linnankoski, 1905:
 :    Laulu tulipunaisesta kukasta
 :    [e-kirja](http://www.gutenberg.org/ebooks/12780)
