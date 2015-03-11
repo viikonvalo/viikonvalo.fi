@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x16 R - Viikon VALO #16
 Date: 2011/04/17
 Pageimage: valo16-R.png
 Tags: FreeBSD,Linux,Mac OS X,Windows,Tiede,Tilastot
-*/
+-->
 
 **R on tilastolliseen laskentaan tarkoitettu ohjelmointiympäristö.**
 

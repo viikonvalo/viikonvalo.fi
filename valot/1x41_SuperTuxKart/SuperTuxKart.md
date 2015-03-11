@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x41 SuperTuxKart - Viikon VALO #41
 Date: 2011/10/09
 Pageimage: valo41-Supertuxkart.png
 Tags: Linux,Windows,Mac OS X,Amiga OS,FreeBSD,Solaris,Peli
-*/
+-->
 
 **SuperTuxKart on 3-ulotteinen mikroautopeli. Ajajahahmoja ja ratoja on
 useita. Autoilu on hulvatonta kaahaamista ja kanssakilpailijoita voi

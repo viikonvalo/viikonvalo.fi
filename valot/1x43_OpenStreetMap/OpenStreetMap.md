@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x43 OpenStreetMap - Viikon VALO #43
 Date: 2011/10/23
 Pageimage: valo43-openstreetmap.png
 Tags: Kaikki alustat,Kartta
-*/
+-->
 
 **OpenStreetMap on yhteisöllisesti ylläpidetty karttapalvelu. Se on kuin
 karttojen Wikipedia, jonka kokoamiseen kuka tahansa voi osallistua.**

@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x44 VALO-CD - Viikon VALO #44
 Date: 2011/10/30
 Pageimage: valo44-valocd.png
 Tags: Windows,Aineisto,Ohjelmakokoelma
-*/
+-->
 
 **VALO-CD sisältää runsaasti hyödyllisiä suomenkielisiä vapaita ja
 avoimen lähdekoodin ohjelmia Windowsille yhdellä levyllä, jotta niiden

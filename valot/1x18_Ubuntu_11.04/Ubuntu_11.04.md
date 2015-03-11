@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x18 Ubuntu 11.04 - Viikon VALO #18
 Date: 2011/05/01
 Pageimage: valo18-ubuntu.png
 Tags: Järjestelmä,Käyttöjärjestelmä
-*/
+-->
 
  **[Ubuntu](http://www.ubuntu.com/) on helppokäyttöinen ja
 vapaa Linux-käyttöjärjestelmä. Myös suomen kielellä.**

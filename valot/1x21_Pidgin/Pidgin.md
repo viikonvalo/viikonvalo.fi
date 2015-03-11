@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x21 Pidgin - Viikon VALO #21
 Date: 2011/05/22
 Pageimage: valo21-Pidgin.png
 Tags: Linux,Mac OS X,Windows,FreeBSD,OpenBSD,NetBSD,Viestintä,Internet
-*/
+-->
 
 **Pidgin on vapaa avoimen lähdekoodin pikaviestinohjelma, joka tukee
 useita viestiverkkoja.**

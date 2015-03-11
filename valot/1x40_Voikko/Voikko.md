@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x40 Voikko - Viikon VALO #40
 Date: 2011/10/02
 Pageimage: valo40-Voikko.png
 Tags: Linux,Windows,Mac OS X,Apuohjelma,Toimisto
-*/
+-->
 
 **Voikko on vapaa ohjelmisto suomen kielen oikolukuun, kieliopin
 tarkistukseen, tavutukseen ja sanojen analysointiin.**

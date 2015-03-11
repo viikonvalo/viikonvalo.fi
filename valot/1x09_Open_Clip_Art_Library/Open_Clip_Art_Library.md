@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x09 Open Clip Art Library - Viikon VALO #9
 Date: 2011/02/27
 Pageimage: valo9-ocal.png
 Tags: Kaikki alustat,Kuvat,Aineisto
-*/
+-->
 
 **Open Clip Art Library eli *avoin leikekuvakirjasto* on kokoelma
 vapaasti käytettäviä kuvakkeita ja kuvitusta.**

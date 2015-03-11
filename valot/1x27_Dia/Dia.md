@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x27 Dia - Viikon VALO #27
 Date: 2011/07/03
 Pageimage: valo27-Dia.png
 Tags: Linux,Windows,Mac OS X,Solaris,Irix,Toimisto,Kuvat,Kaaviot
-*/
+-->
 
 **Vapaa ohjelma diagrammien, graafien, vuokaavioiden, kytkentäkaavioiden
 sekä muiden vastaavien piirrosten tekemiseen.**

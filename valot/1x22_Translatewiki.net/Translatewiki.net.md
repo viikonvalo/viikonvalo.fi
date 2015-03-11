@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x22 Translatewiki.net - Viikon VALO #22
 Date: 2011/05/29
 Pageimage: valo22-translatewiki.net.png
 Tags: Kaikki alustat,Palvelu,Yhteisö
-*/
+-->
 
 **Translatewiki.net on avoimille ohjelmille suunnattu käännösalusta ja
 -yhteisö.**

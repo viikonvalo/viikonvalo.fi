@@ -1,0 +1,65 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''Python on monipuolinen tulkattava korkean tason ohjelmointikieli. Python soveltuu ensimmäiseksi ohjelmointikieleksi helpon oppimisen ja kielen selkeyden ansiosta.'''
+
+[[Image:valo60-python.png|left]]
+Python on alun perin nimetty brittiläisen komediaryhmä [http://fi.wikipedia.org/wiki/Monty_Python Monty Pythonin] tunnetun Monty Pythonin lentävä sirkus -televisiosarjan mukaan. Python-nimi koettiin lisäksi tarpeeksi lyhyeksi, yksilöiväksi sekä sopivan mysteeriseksi. Kielen dokumentaation koodiesimerkeissäkin pyritään välttämään liiallista vakavuutta satunnaisilla viittauksilla ryhmän tuotantoon. [http://docs.python.org/faq/general#why-is-it-called-python]
+[[Kuva:logoc-pyday.svg|200px|right]]
+Tällä hetkellä Pythonista ovat olemassa versiot 2.x ja 3.x. Yleensä vanhat ohjelmat ovat toimineet sellaisenaan uudessa Pythonin versiossa. Poikkeuksellisesti kolmosversioon on tehty muutoksia jotka rikkovat yhteensopivuuden. Tarvittavat muutokset on [http://docs.python.org/py3k/whatsnew/3.0.html dokumentoitu] ja on olemassa [http://docs.python.org/library/2to3.html apuohjelma] joka auttaa muuttamaan Python 2.x:llä kirjoitetut ohjelmat Python 3.x:lle. Linux-järjestelmissä oletuspython on vielä 2.x sarjaa. Saatavilla toki on myös 3.x python ja molemmat voivat olla asennettuina samaan aikaan. Omia ohjelmia laadittaessa voi päättää, mitä tulkkia niiden suorittamiseen käytetään. Linux- ja Unix-järjestelmissä tämä tapahtuu ohjelmatiedoston ensimmäisellä rivillä.
+
+Lisäksi versioissa 2.6 ja 2.7 on mahdollista käyttää eräitä version 3 ominaisuuksia. Näin voi vähitellen siirtää koodikantansa kolmosversioon. [http://docs.python.org/whatsnew/2.7.html#python-3-1-features]
+
+Pakollinen Hello Wordl! ohjelma esiteltävällä ohjelmointikielellä:
+  #! /usr/bin/env python2.6
+  # -*- coding: utf-8 -*-
+  print "Terve metsä taas!"
+
+Python tukee nykyisiä ohjelmointiparadigmoja kuten olio-ohjelmointia. Python soveltuu laajojen ohjelmistojen toteuttamiseen sekä yksinkertaisten skriptien tekemiseen. Jollei varta vasten käytä alustariippuvia ominaisuuksia, on Python-koodi siirrettävissä kaikille tuetuille alustoille. Windowsille on saatavilla [http://www.py2exe.org/ py2exe] joka on Python-kielen [http://fi.wiktionary.org/wiki/k%C3%A4%C3%A4nnin käännin]. Se siis tuottaa Python-tiedostoista .exe -tiedoston, jonka voi suorittaa Windows-koneessa, jossa ei tarvitse olla asennettuna Pythonin ajoaikaista tukea.  
+
+Python ei käytä sulkumerkkejä tai varattuja sanoja lohkoerottimina. Lohkon alku merkitään sisentämällä, ja lohko loppuu kun palataan tältä sisennystasolta. Tämä kannustaa rivittämään ja sisentämään ohjelmakoodin vastaamaan lohkorakennetta jolloin ohjelmakoodia on selkeämpi lukea. Kannattaa käyttää ohjelmoijan teksturia joka ymmärtää Pythonin, jolloin teksturi huolehtii oikeasta sisennyksestä. Esimerkiksi [http://www.emacswiki.org/emacs/?action=browse;oldid=PythonMode;id=PythonProgrammingInEmacs Emacs] ja [http://bluefish.openoffice.nl/features.html Bluefish] tukevat hyvin Pythonia, mutta [http://wiki.python.org/moin/PythonEditors muitakin ohjelmoijan editoreita] on. Lisäksi on integroituja ohjelmankehitysympäristöjä kuten [http://eric-ide.python-projects.org/index.html Eric4 ja Eric5] jotka on erityisesti kehitetty Pythonilla ohjelmoimiseen. 
+
+Saatavilla on paljon [http://docs.python.org/py-modindex.html koodikirjastoja], moduuleita. Ne ovat valmiita toimivaksi testattuja luokkia, aliohjelmia yms. ja helposti liitettävissä omaan ohjelmaan. Myös [http://wiki.python.org/moin/GuiProgramming graafisia käyttöliittymiä] on mahdollista tehdä, esimerkiksi [http://wxpython.org/ WxPythonilla]. Graafisen käyttöliittymän saa nopeasti toteutettua [http://en.wikipedia.org/wiki/Graphical_user_interface_builder GUI-designerilla] kuten [http://wxglade.sourceforge.net/ wxGladella].
+
+Pythonia voi käyttää kuten muita perusohjelmointikieliä, esimerkiksi C, Java tms., mutta Python mahdollistaa pythonmaisemmat ratkaisut. Esimerkiksi lukujen neliöt sisältävän taulukon voi tehdä näin:
+  neliöt = [x**2 for x in range(10)]
+Seitsemän kertotaulun saa näin:
+  kertotaulu7 = [7*n for n in range(1, 11)]
+
+Taulukoille tai muillekaan tietorakenteille ei tarvitse varata tilaa, eikä huolehtia muistin vapauttamisesta. Python-järjestelmä tekee nämä automaattisesti. 
+
+Pythonin ensimmäinen versio julkaistiin vuonna 1991, versio 2.0 vuonna 2000 ja versio 3.0 vuonna 2008. Kehitys jatkuu Pythonin alkuperäisen kehittäjän [http://en.wikipedia.org/wiki/Guido_van_Rossum Guido van Rossumin] johdolla [http://python.org/psf/ Python säätiössä]. Pythonia käytetään jo niin [http://wiki.python.org/moin/OrganizationsUsingPython monissa paikoissa] että kielen tulevaisuus näyttää turvatulta. 
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://python.org/
+;Lisenssi
+:Python säätiön lisenssi joka on [[GNU GPL]] yhteensopiva
+;Toimii seuraavilla alustoilla
+:Linux, Mac OS X, OS/2, Windows, melkein kaikki muutkin alustat, esimerkiksi Symbian OS series 60 puhelimet. [http://en.wikipedia.org/wiki/Python_for_S60]
+;Asennus
+:Linux-jakeluissa valmiiksi asennettuna (ohjelmankehitysympäristön joutunee asentamaan). Muille alustoille saatavilla asennuspaketti kotisivuilta tai muualta.
+;Käyttöohjeet
+: Linux.fi Python-ohje [http://linux.fi/wiki/Python http://linux.fi/wiki/Python]
+: Turuxin Python-kurssin [http://turuxi.org/Turuxi-py:Etusivu muistiinpanot]
+: Python-projektin kaikki ohjeet, englanniksi [http://docs.python.org http://docs.python.org] 
+: Opetusvideo GUI:n teosta WxPythonilla [http://showmedo.com/videotutorials/series?name=PythonWxPythonBeginnersSeries Englanniksi]
+: Ohjelmointiputkan asennusohje [http://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=python_l1 Python Windowsissa]
+: Vanhala, Nikula: Python 3 &ndash; ohjelmointiopas [http://www.doria.fi/bitstream/handle/10024/63381/isbn%209789522149701.pdf?sequence=1 PDF-tiedostona]
+: [http://openbookproject.net/thinkcs/python/english2e/ How to Think Like a Computer Scientist: Learning with Python]
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Kuvakaappaus-eric4-Lottoriviarvonta-py3.png|IDE Eric4 muokkaa ohjelmatiedostoa Lottorivinarvonta.py3
+Image:Kuvakaappaus-emacs-WriteNtimes.png‎|GNU Emacs muokkaa ohjelmatiedostoa
+Image:Kuvakaappaus-Suoritetaan-Pythonohjelma.png|Python-ohjelman voi käynnistää komentoriviltä
+Image:Kuvakaappaus-Python-pastebinis.png|Python syntaksikorostus pastebinissä
+Image:Kuvakaappaus-python-wxglade.png|Tehdään graafinen käyttöliittymä wxGladella 
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

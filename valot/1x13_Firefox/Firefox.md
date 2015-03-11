@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x13 Firefox - Viikon VALO #13
 Date: 2011/03/27
 Pageimage: valo13-Firefox.png
 Tags: Android,Linux,Mac OS X,Windows,Maemo,Internet,Viestintä,www
-*/
+-->
 
 **Mozilla Firefox on suosittu avoimen lähdekoodin www-selain, josta on
 juuri julkaistu uusi, entistäkin parempi versio 4.**

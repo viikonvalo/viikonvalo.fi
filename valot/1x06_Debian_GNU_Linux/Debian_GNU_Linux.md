@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x06 Debian GNU/Linux 6.0 - Viikon VALO #6
 Date: 2011/02/06
 Pageimage: valo6-Debian.png
 Tags: Käyttöjärjestelmä
-*/
+-->
 **Koodinimi Squeeze on 24 kuukauden kehitystyön tulos: Debian GNU/Linux
 -käyttöjärjestelmän versio 6.0.**
 

@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x05 Project Gutenberg - Viikon VALO #5
 Date: 2011/01/30 20:00
 Tags: Kaikki alustat,Aineisto,Kirjat
 Pageimage: valo5-Project_Gutenberg.png
-*/
+-->
 **Project Gutenberg on vapaiden sähkökirjojen verkkokirjasto.**
 
 ![](images/valo5-Project_Gutenberg.png "fig:valo5-Project_Gutenberg.png")

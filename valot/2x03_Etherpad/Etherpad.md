@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 2x03 Etherpad - Viikon VALO #55
 Date: 2012/01/15
 Pageimage: valo55-etherpad.png
 Tags: Kaikki alustat,Windows,Linux,Mac OS X,Palvelinohjelma
-*/
+-->
 
 **Etherpad on avoimen lähdekoodin verkkoalusta monen käyttäjän
 yhteistoiminnalliseen ja yhtäaikaiseenkin kirjoittamiseen.**

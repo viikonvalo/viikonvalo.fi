@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x19 Mediawiki - Viikon VALO #19
 Date: 2011/05/08
 Pageimage: valo19-Mediawiki.png
 Tags: Linux,Windows,CMS,Palvelin,Palvelinohjelma,Sisällönhallinta,Wiki
-*/
+-->
 
 **MediaWiki on suosittu wikiohjelmisto.**
 ![](images/valo19-Mediawiki.png "fig:valo19-Mediawiki.png") Lukuisten

@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x34 Inkscape - Viikon VALO #34
 Date: 2011/08/21
 Pageimage: valo34-inkscape.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Vektoripiirto,Kuvat,Kaaviot,Toimisto
-*/
+-->
 
 **Inkscape on vapaa, avoimen lähdekoodin vektoripiirto-ohjelma, joka
 soveltuu niin harraste kuin ammattilaiskäyttöönkin.**
@@ -27,7 +27,7 @@ järjestyksessä ja oikeilla paikoillaan. Objektit voivat olla vierekkäin
 tai päällekkäin. Ne voivat olla myös osittain tai kokonaan läpinäkyviä
 paljastaen niiden alla olevia toisia objekteja. Vektorigrafiikka
 soveltuu erityisesti kaavioihin ja muihin piirroskuviin. Suuri osa [Open
-Clip Art Libraryn](Open Clip Art Library "wikilink") leikekuvista onkin
+Clip Art Libraryn](Open_Clip_Art_Library) leikekuvista onkin
 piirretty Inkscapella. Wikipedian artikkeleilla voi tutustua tarkemmin
 [vektorigrafiikan](http://fi.wikipedia.org/wiki/Vektorigrafiikka)
 ([pidempi artikkeli

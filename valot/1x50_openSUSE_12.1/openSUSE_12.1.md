@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x50 openSUSE 12.1 - Viikon VALO #50
 Date: 2011/12/11
 Pageimage: valo50-opensuse.png
 Tags: Käyttöjärjestelmä,Järjestelmä
-*/
+-->
 
 **OpenSUSE on helppokäyttöinen ja vapaa GNU/Linux-käyttöjärjestelmä,
 jota kehitetään yhteisövetoisesti.**

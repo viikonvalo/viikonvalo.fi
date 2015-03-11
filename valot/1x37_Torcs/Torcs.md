@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x37 Torcs - Viikon VALO #37
 Date: 2011/09/11
 Pageimage: valo37-Torcs.png
 Tags: FreeBSD,Linux,MacOS X,Windows,Peli
-*/
+-->
 
 **TORCS on kilpa-autosimulaattori jota käytetään autoilupelinä, tekoälyn
 ohjaamana autoilupelinä ja tutkimusalustana. TORCS on pelinäkin ihan

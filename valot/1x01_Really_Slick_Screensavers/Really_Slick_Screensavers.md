@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x01 Really Slick Screensavers - Viikon VALO #1
 Date: 2011/01/02 20:00:00
 Tags: Windows,Linux,Mac OS X,Solaris
 Pageimage: valo1-rss.png
-*/
+-->
 **Really Slick Screensavers on kokoelma visuaalisesti näyttäviä vapaita
 avoimen lähdekoodin näytönsäästäjiä.**
 

@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x17 Pinta - Viikon VALO #17
 Date: 2011/04/24
 Pageimage: valo17-pinta.png
 Tags: Windows,Linux,Mac OS X,Kuvankäsittely,Kuvat
-*/
+-->
 
 **Pinta on yksinkertainen vapaa piirto- ja kuvankäsittelyohjelma**
 ![](images/valo17-pinta.png "fig:valo17-pinta.png") Pinta on pyritty tekemään

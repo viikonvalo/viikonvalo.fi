@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x07 Wine - Viikon VALO #7
 Date: 2011/02/14
 Pageimage: valo7-Wine.png
 Tags: Emulaattori,Järjestelmä,FreeBSD,Linux,PC-BSD,Solaris
-*/
+-->
 
 **Wine mahdollistaa Windows-ohjelmien käyttämisen myös muissa
 käyttöjärjestelmissä.**

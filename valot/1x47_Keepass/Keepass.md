@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x47 Keepass - Viikon VALO #47
 Date: 2011/11/20
 Pageimage: valo47-keepass.png
 Tags: Linux,Windows,Mac OS X,Android,iOS,Windows Phone 7,Blackberry,Java,PocketPC,Apuohjelma,Salaus
-*/
+-->
 
 **KeePass ja KeePassX ovat salasanojen turvalliseen säilyttämiseen
 tarkoitettuja vapaita ohjelmia.**

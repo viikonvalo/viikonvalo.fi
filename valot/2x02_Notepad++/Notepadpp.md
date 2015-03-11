@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 2x02 Notepad++ - Viikon VALO #54
 Date: 2012/01/08
 Pageimage: valo54-Notepadpp.png
 Tags: Windows,Tekstieditori,Teksti,Tekstinkäsittely,Ohjelmointi
-*/
+-->
 
 **Notepad++ on vapaa ja erittäin monipuolinen tekstieditori, joka on
 suunnattu erityisesti ohjelmointiin, mutta sopii myös yleisemmin

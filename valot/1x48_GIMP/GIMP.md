@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x48 GIMP - Viikon VALO #48
 Date: 2011/11/27
 Pageimage: valo48-gimp.png
 Tags: Windows,Linux,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Kuvat,Kuvankäsittely
-*/
+-->
 
 **GIMP on jo klassikoksi vakiintunut vapaa avoimen lähdekoodin
 kuvankäsittelyohjelma.**

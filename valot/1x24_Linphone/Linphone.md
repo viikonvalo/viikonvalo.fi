@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x24 Linphone - Viikon VALO #24
 Date: 2011/06/12
 Pageimage: valo24-Linphone.png
 Tags: Linux,Mac OS X,Windows,Android,iOS,Blackberry,Internet,Viestintä
-*/
+-->
 
 **Linphone on vapaa Internet-puhelinsovellus.**
 

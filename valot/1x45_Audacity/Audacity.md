@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x45 Audacity - Viikon VALO #45
 Date: 2011/11/06
 Pageimage: valo45-audacity.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Ääni
-*/
+-->
 
 **Audacity on vapaa äänieditori, jolla ääntä voi tallentaa, leikellä ja
 muuntaa monipuolisesti. Sillä voi esimerkiksi tallentaa omaa podcastia,

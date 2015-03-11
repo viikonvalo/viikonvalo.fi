@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x23 Minitube - Viikon VALO #23
 Date: 2011/06/05
 Pageimage: valo23-Minitube.png
 Tags: Windows,Linux,Mac OS X,Video
-*/
+-->
 
 **Minitube on pieni ja yksinkertainen ohjelma YouTube-videoiden
 katseluun ilman selainta ja Flashia.**

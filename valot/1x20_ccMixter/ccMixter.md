@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x20 ccMixter - Viikon VALO #20
 Date: 2011/05/15
 Pageimage: valo20-ccmixter.png
 Tags: Kaikki alustat,Aineisto,Musiikki,Ääni
-*/
+-->
 
 **ccMixter on palvelu, joka jakelee [Creative
 Commons](http://creativecommons.fi/) -lisensseillä lisensoituja

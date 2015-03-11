@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x14 MuseScore - Viikon VALO #14
 Date: 2011/04/03
 Pageimage: valo14-Musescore.png
 Tags: Linux,Mac OS X,Windows,Musiikki
-*/
+-->
 
 **MuseScore on ilmainen ja kätevä WYSIWYG-nuotinnusohjelma
 musiikintekijöille.**

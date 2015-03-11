@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x08 Tomboy - Viikon VALO #8
 Date: 2011/02/20
 Pageimage: valo8-Tomboy.png
 Tags: Android,FreeBSD,Linux,Mac OS X,NetBSD,OpenBSD,Solaris,Windows,Apuohjelma,Muistiinpanot
-*/
+-->
 
 **Tomboy on näppärä wiki-tyyppisesti toimiva muistiinpanoväline
 työpöydälle**

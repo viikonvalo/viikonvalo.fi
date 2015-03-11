@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x12 UFO:AI - Viikon VALO #12
 Date: 2011/03/20
 Tags: Linux,Mac OS X,Windows,Peli
 Pageimage: valo12-Ufo_ai.png
-*/
+-->
 
 **[UFO: Alien Invasion](http://ufoai.ninex.info/wiki/index.php/About) on
 strategiaa ja taktiikkaa yhdistävä peli, jossa pyritään estämään

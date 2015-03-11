@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x33 WinSCP - Viikon VALO #33
 Date: 2011/08/14
 Pageimage: valo33-winscp.png
 Tags: Windows,Internet,Tiedostonhallinta
-*/
+-->
 
 **WinSCP on vapaa tiedostojensiirto-ohjelma Windows-alustalle.**
 

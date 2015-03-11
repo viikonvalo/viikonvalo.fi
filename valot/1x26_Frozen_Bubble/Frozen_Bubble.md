@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x26 Frozen Bubble - Viikon VALO #26
 Date: 2011/06/26
 Pageimage: valo26-FrozenBubble.png
 Tags: Linux,Windows,Mac OS X,Android,iOS,S60,Java,Peli
-*/
+-->
 
 **Frozen Bubble on viihdytävä ajanvietepeli, jossa yritetään pudottaa
 katosta riippuvia värikkäitä palloja "ampumalla" niitä samanvärisillä

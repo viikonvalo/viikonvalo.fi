@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x11 Librivox - Viikon VALO #11
 Date: 2011/03/13
 Pageimage: valo11-Librivox.png
 Tags: Kaikki alustat,Aineisto,Kirjat,Äänikirjat
-*/
+-->
 
 **LibriVox on unelma, kokeilu ja kysymys: voiko netistä löytää joukon
 vapaaehtoisia herättämään tekijänoikeusvapaat kirjat eloon podcastingin

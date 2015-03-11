@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x42 X-Moto - Viikon VALO #42
 Date: 2011/10/16
 Pageimage: valo42-XMoto.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,Peli
-*/
+-->
 
 **X-Moto on kaksiulotteinen moottoripyörällä ajettava taitopeli, jossa
 fysiikka on tärkeä osa peliä.**

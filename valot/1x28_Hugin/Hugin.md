@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x28 Hugin - Viikon VALO #28
 Date: 2011/07/10
 Pageimage: valo28-Hugin.png
 Tags: Windows,Linux,Mac OS X,FreeBSD,Kuvat,Kuvankäsittely
-*/
+-->
 
 **Hugin on vapaa panoramatyökalu valokuvaajille ja satunnaisemmillekin
 näppäilijöille. Ohjelmalla voi yhdistellä useampia valokuvia upeiksi

@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 2x05 Scribus - Viikon VALO #57
 Date: 2012/01/29
 Pageimage: valo57-scribus.png
 Tags: Linux,Windows,Mac OS X,OS/2,Toimisto,Sivuntaitto,Julkaiseminen
-*/
+-->
 
 **Scribus on [taitto- ja julkaisuohjelma
 (DTP)](http://fi.wikipedia.org/wiki/Julkaisuohjelma) Linux-, Mac OS X-,

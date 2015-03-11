@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x38 PuTTY - Viikon VALO #38
 Date: 2011/09/18
 Pageimage: valo38-putty.png
 Tags: Windows,Linux,Unix,Windows Mobile,Symbian OS,Internet
-*/
+-->
 
 **PuTTY on vapaa SSH-pääteohjelma Windowsille ja Unixille. PuTTYn
 avulla Windows-koneesta voi etäkäyttää Linux- ja Unix-koneita

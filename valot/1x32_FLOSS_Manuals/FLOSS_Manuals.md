@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x32 FLOSS Manuals - Viikon VALO #32
 Date: 2011/08/07
 Pageimage: valo32-floss_manuals.png
 Tags: Kaikki alustat,Aineisto,Kirjat
-*/
+-->
 
 **FLOSS Manualsin käyttöoppaat opastavat käyttämään avoimen lähdekoodin
 ohjelmia.**

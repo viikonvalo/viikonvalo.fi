@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x04 FBReader - Viikon VALO #4
 Date: 2011/01/23 20:00
 Tags: Linux,Mac OS X,Windows,FreeBSD,Maemo,Android,Kirjat,Vapaa-aika
 Pageimage: valo4-fbreader.png
-*/
+-->
 **FBReader on avoimen lähdekoodin e-kirjojenlukuohjelma Windows- ja
 Linux/Unix-järjestelmille. FBReaderJ puolestaan on sen
 Android-puhelimiin tarkoitettu versio.**

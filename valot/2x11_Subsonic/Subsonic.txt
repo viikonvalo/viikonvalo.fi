@@ -1,0 +1,34 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''Subsonic on vapaa www-pohjainen palvelinohjelmisto musiikin kuuntelemiseen verkon yli.'''
+[[Image:valo63-subsonic.png|left]]
+Subsonic-ohjelmiston asentaminen omalle kotipalvelimelle mahdollistaa palvelinkoneella olevan musiikin kuuntelun kodin muilta koneilta käsin selainkäyttöliittymällä. Www-käyttöliittymän lisäksi kuunteluun voi käyttää verkkotietoista mediasoitinta (Winamp, VLC, iTunes, jne.), jolle annetaan Subsonicin tarjoilema soittolista soitettavaksi. Jos palvelinkone on näkyvissä myös Internetin suuntaan, voi musiikkejaan kuunnella myös kodin ulkopuolella, esimerkiksi työpaikalla. Palvelinta voi käyttää yhtä aikaa useampikin käyttäjä.
+
+Subsonicin ominaisuuksiin kuuluvat muun muassa tuki tekstihaulle, levynkansitaiteelle, id3-tageille, arvioiden ja kommenttien lisäämiselle albumeille sekä soittolistat. Subsonic tukee suoraan mp3-, ogg- ja aac-tiedostomuotoja sekä lennossa mp3-muotoon muuttamalla useita muita tiedostomuotoja, kuten wma- ja flac-tiedostoja. Subsoniciin voi lisätä seurattavia podcasteja tallentamalla niiden rss-virtojen osoitteet. Ohjelmisto tarkistaa säännöllisin väliajoin, onko podcastiin ilmestynyt uutta kuunneltavaa ja lataa tiedostot palvelimelle odottamaan kuuntelua. Levyjen ja podcastien kansikuvien vaihtaminen tapahtuu helposti Googlen kuvahakua hyödyntävällä toiminnolla.
+
+Tavallisen omalla koneella tapahtuvan musiikin kuuntelun lisäksi Subsonicissa on mahdollista valita soitto tapahtumaan jukebox-muodossa, jolloin kappaleiden soittaminen tapahtuukin itse palvelinkoneella ja web-sivu toimii etäkäyttöliittymänä soittolistan valitsemiseen.
+
+Subsonicia on lisäksi mahdollista käyttää älypuhelimiin (Android, iPhone, Windows Phone 7) sekä muihin wap- ja Java-kykyisiin puhelimiin saatavilla räätälöidyillä asiakasohjelmilla. Mobiilikäyttö vaatii kuitenkin 30 päivän kokeiluajan jälkeen palvelimelle lisenssiavaimen. Lisenssiavaimen saa lahjoittamalla muutaman euron (10-30 €) Subsonic-projektille. Lahjoittajat saavat lisäksi mahdollisuuden käyttää Subsonicia myös videotiedostojen kanssa, henkilökohtaisen omanimi.subsonic.org-osoitteen sekä pääsevät eroon Subsonicissa normaalisti harvakseltaan näytettävistä mainoksista.
+<div style="clear: left;"></div>
+
+;Kotisivu: http://www.subsonic.org/
+;Lisenssi: [[GNU GPL]] v.3
+;Toimii seuraavilla alustoilla: Linux, Windows, Mac OS X
+;Asennus: Subsonicin asennuspaketit kaikille alustoille löytyvät ohjelmiston kotisivulta. Subsonic vaatii toimiakseen Java-ympäristön sekä joukon työkaluja tiedostomuotojen muunnoksiin. [http://www.subsonic.org/pages/installation.jsp Tarkemmat asennusohjeet]
+;Kokeilu: Subsonicia voi testata [http://subsonic.org/demo/login.view?user=guest4&password=guest demo-palvelimella].
+
+<gallery><! -- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+Image:subsonic-1.png
+Image:subsonic-2.png
+Image:subsonic-3.png
+Image:subsonic-4.png
+Image:subsonic-5.png
+Image:subsonic-6.png
+Image:subsonic-7.png
+</gallery> 
+
+''Teksti: pesasa''<br />
+''Kuvakaappaukset: pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

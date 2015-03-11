@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x52 Wikimedia Commons  - Viikon VALO #52
 Date: 2011/12/25
 Pageimage: valo52-wikimediacommons.png
 Tags: Kaikki alustat,Kuvat,Aineisto
-*/
+-->
 
 **Wikimedia Commons on erikielisten Wikipedioiden yhteiseksi
 materiaalipankiksi tarkoitettu palvelu. Sinne tallennetut ja sallivasti

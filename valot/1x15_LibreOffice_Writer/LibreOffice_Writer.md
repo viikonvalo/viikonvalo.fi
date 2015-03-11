@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x15 LibreOffice Writer - Viikon VALO #15
 Date: 2011/04/10
 Pageimage: valo15-Libreoffice_writer.png
 Tags: Linux,Mac OS X,Windows,Toimisto,Tekstinkäsittely
-*/
+-->
 
 **LibreOffice on avoimeen lähdekoodiin perustuva toimisto-ohjelmisto,
 joka sisältää muun muassa tekstinkäsittelyohjelman (Writer).**

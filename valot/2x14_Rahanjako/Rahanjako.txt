@@ -1,0 +1,97 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''Rahanjako.net toimii P2P ohjelmien tapaan, mutta jaettavana ei ole musiikkikappaleita vaan rahaa.'''
+
+[[Image:valo66-rahanjako.png|left]]
+
+Rahanjako.net ja sen ulkomaankielinen versio Fr&euro;&euro;&shy;mon&euro;y.org toimivat
+kuten [http://en.wikipedia.org/wiki/Peer-to-peer_file_sharing P2P tiedostonjako-ohjelmat], esimerkiksi
+[http://en.wikipedia.org/wiki/BitTorrent_(protocol) Bittorrent]. Jaettavana on rahaa, ei kuitenkaan käteistä rahaa vaan
+tilisiirtoja. 
+
+Kuten tiedostonjako-ohjelmissakin, on ensin asennettava
+tietokoneelleen rahanjako-asiakasohjelma nimeltään
+illuminatus. Asennuksen jälkeen sovellus ottaa yhteyden
+Rahanjako-järjestelmän keskuspalvelimeen. Käyttäjä syöttää
+asiakasohjelmalle pankkitilinsä tiedot, voi syöttää kaikki
+pankkitilinsä, tilien määrälle ei ole ylärajaa. Jokaisen tilin
+kohdalle kirjoitetaan tilin käyttäjätunnus, salasana ja työläin
+vaihe on syöttää kertakäyttösalasanojen luettelo. Viranomaiset
+[http://www.kuluttajavirasto.fi/fi-FI/huijaukset/tili-ja-luottokorttitietojen-kalastelu/ varoittavat] tietojen ilmoittamisesta, mutta tarkoituksena on varoa
+lähettämästä tilitietojaan huijareille jotka tyhjentävät tilin,
+Rahanjaossa päinvastoin tilille tulee rahaa
+([http://www.fkl.fi/teemasivut/pankkiturvallisuus/Sivut/default.aspx]). 
+''Ei siis syytä huoleen''. Viimeinen asetus on määrittää yksi syötetyistä
+tileistä tuontitiliksi.
+ 
+[[Kuva:Rahanjako-free.png|right]]
+Tämän jälkeen voi aloittaa ohjelman varsinaisen käytön. Sovellukseen
+kirjoitetaan haluttu rahasumma, ja järjestelmä etsii tietokannastaan
+tilin jonka saldo on vähintään tuo summa. Jos sattuu ettei sopivaa
+tiliä ole, kootaan summa useammalta tililtä, siten että käytettävien
+tilien määrä [http://en.wikipedia.org/wiki/Bin_packing_problem minimoidaan]. 
+Näin tarvittavien tilisiirtojen määrä pysyy
+pienenä. Tilisiirron jälkeen summa on käyttäjän määrittämällä
+tuontitilillä.
+
+Vastaavasti järjestelmän muut käyttäjät voivat siirtää
+tuontitililleen tarvitsemiaan rahasummia. Näin Rahanjako.net:in
+käyttäjillä on aina tarvitsemansa raha tilillään. Jos oma tili
+sattuu olemaan tyhjä, käynnistetään vain rahanjako ja tarvittava
+saldo ilmestyy tilille tuota pikaa. Toki tilisiirrot pankkien
+välillä kestävät jonkin aikaa, mutta nykyään EU:n sisällä pankkien
+väliset tilisiirrot ovat perillä viimeistään kahdessa pankkipäivässä. 
+
+Rahanjako on suhteellisen uusi sovellus, P2P järjestelmät ovat jo
+pitkään jakaneet musiikkia, elokuvia ja tietokonepelejä ja jostain
+syystä vasta nyt on löytynyt tämä kuningasajatus rahan
+jaosta. Euroopan Keskuspankki on tukenut järjestelmän kehitystyötä:
+kun raha kiertää nopeammin eikä makaa tuottamattomana pankkitilillä
+vilkastuu talouselämä ja Euroopan Unioni nousee laman kynsistä
+uuteen vaurauteen.
+
+Euroopan Keskuspankki on torjunut euroalueen kriisiä pumppaamalla
+markkinoille tuhat miljardia euroa. Rahan määrän lisääntyminen
+kasvattaa inflaatiopainetta, joten Rahanjaon käyttö tervehdyttää
+talouspolitiikkaa. Lisärahaa ei tarvitse pumpata markkinoille kun
+Rahanjako kierrättää nopeammin jo olemassa olevaa rahamäärää. 
+
+Rahanjako vilkastuttaa talouselämää myös investointeja
+lisäämällä. Investoinnit ovat edullisempia kun rahaa ei tarvitse
+lainata mahdollisesti kovallakin korolla. Kun tarvittava rahamäärä
+on heti saatavilla ei tule myöskään korkoriskiä, korothan saattavat
+nousta huomattavastikin laina-aikana. Myös velkaantumisasteet
+pienenevät, ei tarvitse lainata kun omalla tilillä on tarvittava
+määrä rahaa.
+
+Rahanjako vähentää piratismiakin. Ei enää tarvitse ladata netistä
+laittomia kopioita, kun Rahanjako-käyttäjällä on rahaa jolla voi
+laillisesti ostaa tarvitsemansa elokuvat, musiikit ja
+tietokonepelit. 
+  
+<div style="clear: left;"></div>
+
+;Kotisivu
+:[http://fi.wikipedia.org/wiki/Silli http://rahanjako.net] ja [http://fi.wiktionary.org/wiki/kuravesi http://fr€€mon€y.org]
+;Lisenssi
+:[[GNU GPL]] ja  Freemoney International Licence United Nations Kazaa Instance
+;Toimii seuraavilla alustoilla
+:AmigaOs, Linux, Mac OS X, Windows
+;Asennus
+: Linux-järjestelmille löytynee jakelun pakettivarastoista. Muiden järjestelmien käyttäjät joutunevat noutamaan asennustiedoston kotisivulta.
+;Käyttöohjeet
+:Kotisivuilla on kattavat käyttöohjeet. Asiakasohjelmassa on sisäänrakennettu ohje. Ostettavissa on painettu ohjekirja (englanninkielinen) nimeltään "Send More Money", kirjoittanut Leopold Bloom yhden päivän aikana.
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Rahanjako-1.png|Webbisivu
+Image:Rahanjako-2.png|Muitakin valuuttoja tarjolla
+Image:Rahanjako-3.png|Asiakasohjelma Illuminatus
+Image:Rahanjako-4.png|Asiakasohjelma Illuminatus
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

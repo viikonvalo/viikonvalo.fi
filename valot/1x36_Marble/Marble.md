@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x36 Marble - Viikon VALO #36
 Date: 2011/09/04
 Pageimage: valo36-marble.png
 Tags: Linux,Windows,Mac OS X,Maemo,Kartta,Tiede
-*/
+-->
 
 **Marble on vapaa karttaohjelmisto, jolla maapalloa voi tarkastella joko
 pallona tai litteänä karttatasona usealla eri karttapohjalla.**

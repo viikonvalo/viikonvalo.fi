@@ -1,0 +1,60 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+
+'''Emacs [http://en.wikipedia.org/wiki/Org-mode org-mode] muokkaa hierarkkisista osista muodostuvaa tekstiä. org-mode tukee kirjoittamista siinä järjestyksessä kuin ongelmanratkaisun pohdiskelu etenee.'''
+
+[[Image:valo64-emacs_org-mode.png|left]]
+Org-modessa on vähän samaa ajatusta kuin [http://viikonvalo.fi/Tomboy Tomboy]-muistiinpanosovelluksessa. Kun kirjoitetaan tekstiä paperille, se on siinä, korkeintaan pyyhekumia voi käyttää ja kirjoittaa marginaaliin ja rivien väliin. Teksturilla kirjoitettaessa, kunhan pääsee irti paperille kirjoittamisen tottumuksista, voidaan tekstille tehdä kaikenlaisia temppuja kirjoittamisen aikana. Org-mode toimii muistiinpanojen kirjoittamisessa, projektin suunnittelussa, tehtävälistojen teossa ja aikatauluttamisessa, luetteloiden kirjoittamisessa, sisällön hahmottelemisessa ja vieläpä kirjoituksen julkaisemisessa webbisivuna tai LaTeX-tiedostona. Org-moden ominaisuuksia voi lisäksi käyttää tavanomaisessa kirjoittamisessaan tekstin työstämisen tukena.
+[[Image:Org-mode-Organize.svg|300px|right]]
+
+Tiedosto tallennetaan tavallisena [http://fi.wikipedia.org/wiki/Tekstitiedosto tekstitiedostona]. Tästä on merkittäviä etuja: tiedoston voi siirtää mihin tahansa muuhun tekstinkäsittelysovellukseen ja käyttöjärjestelmään, [http://fi.wikipedia.org/wiki/Versionhallinta versionhallintajärjestelmät] käsittelevät tiedostot vaivatta, tiedostoa voi muokata Linuxin komentorivin [http://en.wikipedia.org/wiki/Category:Unix_text_processing_utilities tekstinkäsittelykomennoilla] tai omilla skripteillä, käyttöön riittää tekstipääte (ei tarvitse olla graafista käyttöliittymää). Voi siis luottaa voivansa lukea tekstin vielä 50 vuoden päästäkin. Vähäisempien tekstureiden kanssa voi huomata, ettei kyseistä sovellusta enää ole saatavissa kun joskus tulevina vuosina haluaisi tiedostoaan käsitellä. 
+
+Org-modella voi aloittaa kirjoitelman laatimalla ensin sisällysluettelon kuten kuvakaappauksessa 1. Sitten kuhunkin lukuun voi kirjoittaa tekstiä inspiraation salliessa. Ne luvut jotka juuri sillä hetkellä eivät kiinnosta voi [http://en.wikipedia.org/wiki/Folding_editor laskostaa] eli piilottaa pois näkyvistä. 
+
+Toiminnot ovat kätevästi [http://fi.wikipedia.org/wiki/Pikan%C3%A4pp%C3%A4in pikanäppäimissä], joiden opetteluun tosin kuluu hieman aikaa. Org-modessa pikanäppäilyt ovat kohtalaisen tolkullisesti. Nekin on osattu järjestää helpommin muistettaviksi. Käytettäessä Emacsia graafisella käyttöliittymällä ovat toiminnot käytettävissä hiirelläkin, kuten kuvassa 2. 
+
+Org-mode osaa luettelot: numeroidut, ranskalaisella viivalla ja määrittelyluettelot. Lisäksi ranskalaisilla viivoilla kirjoitetun luettelon voi muuttaa numeroiduksi ja päinvastoin. Taulukot ovat tuettuja, soluun kirjoittaminen sovittaa automaattisesti sarakkeen leveyden, lisäksi voi käyttää taulukkolaskimen ominaisuuksia eli kirjoittaa laskentakaavoja taulukon soluihin. Tekstiin voi lisätä [http://en.wikipedia.org/wiki/Footnote alaviitteitä] (footnotes). [http://fi.wikipedia.org/wiki/Hyperlinkki Hyperlinkkejä] voi käyttää, esimerkiksi pitkän kirjoitelman alussa voi olla hyperlinkit jokaiseen lukuun tai avainkohtiin, eli pääsee helposti haluamaansa kohtaan tekstiä. Hyperlinkit voivat osoittaa myös tiedoston ulkopuolelle. [http://en.wikipedia.org/wiki/Todo_list#Task_list Tehtävälista] kirjoitetaan TODO -merkinnöillä haluttuihin kohtaan kirjoitelmaa. Org-mode osaa näyttää hajallaan olevat tehtävät yleisnäkymässä. 
+
+Tiedoston voi viedä HTML-muotoisena tai LaTeX:in kautta PDF-tiedostona. Tällöin näkyvät Org-moden tekemät värilliset korostukset yms. Niitä ei ole erityisesti tallennettu tiedostoon, koska se on tavallinen tekstitiedosto. Kuvassa 3 on tekstitiedosto sellaisenaan, kuvassa 4 sama tiedosto vietynä HTML-tiedostoksi. 
+
+Org-modella on varsin vilkas moderoitu [http://orgmode.org/org-mode-support.html postituslista]. Sen [http://news.gmane.org/gmane.emacs.orgmode arkistoa] voi lukea selaimella. 
+
+Laskin, että [http://orgmode.org/worg/org-tutorials/index.html Org-tutorials] -sivulta löytyy 5 tuntia 53 minuuttia videota tai [http://en.wikipedia.org/wiki/Screencast videokaappausta]. Yhden elokuvaillan voi viettää mukavasti org-modeen tutustumalla. Luettavia ohjeitakin on paljon, seuraavat illat voi käyttää niihin. 
+
+Org-mode:n kehitti Karsten Dominik omaan käyttöönsä astronomisten muistiinpanojen ja töiden organisointiin vuonna 2003 ([http://lumiere.ens.fr/~guerry/emacs-orgmode-gnu-hackers-meeting-2011.html] kalvo 5). Tekijä ei ole päätoiminen ohjelmoija vaan tiedemies, koodaus on vain harrastus. Projektin kakkosmies on [http://lumiere.ens.fr/~guerry/ Bastien Guerry] (joka näköjään tekee webbisivunsa Org-modella). Projektiin on osallistunut varsin paljon muitakin. Kehitys ja ylläpito jatkuu, uusin vikoja korjaava väliversio 7.8.04 [http://orgmode.org/org-mode-news.html julkaistiin 16. maaliskuuta 2012], sitä edellinen 3. tammikuuta. 
+
+Org-modesta löytyy myös [http://mobileorg.ncogni.to/ MobileOrg]-niminen mobiiliversio iPhonelle ja [https://play.google.com/store/apps/details?id=com.matburt.mobileorg Android-laitteille]. Se kykenee synkronoimaan tiedostoja muun muassa Dropboxin, WebDAV-jaon tai ssh-yhteyden kautta. Android-laitteille on myös vaihtoehtoinen toteutus [https://play.google.com/store/apps/details?id=com.matburt.mobileorg.ng MobileOrgNG].
+
+<div style="clear: left;"></div>
+;Kotisivu
+:http://orgmode.org
+;Lisenssi
+:[[GNU GPL]] v.3
+;Toimii seuraavilla alustoilla
+:Katso Viikon VALO:sta http://viikonvalo.fi/GNU_Emacs. Toimii siis samoilla alustoilla kuin Emacs
+;Asennus
+:Linux-jakeluissa jakelun omista pakettivarastoista. Sisältyy Emacs versioon 22.1 ja uudempiin (mutta on [http://orgmode.org/org.html#Activation otettava käyttöön]).  Jos asennetun Emacsin mukana ei tullut org-modea, joutunet noutamaan asennustiedoston [http://orgmode.org/org-mode-download.html kotisivulta].
+;Käyttöohjeet
+:Käyttöohjeita ja esittelyvideoita on [http://orgmode.org/org-mode-documentation.html runsaasti].
+:Kätevän pikaohjeen saa kaksipuolisena kolmeen osaan laskostettavana [http://orgmode.org/orcgard.pdf A4-arkkina]. 
+:Käsikirjan n. 40 sivuinen [http://orgmode.org/orgguide.pdf tiivistelmä].
+:[http://orgmode.org/manual/index.html Käsikirja] n. 200 sivua.
+:Käsikirja on ostettavissa [http://www.network-theory.co.uk/org/manual/ painettuna kirjana]. 
+:[http://orgmode.org/worg/org-faq.html Usein kysytyt kysymykset]
+:[http://www.emacswiki.org/emacs/OrgMode EmacsWikin artikkeli org-modesta]
+:25 minuutin [http://jaderholm.com/screencasts.html videokaappaus] esittelee org-moden perustoiminnot 
+:n. 45 minuutin Google Tech Talk jossa org-moden tekijä [http://staff.science.uva.nl/~dominik/ Carsten Dominik] [http://orgmode.org/talks/GoogleTech.html esittelee] org-moden.
+:n. 53 minuutin [http://twit.tv/show/floss-weekly/136 video] Floss Weeklystä, jossa [http://en.wikipedia.org/wiki/Randal_L._Schwartz Randall Schwartz] haastattelee Karsten Dominikia. Tekijä kertoo miten kehitti Org-moden ja perustelee ratkaisujaan, sekä kertoo miten itse käyttää Org-modea. 
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Org-mode-01.png‎|Kirjoitelma aloitettu
+Image:Org-mode-02.png‎|Voi käyttää hiirelläkin
+Image:Org-mode-03.png|Tiedosto sellaisena kuin se on levyllä
+Image:Org-mode-04.png|Sama kuin edellä vietynä HTML-tiedostoksi
+</gallery> 
+
+''Teksti: Taleman''<br />
+''Kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

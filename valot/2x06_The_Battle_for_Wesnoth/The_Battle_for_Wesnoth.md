@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 2x06 The Battle for Wesnoth - Viikon VALO #58
 Date: 2012/02/05
 Pageimage: valo58-wesnoth.png
 Tags: Linux,Windows,Mac OS X,OpenPandora,Peli
-*/
+-->
 
 **The Battle for Wesnoth on vapaa vuoropohjainen taktisen tason
 strategiapeli fantasiateemalla.**

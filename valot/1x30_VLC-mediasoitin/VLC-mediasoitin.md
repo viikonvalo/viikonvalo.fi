@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x30 VLC-mediasoitin - Viikon VALO #30
 Date: 2011/07/24
 Pageimage: valo30-Vlc.png
 Tags: Windows,Linux,Mac OS X,iOS,FreeBSD,NetBSD,OpenBSD,Solaris,Android,QNX,Syllable,OS/2,BeOS,Multimedia,Video
-*/
+-->
 
 **VLC on vapaa mediasoitin videoiden katseluun ja musiikin kuunteluun.**
 

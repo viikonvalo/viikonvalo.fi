@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x29 Avidemux - Viikon VALO #29
 Date: 2011/07/17
 Pageimage: valo29-Avidemux.png
 Tags: Linux,Mac OS X,Windows,FreeBSD,OpenBSD,NetBSD,PC-BSD,Video
-*/
+-->
 
 **Avidemux on videoeditointiohjelma yksinkertaiseen videokuvan
 leikkaamiseen, suodattamiseen ja muuntoon formaatista toiseen.**

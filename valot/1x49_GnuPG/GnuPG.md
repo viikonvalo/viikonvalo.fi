@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x49 GnuPG - Viikon VALO #49
 Date: 2011/12/04
 Pageimage: valo49-gnupg.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,VMS,GNU/Hurd,Internet,Salaus,Viestintä
-*/
+-->
 
 **GNU Privacy Guard eli GnuPG on julkisen avaimen
 salakirjoitusohjelmisto tiedon ja viestinnän salaamiseen.**
@@ -87,8 +87,7 @@ käyttöohje ensin.
 GnuPG on GNU-projektin tekemä OpenPGP toteutus.
 [OpenPGP](http://www.openpgp.org/) on standardi, määritelty
 [RFC4880:ssa](http://www.ietf.org/rfc/rfc4880.txt). OpenPGP kehitettiin
-[Phil
-Zimmermannin](http://www.philzimmermann.com/EN/background/index.html)
+[Phil Zimmermannin](http://www.philzimmermann.com/EN/background/index.html)
 [Pretty Good Privacy](http://fi.wikipedia.org/wiki/PGP) -sovelluksesta,
 jonka Zimmermann julkaisi vuonna 1991.
 

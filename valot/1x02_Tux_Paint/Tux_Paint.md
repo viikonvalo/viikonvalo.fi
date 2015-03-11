@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x02 Tux Paint - Viikon VALO #2
 Date: 2011/01/09 20:00:00
 Tags: Windows,Linux,Mac OS X,BeOS,Haiku,FreeBSD,OpenBSD,NetBSD,Piirto,Lapset
 Pageimage: valo2-tux_paint.png
-*/
+-->
 **Tux Paint on lapsille (ja lapsenmielisille) suunnattu
 piirtelyohjelma.**
 

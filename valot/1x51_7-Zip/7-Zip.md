@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x51 7-Zip - Viikon VALO #51
 Date: 2011/12/18
 Pageimage: valo51-7zip.png
 Tags: Windows,Tiedostonhallinta,Järjestelmä,Apuohjelma
-*/
+-->
 
 **7-Zip on vapaa ohjelma tiedostopakettien purkamiseen ja
 pakkaamiseen.**

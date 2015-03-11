@@ -1,9 +1,9 @@
-/*
+<!--
 Title: 1x35 Freeciv - Viikon VALO #35
 Date: 2011/08/28
 Pageimage: valo35-freeciv.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,OS/2,Cygwin,AmigaOS,Maemo,Peli
-*/
+-->
 
 **Freeciv on [vuoropohjainen
 strategiapeli](http://fi.wikipedia.org/wiki/Strategiapeli). Pelaaja on
