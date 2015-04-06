@@ -1,0 +1,46 @@
+{{CC-by}}
+'''jQuery on pieni ja kätevä kirjasto Javascript-sovellusten kirjoittamiseen.'''
+
+[[Image:valo101-jquery.png|left]]
+Yksi suosituimmista Javascript-kirjastoista on jQuery, joka helpottaa huomattavasti Javascript-ohjelmien kirjoittamista. jQuery helpottaa erityisesti html-sivun sisällön manipulointia. Sen keskeisenä ideana on, että html-dokumentin sisällöstä muodostuvan solmuja, html-elementtejä, voi valita css-tyylikielen valitsimia muistuttavista [http://api.jquery.com/category/selectors/ valitsimista] muodostettavilla hakulausekkeilla. Hakulausekkeilla löytyneiden elementtien joukolle voidaan sitten suorittaa erilaisia toimintoja ja manipulaatioita. Esimerkiksi kaikkien dokumentista löytyvien linkkien piilottaminen tapahtuu komennolla <tt>jQuery('a').hide()</tt>. Toinen jQueryn kantava idea on mahdollisuus elementtijoukolle suoritettavien toimintojen ketjuttamiseen. Esimerkiksi edellisellä komennolla piilotetut linkit voidaan näyttää ja niille voidaan samalla lisätä luokka "linkki" komennolla: <tt>jQuery('a').show().addClass('linkki')</tt>. Elementeille voidaan suorittaa myös erilaisia animoituja [http://api.jquery.com/category/effects/ efektejä], kuten näyttäminen ja piilottaminen häivytysefektillä tai ylhäältä alas "rullaamalla".
+
+Html-sisällön manipuloinnin lisäksi jQuery sisältää useita muita toimintoja, jotka helpottavat Javascript-ohjelmien tekoa. Näitä ovat esimerkiksi [http://api.jquery.com/category/ajax/ ajax-kutsujen] tekemiseen tarkoitetut funktiot, html-elementteihin liitettävien [http://api.jquery.com/category/events/ tapahtumakäsittelijöiden] lisäämiseen ja poistoon käytettävät funktiot sekä erilaiset tietorakenteiden käsittelyyn käytettävät [http://api.jquery.com/category/utilities/ apufunktiot], kuten <tt>jQuery.extend()</tt>, <tt>jQuery.map()</tt> ja <tt>jQuery.merge()</tt>.
+
+Yhtenä jQuery-kirjaston käytön etuna voidaan mainita selainriippumaton ohjelmointi. Vaikka yleisimmät www-selaimet ovat alkaneet kunnioittaa entistä enemmän standardeja, toimivat varsinkin niiden vanhempien versioiden Javascript-toteutukset silti joissain tilanteissa hieman eri tavoin. jQuery pyrkii piilottamaan näitä eroja ohjelmoijalta, jolloin ohjelmoijan ei tarvitse kaikissa tilanteissa ottaa erikseen huomioon poikkeavasti toimivia selaimia.
+
+jQuery on toteutettu helposti laajennettavaksi ja sille onkin toteutettu lukuisa joukko lisäosia, [http://archive.plugins.jquery.com/ plugineja]. Luultavasti kuuluisin jQuery-lisäosa on käyttöliittymän rakentamiseen tarkoitettu [http://jqueryui.com/ jQuery-ui], joka sisältää joukon käyttöliittymäelementtejä (nappulat, dialogi-ikkunat, välilehdet, liukusäätimet, raahattavat elementit, jne.), jotka ovat käytettävissä helposti jQueryn filosofian mukaisesti. jQuery-lisäosina on toteutettu muun muassa suuri joukko erilaisia web-sivulle laitettavia kuvagalleriasovelluksia. Myös Viikon VALO -sivuston kuvakaappausten näyttämiseen tehty [https://github.com/pesasa/psgallery galleria] on toteutettu jQuery-lisäosana.
+
+Html5-pohjaisten mobiilisovellusten rakentamiseen on mahdollista käyttää myös jQuery-pohjaista [http://jquerymobile.com/ jQuery Mobile] -kirjastoa. Kirjasto sisältää valmiit välineet mobiililaitteisiin optimoitujen valikoiden, nappuloiden, liukusäätimien sekä muiden elementtien luomiseen.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://jquery.com/
+;Lisenssi
+:[https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt MIT]
+;Toimii seuraavilla alustoilla
+:Selaimet
+;Asennus
+:Javascript-tiedosto on ladattavissa jQuery-projektin kotisivuilta. Sitä on mahdollista käyttää myös esimerkiksi [https://developers.google.com/speed/libraries/devguide#jquery Googlen tarjoamana palveluna].
+;Kuvagallerialisäosia
+:http://inspirationfeed.com/resources/tools/top-15-handy-jquery-image-gallery-plugins/
+:http://slodive.com/web-development/jquery-gallery/
+:http://ibrandstudio.com/inspiration/30-best-jquery-image-gallery-plugins-portfolio-website
+
+<gallery>
+Image:jquery-1.png|Esimerkki jQueryn käytöstä html-sivun sisällön muokkaamiseen.
+Image:jquery-2.png|Esimerkki häivytysefektin lisäämisestä click-tapahtuman yhteyteen.
+Image:jquery-3.png|Esimerkki toimintojen lisäämisestä mousemove-tapahtumaan.
+Image:jquery-4.png|Päivämäärävalitsin jQuery-ui-kirjastolla.
+Image:jquery-5.png|jQuery-ui-kirjastolla toteutettu dialogi-ikkuna.
+Image:jquery-6.png|jQuery-ui:n liukusäätimiä.
+Image:jquery-7.png|jQuery Mobilen liukusäätimiä.
+Image:jquery-8.png|jQuery Mobilen listaelementti esikatselukuvilla.
+Image:jquery-9.png|jQuery Mobile ja kokoontaittuvat alilistat.
+Image:jquery-10.png|jQuery Mobile ja dialogi-ikkuna.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,44 @@
+{{CC-by}}
+'''Hedgewars on hauska yhden tai useamman pelaajan vuoropohjainen strategia- ja ammuskelupeli.'''
+
+[[Image:valo86-hedgewars.png|left]]
+Hedgewars on suuresti takavuosien Worms-pelejä muistuttava peli. Siinä pelaajat ohjastavat vuorotellen värikkäisiin maisemiin ripoteltuja joukkueidensa jäseniä tavoitteena ampua, pudottaa, töniä, lyödä tai räjäyttää vastustajien hahmot pois pelistä yksi kerrallaan. Kuulostaa väkivaltaiselta, mutta on oikeasti hauskaa. Hedgewarsissa pelihahmot ovat matojen sijasta pieniä vaaleanpunaisia siilejä. Pelaaja saa käyttöönsä joukkueellisen pikkuisia siilejä, jotka tietokone sijoittelee satunnaisesti paljon yksityiskohtia vilisevään kenttään muiden tietokone- tai ihmispelaajien joukkueiden kanssa. Tämän jälkeen kukin hahmo saa vuorotellen vuoron siirtyä ja käyttää hallussaan olevaa aseistusta muiden joukkueiden eliminoimiseksi. Kierroksen voittaja on yksinkertaisesti se joukkue, jonka hahmoja on viimeisenä hengissä pelikentällä.
+
+Peliä voi pelata maksimissaan kahdeksan pelaajaa ja pelaaminen on mahdollista moninpelinä joko yhdellä koneella tai verkon yli. Tarvittaessa myös tietokonepelaajia voi ottaa mukaan haluamansa määrän. Satunnaisesti luotuja pelikenttiä riittää loputtomasti ja erilaisia aseitakin löytyy ainakin 47 kappaletta mukaan lukien ilmaiskut pianoilla tai räjähtävät robottikakut. Pelin asetuksia voi säätää monipuolisesti jolloin siihen on mahdollista saada juuri sopivasti haastetta. Myös siilien tyylejä voi muokata erilaisilla teemoilla pukeutumista, hautakiviä, lippuja ja ääniä myöten. Siilit voi pukea ja laittaa huutelemaan vaikka merirosvotyylisesti. Arrrr!
+
+Peli voi olla esimerkiksi hauska lisä illanvietossa, koska peliin mahtuu mukaan monta pelaajaa ja koska jokainen pelivuoro on kestoltaan rajallinen, jolloin pelivuoro vaihtuu nopeasti ja aikaa liian tarkkaan pohdiskeluun ei ole.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.hedgewars.org/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X, FreeBSD, iOS, Android
+;Asennus
+:Linux-jakeluihin peli löytyy paketinhallinnan kautta ja FreeBSD:lle portsin kautta. Windows- ja Mac OS X -järjestelmille peli on tarjolla sen kotisivuilta. Pelin iPhone- ja iPad-versio iOS-alustalle on saatavilla iTunesista. Myös Androidille löytyy alpha-vaiheessa oleva versio Google Play:sta.
+;Videoita
+: [https://www.youtube.com/watch?v=u1Y_Pw_TtFo Virallinen traileri] Queenin tahdissa
+: [https://www.youtube.com/watch?v=Qi__UMZOgi4 Peli käynnissä]
+
+<gallery>
+Image:hedgewars-1.png|Peliä voi pelata yhdellä koneella tai verkon yli moninpelinä.
+Image:hedgewars-2.png|Joukkueen ja sen tyylin valintaa.
+Image:hedgewars-3.png|Pikapeli tietokonevastustajien kanssa, moninpeli samalla koneella tai harjoituskenttiä.
+Image:hedgewars-4.png|Peli käynnissä jouluaiheisella kentällä.
+Image:hedgewars-5.png|Kipinät sinkoilevat.
+Image:hedgewars-6.png|Golf-kenttä.
+Image:hedgewars-7.png|Haulikon käytön opettelua harjoituskentällä.
+Image:hedgewars-8.png|Moninpelin asetusten ja joukkueiden valinta.
+Image:hedgewars-9.png|Valittavissa oleva asevalikoima.
+Image:hedgewars-10.png|Intiaanit vastaan puput.
+Image:hedgewars-11.png|Piraatit ja siilit vastakkain.
+Image:hedgewars-12.png|Joukkueet voivat pelata myös yhteispeliä saman värisinä.
+Image:hedgewars-13.png|Pelejä virallisen palvelimen kautta.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

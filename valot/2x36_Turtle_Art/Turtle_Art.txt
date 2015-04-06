@@ -1,0 +1,42 @@
+{{CC-by}}
+'''Turtle Art on ohjelmoinnin alkeisopetukseen sopiva kilpikonnagrafiikkaa hyödyntävä ohjelmointiympäristö, jossa ohjelmointi tapahtuu palikoilla rakentamalla.'''
+
+[[Image:valo88-turtleart.png|left]]
+Turtle Art (ja sen laajempi versio Turtle Blocks) on ohjelmointiympäristö, joka on tarkoitettu madaltamaan kynnystä ohjelmoinnin periaatteiden opetteluun. [http://fi.wikipedia.org/wiki/L%C3%A4hdekoodi Ohjelmakoodin] kirjoittamisen sijaan siinä rakennetaan ohjelmia tarjolla olevista värikkäistä toisiinsa loksahtavista palikoista, joilla kullakin on oma toimintonsa. [http://fi.wikipedia.org/wiki/Ohjelmointi Ohjelmointi] tapahtuu siis samaan tapaan kuin [http://scratch.mit.edu/ Scratch]-ympäristössä. Turtle Art hyödyntää nimensä mukaisesti myös LOGO-ohjelmointikielestä tutuksi tullutta [http://fi.wikipedia.org/wiki/Kilpikonnagrafiikka kilpikonnagrafiikkaa], jossa ruudulla kulkevaa ja jälkeensä viivaa piirtävää kilpikonnaa ohjataan yksinkertaisilla komennoilla, kuten "''eteen 50 askelta''" tai "''oikealle 90 astetta''". Palikoista rakentaminen mahdollistaa ohjelmoinnin menetelmien ja [http://fi.wikipedia.org/wiki/Lause_(ohjelmointi) rakenteiden], kuten silmukoiden ja ehtojen hahmottamisen visuaalisesti. Varsinkin pienemmille oppijoille valmiiden rakenteiden raahaaminen hiirellä tarvittaviin kohtiin on varmastikin helpompaa ja opettavaisempaa kuin kryptisemmän ohjelmakoodin kirjoittaminen. Tämä mahdollistaa samalla myös erilaisten kokeilujen tekemisen helposti.
+
+Ohjelma on alun perin kehitetty aktiviteetiksi erityisesti kehitysmaiden lapsille suunnatun ''[http://one.laptop.org/ One Laptop Per Child]''-projektin [http://en.wikipedia.org/wiki/OLPC_XO-1 XO]-koneiden [http://en.wikipedia.org/wiki/Sugar_%28interface%29 Sugar]-järjestelmään, mutta Python-pohjaisena toteutuksena se toimii luontevasti myös muissa Linux-järjestelmissä. [http://fi.wikipedia.org/wiki/K%C3%A4ytt%C3%B6liittym%C3%A4 Käyttöliittymä] on Sugar-aktiviteeteille tyypillisesti toteutettu suurilla ja selkeillä kuvakkeilla.
+
+Turtle Artissa ohjelmointiin käytettävät komponentit on jaoteltu muutamaan kategoriaan: kilpikonnan liikuttelu, piirtokynän ominaisuudet, värit, numeeriset operaatiot, kontrollirakenteet, muuttujakomponentit, ekstrat sekä esityspohjat. Näistä raahaamalla ja toisiinsa kytkemällä rakennetaan kokonaisuus, jonka voi suorittaa "run"-komennolla. Suoritus alkaa "start"-komponentista ja etenee rakennelmaa ylhäältä alaspäin suorittaen matkan varrella kunkin komponentin määräämän toiminnon. Suorituksessa voidaan myös edetä askel askeleelta hidastettuna tai [http://www.cs.helsinki.fi/compfac/ohjeet/C/gdb.html virheenjäljitys]- eli "debug"-tilassa, jolloin voidaan seurata muuttujien arvoja suorituksen aikana.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://wiki.sugarlabs.org/go/Activities/Turtle_Art
+;Lisenssi
+:[[MIT]]
+;Toimii seuraavilla alustoilla
+:Linux (mahdollisesti muitakin, toteutettu Pythonilla)
+;Asennus
+:Löytyy joidenkin Linux-jakeluiden pakettivarastosta.
+;Käyttöohjeet
+:[http://en.flossmanuals.net/turtle-art/ Floss-manuals]
+:[http://wiki.laptop.org/go/Turtle_Art_student_guide Turtle Art student guide]
+:[http://wiki.sugarlabs.org/go/Activities/Turtle_Confusion Turtle Confusion] - kokoelma tehtäviä
+;Lähdekoodi
+:[http://git.sugarlabs.org/turtleart Git-repository]
+
+<gallery>
+Image:turtleart-1.png|Yksinkertaiset komennot kilpikonnan ohjailuun.
+Image:turtleart-2.png|Kynän ominaisuudet, kuten värit.
+Image:turtleart-3.png|Numeeriset operaatiot, mukaan lukien satunnaislukugeneraattori.
+Image:turtleart-4.png|Kilpikonna kulkee satunnaisesti.
+Image:turtleart-5.png|Nimetyn alirutiinin käyttöä.
+Image:turtleart-6.png|Ekstrakomennot
+Image:turtleart-7.png|Esitystoiminnot
+Image:turtleart-8.png|Roskakori
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

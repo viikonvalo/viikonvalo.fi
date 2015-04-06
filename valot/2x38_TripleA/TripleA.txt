@@ -1,0 +1,45 @@
+{{CC-by}}
+'''TripleA on vapaa vuoropohjainen strategiapeli.'''
+
+[[Image:valo90-triplea.png|left]]
+TripleA on [http://en.wikipedia.org/wiki/Axis_%26_Allies Axis & Allies] -lautapeliä muistuttava monen pelaajan vuoropohjainen strategiapeli. Pelin mukana tulee useita pelikarttoja, kuten Axis & Allies -tyylinen 2. maailmansotaan sijoittuva skenaario sekä Taru sormusten herrasta -kirjojen Keskimaahan sijoittuva pelikartta. Verkosta löytyy lisäksi lukuisia peliyhteisön tekemiä pelikarttoja. Pelaaja voi osallistua Napoleonin sotiin, Puunilaissotiin tai Suureen Pohjan sotaan. Pelin tapahtumat voivat sijoittua myös vaikka tähtien väliseen avaruuteen.
+
+Pelaaminen onnistuu ihmispelaajia tai tekoälypelaajia vastaan ja peliä voi pelata vuorotellen yhdellä koneella, verkon yli tai jopa sähköpostipelinä (PBEM). Pelin aktiivisesta pelaajayhteisöstä löytyy varmasti vastapelaajia verkkopeliin painamalla "Find Games on the Lobby Server" -nappulaa pelin aloitusikkunassa.
+
+Pelissä kartta on jaettu useisiin osiin, joista kutakin hallitsee joku pelaajista. Pelissä pyritään valloittamaan toisten hallussa olevia alueita käyttämällä hallussa olevia sotilasyksiköitä ja aina oman vuoron alussa hankittavia täydennyksiä. Käytössä on eri tyyppisiä yksiköitä, jotka erottuvat toisistaan hyökkäys-, puolustus- ja liikkumiskyvyllään. Omalla vuorollaan pelaaja voi hyökätä vastustajan alueille ja taistelut omien ja vastapuolen yksiköiden välillä käydään nopanheitoilla ottaen huomioon yksiköiden hyökkäys- ja puolustusominaisuudet.
+
+Peli on toteutettu Java-kielellä, joten se toimii kaikilla Javaa tukevilla alustoilla, kuten Windows, Mac OS X ja Linux.
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://triplea.sourceforge.net/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X
+;Asennus
+:Linux-jakeluihin peli löytyy joko jakelun pakettivarastosta tai pelin kotisivuilta. Windows- ja Mac OS X -alustoille TripleA on ladattavissa sen kotisivuilta. Peli tarvitsee toimiakseen Javan.
+;Käyttöohjeet
+:[http://triplea.sourceforge.net/mywiki/Guides Peliohjeita]
+:http://en.wikibooks.org/wiki/TripleA
+
+<gallery>
+Image:triplea-1.png
+Image:triplea-2.png
+Image:triplea-3.png
+Image:triplea-4.png
+Image:triplea-5.png
+Image:triplea-6.png
+Image:triplea-7.png
+Image:triplea-8.jpg|Keskimaa-aiheinen pelikartta.
+Image:triplea-9.png
+Image:triplea-10.png
+Image:triplea-11.jpg|Avaruuden valloitusta.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

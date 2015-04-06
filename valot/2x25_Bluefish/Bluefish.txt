@@ -1,0 +1,73 @@
+{{CC-by}}
+'''Bluefish on kehittynyt [http://fi.wikipedia.org/wiki/Tekstieditori tekstieditori] webbisivujen tekoon ja ohjelmatiedostojen kirjoittamiseen.'''
+
+[[Image:valo77-bluefish.png|left]]
+Bluefishissä on runsaasti työkaluja dynaamisten webbisivujen kehitystyöhön. Bluefishissä on tuki ohjelmointiin ainakin seuraaville kielille: 
+Ada,
+ASP .NET ja VBS,
+C/C++,
+CSS,
+CFML,
+Clojure,
+D,
+gettext PO,
+Google Go,
+HTML, XHTML ja HTML5,
+Java ja JSP,
+JavaScript ja jQuery,
+Lua,
+Octave/MATLAB,
+MediaWiki,
+NSIS,
+Pascal,
+Perl,
+PHP,
+Python,
+R,
+Ruby,
+Shell,
+Scheme,
+SQL,
+SVG,
+Vala,
+Wordpress ja
+XML.
+
+Bluefish on toteutettu C-ohjelmointikielellä ja GTK+-käyttöliittymäkirjastolla. Bluefish on suunnattu käyttötarkoitukseltaan perustekstieditorin ja integroidun kehitysympäristön väliin. Sen [http://bluefish.openoffice.nl/features.html ominaisuusvalikoima] on kattava ja siitä pitäisi löytymän kaikki mitä teksturilta voi edellyttää. 
+
+Bluefish osaa muokata etätiedostoja [http://en.wikipedia.org/wiki/GVFS gvfs]:n kautta. Eli omalla työasemalla toimiva Bluefish voi muokata webbipalvelimella olevaa .html tiedostoa suoraan, tarvitsematta noutaa sitä omalle koneelle ja kopioida muokkauksen jälkeen takaisin. Tämä ominaisuus on [http://bluefish.openoffice.nl/features.html webbisivun mukaan] vaillinaisesti toteutettu Bluefishin Windows ja Mac OS X -versioissa. [[Image:Bluefish.png|right]]
+
+Käytä Bluefishiä jos kirjoitat webbisivuja käsin, siis itse kirjoitat .html ja .css tiedostot. Toinen tapahan on käyttää [http://en.wikipedia.org/wiki/Website_builder työkalua], jolla webbisivut kuvataan ja työkalu tuottaa HTML- ja CSS-tiedostot. Näissä ei välttämättä voi paljoakaan vaikuttaa millaista koodia työkalu tuottaa, mutta Bluefishillä voi kirjoittaa juuri sillä tavalla kuin tarvitaan. 
+
+Bluefish aloitti vuonna 1997, tekijöinä Chris Mazuc ja Olivier Sessing. Tavoitteena oli työkalu auttamaan Linuxia käyttäviä ammatikseen webbisivuja tekeviä. Tuosta alkaen Bluefishiä on kehittänyt vaihteleva joukko ammattimaisia web-kehittäjiä Olivier Sessinkin johdolla. Projektin nimi on ollut vaihtuvainen, alkuperäinen nimi Thtml hylättiiin liian salaperäisenä. Seuraava nimi oli Prosite, se hylättiin koska useat web-kehitysyhtiöt käyttivät nimeä useissa maissa. Nimeksi tuli Bluefish, kun logoksi ehdotettiin lapsen piirrosta sinisestä kalasta. Nykyinen logo on ollut käytössä versiosta 1.0 alkaen. 
+
+Uusin versio 2.2.2 julkaistiin maaliskuun 1. päivänä.  
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://bluefish.openoffice.nl/index.html
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Mac OS X, Solaris, Unix, Windows
+;Asennus
+:Linux-jakeluissa tulee jakelun omista pakettivarastoista. Muut käyttäjät joutunevat noutamaan asennustiedoston kotisivulta. 
+;Käyttöohjeet
+:[http://linux.fi/wiki/Bluefish Linux.fi Wikin lyhyt ohje]
+:[http://bfwiki.tellefsen.net/index.php/Manual_2_ToC Englanninkielinen käsikirja, keskeneräinen]
+:[http://bfwiki.tellefsen.net/index.php/Main_Page Bluefish Wiki] 
+;Katso myös
+:[[Notepad++]], [[GNU Emacs]]
+
+<gallery>
+Image:Bluefish_1.png|Juuri käynnistetty
+Image:Bluefish_2.png‎|Mediawiki wikiteksti
+Image:Bluefish_3.png‎|HTML-tiedosto
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

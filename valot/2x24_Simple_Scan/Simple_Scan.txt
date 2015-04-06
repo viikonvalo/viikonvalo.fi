@@ -1,0 +1,38 @@
+{{CC-by}}
+'''Simple Scan on hyvin yksinkertaiseksi tehty skannausohjelmisto, jolla voi skannata paperilta digitaaliseen muotoon niin yksittäisiä kuvia kuin monisivuisia dokumenttejakin.'''
+
+[[Image:valo76-simplescan.png|left]]
+Skanneriohjelmistot ylpeilevät helposti monipuolisuudellaan ja lukuisilla säädöillään, joita käyttämällä skannerin käytöstä saa irti täyden hyödyn. Monessa tilanteessa kuitenkin on tarve vain nopeasti ja helposti muuntaa sähköiseen muotoon, esimerkiksi pdf-tiedostoksi, jokin yhden tai useamman sivun mittainen dokumentti tai skannata riittävällä tarkkuudella jokin kuva. ''Simple Scan'' on suunniteltu juuri tällaiseen käyttöön. Ohjelman tarkoituksena on vain mahdollistaa nopea ja huoleton skannaaminen ilman suurta perehtymistä ja asetusten säätämistä. Ohjelman ei ole tarkoitus kilpailla monipuolisempien skanneriohjelmien kanssa vaan hoitaa yksinkertaiset skannaustehtävät nopeasti ja vaivattomasti. Ohjelma soveltuu erinomaisesti esimerkiksi laskujen, kuittien, takuulappujen sekä muiden säilytettävien paperisessa muodossa saatujen asiakirjojen skannaamiseen sähköistä arkistointia varten. Takuulappujen ja kuittien lämpöpaperistahan häviää teksti näkyvistä jo hyvissä ajoin ennen takuuajan umpeutumista.
+
+Ohjelman käyttöliittymä on tehty mahdollisimman minimalistiseksi, mutta siinä on silti säilytetty tärkeimmät toiminnot. Työpalkissa ovat painikkeet vain uuden asiakirjan aloittamiselle, seuraavan sivun (tai kaikkien syöttölaitteella olevien sivujen) skannaamiselle, skannattujen sivujen tallentamiselle, aloitetun skannauksen keskeyttämiselle, sivun kääntämiselle 90 astetta myötä- tai vastapäivään sekä skannatun sivun rajaamiselle. Sivua skannatessa voi valita kahdesta esiasetetusta skannaustilasta, jotka ovat mustavalkoinen tekstiskannaus ja värillinen valokuvaskannaus. Ohjelman asetuksetkin ovat minimaaliset ja koostuvat vain skannerilaitteen valinnasta (jos laitteita on useampia), teksti- ja valokuvaskannausten tarkkuudesta, joidenkin laitteiden kanssa valittavasta skannauspuolesta sekä halutusta sivukoosta. Mitään muita asetuksia ohjelmassa ei ole valittavissa.
+
+Skannatut sivut voidaan ohjelmalla tallentaa, tulostaa tai lähettää sähköpostina. Tallennusmahdollisuuksina ovat pdf-, jpg- ja png-tiedostomuodot. Pdf-tiedostona tallennettaessa kuvat tallennetaan yhtenä useampisivuisena pdf-tiedostona, kukin kuva omana sivunaan. Jpg- ja png-muodoissa tallennettaessa kukin kuva tallennetaan erillisenä tiedostona. Sähköpostina lähettäminen tapahtuu käyttämällä järjestelmän oletussähköpostiohjelmaa ja skannattu asiakirja liitetään sähköpostiin pdf-tiedostona.
+
+Teknisesti Simple Scan toimii käyttöliittymänä taustalla toimivalle [http://www.sane-project.org/ SANE]-järjestelmälle (''Scanner Access Now Easy''). SANE on Linux- ja UNIX-ympäristöissä yleisesti käytetty ohjelmointirajapinta skannereille. Kaikkien skannausohjelmien ei siis tarvitse osata käyttää kaikkia erilaisia skannereita vaan ne osaavat jutella SANE-järjestelmälle, joka hoitaa itse laitteen ohjaamisen. Useissa Linux-jakeluissa, kuten esimerkiksi Ubuntussa, SANE on oletuksena valmiiksi asennettuna ja se tunnistaa sekä osaa käsitellä suoraan suurta osaa tietokoneeseen kytketyistä skannereista. Muita käyttöliittymiä SANElle ovat muun muassa monipuolisempi [http://www.xsane.org/ XSane], KDE-työpöytäympäristön käyttämä [http://docs.kde.org/development/en/extragear-graphics/skanlite/ skanlite] sekä myös dokumenttien pdf-tiedostoiksi skannaamiseen soveltuva [http://gscan2pdf.sourceforge.net/ gscan2pdf].
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:https://launchpad.net/simple-scan
+;Lisenssi
+:[[GNU GPL]]v3
+;Toimii seuraavilla alustoilla
+:Linux, BSD-Unixit
+;Asennus
+:Simple Scan löytyy useissa Linux-jakeluissa suoraan paketinhallinnasta. BSD-Unixeihin ohjelma löytyy yleensä joko niiden omista paketeista tai ohjelman kotisivuilta lähdekoodina.
+
+<gallery>
+Image:simplescan-1.png
+Image:simplescan-2.png
+Image:simplescan-3.png
+Image:simplescan-4.png
+Image:simplescan-5.png
+Image:simplescan-6.png
+Image:simplescan-7.png
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

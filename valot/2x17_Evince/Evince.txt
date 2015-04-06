@@ -1,0 +1,41 @@
+{{CC-by}}
+'''Evince on vapaa ja kevyt lukuohjelma pdf-tiedostoille sekä muutamalle muulle tiedostomuodolle.'''
+
+[[Image:valo69-evince.png|left]]
+Evince on monipuolinen ja kevyt lukuohjelma, joka käynnistyy nopeasti. Evincellä voi lukea PDF, PostScript, DjVu, TIFF, DVI sekä XPS-tiedostoja. Ohjelman uusimmilla versioilla voi lukea myös cbr-,cbz-,cb7- ja cbt-muotoisia sarjakuvakirjoja.
+
+Evincestä löytyvät tyypilliset lukuohjelmien ominaisuudet: haku dokumentista, sisällysluettelo, sivujen esikatselukuvat, tulostus, salattujen dokumenttien katselu ja esitystila. Se tukee myös PDF-lomakkeita sekä muistiinpanoja ja kirjanmerkkejä. Evince on toteutettu [http://live.gnome.org/Evince/a11y saavutettavuus silmällä pitäen], eli sitä on mahdollista käyttää myös ruudunlukijaohjelman kanssa.
+
+Yksi Evincen mielenkiintoinen ominaisuus on mahdollisuus vaihtaa näytettävän tiedoston värit vastakkaisiksi. Tämä ominaisuus on hyödyllinen esimerkiksi luettaessa tekstiä pimeässä, jolloin valkoinen teksti mustalla pohjalla rasittaa silmiä vähemmän.
+
+Evince on useissa Linux-jakeluissa käytetyn Gnome-työpöytäympäristön oletuslukuohjelma, mutta ohjelma löytyy myös Windows-alustoille. Muita vapaita pdf-lukijoita löytyy lueteltuina [http://pdfreaders.org/ pdfreaders.org]-sivustolta.
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://projects.gnome.org/evince/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows
+;Asennus
+:Evincen voi ladata Windowsiin ja Linuxiin [http://live.gnome.org/Evince/Downloads ohjelman kotisivuilta]. Evince löytyy myös useimpien Linux-jakeluiden pakettivarastoista.
+;VALO-CD
+: Evince löytyy myös [http://www.valo-cd.fi/ilmainen_evince VALO-CD]-kokoelmasta.
+
+<gallery>
+Image:evince-1.png
+Image:evince-2.png
+Image:evince-3.png
+Image:evince-4.png
+Image:evince-5.png
+Image:evince-6.png
+Image:evince-7.png
+Image:evince-8.png
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

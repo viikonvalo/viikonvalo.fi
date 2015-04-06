@@ -1,0 +1,45 @@
+{{CC-by}}
+'''Open Goldberg Variations on pitkään vapaana ollut musiikki viimeinkin laadukkaana vapaana nuotinnoksena ja äänityksenä.'''
+
+[[Image:valo75-opengolbergvariations.png|left]]
+Goldberg-muunnelmat (eli Goldberg-variaatiot), BWV 988, on Johann Sebastian Bachin vuonna 1741 tai 1742 julkaistu klaveeriteos, jonka alkuperäinen nimi oli ''Clavier-Übung – Aria mit verschiedenen Veränderungen''. Teos koostuu alussa ja lopussa soitettavasta teemasta (aria) sekä sen kolmestakymmenestä muunnelmasta. Teos on saanut yleisemmin tunnetun nimensä Bachin oppilaan, cembalisti Johann Gottlieb Goldbergin mukaan. (http://fi.wikipedia.org/wiki/Goldberg-muunnelmat)
+
+Open Goldberg Variations -projektin tavoitteena oli saada tämä laadukas klassinen musiikki vapaasti saataville sekä äänityksenä että nuotinnoksena. Nuotit kirjoitettiin ohjelmalla [[MuseScore]] ja soittajaksi saatiin [http://www.opengoldbergvariations.org/kimiko-ishizaka-open-goldberg-variations-pianist Kimiko Ishizaka].
+[[Image:Goldberg-TheresaKnott_piano.png|right]]
+
+Soittaja on aikamoinen moniottelija, hän on menestynyt myös voimanostossa ja painonnostossa (http://en.wikipedia.org/wiki/Kimiko_Douglass-Ishizaka). Muun hyvän lisäksi projekti edisti MuseScoren kehitystä, nuotinnoksen monimutkaisuus pakotti kehittämään MuseScoreen uusia [http://www.kickstarter.com/projects/293573191/open-goldberg-variations-setting-bach-free/posts/66914 ominaisuuksia]. 
+
+Tämän todella hienon musiikin voi 28. toukokuuta alkaen kuunnella vapaasti projektin kotisivulta, tai tallentaa musiikkitiedostot omalle koneelleen. Myös nuotit voi noutaa MuseScoren uusimman version ymmärtämässä tiedostomuodossa. Tässä siis musiikkia, jonka voi ladata omaan soittimeensa, kopioida kavereille, kuunnella maksamatta Teoston tai Gramexin maksuja, soittaa itse ja periä vaikka maksu kuuntelijoilta, siis vallan kerta kaikkiaan vapaasti. Nyt on Bach päästetty vapaaksi 271 vuoden jälkeen!
+
+Tämän mahdollisti Kickstarterin kautta hankittu rahoitus. Tavoite 15&nbsp;000&nbsp;$ ylittyi roimasti, 406 tukijaa lahjoitti yhteensä 23&nbsp;748&nbsp;$. Rahoitusta tarvittiin huolellisen nuotinnoksen laatimiseen, laadukkaaseen studioäänitykseen ja taitavaan soittoon. Goldberg-muunnelmat on teknisesti vaikea soitettava, pianistin piti harjoitellakin ensin. 
+
+Projekti tuotti laadukasta vapaata musiikkia ja osoitti musiikin tuottamiselle uuden rahoitustavan. Muusikko tai tuotantoyhtiö ei halua luopua tekijänoikeuksista koska jostain heidänkin pitää elantonsa ansaita. Open Goldberg Variations osoitti voitavan palkata musiikin tekijät työhön ja julkaista teos vapaana musiikkina. 
+
+Pieni kauneusvirhe projektissa on, kun äänitys on julkaistu [http://en.wikipedia.org/wiki/MP3 MP3]-tiedostona, joka tiedostomuoto on patentilla suojattu. Kokonaan vapaa tiedostomuoto kuten [http://en.wikipedia.org/wiki/Ogg_Vorbis Ogg Vorbis] olisi luonnikkaampi. Onneksi myös [http://en.wikipedia.org/wiki/FLAC FLAC]-tiedosto on tulossa saataville, siitä voi itse tehdä OGG-tiedoston. 
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://opengoldbergvariations.org/
+;Lisenssi
+:[[Creative Commons Zero license]], http://creativecommons.org/publicdomain/zero/1.0/
+;Toimii seuraavilla alustoilla
+:Kaikki
+;Asennus
+:Musiikit voi kuunnella selaimella kotisivulta tai ladata tietokoneelleen samasta paikasta. 
+
+<gallery>
+Image:Goldberg-1.png‎|Open Goldberg Variations, webbisivu
+Image:Goldberg-2.png‎|Myös nuotit saatavilla
+Image:Goldberg-3.png‎|Nuottien ensimmäinen sivu
+</gallery> 
+
+===Viitteitä===
+
+* [http://www.youtube.com/watch?v=7c_QeDYqjlA Pianistin haastattelu Youtubessa (Saksaksi)]
+* [http://www.kickstarter.com/projects/293573191/open-goldberg-variations-setting-bach-free Projektin kuvaussivu]
+* [http://libregraphicsworld.org/blog/entry/open-goldberg-variations-mission-accomplished Projektin saavutukset]
+''Teksti: Taleman''<br />
+''Kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

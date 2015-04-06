@@ -1,7 +1,7 @@
-/*
+<!--
 Title: Linkkivinkit
 Linkkivinkit: true
-*/
+-->
 
 - [VALO-CD]
 - [Vapaasuomi.fi]

@@ -1,6 +1,6 @@
 <!--
 Title: 2x14 SystemRescueCD - Viikon VALO #66
-Date: 2012/04/1
+Date: 2012/04/01 12:00
 Pageimage: valo66-systemrescuecd.png
 Tags: Kaikki alustat,Ylläpito,Järjestelmä
 -->

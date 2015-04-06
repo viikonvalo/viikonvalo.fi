@@ -1,0 +1,54 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''BackupPC varmistaa tiedostoja levyltä levylle paikallisverkossa olevilta koneilta tai etäyhteydellä Internetin yli.'''
+
+[[Image:valo85-backuppc.png|left]]
+Levytilan hinta teratavua kohti on laskenut vuosien mittaan romahdusmaisesti samalla kun levyjen koot ovat kasvaneet. Yksi osoitus tästä on levyjen koosta käytetty yksikkö, aikoinaan megatavuja, sitten gigatavuja ja nyt teratavuja. Niinpä on tarkoituksenmukaista ottaa [http://fi.wikipedia.org/wiki/Varmuuskopiointi varmuuskopiot] levylle, eikä enää nauhalle. 
+
+[http://backuppc.sourceforge.net/ BackupPC] osaa kopioida useista koneista halutut tiedostot varmuuskopioksi, josta voidaan suoraan palauttaa tiedostoja samaan koneeseen tai muualle. Varmuuskopio voi olla täysi tai [http://www.recall.fi/why-recall/data-protection-terminology inkrementaalinen]. BackupPC osaa tiedostojen [http://www.tietoviikko.fi/taustat/deduplikointi+laakitsee+dataturvotusta/a317122 deduplikoinnin], eli sama tiedosto tallennetaan vain kerran. Kun varmuuskopio otetaan joka päivä, ovat useimmat tiedostot samoja kuin eilen, eli tiedoston sisällön tallentaminen toiseen kertaan olisi turhaa. Lisäksi varmistettaessa useita koneita on niissä usein samoja tiedostoja.
+
+BackupPC osaa tehdä arkiston tiedostoista. Tämä arkisto voidaan tallentaa muullekin kuin levytaltiolle, vaikkapa nauhalle tai optiselle levylle. Arkisto voidaan sitten kiikuttaa palosuojakaappiin, toiseen kaupunkiin tai pankin tallelokeroon. 
+[[Kuva:BackupPC-07.jpg|right]]
+Nauhoille varmistaminen on hankalaa jos ei ole [http://www.itviikko.fi/ratkaisut/2007/05/31/nauharobotti-varmistaa-viikkotolkulla-putkeen/200713406/7 nauharobottia] [http://www.digitoday.fi/vimpaimet/2006/03/15/nauharobotti-poydalle/20065703/66 vaihtamassa] nauhoja. Kiintolevyjen kapasiteetti on suurempi kuin nauhakasetin, joten uusia kasetteja täytyisi vaihtaa kesken kopioinnin. Nauhakasetti pitäisi joka tapauksessa vaihtaa päivittäin, jotta nauhat kiertävät ja edellinenkin varmistus on tallessa. Levylle varmistamalla ei ole näitä ongelmia, ja isoja levyjä on saatavilla ja vieläkin isompia saa tekemällä useasta levystä [http://fi.wikipedia.org/wiki/RAID RAID-tekniikalla]. 
+
+Tiedonsiirtoon käytetään [http://fi.wikipedia.org/wiki/Protokolla_(tietoliikenne) yhteyskäytäntöjä] smb, tar, rsync ja ftp. Jokin näistä toiminee asiakaskoneessa, siihen ei siis ole pakollista asentaa lisäohjelmia. BackupPC:stä ei ole asiakaskoneelle tarkoitettua versiota, sitä siis ei ainakaan tarvitse asentaa. Jos haluaa käyttää [http://en.wikipedia.org/wiki/Rsync rsync-yhteyskäytäntöä], pitänee se asentaa sekä palvelimeen että asiakaskoneeseen, koska rsync ei kaikissa Linuxeissakaan tule vakioasennuksessa. Myös Windowsille on saatavilla rsync BackupPC:n [http://backuppc.sourceforge.net/faq/BackupPC.html#step_5__client_setup käsikirjan mukaan]. 
+
+Linux-koneiden varmistus on varsin suoraviivaista. Palvelinkoneen käyttäjälle backuppc (ohjelman asennus luo tämän käyttäjän) sallitaan pääsy ssh-avaimella varmistettaville koneille. Tämä tapahtuu luomalla ssh-avain tyhjällä salasanalla ja kopioimalla avaimen julkinen osa '''ssh-copy-id''':llä varmistettavien koneiden root-käyttäjälle. Mikäli tämä tapa tuntuu liian turvattomalta, voi toisia tapoja katsoa [http://backuppc.sourceforge.net/faq/ssh.html#how_can_client_access_as_root_be_avoided wikistä]. Lisää aiheesta löytyy [http://www.hackinglinuxexposed.com/articles/20021211.html Brian Hatchin artikkelin] osasta [http://www.hackinglinuxexposed.com/articles/20030109.html kolme]. Windows-koneelta en vielä ole onnistunut varmuuskopiota saamaan, pitää yrittää lisää. 
+
+Yksi niksi BackupPC:n palvelimella pitää muistaa. Konfiguraatiotiedostossa voi muuttaa hakemiston johon BackupPC kirjoittaa varmuuskopioita, mutta sitä ei pidä siellä muuttaa. Toimiva tapa on muuttaa oletushakemisto linkiksi sinne mihin varmuuskopiot haluaa. Tämä nähtävästi johtuu hieman hutiloiden kirjoitetusta koodista, jossa oletushakemisto on vakiona monessa paikkaa. Jos asetustiedostossa muuttaa tätä, osa ohjelmaa käyttää muutettua ja osa alkuperäistä, jolloin tiedostot eivät ole kaikki samalla tiedostojärjestelmällä ja BackupPC ei voi luoda hard linkkejä tiedostoihin. Jos tämän virheen on mennyt tekemään, oire on että varmuuskopiot näyttävät menevän OK, mutta BackupPC:n Spool ei kasva koska linkkejä ei saada tehtyä. Lokiin tulee kyllä virheilmoituksia, eli tarkka varmuuskopioitsija huomaa jotain olevan pielessä. 
+
+Toinen hieman hölmö ominaisuus on palvelinkoneen varmistukset. BackupPC:n asennus pistää sen automaattisesti käyntiin varmistamaan hakemistopuun '''/etc''', mutta käyttäjänä backuppc jolla ei ole lukuoikeutta kaikkiin tiedostoihin. Esimerkiksi '''/etc/shadow''' jää varmuuskopioimatta.
+
+Vallan on hyvä tämä ohjelmisto. Varmuuskopiot tulevat automaattisesti päivittäin. Jos varmistettava kone ei ole käynnissä, BackupPC yrittää uudelleen tasatunnein kunnes varmistus onnistuu. On mahdollista saada lähetettyä sähköposti varoittamaan koneen haltijaa jos liian pitkään menee ilman varmistusta. Kun varmistukset saa pyörimään, toimii järjestelmä omia aikojaan. 
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://backuppc.sourceforge.net/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Solaris, Unix palvelimelle, asiakaskoneet lisäksi MacOS, Windows.
+;Asennus
+:Linux-jakeluissa tulee jakelun omista pakettivarastoista. Solaris ja muut Unixit: nouda kotisivulta. Asiakaskoneisiin ei asenneta BackupPC:tä. 
+;Käyttöohjeet
+:Sisäänrakennettu ohje webbikäyttöliittymässä englanniksi
+:[http://backuppc.sourceforge.net/faq/BackupPC.html Dokumentaatio englanniksi]
+:[http://sourceforge.net/apps/mediawiki/backuppc/index.php?title=Main_Page Wiki]
+:[http://www.cs.umd.edu/~cdunne/projs/backuppc_guide.html BackupPC Install Guide for Windows 7/Vista/XP Clients & Ubuntu Server]
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:BackupPC-01.png‎|Yleiskatsaus palvelimen tilasta
+Image:BackupPC-02.png‎|Asiakaskoneiden tilanne
+Image:BackupPC-03.png‎|Webbikäyttöliittymä asetuksille
+Image:BackupPC-04.png‎|Lokista näkee mitä tehtiin
+Image:BackupPC-05.png‎|Webbikäyttöliittymästä pääsee suoraan ohjeisiin
+Image:BackupPC-06.png‎|Palvelin ollut käytössä useita viikkoja
+</gallery> 
+
+''Teksti: Taleman''<br />
+''Kuvakaappaukset: Taleman''<br />
+''Valokuva: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

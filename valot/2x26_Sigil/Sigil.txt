@@ -1,0 +1,38 @@
+{{CC-by}}
+'''Sigil on vapaa työkalu epub-muotoisten sähkökirjojen tekoon.'''
+
+[[Image:valo78-sigil.png|left]]
+Sigil on sähkökirjaeditori, jolla kirjan muokkaaminen onnistuu sekä visuaalisessa [http://fi.wikipedia.org/wiki/WYSIWYG WYSIWYG]-tilassa että sisällön tarkemman hallinnan mahdollistavana raakakoodina. Ohjelman tallennusmuotona on avoin sähkökirjatiedostomuoto [http://fi.wikipedia.org/wiki/EPUB EPUB]. EPUB-tiedostot hyödyntävät olemassa olevia avoimia standardeja ja esimerkiksi jo olemassa olevan html-muotoisen sisällön tuominen kirjaan on helppoa. WYSIWYG-tilassa kirjan editoitava sisältö näyttää suurin piirtein siltä miltä sen on tarkoitus lopullisena sähkökirjanakin näyttää. Esimerkiksi otsikot, kuvat, luettelot ja korostukset näkyvät paikoillaan, kuten kirjoittaja on ne tarkoittanutkin. Vaihtoehtoisesti sisältöä voi editoida raakakooditilassa tai jaetussa näkymässä, jossa sekä lopputulos että raakakoodi ovat yhtä aikaa näkyvissä.
+
+Sigilin käyttöliittymä koostuu kirjaselaimesta, editointialueesta ja sisällysluettelosta. Kirjaselaimessa (''book browser'') luetellaan kaikki kirjan komponentit, eli tekstiosiot, kuvat, tyylimäärittelyt, kirjasimet sekä muut tarvittavat osaset. Editointialueessa tapahtuu itse kirjan muokkaaminen. Editointialueeseen voidaan avata muokattavaksi kirjaselaimessa lueteltuja tekstiosioita ja tyylimäärittelyitä. Kirjan voi kirjoittaa käyttämällä vain yhtä tekstiosiota, mutta käytännössä on hyödyllistä jakaa kirja esimerkiksi lukujen kohdalta osiin, jolloin erillisten osien muokkaaminen on helpompaa niiden pienemmän koon vuoksi. Myös kappaleiden uudelleen järjestäminen on helpompaa, kun ne ovat kukin omassa osiossaan. Kirjaan voidaan lisätä kuvatiedostoja ja tekstiin merkitä kohtia, joissa kuvat näytetään. Tyylimäärittelyillä voidaan muokata kirjan ulkoasua, esimerkiksi muuttamalla otsikoiden kirjasintyyliä tai tekstin korostustyylejä. Sisällysluettelonäkymä näyttää nimensä mukaisesti kirjan sisällysluettelon. Sisällysluettelonäkymän alareunan nappulalla sisällysluettelon saa generoitua vastaamaan tekstiosioiden otsikkorakennetta juuri sillä hetkellä. Generoinnin yhteydessä on mahdollista valita, minkä tasoiset otsikot otetaan mukaan sisällysluetteloon. Myös valikoitujen otsikoiden jättäminen pois sisällysluettelosta on mahdollista.
+
+Sähkökirjaan voidaan lisätä myös useita metatietokenttiä. Tärkeimmät tiedot ovat meta-editorissa heti kysytyt otsikko (''title'') ja tekijä (''author'') sekä kirjan kieli. Näiden lisäksi lisättävissä on 15 perustietoa, esimerkiksi julkaisupäivä, kuvaus sekä kirjan ISBN-koodi. Loput yli 200 metatietokenttää ovat valittavissa erillisen napin takaa. Sigil tukee täysin EPUB2-standardia ja siinä on myös tuki svg-kuville. Sigiliin on integroitu [http://code.google.com/p/flightcrew/ FlightCrew]-validaattori, joka tarkistaa, että tiedosto on EPUB-standardin mukainen. Niin ikään Sigiliin upotettu [http://tidy.sourceforge.net/ HTML Tidy] puolestaan varmistaa, että käytetyt xhtml-tiedostot ovat syntaksiltaan oikeellisia ja siistittyjä.
+
+Käytännössä EPUB-tiedosto on ZIP-paketti, jonka sisältö koostuu itse kirjan tekstin sisältävistä xhtml-tiedostoista (tekstiosiot), ulkoasun asettelun kuvaavista css-tyylitiedostoista, kirjassa käytetyistä kuvista sekä mahdollisesti käytetyistä fonttitiedostoista. Näiden lisäksi paketissa ovat vielä sisällysluettelon sekä metatiedot ja kirjan rakenteen kuvaavat xml-tiedostot. EPUB-tiedosto on siis mahdollista rakentaa, jos osaa, tekemällä kaikki tarvittavat tiedostot käsin, pakkaamalla ne ZIP-tiedostoon ja nimeämällä tiedosto epub-päätteiseksi. Kirjan tekeminen Sigil-ohjelmalla on kuitenkin huomattavan paljon helpompaa, sillä Sigil huolehtii muun muassa kirjan rakenteen ylläpidosta ja sisällysluettelon luomisesta. Myöskään sisällön kirjoittamiseen ei välttämättä tarvita xhtml-kielen tuntemista vaan WYSIWYG-editoria käyttäen kirjan kirjoittaminen on varsin intuitiivista. Kannattaa kuitenkin huomata, että xhtml-kielen ja css-tyylien tunteminen mahdollistaa sähkökirjan rakenteen ja ulkoasun monipuolisemman ja näyttävämmän muokkaamisen.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://code.google.com/p/sigil/
+;Lisenssi
+:[[GNU GPL]]v3
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X
+;Asennus
+:Ohjelman asennuspaketit eri järjestelmiin löytyvät sen kotisivuilta. Linkit Windows- ja Mac OS X -paketteihin löytyvät suoraan etusivun vasemmasta palkista. Linkit eri Linux-jakeluihin sopiviin paketteihin löytyvät [http://code.google.com/p/sigil/wiki/LinuxDistroPackages wiki-sivulta]. Linuxeihin ohjelma kannattaa asentaa näiden pakettien avulla eikä "InstallationInstructions"-sivun ohjeen mukaan.
+;Käyttöohjeet
+:[http://web.sigil.googlecode.com/git/contents.html Käyttäjän opas.]
+
+<gallery>
+Image:sigil-1.png|Sigilin käyttöliittymä WYSIWYG-näkymällä
+Image:sigil-2.png|Jaettu WYSIWYG- ja koodinäkymä.
+Image:sigil-3.png|Sigilin editointia koodinäkymällä.
+Image:sigil-4.png|Kirjan sivulle lisätty kuva ja otsikkorakenteesta generoitu sisällysluettelo
+Image:sigil-5.png|Metatietomuokkain
+Image:sigil-6.png|Lisätään kenttiä yleisimpiä metatietoja varten.
+</gallery>
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -23,6 +23,11 @@ Myös näiden projektien toimintaan on mahdollista osallistua.
 Lukuvihjeet
 -----------
 
+-   Jack London, 1904
+    -   Merisusi
+    -   [e-kirja suomeksi](http://www.gutenberg.org/ebooks/48489)
+    -   [kirjailijasta Wikipediassa](https://fi.wikipedia.org/wiki/Jack_London)
+
 -   Isaac Asimov
     -   The Foundation Trilogy
     -   [BBC:n kuunnelma 1973](https://archive.org/details/IsaacAsimov-TheFoundationTrilogy)

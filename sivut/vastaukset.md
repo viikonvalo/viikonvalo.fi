@@ -1,7 +1,7 @@
-/*
+<!--
 Title: Kysymyksiä ja vastauksia
 Menuitem: Kysymyksiä ja vastauksia
-*/
+-->
 Tälle sivulle on koottu muutamia kysymyksiä ja vastauksia tähän sivustoon liittyen
 
 <div class="toc" markdown="1">
@@ -64,7 +64,7 @@ Voinko osallistua jotenkin?
   jota painamalla voit seurata uusia julkaisuja ja jokaisen artikkelin
   alta löytyy *jaa*-nappulat muutamalle yleisimmälle sosiaaliselle medialle. Pidä ystäväsi informoituina!
 - Voit osallistua **sisällön tuottamiseen** osoitteessa
-  [http://www.l-a.fi/Projektit/Viikon_VALO][L-A-valo] . Osoitteesta
+  [http://www.l-a.fi/Projektit/Viikon_VALO][L-A-valo]. Osoitteesta
   löytyy wiki, jossa täällä julkaistavat esittelyt työstetään. Siellä
   voi:
     -    **Ehdottaa ohjelmaa** Viikon VALOksi lisäämällä sen nimen listaan.

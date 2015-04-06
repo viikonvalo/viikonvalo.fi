@@ -1,0 +1,103 @@
+{{CC-by}}
+'''Ubuntu 12.04 Precise Pangolin on keväällä 2012 julkaistu versio suositusta vapaasta Linux-käyttöjärjestelmäpaketista.'''
+
+[[Image:valo70-ubuntu.png|left]]
+Ubuntun versio 11.04 esiteltiin [[Ubuntu_11.04|Viikon Valona numero 18]]. Ubuntun ideologiasta ja perusasioista kannattaa lukea tuosta artikkelista, tässä keskitytään uuden Ubuntun uutuuksiin. 
+
+Ubuntu 12.04 on julkaistu versionumeronsa mukaisesti huhtikuussa 2012 ja on leikkisältä kutsumanimeltään '''Precise [http://en.wikipedia.org/wiki/Pangolin Pangolin]''', eli '''Tarkka [http://fi.wikipedia.org/wiki/Muurahaisk%C3%A4vyt Muurahaiskäpy]'''. Tämä julkaisu on jälleen kahden vuoden tauon jälkeen niin sanottu [https://wiki.ubuntu.com/LTS LTS-versio], eli pitkään tuettu versio (Long Term Support). Tällä tarkoitetaan sitä, että Ubuntua julkaiseva yhtiö, [http://www.canonical.com/ Canonical], lupaa tukea ja päivittää järjestelmää normaalin 18 kuukauden sijasta kokonaista 5 vuotta. Pitkä tukiaika on yleensä oleellista erityisesti yrityskäytössä ja palvelimissa. Tässä julkaisussa viiden vuoden tuki on ulotettu palvelinkäytön lisäksi myös työpöytäkäyttöön.
+
+Myös suomenkielinen [http://wiki.ubuntu-fi.org/Ubuntu_Finnish_Remix Finnish Remix] on saatavilla. Ubuntu Finnish Remix on virallisesta Ubuntu-CD-levystä minimimuutoksin muokattu CD-levykuva, joka sisältää täyden suomen kielen tuen valmiiksi CD-levyllä. Tästä on etua, jos tarkoituksena on joko esitellä Ubuntua CD-levyltä tai asentaa Ubuntu paikassa, jossa ei ole Internet-yhteyttä saatavilla. Huomattavaa on, että myös viralliselta Ubuntu-CD-levyltä asentuu suomen kielen tuki automaattisesti, jos Internet-yhteys on käytettävissä asennuksen aikana ja asennuskieleksi on valittu suomi.
+
+Perus-Ubuntun lisäksi on saatavilla valmiita [http://wiki.ubuntu-fi.org/Kuvia_ja_videoita rinnakkaisjakeluita]. Jakelut käyttävät pääosin samaa Ubuntun pakettivarastoa, mutta poikkeavat toisistaan oletuksena asennettavien ohjelmistokokonaisuuksien suhteen. Kaikki samat ohjelmat ovat kuitenkin asennettavissa kaikkiin näistä. Saatavilla ovat ainakin 
+* [http://www.ubuntu.com Ubuntu],
+* palvelinasennuksiin tarkoitettu [https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuServer Ubuntu Server]
+* hyvin pieni ja riisuttu [https://wiki.ubuntu.com/Core Ubuntu Core], tarkoitettu niille jotka itse muokkaavat asennustaltion erikoistarkoituksiin,
+* [http://www.kubuntu.org Kubuntu] vaihtoehtoisella KDE-työpöydällä,
+* koulu- ja muuhun opetuskäyttöön suunnattu [http://www.edubuntu.org/ Edubuntu],
+* kevyemmällä työpöydällä varustettu [http://xubuntu.org Xubuntu]
+* kevyemmällä työpöydällä varustettu [http://lubuntu.net Lubuntu],
+* multimediatyöskentelyyn ja muuhun luovaan työhön optimoitu [http://ubuntustudio.org/ Ubuntu Studio] sekä
+* kotiteatterisoittimeksi sopiva [http://www.mythbuntu.org/ Mythbuntu].
+
+==Uutta Ubuntussa==
+
+Ubuntun julkaisun suomenkielinen [http://wiki.ubuntu-fi.org/Ubuntu_12.04_LTS_lehdist%C3%B6tiedote lehdistötiedote].
+
+Unity-ominaisuuksia muun muassa uraa uurtava '''HUD-hakutoiminto''', jolla valikkojen selaamisen voi halutessaan jättää historiaan.
+
+Muuta uutta: kirjautumisnäkymää uudistettu, Sovellusvalikoimaan lisätty suositukset, Landscape-hallintapalvelu integroituna, viiden vuoden työpöytätuki, videonäkymä Unity-valikkoon, Unity-valikon etusivu uudistettu, Tomboy poistettu, musiikkisoittimeksi vaihdettu Rytmilaatikko, LibreOfficesta versio 3.5.2
+
+Ubuntun Unity-työpöydän '''esittely selaimessa''': http://ubuntu-fi.org/Ubuntu_12.04_verkkoesittely/. Kyseessä on aidon näköinen demo, ei siis oikeasti selaimessa täysin toimiva Unity. Sillä voi kuitenkin kokeilla muutamien ohjelmien toimintaa ja käyttöliittymän yleistä tuntumaa.
+
+Ubuntu 12.04 LTS:n '''oletuslatausvaihtoehto''' on Ubuntu Suomi-sivuilla nyt '''64-bittisille''' suorittimille, joita useimmat tietokoneet viimeisen 5 vuoden ajalta sisältävät. Ubuntu toimii näillä laitteilla entistäkin nopeammin. Myös 32-bittinen vaihtoehto löytyy.
+
+==Kubuntu==
+
+Kubuntu tarjoaa käyttöön uusimmat versiot KDE:n Plasma-työpöydästä ja ohjelmista. Kehitystä on tapahtunut muun muassa '''Dolphin'''-tiedostonhallintaohjelmassa, joka on nopeutunut. KDE-ympäristön Webkit-pohjainen selain '''Rekonq''' on niin ikään päivittynyt ja nopeutunut. '''Amarok'''-musiikkisoittimessa on uusittu ja kehitetty usb-tikkujen ja verkkolevyjen käyttöä.
+
+Työpöytäjärjestelmän '''virranhallinta''' on uusittu ja nyt voi muun muassa laittaa erilaiset asetukset eri [http://userbase.kde.org/Plasma#Activities aktiviteeteille]. Tämä mahdollistaa erilaiset asetukset koti- ja työkäyttöön tai vaikka omat asetukset esitystilalle, jolloin esimerkiksi näytönsäästäjä ei keskeytä käynnissä olevaa esitystä.
+
+Muihin uutuuksiin lukeutuu muun muassa uusi vaihtoehtoinen '''tehtävänhallinta''', joka näyttää käynnissä olevat ohjelmat työkalupalkissa kompaktisti vain ikoneina ilman ohjelman nimeä.
+
+Oman henkilökohtaisen pilvipalvelun pystyttämiseen sopiva '''Owncloud''' on saanut uusia sovelluksia, kuten musiikin suoratoiston. Myös käyttöliittymä on kehittynyt sulavammaksi.
+
+Paketinhallintana Kubuntussa toimii '''Muon-sovellustenhallinta''', jossa ohjelmia voi selata kategorioittain, aakkosjärjestyksessä tai haulla ja jossa ovat näkyvissä myös käyttäjien arvostelut. Ohjelmien päivitys tapahtuu saatavilla olevista päivityksistä ilmoittavan '''Muon-päivitystyökalun''' avulla.
+
+Uusina ohjelmina Kubuntu tarjoaa muun muassa '''Calligra Suiten''', KOfficen pohjalta syntyneen uuden toimisto-ohjelmistokokonaisuuden, joka sisältää seuraavat ohjelmat:
+* '''Calligra Words''' (tekstinkäsittely)
+* '''Calligra Spreads''' (taulukkolaskenta)
+* '''Calligra Stage''' (esitysohjelma)
+* '''Calligra Flow''' (vuokaavio-ohjelma)
+* '''Calligra Plan''' (työkalu projektinhallintaan ja suunnitteluun)
+* '''Krita''' (kuvankäsittely)
+* '''Kexi''' (tietokantatyökalu)
+
+Pikaviestien lähettämiseen ja vastaanottamiseen on '''Kopeten''' rinnalle tullut '''KDE Telepathy''', joka osaa GoogleTalkin, Facebook Chatin, MSN Messengerin sekä monen muun viestijärjestelmän käytön.
+
+Kubuntua on mahdollista käyttää myös uuden kosketusnäytöille optimoidun Plasma Active -käyttöliittymän kanssa.
+
+==Julkaisutapahtumat==
+
+Ubuntun suomalaiset käyttäjät järjestävät julkaisutapahtumia ja
+-tapaamisia ympäri Suomea.
+Pääjulkaisutapahtuma järjestetään [http://coss.fi/ubuntufest2012 Tampereella tiistaina 15.5].
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.ubuntu.com/ ([http://www.ubuntu-fi.org/ Ubuntu Suomi])
+;Lisenssi
+:Sisältää ohjelmia useilla vapailla lisensseillä
+;Asennus
+:Asennus-cd:n levykuvan voi ladata joko suoraan Ubuntun kotisivuilta taikka Ubuntu Suomen [http://www.ubuntu-fi.org/lataa.html lataussivulta]. Sivuilla opastetaan lataamaan laitteeseen parhaiten sopiva versio. Ladattu levykuvatiedosto poltetaan cd-levylle tai kirjoitetaan USB-muistitikulle, jolta käyttöjärjestelmän asennus voidaan aloittaa.
+;Käyttöohjeet
+: [https://help.ubuntu.com/12.04/ubuntu-help/index.html.fi Ubuntun käyttöopas]
+: [http://www.ubuntu-fi.org/Ubuntu_12.04_verkkoesittely/fi/ Kokeile] Ubuntun käyttöä selaimella
+: [http://www.ubuntu.com/ubuntu/whats-new Mitä uutta Ubuntussa?]
+: [http://blog.ubuntu-fi.org/2007/viisi-tarkeinta-asiaa-uudelle-ubuntun-kayttajalle/ Viisi tärkeintä asiaa uudelle Ubuntun käyttäjälle]
+: [http://forum.ubuntu-fi.org/ Ubuntu Suomen keskustelualueet]
+: [http://linux.fi/ Linux.fi-wiki], josta löytyy ohjeita ja opasteita moneen Linux-aiheiseen asiaan.
+: [http://wiki.ubuntu-fi.org/Ohjeet Ubuntu Suomen ohjesivu]
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:ubuntu_12.04-1.png
+Image:ubuntu_12.04-2.png
+Image:ubuntu_12.04-3.png
+Image:ubuntu_12.04-4.png
+Image:ubuntu_12.04-5.png
+Image:ubuntu_12.04-6.png
+Image:ubuntu_12.04-7.png
+Image:kubuntu_12.04-1.png
+Image:kubuntu_12.04-2.png
+Image:kubuntu_12.04-3.png
+Image:kubuntu_12.04-4.png
+Image:kubuntu_12.04-5.png
+Image:kubuntu_12.04-6.png
+</gallery> 
+
+''Teksti: Pesasa, Taleman''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

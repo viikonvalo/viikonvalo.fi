@@ -3,6 +3,11 @@ Title: Lukuvalosivulista
 Lukuvalo: true
 */
 
+Jack London, 1904
+:   Merisusi
+:   [e-kirja suomeksi](http://www.gutenberg.org/ebooks/48489)
+:   [kirjailijasta Wikipediassa](https://fi.wikipedia.org/wiki/Jack_London)
+
 Isaac Asimov:
 :   The Foundation Trilogy
 :   [BBC:n kuunnelma](https://archive.org/details/IsaacAsimov-TheFoundationTrilogy)
