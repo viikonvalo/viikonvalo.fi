@@ -19,13 +19,17 @@ muodostettavilla hakulausekkeilla. Hakulausekkeilla löytyneiden
 elementtien joukolle voidaan sitten suorittaa erilaisia toimintoja ja
 manipulaatioita. Esimerkiksi kaikkien dokumentista löytyvien linkkien
 piilottaminen tapahtuu komennolla:
-`jQuery('a').hide()`
+```javascript
+jQuery('a').hide()
+```
 Toinen jQueryn
 kantava idea on mahdollisuus elementtijoukolle suoritettavien
 toimintojen ketjuttamiseen. Esimerkiksi edellisellä komennolla
 piilotetut linkit voidaan näyttää ja niille voidaan samalla lisätä
 luokka "linkki" komennolla:
-`jQuery('a').show().addClass('linkki')`
+```javascript
+jQuery('a').show().addClass('linkki')
+```
 Elementeille voidaan suorittaa myös erilaisia animoituja
 [efektejä](http://api.jquery.com/category/effects/), kuten näyttäminen
 ja piilottaminen häivytysefektillä tai ylhäältä alas "rullaamalla".
