@@ -14,13 +14,13 @@ tietokantaa, toimiva websisällönhallintajärjestelmä. Sivut kirjoitetaan
 Markdown-kielellä ja tallennetaan palvelimelle tiedostoina. Phile onkin
 PicoCMS:stä haarautettu, eli forkattu, ohjelmisto. Philen kehitys alkoi,
 kun osa käyttäjistä halusi osallistua PicoCMS:n kehitykseen ja nopeuttaa
-sen jo pysähtynyttä kehitysprosessia. Phile muistuttaa PicoCMS:ää muun
+sen jo pysähtynyttä kehitysprosessia. Phile muistuttaa PicoCMS:ää
 toimintaperiaatteeltaan, hakemistorakenteeltaan ja lisäosien käytöltään.
 Philen toteutus on kuitenkin tehty jossain määrin uusiksi ja tekijöiden
 omien mittausten mukaan se on jonkin verran PicoCMS:ää nopeampi.
 
 PicoCMS:ään verrattuna uutta Philessä on muun muassa käytetty
-oliopohjainen ohjelmointityyli, tapahtumia (event) käyttävä toteutus.
+oliopohjainen ohjelmointityyli ja tapahtumia (event) käyttävä toteutus.
 Lisäksi PicoCMS:ssä sisäänrakennettuina olleet Markdown-kielen parseri
 ja Twig-sivupohjakoneisto on siirretty oletuksena käytössä oleviksi
 lisäosiksi. Näiden siirtäminen lisäosiksi mahdollistaa muiden
