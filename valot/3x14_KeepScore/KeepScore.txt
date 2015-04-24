@@ -1,0 +1,46 @@
+{{CC-by}}
+'''KeepScore on vapaa avoimen lähdekoodin sovellus pelien pisteenlaskuun Android-laitteella.'''
+
+[[Image:valo118-keepscore.png|left]]
+Unohda kynä ja paperi! KeepScorella voit pitää kirjaa 2-8 pelaajan pelin pisteenlaskusta Android-laitteellasi, puhelimella tai tabletilla. Ohjelmalla valitaan ensin pelaajien määrä ja syötetään haluttaessa pelaajien nimet. Ohjelma näyttää ruudulla kunkin pelaajan yhteispistemäärät, listan erillisten pelikierrosten pisteistä sekä plus- ja miinusnappulat, joilla pistemääriä voi kasvattaa ja pienentää. Kukin pistemäärän muutos tallentuu uuden pelikierroksen pisteiksi 10 sekunnin viiveellä, jonka aikana pistemäärää voi vielä muuttaa. Viive on säädettävissä ohjelman asetuksista. Ohjelmalla on helppoa pitää kirjaa pelin eri kierroksilla saavutetuista pisteistä yhteispisteiden lisäksi. Siksi se soveltuu hyvin esimerkiksi vuoropohjaisten pelien pisteenlaskuun tai vaikka (frisbee)golfin pistetilanteen kirjaamiseen. Kierrospisteiden listaa pitkään painamalla voi lisätä myös nollan pisteen kierroksen tai poistaa viimeisimmän pistemuutoksen, jos syötössä tapahtuu virhe.
+
+
+Ohjelman asetukset ovat helposti ja monipuolisesti muokattavissa. Pisteenlaskun voi aloittaa, kuten oletuksena on, nollasta, mutta yhtä hyvin aloituspisteiksi voi valita vaikka dartsin 501 pistettä. Plus- ja miinusnappulaa pitkään painamalla saa esiin ponnahdusvalikon, jota kautta on mahdollista syöttää myös muun suuruisia muutoksia. Jos näytölle mahtuu, näytetään plus- ja miinusnappuloiden lisäksi myös neljä muuta muutosnappula, joiden suuruudet oletuksena ovat -10, -5, 5 ja 10, mutta jotka ovat käyttäjän muokattavissa.
+
+Ohjelma tallentaa pistetilanteet automaattisesti ja pelitilanteita voi olla yhtä aikaa talletettuna useita. Pelattujen pelien pistehistoriaa voi tarkastella myös pelaajittain ja kierroksittain piirrettynä graafina taikka kierros- tai pelaajakohtaisesti tulostettuina taulukoina. Ohjelman versiossa 1.2.3 on käytettävissä neljä eri väriteemaa.
+
+Pelitulokset on myös mahdollista varmuuskopioida talteen muistikortille sekä lukea ne takaisin varmuuskopiosta. Lisäksi versio 1.2.3 toi mukanaan mahdollisuuden tallentaa tulokset taulukkolaskentaohjelmia varten csv-tiedostona.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:https://github.com/nolanlawson/KeepScore
+;Lisenssi
+:[http://www.wtfpl.net/ WTFPL]
+;Toimii seuraavilla alustoilla
+:Android
+;Asennus
+:Ohjelma on asennettavissa [https://play.google.com/store/apps/details?id=com.nolanlawson.keepscore Google Playsta], [http://f-droid.org/repository/browse/?fdfilter=keepscore&fdid=com.nolanlawson.keepscore F-Droidilla] tai suoraan [http://nolanlawson.com/apps/#keepscore tekijän kotisivuilta]. Google Playssa on tarjolla myös [https://play.google.com/store/apps/details?id=com.nolanlawson.keepscore.donate Donate-versio], jonka asentamalla voi lahjoittaa tekijälle muutaman rovon.
+
+<gallery>
+Image:keepscore-1.png|KeepScore 1.2.3
+Image:keepscore-2.png|Aloita uusi peli. Tyhjä tallennettujen pelien luettelo. Ylhäällä kuvakkeet varmuuskopiointiin ja varmistusten palautukseen.
+Image:keepscore-3.png|Pelaajia voi olla kahdesta kahdeksaan.
+Image:keepscore-4.png|Pelaajille voi syöttää nimet tai käyttää oletuksena olevia "Player 1", "Player 2", jne.
+Image:keepscore-5.png|Oletuksena pisteenlasku alkaa nollasta. Pistemääriä voi kasvattaa ja pienentää plus- ja miinusnappuloilla.
+Image:keepscore-6.png|Pistemäärän muuttaminen päivittää kokonaispistemäärää ja näyttää muutoksen suuruuden.
+Image:keepscore-7.png|Ohjelma näyttää muutoksen suuruuden muutoksen aikana ja 10 sekuntia sen jälkeen muutos siirretään oikean reunan listaan, jossa näkyvät kunkin pelikierroksen pisteet.
+Image:keepscore-8.png|Viimeisimmän kierroksen pisteet voi poistaa painamalla sormella pitkään kierrospisteiden listaa. Samaa kautta on mahdollista lisätä nolla pelikierroksen pisteiksi.
+Image:keepscore-9.png|Täydet kahdeksan pelaajaa yhtä aikaa pelaamassa. Väriteemana tumma teema.
+Image:keepscore-10.png|Ohjelma sopii myös vaikka darts-pisteiden laskuun, kun aloituspistemäärä valitaan sopivasti. Jos näytöllä on tilaa, plus- ja miinusnappulan lisäksi näytetään neljä muun suuruista muutosnappulaa, joka on kätevää, kun pelin pistemäärät ovat suuria.
+Image:keepscore-11.png|Myös vapaavalintaisen pistemäärän muutoksen syöttäminen onnistuu painamalla pitkään plus- tai miinusnappulaa.
+Image:keepscore-12.png|Useita pelituloksia talletettuna.
+Image:keepscore-13.png|Pelin pistemäärän kehitys pelaajittain ja kierroksittain graafisesti esitettynä.
+Image:keepscore-14.png|Pelaajien pistemäärät kierroksittain taulukoituna.
+Image:keepscore-15.png|Pistemäärät pelaajittain taulukoituna.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

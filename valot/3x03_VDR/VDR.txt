@@ -1,0 +1,51 @@
+{{CC-by}}
+'''VDR on vapaa digiboxi-ohjelmisto, jolla tietokoneesta voi tehdä tallentavan digiboxin.'''<br />
+[[Image:valo107-vdr.png|left]]
+Tallentava digiboxi on pohjimmiltaan vain erikoistarkoitukseen tehty tietokone, jolla on yksinkertainen kauko-ohjaimella ohjattava käyttöliittymä. VDR-ohjelmistolla (Video Disk Recorder) on mahdollista rakentaa oma muokattavissa oleva digiboxi, joka on vapaa laitevalmistajan asettamista rajoituksista. Ohjelmiston toiminta ja käyttöliittymän ulkoasu ovat muokattavissa esimerkiksi ohjelmaan asennettavilla lisäosilla sekä monipuolisilla asetusvaihtoehdoilla.
+
+Ohjelma tukee useampaa tietokoneeseen asennettua digi-tv-viritintä, jolloin usean, eri kanavanipuissakin olevan, kanavan yhtäaikainen katsominen ja tallennus on mahdollista. VDR:llä onnistuu ohjelman katsominen suorana, ajastetut tallennukset, katsottavana olevan ohjelman pysäyttäminen (pause) ja jatkaminen sekä tallennusten ja muiden mediatiedostojen katsominen. VDR:ää voi käyttää asiakas-palvelin-periaatteella, jolloin itse VDR toimii taustalla ja tv-ohjelmien katsominen tapahtuu erillisellä asiakasohjelmalla joko samalla koneella tai toisella samassa lähiverkossa olevalla koneella.
+
+Ohjelmaan voi myös luoda hakusanapohjaisia hakuja, joilla se etsii tallennettavia tv-ohjelmia digi-tv-lähetyksen mukana tulevasta sähköisestä ohjelmaoppaasta. Hakutoiminnolla voi esimerkiksi ohjelmoida digiboxin tallentamaan kaikki suosikkisarjan jaksot, muttei niiden uusintoja. Hakutoiminto on hyödyllinen myös silloin kun pitkään tauolla ollut sarja palaa jälleen ohjelmistoon. Digiboxi huomaa ohjelman automaattisesti ohjelmaoppaasta ja tallentaa sen, vaikka käyttäjä ei sitä itse huomaisi. Haku on varsin monipuolinen ja tukee myös muun muassa säännöllisiä lausekkeita.
+
+Ohjelman Live-lisäosa luo sille selainpohjaisen käyttöliittymän, jonka kautta on helppoa selata ohjelmaopasta ja merkitä tallennettavia ohjelmia sekä luoda hakusanatallennuksia. Selainkäyttöliittymällä joidenkin toimintojen suorittaminen, kuten juuri hakujen tekeminen, on selvästi helpompaa kuin kaukosäätimellä. Selainkäyttöliittymän kautta on myös mahdollista katsoa [[VLC-mediasoitin|VLC-mediasoittimella]] tv-lähetyksiä suorana samassa sisäverkossa olevalta VDR-digiboxilta.
+
+Android-laitteille löytyy kaukosäädinohjelmia, joilla on mahdollista ohjata samassa lähiverkossa olevaa VDR-digiboxia. Näin puhelimella tai tabletilla on helppoa vaikka selata ja lukea ohjelmatietoja ja merkitä tallennuksia.
+
+VDR:ää voi käyttää myös koneelle tallennettujen musiikki- ja videotiedostojen soittamiseen ja näyttämiseen. DVD-polttolisäosalla voi myös luoda tallennetuista tv-ohjelmista yksinkertaisella valikolla varustettuja DVD-levyjä.
+<div style="clear: left;"></div>
+
+;Kotisivu
+: http://linuxtv.org/vdrwiki/index.php/Main_Page 
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux
+;Asennus
+:VDR-löytyy ohjelman kotisivuilta, mutta helpoimmin se on asennettavissa suoraan oman Linux-jakelun pakettivarastosta.
+
+<gallery>
+Image:vdr-1.png|Kanavan nykyinen ja seuraava ohjelma. Skininä "Soppalusikka".
+Image:vdr-2.png|Nykyisen kanavan ohjelmisto. Skininä "Soppalusikka".
+Image:vdr-3.png|Tällä hetkellä meneillään olevat ohjelmat eri kanavilla.
+Image:vdr-4.png|VDR:n valikko
+Image:vdr-5.png|Hakuajastimen muokkaus
+Image:vdr-6.png|Tallennettuja ohjelmia
+Image:vdr-7.png|Elokuvan toisto. Elokuvasta on leikattu pois mainoskatkot.
+Image:vdr-8.png|Kuvaruutunäytön asetusvalikko. Skininä "ST:TNG konsoli", eli Star Trek: The Next Generation -sarjan tietokonekonsolia muistuttava ulkoasu.
+Image:vdr-9.png|AndroVDR-kaukosäädinohjelma Android-puhelimessa.
+Image:vdr-10.png|AndroVDR-kaukosäädinohjelma Android-puhelimessa.
+Image:vdr-11.png|AndroVDR-kaukosäädinohjelma Android-puhelimessa. Tällä hetkellä meneillään olevat ohjelmat.
+Image:vdr-12.png|AndroVDR-kaukosäädinohjelma Android-puhelimessa. Luetteloa tallennuksista.
+Image:vdr-13.png|AndroVDR Android-tabletissa.
+Image:vdr-14.png|AndroVDR Android-tabletissa. Parhaillaan meneillään olevia ohjelmia.
+Image:vdr-15.png|VDR-Live -selainkäyttöliittymä.
+Image:vdr-16.png|Hakuajastimen muokkaus VDR-Live -selainkäyttöliittymässä.
+Image:vdr-17.png|Tallenneluettelo VDR-livessä.
+Image:vdr-18.png|Tv-ohjelman katsomista web-käyttöliittymän kautta selaimeen upotetulla VLC-mediasoitin-pluginilla.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

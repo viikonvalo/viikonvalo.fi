@@ -2,7 +2,7 @@
 Title: 2x42 GeoGebra - Viikon VALO #94
 Date: 2012/10/14
 Pageimage: valo94-geogebra.png
-Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Matematiikka,Opetus
+Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Matematiikka,Opetus,Opiskelu
 -->
 
 **GeoGebra on ilmainen ohjelma matematiikan oppimisen ja opettamisen

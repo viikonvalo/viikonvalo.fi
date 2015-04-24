@@ -1,0 +1,49 @@
+{{CC-by}}
+'''JS Bin on web-pohjainen ympäristö, jolla voi nopeasti kokeilla HTML-koodista, CSS-tyyleistä sekä Javascript-tiedostoista koostuvaa kokonaisuutta.'''
+
+[[Image:valo120-jsbin.png|left]]
+JS Bin on avoimen lähdekoodin palvelinohjelmisto, jota voi käyttää www-tekniikoiden opetteluun, opettamiseen, harjoitteluun sekä kokeilemiseen taikka ohjelmointivirheiden etsimiseen yhteistyössä web-pohjaisesti selaimella. Sitä on mahdollista käyttää [http://jsbin.com jsbin.com]-palvelussa tai vaihtoehtoisesti sen voi asentaa omalle koneelle tai palvelimelle.
+
+Palvelun toimintaideana on, että näyttö on valinnan mukaan jaettu korkeintaan viiteen palstaan, joissa ovat nähtävillä tai muokattavissa '''HTML'''-koodi, '''CSS'''-tyylisäännöt, '''Javascript'''-ohjelmakoodi, interaktiivinen Javascript-'''konsoli''' sekä näistä muodostuvan www-sivun sisällön näyttävä '''Output'''-näkymä. Kunkin sarakkeista voi kytkeä päälle tai pois näkymän yläreunassa olevilla nappuloilla. HTML-koodin ja CSS-tyylien muokkaaminen päivittävät tulostussarakkeen sisältöä välittömästi. Javascript taas suoritetaan valinnan mukaan joko jokaisen päivityksen yhteydessä automaattisesti taikka vasta nappia painamalla.
+
+Uuden JS Bin -työn, eli binin, aloittaminen luo palveluun uuden tähän istuntoon viittaavan url-osoitteen, esimerkiksi http://jsbin.com/ohevev/1/edit ja aloittaan kyseisen sivukokonaisuuden ensimmäisen version muokkaamisen. Muokkaukset tallentuvat automaattisesti palvelimelle ja samaa biniä pääsee muokkaamaan menemällä selaimella uudelleen samaan muokkausosoitteeseen. Nykyisen version pystyy lukitsemaan, jonka jälkeen muokkaaminen tapahtuu seuraavalla versionumerolla. Versionumero on aina nähtävissä binin osoitteessa. Osoitteen voi myös jakaa muille käyttäjille nähtäväksi katseluversiona (esimerkiksi http://jsbin.com/ohevev/2/watch), joka päivittyy reaaliaikaisesti sitä mukaa kun muokkausversiota päivitetään. Binistä voi jakaa myös vain valmiin tuloksen näyttävän näkymän (esimerkiksi http://jsbin.com/ohevev/2). Binistä voi myös tehdä itselleen kloonin, joka on kopio alkuperäisestä, mutta uudella osoitteella. Tätä ominaisuutta voi käyttää esimerkiksi opetuksessa antamalla opiskelijoille linkin alkuperäiseen tehtävänantona toimivaan biniin ja käskemällä opiskelijoita kloonaamaan sen itselleen ja tekemään omaan versioonsa käsketyt tehtävät.
+
+JS Biniin on mahdollista myös rekisteröityä. Rekisteröitynyt käyttäjä pystyy selaamaan kaikkia muokkaamiaan binien versioita. Tarpeeksi uudessa JS Binin versiossa on lisäksi ominaisuus, joka suojaa rekisteröityneen käyttäjän aloittamat binit niin, että vain sama käyttäjä voi muokata sitä. Jos joku muu käyttäjä yrittää muokata tällaista suojattua biniä, luodaan siitä automaattisesti uusi klooni uudella url-osoitteella.
+
+Muokattavaan biniin voi pudotusvalikosta lisätä yleisimpiä Javascript-kirjastoja. Listassa ovat valittavina muun muassa jQuery, jQuery-ui, jQuery Mobile, Bootstrap, Prototype ja MooTools. HTML-näkymään voi toki lisätä script-tagilla viittauksen myös mihin tahansa muuhun kirjastoon. HTML-, CSS- ja Javascript-palstoilla on lisäksi valittavissa asetus, joka määrää, missä muodossa niiden sisältö syötetään. HTML-palstaan on mahdollista syöttää puhtaan html-tekstin sijasta myös Markdown-syntaksilla kirjoitettua tekstiä, jossa esimerkiksi listat on merkitty rivin aloittavalla tähdellä. Sisältö on mahdollista kirjoittaa myös Jade-kielellä. Myös tyylit on mahdollista kirjoittaa normaalin CSS-kielen sijasta [http://lesscss.org/ LESS]- tai [http://learnboost.github.io/stylus/ Stylus]-kielillä. Javascript voidaan puolestaan korvata [http://coffeescript.org/ CoffeeScriptillä] taikka muutamalla muulla Javascriptiksi käännettävällä kielellä. Vaihtoehtoisilla kielillä kirjoitetut sisällöt, tyylit sekä ohjelmakoodit on mahdollista muuntaa kirjoittamisen jälkeen html-, css- ja Javascript-koodiksi. Bin on myös mahdollista ladata itselleen yhtenä html-tiedostona, joka sisältää tyylisäännöt ja Javascript-koodin.
+
+JS Bin tukee myös syntaksin korostusta sekä [[Zen Coding]] -lyhenteiden käyttöä.
+
+JS Bin on alun perin toteutettu PHP-kielellä, mutta sen kehitys on sittemmin siirtynyt käyttämään Javascriptiä [http://nodejs.org/ Node.js]-alustalla. Ohjelma on asennettavissa käyttämään kumpaa tahansa näistä kielistä, mutta eräät viimeisimmistä ominaisuuksista toimivat vain Node.js-versiossa.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://jsbin.com
+;Lisenssi
+:[[MIT]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X, FreeBSD, NetBSD, OpenBSD, palvelinohjelma
+;Asennus
+:JS Binin lähdekoodi ja asennusohjeet ovat saatavilla [https://github.com/remy/jsbin/ Githubista]. Ohjelma vaatii toimiakseen Node.js-ympäristön. Sen varhaisemmat versiot toimivat myös PHP-alustalla.
+;Käyttöohjeet
+:Opasvideoita JS Binin käyttöön löytyy [http://jsbin.com/videos Youtubesta].
+
+<gallery>
+Image:jsbin-1.png|Uusi bin valmiina aloitettavaksi. Näkyvissä HTML-palsta sekä tulostepalsta.
+Image:jsbin-2.png|Uudella binillä on yksilöivä url-osoite. Näkyvissä HTML-koodi, CSS-tyylit sekä niiden mukainen sivu.
+Image:jsbin-3.png|Javascriptillä voi luoda sivuun toiminnallisuutta.
+Image:jsbin-4.png|JS Binissä on suoraan pudotusvalikosta valittavissa joukko yleisimmin käytettyjä Javascript-kirjastoja.
+Image:jsbin-5.png|Bin voidaan jakaa muille pelkkänä lopputuloksen näyttävänä reaaliaikaisesti päivittyvänä sivuna, muokkaustilana, muuhun sivuun upotettavana elementtinä taikka koodin kehittymistä reaaliaikaisesti näyttävänä katselutilana.
+Image:jsbin-6.png|Sivun sisältö voidaan kirjoittaa html-koodin sijasta myös Markdown-merkintäkielellä taikka Jade-kielellä.
+Image:jsbin-7.png|Sisältö Markdown-kielellä. Tyylit voidaan kirjoittaa myös LESS- tai Stylus-kielellä.
+Image:jsbin-8.png|Ohjelmakoodi voi olla Javascriptin lisäksi kirjoitettu CoffeeScript-, Processing-, Traceur- tai TypeScript-kielillä.
+Image:jsbin-9.png|JS Bin käynnissä omalla koneella. Tietokantana toimii Sqlite. JS Bin osaa myös Emmet / Zen Coding -lyhenteiden käytön html-koodin kirjoittamiseen.
+Image:jsbin-10.png|JS Bin osaa myös Emmet / Zen Coding -lyhenteiden käytön html-koodin kirjoittamiseen.
+Image:jsbin-11.png|Rekisteröitynyt käyttäjä voi tarkastella listaa kaikista muokkaamistaan binien versioista.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]
