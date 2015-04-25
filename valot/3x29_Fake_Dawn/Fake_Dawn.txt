@@ -1,0 +1,35 @@
+{{CC-by}}
+'''Fake Dawn on lempeä hellästi herättävä herätyskellosovellus Android-laitteille.'''
+
+[[Image:valo133-fakedawn.png|left]]
+Tavalliset herätyskellot ja herätyskellosovellukset aloittavat herättämisen käsketyllä kellonlyömällä ilman ennakkovaroitusta ja -valmisteluita. Fake Dawn pyrkii tekemään herätyksen hellävaraisemmin matkimalla aamunkoittoa ja herättelemällä nukkujaa hitaammin. Fake Dawn alkaa ensin kirkastaa laitteen näyttöä ajastuksen mukaisesti täysin pimeästä valittuun väriin. Näytön kirkkauden lisäksi herätys voi sisältää valitun herätysäänen, jonka voimakkuus nousee samoin ajastuksen mukaisesti täydestä hiljaisuudesta valittuun äänenvoimakkuuteen. Kolmantena herätystekijänä voidaan halutessa käyttää myös laitteen värinää. Ohjelmasta voidaan lisäksi valita, minä viikonpäivinä lavastettu aamunkoitto on käytössä. Käynnissä olevan herätyksen voi sammuttaa näyttöä koskettamalla.
+
+Herätyksen asetukset ovat täysin säädettävissä. Näytön valaistuksen värin voi valita väripyörällä, joka pompahtaa esiin väripalkkia sormella napauttamalla. Valaistuksen aloitusajan voi valita ajan tekstiä napsauttamalla taikka sormella käyttöliittymässä näkyvää ympyrää siirtämällä. Samoin valitaan ajankohta, jolloin näytön kirkkaus on täydessä voimassaan. Asetukset herätyksen äänelle asetetaan valaistusasetuksesta riippumattomasti samalla tavalla. Näytön voi siis laittaa kirkastumaan täyteen kirkkauteensa esimerkiksi kymmenen minuutin aikana kello 6.50:stä kello 7.00:aan ja aloittaa herätysäänen soittamisen kello 6.58 ja jatkaa sen äänenvoimakkuuden kasvattamista kello 7.02:een saakka. Herätysääneksi voi valita jonkin Android-laitteeseen asennetuista herätysäänistä taikka jonkin muun äänitiedoston. Työaamuna voi siis herätä vaikka lempeään "auringonnousuun" ja hiljaa voimistuvaan linnunlauluun.
+
+Ohjelman pieni puute on se, että siihen voi ajastaa vain yhden herätysasetuksen kerrallaan. Ohjelma olisi vielä hyödyllisempi, jos siihen voisi määritellä erilaisia herätyksiä esimerkiksi työviikolle ja viikonlopulle.
+
+;Kotisivu
+:http://code.google.com/p/fakedawn/
+:[https://f-droid.org/repository/browse/?fdfilter=fake%20dawn&fdid=org.balau.fakedawn Fake Dawn F-Droid-palvelussa]
+;Lisenssi
+:[[GNU GPL]]v3
+;Toimii seuraavilla alustoilla
+:Android
+;Asennus
+:Ohjelman voi asentaa käyttämällä [[F-Droid]]-sovellusta tai lataamalla asennuspaketti [https://f-droid.org/repository/browse/?fdfilter=fake%20dawn&fdid=org.balau.fakedawn ohjelman F-Droid-sivulta]. Ohjelma on asennettavissa myös suoraan Googlen Play-sovelluskaupasta.
+
+<gallery>
+Image:fakedawn-1.png|Näytön valoisuuden ja herätysäänen voi ajastaa toisistaan riippumatta.
+Image:fakedawn-2.png|Näytön värin voi valita väripalkkia koskettamalla.
+Image:fakedawn-3.png|Ajankohdat voi määrätä Androidin kellonaikadialogilla koskettamalla kellonaikaa.
+Image:fakedawn-4.png|Kellonaikoja voi säätää myös siirtämällä niitä edustavia ympyröitä sormella.
+Image:fakedawn-5.png|Herätysäänen voi valita laitteeseen asennetuista herätysäänistä tai laitteella olevista äänitiedostoista.
+Image:fakedawn-6.png|Säädöt maksimiäänenvoimakkuudelle, värinän aktivoinnille sekä viikonpäivien valinnalle.
+Image:fakedawn-7.png|Herätyksen käynnistyessä näyttö muuttuu vähitellen täysin mustasta valittuun väriin valitun ajanjakson aikana.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]
