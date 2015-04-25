@@ -2,7 +2,7 @@
 Title: 3x03 VDR - Viikon VALO #107
 Date: 2013/01/13
 Pageimage: valo107-vdr.png
-Tags: Linux,Multimedia,Video
+Tags: Linux,Multimedia,Video,Mediakeskus,Televisio,Elokuva
 -->
 
 **VDR on vapaa digiboxi-ohjelmisto, jolla tietokoneesta voi tehdä

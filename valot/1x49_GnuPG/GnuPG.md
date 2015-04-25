@@ -2,7 +2,7 @@
 Title: 1x49 GnuPG - Viikon VALO #49
 Date: 2011/12/04
 Pageimage: valo49-gnupg.png
-Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,VMS,GNU/Hurd,Internet,Salaus,Viestintä
+Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,VMS,GNU/Hurd,Internet,Salaus,Viestintä,Tietoturva
 -->
 
 **GNU Privacy Guard eli GnuPG on julkisen avaimen
