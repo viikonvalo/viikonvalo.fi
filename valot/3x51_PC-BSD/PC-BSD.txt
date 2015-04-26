@@ -1,0 +1,40 @@
+{{CC-by}}
+'''PC-BSD on työpöytäkäyttöön suunnattu FreeBSD-pohjainen avoimen lähdekoodin käyttöjärjestelmä.'''
+
+[[Image:valo155-pc-bsd.png|left]]
+PC-BSD on [http://www.freebsd.org/ FreeBSD:n], vapaan Unix-käyttöjärjestelmän, pohjalta kehitetty käyttöjärjestelmä, jonka tavoitteena on olla käyttäjäystävällinen erityisesti työpöytäkäytössä. Sen pyrkimyksenä on yhdistää FreeBSD:n vakaus ja turvallisuus helppoon käytettävyyteen. PC-BSD:n oletuskäyttöliittymänä on Linux-jakeluistakin tuttu [[KDE]]-työpöytäympäristö, mutta muidenkin käyttöliittymien asentaminen on mahdollista. PC-BSD:n järjestelmäasetusten muokkaamiseen on tarjolla helppokäyttöinen graafinen Ohjauspaneeli-sovellus, jolla voidaan muokata esimerkiksi palomuurin ja erilaisten laitteiden asetuksia.
+
+Ohjelmistojen asentamiseen on käytettävissä AppCafe-sovellus, joka tarjoaa suuren joukon kategorioittain luokiteltuja pbi-paketteina asennettavia sovelluksia. Pbi-pakettivarasto seuraa FreeBSD:n ports-pakettijärjestelmän tarjoamia ohjelmia, jotka käännetään automaattisesti pbi-paketeiksi. Linux-järjestelmistä ja muista Unixeista poiketen PC-BSD:n paketit asennetaan sovelluskohtaisesti /usr/pbi -hakemiston alle kukin paketti kokonaisuudessaan omaan hakemistoonsa. Tämä siis muistuttaa esimerkiksi Mac OS X:n ohjelmapakettien asentamista. Pbi-paketteja voi asentaa ja hallita myös komentoriviltä käsin. Pbi-pakettien lisäksi ohjelmistoja voi asentaa myös suoraan FreeBSD:n ports-järjestelmästä.
+
+PC-BSD:n käyttöliittymä on tuttu niille, jotka ovat käyttäneet KDE-työpöytää aiemmin jossain Linux-jakelussa. Myös suuri osa valmiiksi asennetuista ohjelmista tai paketinhallinnan kautta asennettavista ohjelmista on täsmälleen samoja sovelluksia, jotka ovat käytettävissä myös Linux-jakeluiden kanssa. Tämä on luonnollista, sillä monien avoimen lähdekoodin ohjelmien siirtäminen Unix-tyyppisestä käyttöjärjestelmästä toiseen tapahtuu vain kääntämällä ohjelma uudelleen kohdejärjestelmään lähdekoodeista. Erityisesti esimerkiksi Gnome- ja KDE-työpöytäjärjestelmiin tarkoitetut ohjelmat toimivat hyvin samalla tavoin eri alustoilla.
+
+Erityisesti jo Linux-järjestelmiin tutustuneille PC-BSD voi olla mielenkiintoinen tutustuttava. Suuri osa järjestelmän toiminnoista on samanlaisia molemmilla alustoilla, mutta osa niistä on puolestaan toteutettu hieman eri tavalla, mikä vaatii pientä opettelua ja totuttelua. Esimerkiksi komentotulkkina BSD-järjestelmissä on usein käytetty oletuksena csh:ta, kun Linux-järjestelmissä käytetään tyypillisesti bash:ia. Tämäkin on toki muokattavissa oman mieltymyksen mukaan. PC-BSD:n käytön opettelun voi aloittaa vaikka lukemalla sen [ftp://ftp.pcbsd.org/pub/handbook/9.2/pcbsd9.2_handbook_en_ver9.2.pdf käsikirjaa]. PC-BSD:n voi asentaa myös [[Virtualbox|VirtualBox]]-virtuaalikoneeseen, johon asennettuna se osaa automaattisesti ottaa käyttöön VirtualBoxin vieraslisäosat ja siten esimerkiksi skaalata työpöydän ikkunan koon mukaan. 
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.pcbsd.org/
+;Lisenssi
+:Ohjelmistoja useilla vapailla lisensseillä.
+;Asennus
+:PC-BSD:n asennuslevyn ISO-levykuva on ladattavissa sen kotisivuilta.
+;Käyttöohje
+:[ftp://ftp.pcbsd.org/pub/handbook/9.2/pcbsd9.2_handbook_en_ver9.2.pdf PC-BSD 9.2 handbook] (pdf, englanniksi)
+
+<gallery>
+Image:pc-bsd-1.png|PC-BSD:n asennuslevy kysyy ensitöikseen, asennetaanko graafisessa tilassa vai tekstitilassa.
+Image:pc-bsd-2.png|Asennuslevyn käynnistyksen yhteydessä juoksevaa tekstiä ei kannata säikähtää.
+Image:pc-bsd-3.png|Asennuskieleksi voi valita myös suomen.
+Image:pc-bsd-4.png|Asennusvaihtoehtoja on kolme: Työpöytä (PC-BSD), palvelin (TrueOS) ja palautus varmuuskopioista.
+Image:pc-bsd-5.png|Asentaminen kestää jonkin aikaa.
+Image:pc-bsd-6.png|Sisään kirjaudutaan monesta Linux-järjestelmästäkin tutun GDM:n kautta.
+Image:pc-bsd-7.png|Työpöytäjärjestelmänä PC-BSD käyttää oletuksena KDE:tä.
+Image:pc-bsd-8.png|KDE-työpöytäympäristön tuttuja sovelluksia ja PC-BSD:n ohjauspaneeli.
+Image:pc-bsd-9.png|AppCafe on paketinhallintasovellus pbi-pakettien asentamiseen.
+Image:pc-bsd-10.jpg|Suuri osa sovelluksista on samoja, joita käytetään myös Linux-järjestelmissä ja toisinaan myös Windowsissa. Kuvassa Gimp-kuvankäsittelyohjelma.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

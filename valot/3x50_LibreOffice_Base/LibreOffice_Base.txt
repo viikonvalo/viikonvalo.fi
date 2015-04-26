@@ -1,0 +1,71 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+<!-- Poista yllä olevista lisensseistä toinen. CC-by-lisenssin jättäminen on suositeltavaa, jotta tekstejä voidaan käyttää myös linux.fi-wikissä -->
+'''LibreOfficen Base on täysin varusteltu tietokantaohjelma, joka on suunniteltu täyttämään monenlaisten käyttäjien tarpeet.'''
+
+[[Image:valo154-libreoffice_base.png|left]]
+
+[http://fi.wikipedia.org/wiki/Libreoffice LibreOffice] on avoimeen lähdekoodiin perustuva ilmainen toimisto-ohjelmisto, joka sisältää tekstinkäsittelyohjelman ([[LibreOffice Writer|Writer]]), taulukkolaskentaohjelman (Calc), esitysgrafiikkaohjelman ([[LibreOffice_Impress|Impress]]), tietokantaohjelman (Base), vektorigrafiikan tuottamiseen tarkoitetun piirto-ohjelman (Draw) sekä matemaattisten kaavojen kirjoittamiseen tarkoitetun ohjelman (Math).
+[[Kuva:Nige_Database.svg|right|300px]]
+Writer ja Impress on valotettu jo aiemmin, nyt on vuorossa Base. Base on vapaa [http://fi.wikipedia.org/wiki/Tietokanta tietokantaohjelma], saman tapainen kuin kaupallinen Microsoft Access. Basella voi luoda ja muokata tietokantoja. Base toimii myös edustaohjelmana muille tietokantaohjelmille kuten [[MariaDB]], MySQL ja PostgreSQL. Basessa on [http://en.wikipedia.org/wiki/Wizard_(software) velhot], joiden avulla on helppo tehdä raportteja tietokannasta. 
+Henkilökohtaisessa tietokantakäytössä riittää Basen oma HSQL-tietokantamoottori, joka tallentaa tiedot suoraan Base-tiedostoon. Lisäksi voit tallentaa ja lukea tietoja dBase-tiedostoista, jotka toimivat myös monissa muissa vastaavissa ohjelmistoissa. 
+
+Tehokäyttäjiä ja yrityksiä kiinnostaa mahdollisuus käyttää ulkoisia tietokantoja. Base tukee suoraan yleisimpiä tietokantaohjelmistoja: MySQL, Adadas D, MS Access ja PostgreSQL. Lisäksi JDBC- ja ODBC-ajureiden avulla voi käyttää lähes mitä tahansa muutakin olemassa olevaa tietokantaa.
+
+LibreOffice on käännetty suomen lisäksi yli 30 kielelle, ja se on asennettavissa kaikkiin yleisesti käytössä oleviin käyttöjärjestelmiin, joita ovat Microsoft Windows, Mac OS X (PPC ja Intel) ja Linux (Debian, Ubuntu, Fedora, Mandriva, Suse jne).
+
+Windowsille on saatavilla myös mukana kulkeva versio LibreOfficesta PortableApps.com-muodossa. Voit kuljettaa asiakirjoja ja ohjelmistoa USB-tikulla tai säilyttää niitä verkossa. Lisää tietoa löydät osoitteesta [http://PortableApps.com Portableabbs.com].
+
+Linuxissa oikoluku ja tavutus toimivat parhaiten käytettäessä käyttöjärjestelmän mukana tulevaa LibreOfficea. Esimerkiksi uusimmissa Ubuntuissa Voikkoon perustuva oikoluku ja tavutus ovat käytettävissä heti käyttöjärjestelmän asennuksen jälkeen, jos asennuksen yhteydessä on valittu asennettavaksi suomen kielen tuki.
+
+Debian [[Debian_Wheezy|Wheezyssä]] jouduin asentamaan paketin libmyodbc jotta MySQL-tietokantayhteys toimi. Lisäksi LibreOfficen Java-asetuksissa piti valita käytettävä Java. Sitten sain käytettyä aiemmin etäpalvelimelle tekemääni MySQL-tietokantaa.
+
+Ohjeita löytyy netistä, esimerkiksi miten laskentataulukosta (eli Calc) [http://www.openoffice.org/fi/vastauksia-base.html saadaan tehtyä tietokanta], jossa kenttien nimeksi tulee laskentataulukon sarakkeiden nimet. Tämä on kätevää, jos on pitänyt kortistoa taulukkolaskimella ja projekti on kasvanut liikaa. Silloin on raporttien tuottaminen työlästä ja ylipäätään työskentely tämän "tietokannan" kanssa hankalaa. 
+
+Basen tietokantaa voi [http://fi.wikipedia.org/wiki/SQL SQL] -kielellä muokata, tehdä hakuja tai tuottaa raportteja. 
+
+LibreOfficen kehitystyötä koordinoi riippumaton The Document Foundation -säätiö.
+LibreOfficen kehittely aloitettiin OpenOfficen versiosta 3.2. LibreOfficen ensimmäinen vakaa versio 3.3.0 julkaistiin 25. tammikuuta 2011. Uusin versio 4.1.3 julkaistiin 1. marraskuuta 2013. The Document -säätiön tavoitteena on julkaista uusi LibreOffice puolen vuoden välein ja aikanaan ajoittaa julkaisu tärkeimpien vapaan koodin projektien maaliskuu/syyskuu aikatauluun.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.libreoffice.org/features/base/
+;Lisenssi
+:[[GNU LGPL]]v3
+;Toimii seuraavilla alustoilla
+:FreeBSD, Linux, Mac OS X, Solaris, Unix, Windows
+;Asennus
+:Linux-jakeluissa tulee jakelun omista pakettivarastoista. Windowsille Base on saatavilla myös VALO-CD:ltä. Muiden käyttöjärjestelmien käyttäjät joutunevat noutamaan asennustiedoston kotisivulta.
+;VALO-CD
+:LibreOffice Base löytyy myös [http://www.valo-cd.fi/ilmainen_libreoffice VALO-CD]-kokoelmasta.
+;Käyttöohjeet
+:[http://wiki.documentfoundation.org/Documentation/Publications#LibreOffice_Base_Guide Keskeneräinen englanninkielinen käsikirja]
+:[https://help.libreoffice.org/Common/Database_1/fi Suomenkielinen ohje]
+:[http://www.youtube.com/watch?v=NImUL3b_y0I Youtube video tietokannan luonnista]
+:[https://wiki.documentfoundation.org/Documentation/Publications#LibreOffice_Base_Guide Kätevä ohjelappu pikanäppäimistä]
+:[http://www.youtube.com/watch?v=5Vrq2AF8POM Suomenkielinen luento Basen käytöstä]
+<!-- turhan advanced http://homes.jamk.fi/~huojo/opetus/IIO30200/Prototyypin_tekeminen_Openofficella.pdf-->
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Base-01.png‎|Velholla saa tehtyä tietokannan
+Image:Base-02.png‎|LibreOffice ja erityisesti Base tarvitsee toimivan Javan
+Image:Base-03.png‎|Taulut, kyselyt, lomakkeet (tiedon syötöön) ja raportit saa luotua velholla
+Image:Base-04.png‎|Yhteys olemassa olevaan tietokantaan luodaan sekin velholla
+Image:Base-05.png‎|Linuxissa JDBC MySQL-yhteyksiin etäpalvelimeen
+Image:Base-06.png‎|Tietokannan tiedot
+Image:Base-07.png‎|Käyttäjä ja salasana
+Image:Base-08.png‎|Valmis
+Image:Base-11.png‎|Taulun suunnittelua velholla
+Image:Base-12.png‎|Esimerkkitauluja voi käyttää pohjana, valitaan niistä halutut kentät
+Image:Base-13.png‎|Valitut kentät saa haluamaansa järjestykseen
+Image:Base-14.png‎|Kun taulu on tehty, siihen voi lisätä tietueita
+Image:Base-15.png‎|Raportti luodaan samaan tapaan, siihen saa tulostumaan haluamansa kentät
+Image:Base-16.png‎|Raportin luonti valmis
+Image:Base-17.png‎|Tulostettu raportti. Sen saa paperillekin.
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

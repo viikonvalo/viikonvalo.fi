@@ -2,7 +2,7 @@
 Title: 3x10 KDE - Viikon VALO #114
 Date: 2013/03/03
 Pageimage: valo114-kde.png
-Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Desktop,Tyopoyta
+Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Työpöytä
 -->
 
 **KDE SC on täyden työpöytäympäristön sisältävä vapaa

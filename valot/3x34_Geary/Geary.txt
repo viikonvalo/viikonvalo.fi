@@ -1,0 +1,39 @@
+{{CC-by}}
+'''Geary on käyttöliittymältään hyvin yksinkertainen ja selkeä sähköpostiohjelma, joka esittää viestit keskusteluina.'''
+
+[[Image:valo138-geary.png|left]]
+Geary on erittäin selkeäksi ja helppokäyttöiseksi tarkoitettu sähköpostiohjelma. Sen tarkoituksena on hoitaa jokapäiväinen sähköpostin lähettäminen ja vastaanottaminen ilman ylimääräisiä säätöjä ja asetuksia. Viestit esitetään ohjelmassa selkeästi keskusteluina, jolloin ei tarvitse pomppia viestistä toiseen vaan samaan asiayhteyteen liittyvät viestit ovat yhtä aikaa esillä. Ominaisuuksiltaan se ei ole läheskään yhtä monipuolinen kuin esimerkiksi [[Mozilla Thunderbird]], josta löytyy toiminto lähes joka tarpeeseen. Päin vastoin Gearyn asetukset on sähköpostitilien tietojen lisäksi rajoitettu noin kouralliseen rastiruutuja, joilla saa esimerkiksi kytkettyä lähetysikkunan oikoluvun päälle tai pois. Kun pääasia ei ole itse ohjelman käyttö vaan sähköpostiviestien lähettäminen ja vastaanottaminen, Geary on erinomainen valinta. Gearyn kehitys on vielä alussaan ja siitä puuttuu esimerkiksi hakutoiminto, jota tekijät kuitenkin lupailevat tulevaisuudessa.
+
+Ohjelman käyttö alkaa sähköpostitilien tietojen syöttämisellä. Gmail- ja Yahoo!-sähköpostien palvelimien asetukset ohjelmassa on valmiina ja niiden käyttöön tarvitsee vain syöttää sähköpostiosoite ja salasana. Muiden sähköpostipalveluiden kanssa pitää lisäksi kertoa Gearylle saapuvan ja lähtevän postin palvelimien tiedot. Tilejä voi Gearyyn syöttää useita.
+
+Gearyn käyttöliittymä koostuu kolmesta palstasta, joista vasemmanpuolimmaisessa ovat näkyvissä sähköpostitilit ja niiden kansiorakenne. Ylimpänä ovat kaikkien tilien saapuvien postien kansiot ja niiden alla tilien muu kansiorakenne. Keskimmäisessä palstassa ovat luettelona valitun kansion viestikeskustelut, joista näytetään osallistujien nimet, viestien otsikko ja pieni pätkä viimeisintä viestiä. Oikeassa palstassa näytetään keskimmäisestä valitun keskustelun kaikki viestit vanhimmasta uusimpaan. Jo luetut viestit ovat oletuksena supistetussa muodossa, jolloin niistä näkyy vain lähettäjä ja hiukan viestin alkua. Lukemattomat viestit ovat aiemmista viesteistä lainattuja osuuksia lukuun ottamatta kokonaan näkyvissä. Lainauksetkin saa näkyviin hiirellä klikkaamalla. Jos keskustelussa on paljon jo luettuja viestejä, ne supistetaan yhteen vielä pienempään tilaan, ja niistä näytetään niiden määrä.
+
+Geary näyttää siististi sekä pelkkää tekstiä olevat viestit että muotoiltua html-tekstiä sisältävät viestit. Jos viestissä on linkkejä esimerkiksi palvelimella sijaitseviin kuviin, Geary kysyy lupaa niiden näyttämiseen. Sähköpostin lähettäminen niin ikään onnistuu sekä muotoiltuna että muotoilemattomana ja näiden tilojen välillä voi vaihtaa hiiren oikean nappulan takaa tulevasta valikosta. Liitetiedostojen lähettäminen luonnollisestikin onnistuu myös ja saapuneiden viestien liitetiedostot näytetään viestin lopussa esikatselukuvina. Viestien tulostus paperille onnistuu ainakin toistaiseksi vain viesti kerrallaan eikä esimerkiksi kokonainen viestiketju yhdellä kertaa.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.yorba.org/projects/geary/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, FreeBSD, OpenBSD, NetBSD, Solaris
+;Asennus
+:Ohjelman lähdekoodit löytyvät sen kotisivuilta. Ohjelmaa kannattaa etsiä ensimmäiseksi oman Linux-jakelun omasta paketinhallinnasta. Ainakin uusimmasta Ubuntusta Geary löytyy.
+
+<gallery>
+Image:geary-1.png|Gearyn käyttö alkaa sähköpostitilin tietojen syötöllä. Gmail- ja Yahoo!-tilien käyttöön muut asetukset ovat valmiina ja vain nimi, sähköpostiosoite ja salasana tarvitaan.
+Image:geary-2.png|Muille sähköpostipalveluille pitää syöttää saapuvan ja lähtevän postin palvelimien tiedot. Sähköpostitilejä voi ohjelmaan syöttää useita.
+Image:geary-3.png|Gearyn perusnäkymä koostuu kolmesta palstasta. Vasemmanpuolimmaisena ovat sähköpostitilit ja niiden kansiorakenne, keskellä valitun sähköpostikansion viestiketjujen luettelo ja oikealla valitun ketjun viestit. Oletuksena luetuista viesteistä näkyy vain supistettu muoto ja viestien lainaukset on piilotettuina.
+Image:geary-4.png|Viestiketjun vanhat jo luetut viestit saa laajennettua näkyviin klikkaamalla. Samoin viestien sisällä olevat aiempien viestien lainaukset.
+Image:geary-5.png|Viestin lähetysikkuna "rich text"-tilassa. Vastaanottajakenttä osaa ehdottaa sähköpostiosoitteita aiemmista viesteistä.
+Image:geary-6.png|Hiiren oikean nappulan takaa tulevasta valikosta lähetysikkunan saa vaihdettua "plain text"-tilaan. Liitteitä voi lisätä.
+Image:geary-7.png|Viestien liitteet näkyvät viestin lopussa esikatselukuvakkeena.
+Image:geary-8.png|Viestin tulostuksen esikatselu.
+Image:geary-9.png|Jos viestiketjussa on paljon luettuja viestejä, ne supistetaan kaikki yhteen ja käyttäjälle näytetään viestien kokonaismäärä. Supistetut viestit saa näkymään erillisinä klikkaamalla.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

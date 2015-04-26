@@ -41,7 +41,7 @@ erityisesti [W3C](http://www.w3c.org/)-organisaation määrittelemän
 XML-pohjaisen [svg](http://www.w3.org/Graphics/SVG/)-standardin
 ympärille ja projektin tavoitteena on tuottaa mahdollisimman hyvin
 svg-standardin toteuttava piirto-ohjelma. Useat nykyaikaiset
-www-selaimet, kuten [Firefox](Firefox "wikilink"), Chrome, Opera ja
+www-selaimet, kuten [Firefox](Firefox), Chrome, Opera ja
 Safari, tukevat suoraan svg-tiedostoja. Myös Internet Explorer tukee
 standardia versiosta 9 alkaen.
 
@@ -141,7 +141,7 @@ svg-muotoisen esitysgrafiikan teon. JessyInkillä tehty esitys voi
 sisältää sivujen vaihtojen ja vaiheittain paljastuvien elementtien
 lisäksi erilaisia efektejä mukaan lukien katselualueen kierto sekä
 zoomaus sisään ja ulos. JessyInkin toimintoihin voi tutustua
-[malliesityksessä](http://viikonvalo.fi/sites/default/files/JessyInk_1_5_5_showcase.svg).
+[malliesityksessä](files/JessyInk_1_5_5_showcase.svg).
 Inkscapella ja JessyInk-laajennoksella tehdyn svg-esityksen voi avata
 nykyaikaisella www-selaimella ja näyttää yleisölle. Tiedoston voi
 halutessaan myös upottaa suoraan www-sivulle. Etuna tällaisella

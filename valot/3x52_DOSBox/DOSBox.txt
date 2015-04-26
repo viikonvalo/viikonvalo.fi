@@ -1,0 +1,55 @@
+{{CC-by}}
+'''DOSBox on emulaattoriohjelmalla, jolla voi ajaa nostalgisia DOS-aikakauden ohjelmia ja pelejä.'''
+
+[[Image:valo156-dosbox.png|left]]
+DOSBox mahdollistaa vanhojen DOS-ohjelmien ja erityisesti -pelien käyttämisen useilla nykyaikaisilla käyttöjärjestelmillä. Se löytyy ainakin Windows-, Linux-, Mac OS X-, FreeBSD-, BeOS-, OS/2-, RISC OS- ja Solaris-järjestelmille. Itse DOS-alustan emuloinnin lisäksi DOSBox emuloi myös 286/386-suorittimia, tiedostojärjestelmiä, erilaisia DOS:in kanssa käytettyjä muistijärjestelmiä, näyttötyyppejä sekä DOS-aikakauden yleisimpiä äänikortteja. Prosessoriemuloinnin ansiosta DOSBox toimii myös Arm-pohjaisessa [http://www.raspberrypi.org/ Raspberry Pi] -minikoneessa.
+
+DOSBox käynnistyy omaan ikkunaansa, jossa näytetään DOS-järjestelmän komentokehotetta matkiva käyttöliittymä. Ohjelma käynnistyy Z-asemalta, joka sisältää muutamia järjestelmän perusohjelmia. Muiksi asemiksi DOSBoxiin voi liittää <tt>mount</tt>-komennolla isäntäjärjestelmän hakemistoja taikka esimerkiksi cd- tai dvd-aseman. Koska DOSBox osaa matkia tarvittavia muistityyppejä ja yleisimpiä äänikortteja, käynnistyvät monet ohjelmat jopa helpommin kuin aikoinaan aidoilla DOS-versiolla. Myös esimerkiksi näppäimistöasetusten muuttaminen suomalaiseksi tapahtuu helposti <tt>keyb fi</tt> -komennolla.
+
+DOS-ajan näyttöjen pienen resoluution vuoksi DOSBox-ikkuna on varsin pieni, mutta sen voi ''alt+enter''-näppäinyhdistelmällä suurentaa koko näytön kokoiseksi. Ohjelmat, joissa käytetään hiirtä, kaappaavat hiiren oletuksena omaan käyttöönsä ensimmäisellä hiiren klikkauksella, mutta hiiren voi vapauttaa taas isäntäjärjestelmän käyttöön painamalla ''ctrl+F10''-yhdistelmää. Muita [http://www.dosbox.com/wiki/Special_Keys näppäinyhdistelmiä] ohjelmasta löytyy esimerkiksi ohjelmien suorituksen nopeuttamiseen ja hidastamiseen tai vaikka kuvakaappausten ja videokaappausten ottamiseen.
+
+Vanhoja DOS-pelejä voi joiltakin löytyä vielä varastoista. Myös verkosta löytyy lukuisia "abandonwareksi" kutsuttuja pelejä ja ohjelmia. Abandonwareksi mainittujen ohjelmien kanssa kannattaa muistaa, että vaikka niiden tekijät ovakin hylänneet ne ja lopettaneet niiden kehittämisen ja myynnin, eivät niiden tekijänoikeudet ole silti välttämättä päättyneet. Osa tällaisista ohjelmista on saatettu vapauttaa avoimeksi lähdekoodiksi tai pelkästään [http://en.wikipedia.org/wiki/List_of_commercial_video_games_released_as_freeware vapaasti käytettäväksi freewareksi]. Joidenkin hylätyiltä vaikuttavien pelien tai ohjelmien käyttöön ei puolestaan ole virallista lupaa.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.dosbox.com
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X, BeOS, FreeBSD, OS/2, RISC OS, Solaris
+;Asennus
+:Ohjelman asennuspaketit löytyvät sen kotisivuilta. Linux-jakeluissa DOSBox on asennettavissa suoraan paketinhallinnasta.
+;Ohjeita
+: [http://www.dosbox.com/wiki/Main_Page DOSBox-projektin wiki]
+;Linkkejä peleihin
+: http://www.classicdosgames.com/
+
+<gallery>
+Image:dosbox-1.png|DOSBoxin komentorivikehote käynnistyy Z-asemalta. Muutama rivi ohjeita käyttöön.
+Image:dosbox-2.png|Dune 2 -pelin asennus käynnissä.
+Image:dosbox-3.png|Mausteen keräämistä Arrakis-planeetalla.
+Image:dosbox-4.png|1990-luvun pelien grafiikkaa. "House Atreides"
+Image:dosbox-5.png|Dune II - The Battle for Arrakis
+Image:dosbox-6.png|Dune 2, Warcraft, C&C,... Rakenna ja valloita -tyyppisten pelien perusperiaate ei ole paljoa muuttunut vuosien saatossa.
+Image:dosbox-7.png|Suomalaisen Remedy Entertainmentin Death Rally -pelin Shareware-version käynnistys.
+Image:dosbox-8.png|Death Rallyn päävalikko
+Image:dosbox-9.png|Pelaajan ja auton valinta
+Image:dosbox-10.png|Kaasua!
+Image:dosbox-11.png|Maalissa ykkösenä
+Image:dosbox-12.png|Maalissa ykkösenä
+Image:dosbox-13.png|Tekstipohjainen kaksipalstainen tiedostonhallinta Volkov Commander
+Image:dosbox-14.png|Archon
+Image:dosbox-15.png|Lemmings
+Image:dosbox-16.png|Face Off!
+Image:dosbox-17.png|Prince of Persia - aikansa klassikko
+Image:dosbox-18.png|Prince of Persia
+Image:dosbox-19.png|Warcraft: Orcs & Humans
+Image:dosbox-20.png|Abuse
+Image:dosbox-21.png|Windows 3.11 fwg
+</gallery>
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,43 @@
+{{CC-by}}
+'''JSXGraph on JavaScript-kirjasto interaktiivisten geometristen konstruktioiden tekemiseen www-sivuille.'''
+
+[[Image:valo153-jsxgraph.png|left]]
+JSXGraph on monipuolinen geometriakirjasto JavaScript-kielelle. Sillä on mahdollista piirtää erilaisia geometrisia konstruktioita ja tehdä niistä interaktiivisia. Kuvien eri elementit voiva riippua toisistaan, jolloin esimerkiksi ympyrän keskipisteen siirtäminen vaikuttaa ympyrään ja kaikkiin muihin siitä riippuviin kuvioihin. JSXGraphilla voidaan siis tehdä vastaavia kuvia kuin esimerkiksi [[GeoGebra]]lla. Toisin kuin GeoGebrassa, JSXGraphilla ei ole graafista käyttöliittymää kuvien piirtämiseen, mutta toisaalta ohjelmointikirjastona sen käyttömahdollisuudet eivät rajoitu vain käyttäjän tekemään piirtämiseen vaan sitä voidaan käyttää vaikka verkon kautta tulevan tilastodatan havainnollistamiseen.
+
+JSXGraphissa on käytettävissä lukuisia geometrisia elementtejä, kuten pisteitä, suoria, janoja, ympyröitä, leikkauspisteitä, kulmia, normaaleja ja niin edelleen. Konstruktioiden rakentaminen näitä käyttämällä onnistuu pienen harjoittelun jälkeen melko vaivattomasti. JSXGraphin kotisivuilla on sen käytöstä useita eritasoisia kokeiltavissa olevia [http://jsxgraph.uni-bayreuth.de/wp/examples/ esimerkkejä] lähdekoodeineen. Kuvien piirtämiseen JSXGraph käyttää oletuksena SVG-piirtoa, jota käytännössä kaikki ajantasaiset www-selaimet tukevat jo luonnostaan. Vaihtoehtoisina renderöintikoneistoina ovat käytössä canvas ja vml.
+
+Samankaltaisuus GeoGebran piirto-ominaisuuksien kanssa näkyy myös siinä, että JSXGraphille löytyy GeogebraReader.js, jolla onnistuu monien GeoGebran ggb-tiedostojen näyttäminen suoraan selaimessa ilman GeoGebran muuten käyttämää Java-lisäosaa. Hieman jo vanha [http://jsxgraph.uni-bayreuth.de/talks/cadgme10/talk/jsx_ggb.html esimerkkisivu] näyttää rinnakkain saman ggb-tiedoston sekä JSXGraphilla että aidolla GeoGebralla. GeoGebran lisäksi JSXGraphilla on mahdollista näyttää mytös GEONExTin, Intergeon sekä Cinderellan tiedostomuotoja tarvittavilla lisäosilla. JSXGraph sekä sen lisäosat ovat ladattavissa [http://jsxgraph.uni-bayreuth.de/wp/download/ JSXGraphin kotisivuilta]. Niitä voi linkittää käytettäväksi www-sivuilla suoraan myös [http://cdnjs.com/libraries/jsxgraph/ cdnjs.com]-palvelusta.
+
+Geometristen kuvioiden piirtämistä on mahdollista tehdä JSXGraphin kanssa käyttäen [http://jsxgraph.uni-bayreuth.de/wiki/index.php/Geometric_constructions_with_JessieScript JessieScript-kieltä], jolla geometrinen konstruktio on melko intuitiivista kuvata tekstinä. Tuki JessieScriptin käytölle on ladattava [https://raw.github.com/jsxgraph/jsxgraph/master/src/parser/jessiescript.js erillisellä js-tiedostolla].
+
+Geometristen piirtoelementtien lisäksi JSXGraphilla on mahdollista piirtää myös esimerkiksi erilaisia funktioiden kuvaajia ja vaikka niiden Riemann-summien porraskuvioita. Myös kilpikonnagrafiikan piirtämiseen JSXGraph sisältää valmiit työkalut. Ohjelmointitaitoiselle JSXGraph on erittäin monipuolinen piirtokirjasto, jolla on helppoa tehdä vaikka matematiikan, fysiikan ja ohjelmoinnin opetuskäyttöön erilaisia sovelluksia.
+
+///Esimerkkikuva tähän, jos onnistuu///
+
+;Kotisivu
+:http://jsxgraph.uni-bayreuth.de/wp/
+:https://github.com/jsxgraph/jsxgraph
+;Lisenssi
+:[[GNU LGPL]] tai [[MIT]]
+;Toimii seuraavilla alustoilla
+:Selaimet
+;Asennus
+:Kirjasto koostuu JavaScript-tiedostosta sekä css-tiedostosta, jotka voi ladata itselleen JSXGraphin kotisivuilta. Vaihtoehtoisesti kirjastoa voi käyttää verkosta ladattavana palveluna esimerkiksi osoitteesta: http://cdnjs.com/libraries/jsxgraph/
+;Käyttöohjeet
+:[http://jsxgraph.uni-bayreuth.de/wp/examples/ Esimerkkejä]
+:[http://jsxgraph.uni-bayreuth.de/distrib/jsxgraph_refcard.pdf Referenssikortti] (pdf)
+:[http://jsxgraph.uni-bayreuth.de/distrib/jessiescript_ref_en.pdf JessieScriptin ohjeet]
+
+<gallery>
+Image:jsxgraph-1.png|Esimerkki: Viisi hiirellä raahattavaa pistettä ja niiden kautta piirretty käyrä.
+Image:jsxgraph-2.png|Eulerin suora havainnollistettuna JSXGraphilla interaktiivisesti.
+Image:jsxgraph-3.png|Interaktiivinen geometrinen kuva.
+Image:jsxgraph-4.png|JSXGraphilla voi lukea GEONExT-muotoisen tiedoston ja näyttää sen.
+Image:jsxgraph-5.png|Myös GeoGebra-tiedostojen näyttäminen onnistuu tiettyyn rajaan saakka.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

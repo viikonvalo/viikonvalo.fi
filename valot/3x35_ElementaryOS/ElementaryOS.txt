@@ -1,0 +1,46 @@
+{{CC-by}}
+'''ElementaryOS on käyttöliittymältään selkeäksi, kauniiksi ja keveäksi tarkoitettu Linux-jakelu.'''
+
+[[Image:valo139-elementaryos.png|left]]
+ElementaryOS on Ubuntuun pohjautuva käyttöjärjestelmä, jonka suunnittelun johtavana ajatuksena on parhaan mahdollisen käyttökokemuksen antaminen käyttäjälle. ElementaryOS:ää kehittävä ja suunnitteleva yhteisö pyrkii tekemään siitä mahdollisimman selkeän, kauniin ja käytettävän. Näihin päämääriin on pyritty muun muassa yhtenäisen näköisellä selkeällä käyttöliittymällä, selkeillä kuvakkeilla ja valitsemalla oletuksena tarjottaviksi ohjelmiksi kevyitä ja käytettäviä ohjelmia. Osa näistä perusohjelmista on ElementaryOS-projektin tuottamia. Koska ElementaryOS pohjautuu Ubuntuun, on sillä silti käytössään koko Ubuntun laaja ohjelmavalikoima, josta voi asentaa itselleen mieluisat ohjelmat.
+
+Järjestelmän käyttöliittymä koostuu yläpalkista ja kuvakepaneelista. Yläpalkin vasemmassa reunassa on ohjelmavalikko ja oikeassa reunassa työkaluja, kuten äänenvoimakkuuden säätö ja uloskirjautuminen. Kuvakepaneeli (Plank) näyttää joukon käynnistyskuvakkeita sekä käynnissä olevien ohjelmien kuvakkeet. Käynnissä olevien ohjelmien kuvakkeissa näkyy pieni merkki symboloimassa käynnissä olemista. Käynnistettyjä ohjelmia voi myös merkitä pysymään paneelissa myös sammuttamisen jälkeen. Paneeli toimii siis hyvin samaan tapaan kuin monissa muissa järjestelmissä.
+
+ElementaryOS käyttää ikkunoiden hallintaan Gala-ikkunamanageria. Perussovelluksiksi on valittu www-selaimeksi Midori, sähköpostiohjelmaksi [[Geary]], kalenteriksi Maya, pikaviestimeksi Empathy, kuvagallerian hallintaan Shotwell, videotoistimeksi Totem, musiikkisoittimeksi Noice, tekstieditoriksi Scratch, tiedostojen hallintaan Pantheon Files ja pääteohjelmaksi Pantheon Terminal. Nämä kaikki perussovellukset ovat ulkoasultaan hyvin selkeitä ja pelkistettyjä sekä samalla käyttäjäystävällisiä. Näistä erityisesti ElementaryOS:ää varten tehdyt ohjelmat ovat käyttöliittymältään hyvin yhtenäiset ja niissä esimerkiksi ohjelman valikko löytyy sen oikeassa ylänurkassa olevan rataskuvakkeen takaa.
+
+Työpöydän kulmiin voi asetuksista lisätä toimintoja, kuten kaikkien avoinna olevien ikkunoiden näyttäminen sekä virtuaalityöpöytien hallinta. Virtuaalityöpöytien hallinta tapahtuu ruudun alareunaan tulevalla työkalulla, jossa ovat näkyvissä käytössä olevat työpöydät, niillä olevat ohjelmat sekä uuden työpöydän luova kuvake.
+
+ElementaryOS sopii erityisesti käyttäjille, jotka kaipaavat yksinkertaista, selkeää ja kevyttä käyttöliittymää. Ubuntun ohjelmistopakettivalikoimaan nojaavana se ei kuitenkaan jää vajaaksi järeämpään käyttöönkään, sillä tarvittavat muut ohjelmat voi helposti asentaa myös ElementaryOS:ään.
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://elementaryos.org/
+;Lisenssi
+:Sisältää ohjelmia useilla vapailla lisensseillä
+;Asennus
+:Asennus-CD:n levykuva löytyy ElementaryOS:n kotisivuilta. Latauksen yhteydessä voi halutessaan lahjoittaa projektille rahaa luottokortilla tai PayPalin kautta. Flash-videoiden sekä joidenkin muiden ei-vapaiden tiedostomuotojen käyttöä varten voi joutua asentamaan "ubuntu-restricted-extras"-paketin, joka löytyy sovellusvalikoiman kautta.
+;Linkkejä
+:[http://en.wikipedia.org/wiki/Elementary_%28operating_system%29 Wikipedia]
+;Videoita
+: [http://www.youtube.com/watch?v=Lw3fGLFqjHs "Mainosvideo"]
+: [http://www.youtube.com/watch?v=OxK1ETETgUs Lyhyt esittely]
+: [http://www.youtube.com/watch?v=i74tqSl-rRA Sovelluksia ja ominaisuuksia]
+: [http://www.youtube.com/watch?v=b3cI7ekyEMM Pantheon Files]
+
+<gallery>
+Image:elementaryos-1.jpg|ElementaryOS: sisäänkirjautuminen
+Image:elementaryos-2.jpg|Käyttöliittymä koostuu yläpalkista ja alereunassa olevasta kuvaketarjottimesta.
+Image:elementaryos-3.jpg|Midori-www-selain sekä Geary-sähköpostiohjelma.
+Image:elementaryos-4.jpg|ElementaryOS:n sovellusvalikko (Slingshot), kalenteri (Maya), pääteohjelma (Pantheon Terminal) sekä asetusikkuna (Switchboard).
+Image:elementaryos-5.jpg|Musiikkisoitin (Noice) sekä työpöydän alle ilmestyvä työkalu, jolla voi lisätä virtuaalityöpöytiä ja siirrellä ohjelmia niiden välillä.
+Image:elementaryos-6.jpg|Kaikkien avoimien ikkunoiden näyttäminen.
+Image:elementaryos-7.jpg|Shotwell-galleria sekä kaksi tiedostonhallintaikkunaa (Pantheon Files), joilla voi selata paikallisten tiedostojen lisäksi myös verkkojakoja.
+Image:elementaryos-8.jpg|Totem-videotoistin sekä Ubuntustakin tuttu sovellusvalikoima.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

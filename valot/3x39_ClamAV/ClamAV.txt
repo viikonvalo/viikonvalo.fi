@@ -1,0 +1,67 @@
+{{CC-by}}    
+'''Clam Antivirus on avoimen lähdekoodin virustorjuntamoottori, joka on suunniteltu havaitsemaan troijalaisia, viruksia ja muita haittaohjelmia.'''
+
+[[Image:valo143-clamav.png|left]]
+ClamAV etsii tiedostoista haittaohjelmia ja viruksen saastuttamia tiedostoja. Tiedoston voi siirtää karanteenihakemistoon, poistaa tai vain ilmoittaa löydöstä. 
+
+Linux-koneissa ei tietokoneviruksista liiemmälti ole haittaa, mutta virustorjuntaa voi silti käyttää tutkimaan tiedoston ennen kuin lähettää sen Windows-koneen käyttäjälle. Posti- tai tiedostopalvelimena toimivassa Linux-koneessa on hyvä tutkia viestit virusten ja muiden haittaohjelmien varalta ennen niiden välittämistä eteenpäin. ClamAV:n mukana tulee virustunnistetiedot ajan tasalla pitävä taustaohjelma freshclam. [[Image:J_Alves_germ_1c.png|right]]
+
+Windows-koneissa sitä vastoin tulisi olla käytössä virustorjunta. ClamAV:stä on kaksikin Windowsille tarkoitettua versiota, ClamWin ja Immunet 3.0, powered by ClamAV. 
+
+[http://www.clamwin.com/ ClamWin] on ClamAV täydennettynä Windowsissa toimivalla graafisella käyttöliittymällä. Virustarkistus tehdään käyttäjän pyytäessä, eli valitsemalla tiedostoselaimessa tiedosto tai hakemisto ja valitsemalla tarkista ClamWinillä. Lisäksi Outlook-sähköpostiohjelmaan on mahdollista saada toiminnallisuus joka tarkistaa jokaisen saapuvan ja lähtevän sähköpostin. 
+
+Harmittavasti ClamWin ei sisällä toimintoa, joka tutkisi tiedostoja sitä mukaa, kun niitä levylle kirjoitetaan, tai tutkisi käynnistettävän tiedoston ennen kuin se päästetään käynnistymään. Puutetta voi kiertää asentamalla selaimeen lisäosan, joka tutkituttaa ladatun tiedoston ClamWinillä. Esimerkiksi Firefoxiin on saatavilla [https://addons.mozilla.org/fi/firefox/addon/fireclam/ Fireclam]. 
+
+Toinen lähestymistapa on sovelluksella nimeltä [http://sourceforge.net/projects/clamsentinel/ Clam Sentinel]. Se on Windows-ohjelma, joka tiedostojärjestelmän muutoksen huomatessaan tutkii tiedoston ClamWinillä. 
+
+Kattavampi suojaus saadaan sovelluksella [http://www.clamav.net/lang/en/about/win32/ Immunet powered by ClamAv], jossa on myös käynnistettävät ohjelmat ennen käynnistystä tutkiva toiminto. ClamAV:n lisäksi sen mukana on pilvipohjainen viruksia tunnistava osa. Immunet on toiminnallisuudeltaan vastaava kuin kaupalliset virustorjuntaohjelmistot. Saatavilla on myös [http://www.immunet.com/plus/index.html maksullinen Plus-versio], jossa on joitakin lisäominaisuuksia. Toisin kuin ClamAV ja ClamWin, Immunet '''ei ole vapaa ohjelma'''. Lähdekoodia ei siis ole saatavilla ilmaisestakaan Immunetin versiosta.
+
+ClamAV:n uusin versio 0.98 [http://www.clamav.net/lang/en/2013/09/19/clamav-0-98-has-been-released/ julkaistiin] 19. syyskuuta 2013.
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.clamav.net/lang/en/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:AIX, HP-UX, BSD, Linux, Mac OS X, OpenVMS, OSF, Solaris, Windows
+;Asennus
+:ClamAV löytynee Linux-jakelun omista pakettivarastoista. Clamwin asennetaan webbisivultaan http://www.clamwin.com/. Immunet 3.0, Powered by ClamAV asennetaan webbisivultaan http://www.clamav.net/lang/en/. 
+;Käyttöohjeet
+:Sovellusten mukana tulee ohje, tai sovelluksen webbisivulla on ohjetiedostoja. Niihin on syytä tutustua, jotta saa virustorjunnan koneellaan toimimaan kuten pitää, ja ettei epähuomiossa tee mitään joka estäisi virustorjuntaa toimimasta. 
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:ClamAV-01.png|clamscan Linuxissa käynnistetty
+Image:ClamAV-02.png|clamscan Linuxissa, tulokset
+Image:ClamAV-03.png|ClamWin asennusohjelma
+Image:ClamAV-04.png|ClamWin lataa virustunnisteiden päivitykset
+Image:ClamAV-05.png|ClamWin ei toimi koko ajan taustalla, vaan tiedostot tutkitaan vasta erikseen käynnistämällä
+Image:ClamAV-06.png|Tiedoston tutkimisen tulos
+Image:ClamAV-07.png|Viruksiakin löytyy, tai ainakin epäilyttäviä tiedostoja (nimittäin mikään muu antivirusohjelma ei löytänyt noista tiedostoista virusta)
+Image:ClamAV-08.png|Immunet 3.0, powered by ClamAV asennus
+Image:ClamAV-09.png|Asennuksen säätämö
+Image:ClamAV-10.png|Asennettu Immunet 3.0, powered by ClamAV
+Image:ClamAV-11.png|Tiedoston tutkimisen tulos
+</gallery> 
+
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''<br />
+''Kuvituskuva: Openclipart.org, Drawn by:J. Alves''
+
+===Lisätietoja===
+
+* [http://www.virustorjunta.net/ Virustorjuntaan keskittynyt tietoturvasivusto]
+* [http://fi.wikipedia.org/wiki/Virustorjunta Virustorjunta suomalaisessa Wikipediassa]
+* [http://en.wikipedia.org/wiki/Antivirus_software Perusteellisempi artikkeli englanninkielisessä Wikipediassa] 
+* [http://en.wikipedia.org/wiki/Clam_AntiVirus ClamAV Wikipediassa]
+* [http://en.wikipedia.org/wiki/ClamWin ClanWin Wikipediassa]
+* [http://en.wikipedia.org/wiki/Immunet Immunet Wikipediassa]
+* [http://blog.clamav.net/2011/03/top-5-misconceptions-about-clamav.html Blogiartikkeli ClamAV:stä]
+* [http://malwaretips.com/Thread-Immunet-Free-3-0-Test-and-Review-MalwareDoctor Immunet Test and Review]
+* [http://download.cnet.com/ClamWin-Antivirus/3000-2239_4-10369483.html Clamwin Review]
+* [https://addons.mozilla.org/fi/firefox/addon/fireclam/ Fireclam, Firefoxin lisäosa]
+* [http://sourceforge.net/projects/clamsentinel/ Clam Sentinel]
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

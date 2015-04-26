@@ -1,0 +1,51 @@
+{{CC-by}}
+'''Birdfont on vapaa työkalu kirjasintyyppien (eli fonttien) suunnitteluun.'''
+
+[[Image:valo150-birdfont.png|left]]
+Birdfontilla onnistuu oman [https://fi.wikipedia.org/wiki/Kirjasintyyppi kirjasintyypin] tekeminen suhteellisen helposti. Työtä toki vaaditaan, kun jokaisen kirjaimen, numeron tai muun kirjasintyyppiin tarvittavan merkin ulkoasu pitää piirtää erikseen, mutta itse piirtäminen on suhteellisen helppoa. Merkit piirretään suljetuilla [https://fi.wikipedia.org/wiki/B%C3%A9zier-k%C3%A4yr%C3%A4 bezier-käyrillä], jotka koostuvat käyrän pisteistä ja kulmien pyöristyksistä.
+
+Kirjasinten piirtämistä helpottaa esimerkiksi mahdollisuus laittaa piirtoalueen taustalle malliksi jokin kuva. Esimerkiksi käsin kirjoitetun kirjasimen voi suunnitella kirjoittamalla kirjaimet ensin käsin paperille, skannaamalla nämä sähköiseksi kuvaksi ja käyttämällä kuvaa taustana, jonka päälle piirretään varsinaiset kirjasimet. Toinen piirtämistä helpottava ominaisuus on joukko erilaisia apuviivoja ja pisteiden kohdistamiseen käytettävä ruudukko. Näiden avulla on helppoa tehdä kirjasimista säännöllisiä ja symmetrisiä.
+
+Ohjelmaan on mahdollista tuoda myös valmiita kuvioita svg-muotoisina tiedostoina esimerkiksi [[Inkscape]]sta. Ohjelman "export"-toiminto tallentaa kirjasintyypin kolmena erityyppisenä fonttitiedostona: eot-, svg- ja ttf-muodoissa.
+
+Birdfont tukee myös kirjasintyyppien [http://fi.wiktionary.org/wiki/välistys välistystä] ([https://en.wikipedia.org/wiki/Kerning kerning]), eli eri kirjasimien välisten etäisyyksien määrittämistä kirjainparikohtaisesti. Esimerkiksi 'A'- ja 'V'-kirjaimien viemän tilan voi tällä menetelmällä sallia menevän hieman ristiin.
+
+Ohjelman lisenssijärjestely vaikuttaa hieman erikoiselta, sillä Birdfontia tarjotaan sen kotisivuilla kolmella eri tavalla:
+# Lähdekoodipakettina, jonka lisenssinä on GPL (ja muutama kääntämiseen tarvittava tiedosto MIT-lisenssillä)
+# Freewareksi sanotut ilmaiset binäärimuotoiset ajettavat versiot, joilla saa tehdä SIL-Open Font Lisenssin mukaan lisensoituja kirjasintyyppejä
+# Maksullinen versio kaupallisten fonttien tekemiseen
+
+Käytännössä asetetuilla rajoituksilla on vaikutusta lähinnä Windows-alustalle, sillä muihin tuettuihin järjestelmiin ohjelman asentaminen suoraan GPL-lisenssillä tarjotusta lähdekoodipaketista ei ole kovin vaikea seuraamalla [https://gitorious.org/birdfont/birdfont/source/656669a3716674f7598f9038cb7f99723eba5d27:README README]-tiedoston ohjeita. Testitilanteessa tosin asennusskripti kopioi käytettävät kirjastotiedostot hakemistoon <tt>/usr/lib64</tt> toimivan <tt>/usr/lib</tt> -hakemiston sijaan ja tämä jouduttiin korjaamaan käsin.
+Ohjelman lähdekoodit ovat saatavilla myös [https://gitorious.org/birdfont/birdfont/ Gitorius-lähdekoodivarastosta]. 
+
+Ubuntu-pohjaisiin järjestelmiin ohjelman voi asentaa [http://linuxg.net/how-to-install-birdfont-0-31-on-ubuntu-13-10-13-04-linux-mint-16-15-pear-os-8/ helpommin] myös tekijöiden tarjoamasta ppa-pakettilähteestä. OpenBSD-alustalle ohjelma on tarjolla suoraan sen omista lähteistä. (graphics/birdfont)
+
+;Kotisivu
+:http://birdfont.org/
+:Lähdekoodit: https://gitorious.org/birdfont/birdfont
+;Lisenssi
+:[[GNU GPL]] v.3 (ja muutama käännöstyökalu MIT-lisenssillä)
+;Toimii seuraavilla alustoilla
+:Windows, Mac OS X, Linux, OpenBSD
+;Asennus
+:Lisenssiltään rajoitetummat suoritettavat versiot Windows- ja Mac OS X -alustoille löytyvät ohjelman kotisivuilta. Ubuntu-pohjaisiin järjestelmiin voi käyttää tekijöiden tarjoamaa ppa-lähdettä. OpenBSD-järjestelmiin ohjelma on asennettavissa sen omista lähteistä. Varmasti vapaan version voi asentaa suhteellisen helposti myös suoraan lähdekoodeista niiden mukana tulevan README-tiedoston ohjeita seuraamalla.
+;Käyttöohjeet
+:Ohjelman kotisivuilla on joukko hyödyllisiä tutoriaaleja, joista osa on varustettu opastavalla videolla.
+: Tutoriaali ja videot: http://birdfont.org/doku/doku.php/tutorials
+
+<gallery>
+Image:birdfont-1.png|Vasta aloitettu BirdFont-projekti. 
+Image:birdfont-2.png|Yleisnäkymä, josta näkyy kukin muokattavissa oleva merkki.
+Image:birdfont-3.png|Yksittäisen merkin muokkausta. Taustalla mallina toimiva kuva.
+Image:birdfont-4.png|Kirjasimen kerning-asetukset. Kuvassa A- ja V- merkit sekä A- ja W-merkit menevät hieman limittäin.
+Image:birdfont-5.png|Kerning-parit taulukkona.
+Image:birdfont-6.png|Esikatselutila on html-sivu, joka tallennetaan samaan hakemistoon tallennetun fonttiprojektin kanssa. Tiedostoa voi muokata tekstieditorilla sisältämään sopivampaa tekstiä.
+Image:birdfont-7.png|Kirjasintyypin kuvaus ja metatiedot.
+Image:birdfont-8.png|Ohjelmasta True Type -fonttitiedostoksi viedyn keskeneräisen kirjasintyypin tarkastelu kirjasintyyppien asennukseen tarkoitetulla ohjelmalla.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

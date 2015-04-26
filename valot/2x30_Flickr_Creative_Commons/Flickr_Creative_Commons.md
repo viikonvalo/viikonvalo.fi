@@ -2,7 +2,7 @@
 Title: 2x30 Flickr: Creative Commons - Viikon VALO #82
 Date: 2012/07/22
 Pageimage: valo82-flickr_creative_commons.png
-Tags: Kaikki alustat,Kuvat,Materiaali
+Tags: Kaikki alustat,Kuvat,Aineisto
 -->
 
 **Flickr-kuvanjakopalvelu sisältää paljon käyttäjien Creative Commons
