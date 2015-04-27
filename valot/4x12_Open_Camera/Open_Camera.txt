@@ -1,0 +1,45 @@
+{{CC-by}}
+'''Open Camera on avoimen lähdekoodin kamerasovellus Android-puhelimille ja -tableteille.'''
+
+[[Image:valo168-opencamera.png|left]]
+Open Camera on kamerasovellus, joka sisältää monia edistyneitä toimintoja, joita ei löydy monista muista kamerasovelluksista. Jotkin ohjelman ominaisuudet saattavat toimia vain laitteilla, jotka tukevat kyseistä toiminnallisuutta. Ohjelma vaatii toimiakseen Androidin, jonka versio on vähintään 4.0, mutta se toimii hyvin myös Jolla-puhelimen SailfishOS-käyttöjärjestelmän kanssa. Ohjelmalla voi ottaa sekä still- että videokuvaa. Myös laitteen mahdollista etukameraa voi käyttää "selfieiden" ottamiseen.
+
+Ohjelmaa voi käyttää automaattiasetuksilla taikka monipuolisista säädöistä voi valita kyseiseen tilanteeseen sopivat. Salaman voi kytkeä toimimaan automaattisesti, pakotetusti pois päältä, pakotetusti päälle taikka "soihtu"-tilaan, jossa laitteen led-salama palaa jatkuvasti. Kuvan tarkennustavaksi voi valita automaattisen, jolloin kuva tarkentuu näytöltä sormella valittuun kohtaan, äärettömän, makrotilan taikka jatkuvan tilan, jossa laite säätää tarkennusta jatkuvasti. Kosketusnäytöltä voi helposti säätää liukusäätimellä valotusasetuksia tai zoomia (rajausta). Zoomia voi säätää kosketusnäytöltä myös kahdella sormella nipistämällä.
+
+Lisäasetuksista löytyy automaattisten kuvausasetusten lisäksi valmiita asetuksia erilaisiin tilanteisiin, kuten urheiluun, yökuvaukseen, teatteriin, rannalle, auringonlaskuun, ilotulitukseen tai kynttilänvaloon. Myös asetukset valkotasapainon ja väriefektien, kuten mustavalkoasetuksen tai seepiavärin, valitsemiseen löytyvät. Samoin asetuksista löytyy kuvan automaattinen vakaaminen ("Auto-stabilise"), joka käyttää laitteen omia sensoreita asennon tunnistamiseen, ja joka suoristaa vinossa otetut kuvat.  Kasvontunnistus helpottaa kuvaamista tunnistamalla kasvot ja tarkentamalla automaattisesti niihin. Ohjelmassa on käytettävissä myös ajastin ja kuvien ottaminen useamman kuvien sarjoina. Kuvaan voi halutessaan myös tallentaa sijaintitiedot laitteen GPS-toiminnon avulla.
+
+Ohjelman käyttöliittymää voi jonkin verran muokata valitsemalla, mitä tietoja ja toiminnallisuuksia näytöllä näytetään.
+
+;Kotisivu
+:http://opencamera.sourceforge.net/
+:[https://f-droid.org/repository/browse/?fdfilter=open%20camera&fdid=net.sourceforge.opencamera F-Droidissa]
+:[https://play.google.com/store/apps/details?id=net.sourceforge.opencamera Google Playssa]
+;Lisenssi
+:[[GNU GPL]]v3+
+;Toimii seuraavilla alustoilla
+:Android, SailfishOS
+;Asennus
+:Ohjelma on asennettavissa [[F-Droid]]-palvelusta tai Google Playsta. Nokia X -puhelinten käyttäjät voivat ladata ohjelman Nokia Storesta.
+
+<gallery>
+Image:opencamera-1.jpg|Open Camera automaattiasetuksilla, automaattisen salaman kanssa.
+Image:opencamera-2.jpg|Tarkennusasetukset asetettuna makrotilaan.
+Image:opencamera-3.jpg|Auto-stabilise-valinta mittaa laitteen asennon puhelimen tai tabletin omilla antureilla ja oikaisee otetun kuvan vaakasuoraan automaattisesti.
+Image:opencamera-4.jpg|Kasvontunnistus tarkentaa kuvan automaattisesti kasvoihin.
+Image:opencamera-5.jpg|Laitteen äänenvoimakkuusnappuloita voi käyttää laukaisijana, zoomina tai valotuksen säätämiseen.
+Image:opencamera-6.jpg|Ohjelmasta löytyy lukuisia valmiita kuvausasetuksia automaattisen tilan lisäksi.
+Image:opencamera-7.jpg|Väriefekteistä löytyy muun muassa "sketch"-asetus.
+Image:opencamera-8.jpg|Väriefekteistä löytyy muun muassa "seepia"-asetus.
+Image:opencamera-9.jpg|Auto-stabilise oikaisee automaattisesti vaakasuoraan vinossa otetut kuvat.
+Image:opencamera-10.jpg|Auto-stabilisella oikaistu kuva.
+Image:opencamera-11.jpg|Makrotilassa otettu kuva.
+Image:opencamera-12.jpg|Makrotilassa otettu kuva.
+Image:opencamera-13.jpg|Seepiakuva
+Image:opencamera-14.jpg|Sketch-kuva
+</gallery> 
+
+''Teksti: oma nimimerkki''<br />
+''kuvakaappaukset: kuvien tekijän nimimerkki''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

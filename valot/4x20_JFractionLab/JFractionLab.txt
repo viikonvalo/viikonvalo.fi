@@ -1,0 +1,31 @@
+{{CC-by}}
+'''JFractionLab on yksinkertainen ohjelma murtolukujen ja niillä laskemisen harjoittelemiseen.'''
+
+[[Image:valo176-jfractionlab.png|left]]
+JFractionLab on hyvin yksinkertainen ohjelma murtolukujen harjoittelemiseen. Valittavissa on 14 erilaista tehtävätyyppiä, joista kahdeksan ensimmäistä harjoituttaa murtoluvun käsitettä ja kuusi jälkimmäistä niillä laskemista. Murtoluvuista harjoitellaan muun muassa niiden muodostamista, vertailua, laventamista, supistamista, murtolukujen muuntamista sekaluvuiksi ja takaisin sekä desimaaliluvuiksi muuntamista. Laskutoimituksista harjoitellaan yhteen- ja vähennyslaskua, kertolaskua sekä jakolaskua murtolukujen ja kokonaislukujen kanssa. Laskutoimituksissa harjoitellaan tarvittaessa myös laventamista ja supistamista sekä sekaluvuiksi muuntamista. Ohjelma pitää kirjaa kunkin tehtävätyypin oikein vastatuista tehtävistä.
+
+Kussakin tehtävätyypissä murtoluvut on havainnollistettu sektoreina taikka suorakaiteen osina. Esimerkiksi laventamisissa ja supistamisissa tämä havainnollistaa hyvin, miten väritetty sektori pysyy yhtä suurena vaikka jako-osien määrä muuttuu.
+
+Ohjelmaa ei valitettavasti ole käännetty suomeksi. Kielivaihtoehtoina löytyy saksa, englanti, espanja, ranska, italia ja portugali. Desimaalilukuja käsittelevien tehtävien kohdalla ohjelma hyväksyy sekä suomalaisen desimaalipilkun että monissa maissa käytössä olevan desimaalipisteen. Tästä huomaavaisesta toteutuksessa lienee kiittäminen ohjelman saksalaista alkuperää.
+
+;Kotisivu
+:http://jfractionlab.sourceforge.net/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X
+;Asennus
+:Ohjelma on ladattavissa sen kotisivuilta. Se löytyy myös joidenkin Linux-jakeluiden pakettivarastosta. Ohjelma vaatii toimiakseen Java-ympäristön.
+
+<gallery>
+Image:jfractionlab-1.jpg|Tehtävävalikko
+Image:jfractionlab-2.jpg|Ensimmäisessä tehtävätyypissä valitaan hiirellä klikkaamalla oikea määrä osia.
+Image:jfractionlab-3.jpg|Supistamisen harjoittelua.
+Image:jfractionlab-4.jpg|Murtolukujen vähennyslasku aloitetaan laventamalla saman nimisiksi.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

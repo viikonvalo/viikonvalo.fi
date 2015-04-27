@@ -1,0 +1,46 @@
+{{CC-by}}
+'''Reveal.js on JavaScript-työkalu näyttävien html5-pohjaisten esitysten tekemiseen.'''
+
+[[Image:valo196-revealjs.png|left]]
+Reveal.js on JavaScript-kirjasto, joka muodostaa html5-tiedostona luodusta esitysmateriaalista näyttävän esityksen. Esitys on näytettävissä ja selattavissa nykyaikaisella www-selaimella. Reveal.js sisältää muun muassa hienot esityskalvojen väliset siirtymät, alasivut sekä esittäjän muistiinpanot. Järjestelmä on laajennettavissa lisäosilla, jotka mahdollistavat esimerkiksi matematiikan sekä syntaksikorostetun ohjelmakoodin näyttämisen. Html5-sovelluksena esitykseen voi sisällyttää myös esimerkiksi ääntä ja videoita <tt>audio</tt>- ja <tt>video</tt>-elementeillä. Paketti sisältää muutaman valmiin teeman ja omia voi tehdä osaamisen mukaan.
+
+Reveal.js:n käyttäminen suoraan html-tiedostoa muokkaamalla vaatii käyttäjältä hieman uskallusta lähteä muokkaamaan valmista html-pohjaa. Yksittäiset kalvot järjestelmässä kirjoitetaan html5:n <tt>section</tt>-elementteinä ja kalvojen sisältö on myös html-kieltä. Halutessaan käyttäjä voi kuitenkin käyttää myös yksinkertaisempaa [http://en.wikipedia.org/wiki/Markdown Markdown]-merkintäkieltä sisällön kirjoittamiseen.
+
+Perusasennuksena ohjelman Github-sivulta ladataan zip-paketti, jonka sisältämää index.html-tiedostoa voi muokata haluamansa kaltaiseksi. Täydessä asennuksessa käytetään lisäksi [[Node.js]]-ohjelmistoa toimimaan paikallisena palvelimena, johon www-selaimella otetaan yhteys. Täyden asennuksen etuna perusasennukseen ovat muutamat lisäominaisuudet, joita voidaan käyttää vain palvelinyhteyden kautta. Näitä ovat muun muassa Markdown-muotoisen sisällön käyttäminen ulkoisista tiedostoista sekä puhujan muistiinpanonäkymä. Muistiinpanonäkymä on erillinen ikkuna, joka voi olla näkyvissä puhujan käyttämän tietokoneen omalla näytöllä pääikkunan ollessa näkyvissä valkokankaalla. Palvelinasennusta käytettäessä puhujan muistiinpanot saadaan näkyviin pop-up-ikkunana painamalla 's'-näppäintä. Puhujan muistiinpanonäkymässä näkyy pääikkunassa näkyvä kalvo ja siihen liittyvät muistiinpanot sekä esikatselunäkymä seuraavasta kalvosta. Lisäksi näkymässä on näkyvissä kello ja kulunutta aikaa näyttävä laskuri.
+
+Reveal.js-esitykset ovat katsottavissa myös mobiililaitteilla ja esimerkiksi kalvon vaihtaminen iPadilla hoituu pyyhkäisemällä kosketusnäyttöä.
+
+Reveal.js sisältää oletuksena lisäosat ainakin Markdown-sisällölle, matematiikan näyttämiseen MathJax-työkalulla, esiintyjän muistiinpanonäkymän sekä ohjelmakoodin esittämisen syntaksikorostuksella.
+
+Niille, jotka eivät halua rakentaa esityksiään kirjoittamalla html-kieltä tekstieditorilla, on tarjolla visuaalinen käyttöliittymä verkkopalveluna osoitteessa http://slides.com . Palvelu tarjoaa eri hintaisia ja erilaisia tallennusmahdollisuuksia antavia paketteja. Ilmainen paketti sisältää hieman levytilaa ja mahdollistaa vain julkisesti näkyvien esitysten tekemisen. Työkalulla tehdyt esitykset (html-tiedostot) ovat kuitenkin ladattavissa sivustolta myös omalle koneelle ja käytettävissä normaalin reveal.js-paketin kanssa.
+
+;Kotisivu
+:https://github.com/hakimel/reveal.js (Lataus ja ohjeet)
+:http://lab.hakim.se/reveal-js (Demo-esitys)
+;Lisenssi
+:[[MIT]]
+;Toimii seuraavilla alustoilla
+:www-selaimet
+;Asennus
+:Tarvittavat paketit löytyvät Reveal.js:n Github-sivulta. Työkalua voi käyttää joko perusasennuksella html-tiedostosta tai täydellä asennuksella Node.js-palvelimen kautta.
+;Käyttöohjeet
+:[https://github.com/hakimel/reveal.js Reveal.js:n omat ohjeet] Githubissa.
+:[http://htmlcheats.com/reveal-js/reveal-js-tutorial-reveal-js-for-beginners/ Tutoriaali aloittelijoille]
+:[https://github.com/hakimel/reveal.js/wiki/Example-Presentations Esimerkkiesityksiä]
+
+<gallery>
+Image:revealjs-1.jpg|Reveal.js:n esimerkkiesityksen etusivu.
+Image:revealjs-2.jpg|Hienoja siirtymäanimaatioita.
+Image:revealjs-3.jpg|Valmiita tyylikkäitä teemoja.
+Image:revealjs-4.jpg|Muokkaaminen html-tiedostona.
+Image:revealjs-5.jpg|Pääikkuna ja esittäjän muistiinpanonäkymä.
+Image:revealjs-6.jpg|Visuaalinen muokkain verkkopalveluna.
+Image:revealjs-7.jpg|Etusivun muokkaaminen visuaalisella muokkaimella.
+Image:revealjs-8.jpg|Visuaalisessa muokkaimessa on muutamia valmiita asetteluita.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,41 @@
+{{CC-by}}
+'''Twidere on joustava ja monipuolisesti muokattava Twitter-sovellus Android-laitteille.'''
+
+[[Image:valo203-twidere.png|left]]
+Twidere on Twitterin omaa sovellusta huomattavasti monipuolisempi ja muokattavampi vaihtoehto. Twidere tukee useamman Twitter-tilin käyttä samalla sovelluksella ja uutta viestiä lähettäessään käyttäjä voi valita käytettävät tilit. Käyttäjä voi kiinnittää ohjelmaan välilehtinä valittaviksi pikavalinnoiksi haluamiaan viestivirtoja. Oletuksena tarjolla ovat esimerkiksi käyttäjätilien seuraamien tilien virta "Koti", tilin mainintoja seuraava "Maininnat" sekä yksityisviestejä näyttävä "Viestit". Välilehtiin voi kiinnittää myös yksittäisten käyttäjien viestivirtoja, hakutuloksia sekä omien listojen aikajanoja.
+
+Ohjelman käyttöliittymän ulkoasua voi muokata valmiilla väriteemoilla sekä värivalinnoilla. Temoissa on valittavassa esimerkiksi vaalea ja tumma vaihtoehto. Myös viestikorteissa näytettävä rakenne ja ulkoasu on käyttäjän valittavissa.
+
+Ohjelma erottelee oletuksena alkuperäiset ja uudelleen twiitatut viestit erilaisella taustavärillä. Se osaa myös näyttää toisiinsa vastauksina lähetetyt viestit viestiketjuina ja viesteihin liitetyt kuvat viestiin upotettuina. Viesteille voi määritellä myös suodatussääntöjä, joilla voi suodattaa pois näkyvistä epätoivottuja viestejä.
+
+Lisäksi ohjelma sisältää valinnaisesti käyttöön otettavia verkkoasetuksia, kuten DNS- ja Hosts Mapping -asetukset, joilla käyttäjä voi yrittää kiertää DNS-pohjaisia sensurointijärjestelmiä.
+
+;Kotisivu
+:https://github.com/mariotaku/twidere (Lähdekoodi)
+:[https://f-droid.org/repository/browse/?fdid=org.mariotaku.twidere F-Droid]
+:[https://play.google.com/store/apps/details?id=org.mariotaku.twidere&hl=en Google Play]
+:https://twitter.com/twidereproject (Twitter)
+;Lisenssi
+:[[GNU GPL]] v.3
+;Toimii seuraavilla alustoilla
+:Android, SailfishOS
+;Asennus
+:Ohjelman voi asentaa [[F-Droid]]in kautta taikka Googlen Playsta.
+
+<gallery>
+Image:twidere-1.jpg|Perusnäkymään voi kiinnittää välilehdiksi käyttäjän valitsemat viestivirrat.
+Image:twidere-2.jpg|Twidere tukee useampaa yhtäaikaista käyttäjätiliä sekä asetusten monipuolista muokkaamista.
+Image:twidere-3.jpg|Viestiä kirjoittaessa voi valita yhden tai useamman tilin joilta viesti lähetetään.
+Image:twidere-4.jpg|Twidere osaa näyttää viestiin liitetyt kuvat upotetusti. Viesteihin vastaaminen, niiden edelleen lähettäminen, suosikiksi merkkaaminen sekä muu jakaminen on helppoa.
+Image:twidere-5.jpg|Ohjelma osaa näyttää toisiinsa vastauksina lähetetyt viestit ketjutettuina.
+Image:twidere-6.jpg|Monipuoliset asetukset sisältävät käyttöliittymän ulkoasuun ja teemaan liittyvät valinnat sekä toiminnallisuuteen, kuten välilehtiin vaikuttavat valinnat.
+Image:twidere-7.png|Ohjelma toimii sekä puhelimen että tabletin näytöllä.
+Image:twidere-8.png|Välilehtien lisääminen.
+Image:twidere-9.png|Ville Oksasen muistoa kunnioittaen. Viikon VALO
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

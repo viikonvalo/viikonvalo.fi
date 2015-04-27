@@ -1,0 +1,31 @@
+{{CC-by}}
+'''Unsplash on kokoelma vapaasti käytettäviä korkeatarkkuuksisia ja taiteellisia valokuvia.'''
+
+[[Image:valo194-unsplash.png|left]]
+Unsplash tarjoaa täysin vapaaseen käyttöön kokoelman valikoitujen ammattilaisten ottamia kauniita valokuvia hyvällä tarkkuudella. Kaikki Unsplashin kuvat on lisensoitu [http://creativecommons.fi/ Creative Commonsin] täysin vapaalla [http://creativecommons.org/publicdomain/zero/1.0/ CC0]-lisenssillä, joka antaa täysin vapaat kädet teosten hyödyntämiseen. Kuvia voi selata suoraan sivuston [http://unsplash.com/ etusivulta] tai pienempinä esikatselukuvina [http://unsplash.com/archive#_=_ arkistosta]. Kaikki kuvat ovat erittäin kauniita ja tunnelmallisia sekä riittävän korkealla resoluutiolla moneen hyödylliseen käyttöön. Kuvat ovat selvästi taitavien ja ammattitaitoisten kuvaajien ottamia.
+
+Unsplash esittelee palvelusta saatuja kuvia käyttämällä tehtyjä teoksia [http://madewith.unsplash.com/ Made with Unsplash] -osiossaan.
+
+Palvelun takana on [https://pickcrew.com/ Crew], joka tekee liiketoimintaa toimimalla linkkinä graafista toteutusta tarvitsevien tahojen sekä ammattitaitoisten osaajien välillä.
+
+;Kotisivu
+:http://unsplash.com/
+;Lisenssi
+:[http://creativecommons.org/publicdomain/zero/1.0/ CC0]
+;Toimii seuraavilla alustoilla
+:Kaikki
+
+<gallery>
+Image:unsplash-1.jpg|Etusivu
+Image:unsplash-2.jpg|Kuva etusivulla
+Image:unsplash-3.jpg|Arkisto
+Image:unsplash-4.jpg|Yksittäinen kuva
+Image:unsplash-5.jpg|Vanha kirjoituskone skaalattuna vähän pienemmäksi. Alkuperäinen koko 3997x2665 pikseliä.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''<br />
+''Kuvat: Unsplash''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

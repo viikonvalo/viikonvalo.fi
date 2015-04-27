@@ -1,0 +1,39 @@
+{{CC-by}}
+'''"Mechanical Curator collection" on [http://www.bl.uk/ Yhdistyneen kuningaskunnan kansalliskirjaston] Flickr-palvelussa public domainiksi julkaisema kokoelma menneiden vuosisatojen kirjoista automaattisesti digitaaliseksi skannattuja kuvia.'''
+
+[[Image:valo158-mechanical_curator.png|left]]
+The British Library julkaisi vuoden 2013 joulukuussa [http://flickr.com Flickr]-palvelussa runsaat miljoona kuvaa, jotka on skannattu digitaaliseen muotoon kirjaston kokoelmissa olevista 1600-, 1700- ja 1800-luvuilla julkaistuista kirjoista. [http://britishlibrary.typepad.co.uk/digital-scholarship/2013/12/a-million-first-steps.html Kirjaston oman kertoman] mukaan kuvat ovat syntyneet osana [http://pressandpolicy.bl.uk/Press-Releases/The-British-Library-19th-Century-Book-Digitisation-Project-343.aspx Microsoftin kanssa tehtyä kirjojen digitointiprojektia]. Microsoft on lahjoittanut digitoidun materiaalin kansalliskirjastolle, joka julkaisee sen julkiseen käyttöön public domainina. [http://labs.bl.uk/ Kansalliskirjaston British Library Labs] -projektin '''"Mechanical Curator"''' käy skannattuja sivuja automaattisesti läpi ja poimii niistä kuvat. Mechanical Curator myös julkaisee satunnaisen kuvan kerran tunnissa [http://mechanicalcurator.tumblr.com Tumblr]-palvelussa ja [https://twitter.com/MechCuratorBot Twitterissä].
+
+Kokoelma kattaa suuren joukon monenlaisia kuvia: karttoja, kaavioita, kirjojen kuvituskuvia, koristeltuja kirjaimia, värikuvia, maisemia, seinäkuvia, ornamentteja sekä paljon muuta. Kansalliskirjasto toivoo yleisön käyttävän kuvia vapaasti ja rohkaisee keksimään niille uusiokäyttöä sekä [http://en.wikipedia.org/wiki/Remix_culture remixaamaan] niitä. Myös [http://commons.wikimedia.org/wiki/Commons:British_Library/Mechanical_Curator_collection Wikimedia Commons] hyödyntää kokoelmaa Wikipedian kuvittamiseen. Tämän lisäksi kansalliskirjasto toivoo yleisöltä apua kuvakokoelman organisoinnissa. Kuvakokoelma sisältää valtavan määrän erilaisista kirjoista automaattisesti skannattuja kuvia ja kirjastolla on toki tiedossa, mistä ja kenen kirjoittamasta kirjasta, mistä painoksesta ja miltä sivulta mikäkin kuva on otettu, mutta niiden luokittelu ja järjestäminen kuvien sisällön ja aiheen mukaan on valtava työ. Kuvia on jo nyt helppo etsiä Flickrstä tagien avulla kirjan tai sen tekijän mukaan, esimerkiksi [http://www.flickr.com/photos/britishlibrary/tags/DoyleArthurConanSir kuvia sir Arthur Conan Doylen Sherlock Holmes -kirjoista], mutta kuvien etsiminen sisällön aiheen mukaan on vielä hankalaa. Kuvien mahdollisimman vapaan julkaisemisen takana onkin yhtenä toiveena, että suuri yleisö innostuisi auttamaan kuvakaaoksen lajittelussa. Kansalliskirjasto etsii '''"uusia ja kekseliäitä tapoja navigoida, löytää ja näyttää näitä ennenäkemättömiä kuvituksia"'''. Kansalliskirjasto pyrkii myös julkaisemaan itse vuoden 2014 alkupuolella työkalun kuvien sisällön selvittämiseen [http://fi.wikipedia.org/wiki/Joukkouttaminen Joukkouttamisella].
+
+Osa Flickristä löytyvistä kuvista on jo luokiteltu muutamaan hieman [http://www.flickr.com/photos/britishlibrary/sets/ rajatumpaan kokoelmaan], kuten: [http://www.flickr.com/photos/britishlibrary/sets/72157638735426654/ karttoja], [http://www.flickr.com/photos/britishlibrary/sets/72157638906393085/ lastenkirjojen kuvituksia], [http://www.flickr.com/photos/britishlibrary/sets/72157638850077096/ science fictiota], [http://www.flickr.com/photos/britishlibrary/sets/72157638733975756/ koristeltuja kirjaimia] ja [http://www.flickr.com/photos/britishlibrary/sets/72157638821811323/ jouluaiheisia kuvia].
+
+Kukin kuva ja siihen liittyvät kuvaukset ja jo olemassa olevat tagit ovat saatavilla [http://www.flickr.com/services/api/ Flickr-palvelun ohjelmointirajapinnan] (API) kautta. Lisäksi kansalliskirjasto on julkaissut [[GitHub]]-palvelussa vuoden ja kuvien koon mukaan luokiteltuina tekstimuotoisina tiedostoina kuviin liittyvää tietoa. Tiedostoissa kullakin rivillä on yhteen kuvaan liittyvät tiedot, kuten kirjan nimi, painopaikka, sivunumero, linkit Flickr:ssä julkaistun kuvan eri kokoisiin versioihin ja niin edelleen. Myös tämä data on julkaistu public domainina.
+
+;Kotisivu
+:http://www.flickr.com/photos/britishlibrary
+;Lisenssi
+:Public domain
+;Linkkejä
+:[http://mechanicalcurator.tumblr.com/ Mechanical Curator] Tumblr-palvelussa
+:[https://twitter.com/MechCuratorBot Mechanical Curator] Twitterissä
+:[http://labs.bl.uk/ British Library Labs]
+
+<gallery>
+Image:mechanical_curator-1.jpg|Potretti: Image taken from page 10 of 'Up the Niger.
+Image:mechanical_curator-2.jpg|Sherlock Holmes ja tohtori Watson: Image taken from page 182 of 'The Memoirs of Sherlock Holmes'
+Image:mechanical_curator-3.jpg|Koristekuvitusta: Image taken from page 225 of 'Jack and Three Jills. A novel'
+Image:mechanical_curator-4.jpg|Science fictionia vuodelta 1893: Image taken from page 214 of 'The Angel of the Revolution: a tale of the coming Terror.
+Image:mechanical_curator-5.jpg|Lastenkirjan kuvitusta: Image taken from page 113 of 'Songs for Little People.
+Image:mechanical_curator-6.jpg|Kreikan kartta: Image taken from page 20 of 'A History of Greece.
+Image:mechanical_curator-7.jpg|Koristeltu iso S: Image taken from page 59 of '[The garden of eloquence, etc.]'
+Image:mechanical_curator-8.jpg|Kuningatar Victoria: Image taken from page 8 of 'The Queen's Jubilee and Toronto “called back” from 1887 to 1847.
+Image:mechanical_curator-9.jpg|Joulupukki: Image taken from page 17 of 'The Coming of Father Christmas'
+Image:mechanical_curator-10.jpg|Teknisiä kuvia: Image taken from page 8 of 'A Visit to the Transvaal, Barberton, Johannesberg and back ... With a map'
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvat: The British Library''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,32 @@
+{{CC-by}}
+'''PDF-Shuffler on työkalu PDF-tiedoston sivujen järjestelemiseen ja hallintaan.'''
+
+[[Image:valo197-pdfshuffler.png|left]]
+Toisinaan iskee tarve tehdä pieniä muutoksia olemassa oleviin PDF-tiedostoihin. PDF-Shuffler on yksinkertainen työkalu, jolla voi tehdä muutamia yksinkertaisia operaatioita PDF-tiedostoille. Ohjelmalla voi yhdistellä sivuja eri tiedostoista. Sillä voi järjestellä sivuja uuteen järjestykseen tai poistella välistä tarpeettomia sivuja. Ohjelmalla voi myös kääntää sivuja toiseen asentoon ja rajata sivuja. Ohjelman käyttöliittymä on hyvin yksinkertainen. Uusia tiedostoja voi ohjelmaan tuoda joko valikon tai paneelin lisäystoiminnon kautta taikka hiirellä tiedostonhallinnasta raahaamalla. Sivujen valinta ja järjestely tapahtuu helposti hiirellä valitsemalla ja raahaamalla. Sivujen poistaminen puolestaan tapahtuu luonnollisesti valitsemalla poistettavat sivut ja valitsemalla poistaminen. Lopuksi muokattu dokumentti tallennetaan uudeksi PDF-tiedostoksi.
+
+Ohjelma hyödyntää python-pyPdf-kirjastoa, joka sisältää Pyhton-ohjelmointikielellä käytettäviä operaatioita PDF-tiedostojen muokkaamiseen.
+
+Ohjelman kätevyys on erityisesti siinä, että se tekee vain yleisimmät muokkausoperaatiot ja varsin suoraviivaisesti sekä helposti, eikä yritäkään tehdä mitään monimutkaisia operaatioita.
+
+;Kotisivu
+:http://pdfshuffler.sourceforge.net/
+;Lisenssi
+:[[GNU GPL]] v3
+;Toimii seuraavilla alustoilla
+:Linux, FreeBSD, OpenBSD, NetBSD
+;Asennus
+:Ohjelma löytyy Linux-jakeluihin suoraan paketinhallinnasta. Muutoin ohjelman voi ladata kotisivun kautta.
+
+<gallery>
+Image:pdfshuffler-1.jpg|PdfShuffler 0.6.0
+Image:pdfshuffler-2.jpg|Kaksi yksittäistä Inkscapella tehtyä sivua lisätty samaan dokumenttiin.
+Image:pdfshuffler-3.jpg|Useampisivuinen PDF-dokumentti avattuna PDF-Shuffleriin.
+Image:pdfshuffler-4.jpg|Sivujen siirtäminen raahaamalla.
+Image:pdfshuffler-5.jpg|Sivuja käännetty 90 ja 180 astetta. Sivun rajaaminen meneillään.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

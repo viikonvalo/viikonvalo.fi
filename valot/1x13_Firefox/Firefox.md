@@ -2,7 +2,7 @@
 Title: 1x13 Firefox - Viikon VALO #13
 Date: 2011/03/27
 Pageimage: valo13-Firefox.png
-Tags: Android,Linux,Mac OS X,Windows,Maemo,Internet,Viestintä,www
+Tags: Android,Linux,Mac OS X,Windows,Maemo,Internet,Viestintä,Www-selain
 -->
 
 **Mozilla Firefox on suosittu avoimen lähdekoodin www-selain, josta on

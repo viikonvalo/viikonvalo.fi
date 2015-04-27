@@ -1,0 +1,38 @@
+{{CC-by}}
+'''BasKet Note Pads, eli Basket on joustava muistiinpano-ohjelma KDE-työpöydälle.'''
+
+[[Image:valo208-basket.png|left]]
+Basket Note Pads on työkalu muistiinpanojen tekemiseen, järjestelemiseen ja hallintaan. Sillä on helppoa luoda nopeasti uusia muistiinpanoja, korostaa niitä, luokitella niitä sekä järjestää ja ryhmitellä niitä.
+
+Basketin näkymä koostuu "muistiinpanokoreista" (basket), joihin käyttäjä voi tehdä muistiinpanojaan. Näin esimerkiksi samaan projektiin liittyvät aliprojektit voidaan niputtaa yhteen. Koreja voi järjestellä puumaiseen hierarkiaan asettamalla niitä toistensa alikoreiksi. Kullekin korille voi antaa nimen, kuvakkeen, taustavärin- tai kuvan sekä valita siinä käytettävien sarakkeiden määrän. Koriin voi luoda uusia muistiinpanoja jotka ovat tekstejä, sähköpostiosoitteita, kuvaliitteitä tai muita tiedostoja, kuvakaappauksia, käynnistyskuvakkeita tai muita vastaavia.
+
+Muistiinpanoalkioille voi määrittää erilaisia tageja, eli leimoja, joko valmiiksi valittavista tai itsekeksityistä. Valmiina ohjelmassa on tarjolla kuvakkeilla varustetut tagit esimerkiksi tärkeille (important), tiedoille (information) ja ideoille (idea). Osa valmiista tageista on toiminnallisia. Esimerkiksi To Do -tagi lisää muistiinpanoon rastiruudun, jolloin tehdyn työn voi rastilla merkitä valmiiksi. Progress-tagi puolestaan näyttää edistystä kuvaavan palkin, jota klikkaamalla voi päivittää kyseisen kohdan valmiusasteen. Tagien lisäksi muistiinpanoille
+
+Yksittäiset muistiinpanot voivat olla korissa joko vapaasti sijoiteltuina taikka järjestettynä valittuun määrään sarakkeita. Muistiinpanoja voi järjestellä hiirellä raahaamalla ja niitä voi halutessaan ryhmitellä kokonaisuuksiksi. Näin on helppoa tehdä esimerkiksi tehtävälista, jossa on yhdeksi ryhmäksi niputettuna listan otsikko sekä joukko rastiruudulla (To Do -tagi) varustettuja muistiinpanoja.
+
+Ohjelman suodatintoiminnolla (filter) on helppo etsiä muistiinpanoja joko hakusanan tai tagin perusteella. Ohjelma tallentaa muistiinpanot automaattisesti, joten erillistä tallennusta ei tarvitse muistaa tehdä. Korit on mahdollista myös suojata kryptauksella ja salasanalla. Vaihtoehtoina on käyttää olemassa olevia GnuPG-/PGP-avaimia tai korikohtaista salasanaa. Kryptaus tehdään PGP-salauksella. Valitettavasti ohjelmaa kokeiltaessa sen käytettävyys kärsi siitä, että salasanasuojattua koria avattaessa ohjelma jostain syystä kysyi salasanaa useita kertoja. Ilmeisesti salasanaa kysyttiin jokaisen erillisen muistiinpanon purkamista varten erikseen.
+
+Muistiinpanoja voi tuoda myös useasta muusta muistiinpano-ohjelmasta ja koreja voi viedä html-muotoon tai ohjelman omaan arkistotiedostomuotoon.
+
+;Kotisivu
+:http://basket.kde.org/
+;Lisenssi
+:[[GNU GPL]] v.2
+;Toimii seuraavilla alustoilla
+:Linux, FreeBSD, OpenBSD, NetBSD
+;Asennus
+:Ohjelma löytyy Linux-jakeluiden omasta paketinhallinnasta.
+
+<gallery>
+Image:basket-1.jpg|Muistiinpanokorit järjestettynä puurakenteeksi. Muutamia muistiinpanoja korissa.
+Image:basket-2.jpg|Joukko valmiita tageja, joita voi laittaa muistiinpanoille.
+Image:basket-3.jpg|Eri tyyppisiä muistiinpanoja: tekstiä, kuvia, sähköpostiosoitteita, linkkejä, pikakuvakkeita. Muistiinpanot ryhmiteltyinä ja sijoiteltuina vapaasti.
+Image:basket-4.jpg|Yksittäisen korin voi kryptata ja suojata salasanalla. Kryptaukseen voi käyttää korikohtaista salasanaa tai olemassa olevia salausavaimia.
+Image:basket-5.jpg|Kryptattu kori vaatii salasanan ennen avaamista.
+</gallery> 
+
+''Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

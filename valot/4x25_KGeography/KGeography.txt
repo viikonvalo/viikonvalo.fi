@@ -1,0 +1,35 @@
+{{CC-by}}
+'''KGeography on ohjelma maantieteen harjoittelemiseen ja opiskeluun.'''<br />
+[[Image:valo181-kgeography.png|left]]
+Ohjelmalla voi harjoitella maiden, alueiden sekä osavaltioiden sijainteja ja nimiä sekä opetella maiden pääkaupunkeja ja lippuja. Ohjelmassa voi valita harjoiteltavan alueen lukuisista erilaisista maista, maanosista tai alueista, kuten Suomi, Eurooppa, Amerikka tai vaikka koko maapallo. Harjoittelu tapahtuu tekemällä erilaisia testejä, joihin voi valita käytettävän alueen, kysymysten määrän sekä testityypin. Testityyppejä ovat esimerkiksi kysytyn maan paikallistaminen kartalta, annetun maan karttakuvan sijoittaminen suurempaan karttaan sekä monivalintakysymykset, joissa kysytään maalle pääkaupunkia, pääkaupungille maata, maalle lippua taikka lipulle maata.
+
+Ohjelma antaa kustakin vastauksesta palautteen, oliko vastaus oikein, sekä lopuksi testin yhteenvedon, josta näkee, mitkä vastaukset olivat oikein tai väärin ja mitkä olisivat olleet oikeat vastaukset.
+
+Ohjelma on osa [[KDE]]-työpöytäympäristöön liittyvää [http://edu.kde.org/ KDE Education Project]ia. Näin ollen se on saatavilla ainakin Linux- ja BSD-alustoille, joilla KDE-työpöytä on käytettävissä. Ohjelmasta ei ainakaan kokeiltaessa ollut valitettavasti suomenkielistä versiota. Maantieteellisiä tietoja harjoitellessa kannattaa varmistaa tietojen ajantasaisuus myös muuta kautta, jos on epävarmuutta esimerkiksi maiden nykyisistä rajalinjoista.
+
+;Kotisivu
+:http://edu.kde.org/kgeography/
+;Lisenssi
+:[[GNU GPL]] v.2
+;Toimii seuraavilla alustoilla
+:Linux, FreeBSD, NetBSD, OpenBSD
+;Asennus
+:Linux-järjestelmiin ohjelma löytyy suoraan pakettivarastosta. BSD-järjestelmiin asentaminen tapahtuu luultavasti niiden oman paketinhallinnan kautta.
+
+<gallery>
+Image:kgeography-1.jpg|Karttoja voi tutkia. Klikkaamalla hiiellä maata tai aluetta, näkyviin tulee sen nimi, sen pääkaupungin nimi sekä lippu.
+Image:kgeography-2.jpg|Valittavissa on useita karttoja maista ja alueista.
+Image:kgeography-3.jpg|Testiin voi valita halutun määrän satunnaisia kysymyksiä.
+Image:kgeography-4.jpg|Kysytään Euroopan maita kartalta.
+Image:kgeography-5.jpg|Kuusi kysymystä kahdeksasta on vastattu oikein. Yhteenvedosta näkyvät annetut vastaukset sekä oikeat vaihtoehdot.
+Image:kgeography-6.jpg|Monivalintakysymyksiä: pääkaupungille maa. Minkä maan pääkaupunki on Praha?
+Image:kgeography-7.jpg|Monivalintakysymyksiä: maalle pääkaupunki. Mikä on Bulgarian pääkaupunki?
+Image:kgeography-8.jpg|Monivalintakysymyksiä: lipulle maa.
+Image:kgeography-9.jpg|Monivalintakysymyksiä: maalle lippu.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

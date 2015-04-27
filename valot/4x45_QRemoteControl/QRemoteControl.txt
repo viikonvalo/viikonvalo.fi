@@ -1,0 +1,48 @@
+{{CC-by}}
+'''QRemoteControl on ohjelmisto, jolla mobiililaitetta voi käyttää tietokoneen kaukosäätimenä langattomalla verkkoyhteydellä.'''
+
+[[Image:valo201-qremotecontrol.png|left]]
+QRemoteControl on palvelin- ja asiakasohjelmien pari, jonka asentamalla mobiililaite muuttuu näppäräksi kaukosäätimeksi, jolla voi ohjata vaikka mediasoittimena tai esityskoneena toimivaa tietokonetta. Palvelinohjelma löytyy Windows-, Mac OS X- sekä Linux-alustoille ja asiakasohjelmaa voi käyttää Android-, iOS-, SailfishOS-, MeeGo-, Symbian- ja BlackBerry-laitteilla, joten laitetuki on varsin kattava.
+
+Mobiililaitteeseen asennettavan kaukosäädinsovelluksen käyttöliittymä jakautuu neljään näkymään: kaukosäädin, omat kuvakkeet, hiiri ja näppäimistö. Kaukosäädinnäkymä on erityisesti media- ja esityskäyttöön soveltuva, sillä se sisältää valmiiksi näissä käytöissä yleisimmin käytettävät painikkeet, kuten toisto- ja pysätysnappulat, äänenvoimakkuuden säädön sekä nuolinäppäimet. Näppäimistönäkymä toimii tavallisena näppäimistönä, josta löytyy useimmin tarvittavat näppäimet. Ohjelman näppäimistön sijasta voi halutessaan käyttää myös mobiililaitteen omaa virtuaalinäppäimistöä. Hiirinäkymä toimii tavallisen kannettavan tietokoneen laattahiiren tavoin. Siinä on lähes koko näytön suuruinen kosketusalue, jonka reunassa ovat vierityspalkit, sekä hiiren kolme näppäintä. Lisäksi näkymässä ovat käytettävissä myös ctrl-, alt- ja shift-näppäimet, joita toisinaan tarvitaan yhtä aikaa hiiritoimintojen kanssa. Tämän näkymään kaikki napit ovat pohjaan tarttuvia, jolloin esimerkiksi raahaaminen on helppoa tätä hiirtä käyttäen. Neljännessä näkymässä on käytettävissä joukko käyttäjän itse luomia kuvakkeita, jotka suorittavat jonkin käyttäjän palvelinpuolella määrittelemän komennon tai toiminnon.
+
+Parikseen mobiililaitteessa käytettävä asiakasohjelma tarvitsee ohjattavalla tietokoneella ajettavan palvelinohjelman, joka kuuntelee verkon kautta tulevia yhteydenottoja. Palvelinohjelman voi halutessaan laittaa käynnistymään automaattisesti sisäänkirjautumisen yhteydessä tai käynnistää sen itse vain tarvittaessa. Yhteydenotoille voi ja kannattaa määritellä salasana, joka tarvitaan yhteyden muodostamiseen. Lisäksi asetuksista voi säätää muun muassa hiiren ja näppäimistön herkkyyttä. Käyttäjä voi lisätä palvelimen asetusten kautta uusia mobiililaitteella näkyviä pikakuvakkeita komennoille, näppäinyhdistelmille tai komentojen yhdistelmille. Palvelimen asetuksista voi myös muokata mobiililaitteen kaukosäädinnäkymässä näytettävien nappuloiden tuottamia näppäinpainalluksia.
+
+Kokeilluista asiakasohjelmista Android-versio tuntui toisinaan hieman nykivältä ja esimerkiksi hiiren käyttö ei ollut aivan sulavaa. Sen sijaan SailfishOS-alustalla kokeiltuna käyttö oli puolestaan erittäin sulavaa.
+
+;Kotisivu
+:http://qremote.org/
+;Lähdekoodi
+:[http://sourceforge.net/projects/qrc/ Palvelin]
+:[https://github.com/strahlex/QRemoteControl-Client Asiakas]
+;Lisenssi
+:[[GNU GPL]] v.3+
+;Toimii seuraavilla alustoilla
+:Palvelin: Linux, Windows, Mac OS X
+:Asiakas: Android, iOS, SailfishOS, MeeGo, BlackBerry, Symbian
+;Asennus
+:Ohjeet ja linkit asennukseen löytyvät ohjelman kotisivuilta.
+;Linkkejä
+:[http://www.youtube.com/watch?v=Ue6I071I3ms QRemoteControl - Quick Demo] (Youtube)
+:[https://twitter.com/qremote @qremote] (Twitter)
+
+<gallery>
+Image:qremotecontrol-1.jpg|Palvelinohjelma asennetaan ja käynnistetään tietokoneelle, jota halutaan ohjata mobiililaitteella.
+Image:qremotecontrol-2.jpg|Ohjelman asetukset saa esiin tehtäväalueella (system tray) näkyvästä kuvakkeesta. Yhteydenmuodostus kannattaa suojata salasanalla.
+Image:qremotecontrol-3.jpg|QRemoteControlille voi lisätä myös kuvakkeita itse määritellyille komennoille.
+Image:qremotecontrol-4.jpg|Kaukosäädinnäkymän napit voi määritellä vastaamaan itse valittuja näppäimistön painalluksia.
+Image:qremotecontrol-5.jpg|Kaukosäädinsovellus Jollan-puhelimessa.
+Image:qremotecontrol-6.jpg|Kaukosäätimen ulkoasun säädöt. Valittavissa on valmiita väriteemoja.
+Image:qremotecontrol-7.jpg|Kaukosäädinnäkymä.
+Image:qremotecontrol-8.jpg|Näppäimistönäkymä.
+Image:qremotecontrol-9.jpg|Hiirinäkymä.
+Image:qremotecontrol-10.jpg|Omat kuvakkeet.
+Image:qremotecontrol-11.jpg|Kaukosäädinnäkymä Android-tabletissa.
+Image:qremotecontrol-12.jpg|Hiirinäkymä Android-tabletissa.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

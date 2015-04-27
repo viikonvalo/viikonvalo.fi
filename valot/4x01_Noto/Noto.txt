@@ -1,0 +1,42 @@
+{{CC-by}}
+'''Noto on yksinkertainen työkalu muistiinpanojen ja TODO-listojen tekemiseen Jollalla.'''
+
+[[Image:valo157-noto.png|left]]
+Noto on SailfishOS-käyttöjärjestelmässä, eli Jolla-puhelimessa, toimiva muistiinpanotyökalu, jolla voi tehdä vapaamuotoisia muistiinpanoja tai listamuotoisia tehtäväluetteloita. Kullekin tehtävälle tai luettelolle annetaan otsikko, jotka näytetään luettelona ohjelman päänäkymässä. Ohjelman alasvetovalikosta voi lisätä uusia muistiinpanoja tai tehtävälistoja. Päänäkymän luettelossa näkyvän muistiinpanon tai tehtävälistan voi poistaa painamalla sitä pitkään ja valitsemalla "Delete"-toiminnon. Poistolla on Sailfish-ohjelmien tapaan viiden sekunnin katumisaika, jonka aikana sen voi perua.
+
+Muistiinpanot ovat täysin vapaamuotoista tekstiä ja soveltuvat hyvin lyhyiden muistettavien asioiden ylös kirjaamiseen. Tehtävälista puolestaan koostuu luettelosta muistettavia ja tehtäviä asioita. Kunkin asian kohdalla on SailfishOS:n Silica-tyyppinen "rastiruutu", eli pieni sytytettävä "valo", jolla voi merkitä kyseisen tehtävän tehdyksi. Kun tehtävä merkitään tehdyksi, sen teksti muuttuu samalla himmeämmäksi ja se putoaa listan loppuun, jolloin tekemättömät tehtävät pysyvät aina listan kärjessä. Tehtävälista soveltuu hyvin esimerkiksi kauppalistaksi, johon on helppo merkitä ostoskoriin jo kerätyt tuotteet.
+
+Ohjelman etusivu (cover), eli SailfishOS:n moniajonäkymässä näkyvä käynnissä olevaa ohjelmaa edustava kuva sisältää kaksi pyyhkäisemällä käytettävää toimintoa: muistiinpanon ja tehtävälistan lisäämiset.
+
+Ohjelman lähdekoodi on julkaistu [[GitHub]]-palvelussa ja sen lisenssinä on ohjelman about-sivulla ilmoitettu kolmekohtainen BSD-lisenssi.
+
+;Kotisivu
+:https://github.com/llelectronics/noto
+;Lisenssi
+:[http://opensource.org/licenses/BSD-3-Clause BSD (3-clause)]
+;Toimii seuraavilla alustoilla
+:SailfishOS
+;Asennus
+:Ohjelma on asennettavissa Jolla-puhelimen sovelluskaupasta.
+;Muita esiteltyjä muistiinpano- ja tehtävätyökaluja
+: [[Emacs Org-mode]]
+: [[Tomboy]]
+: [[TiddlyWiki]]
+
+<gallery>
+Image:noto-1.png|Noto Jollan sovelluskaupassa
+Image:noto-2.png|Noton about-sivu
+Image:noto-3.png|Lisätään uusi muistiinpano
+Image:noto-4.png|Muistiinpano sisältää otsikon ja tavallista tekstiä
+Image:noto-5.png|Tehtäväluettelo sisältää otsikon sekä muokattavan listan tehtäviä. Kunkin tehtävän kohdalla on "sytytettävä valo".
+Image:noto-6.png|Tehdyt tehtävät voi merkitä sytyttämällä kyseisen tehtävän kohdalle valon (laittamalla "rastin ruutuun"), jolloin tehtävän teksti muuttuu himmeäksi ja se siirtyy listan loppuun.
+Image:noto-7.png|Noton päänäkymässä lista tallennetuista muistiinpanoista ja tehtävälistoista.
+Image:noto-8.png|Noton etusivu, eli cover, SailfishOS:n moniajonäkymässä. Käytettävissä on kaksi pyyhkäisemällä käytettävää toimintoa: muistiinpanon ja tehtävälistan lisääminen.
+Image:noto-9.png|Muistiinpanon lisääminen etusivua pyyhkäisemällä.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

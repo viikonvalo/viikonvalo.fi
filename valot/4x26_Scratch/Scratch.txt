@@ -1,0 +1,51 @@
+{{CC-by}}
+'''Scratch on ohjelmoinnin alkeiden ja perusperiaatteiden opetteluun hyvin sopiva ohjelma, jossa ohjelmointi tapahtuu valmiita peruspalikoita paikoilleen raahaamalla.'''
+
+[[Image:valo182-scratch.png|left]]
+
+Scratch on erittäin suosittu ohjelmisto ohjelmoinnin perusteiden opettamiseen alakouluikäisille lapsilla ja miksei vähän vanhemmillekin ohjelmoinnista kiinnostuneille. Scratchissa ohjelmointi tapahtuu [[Turtle Art]] -ohjelman tavoin raahaamalla muistakin ohjelmointikielistä tuttuja rakenteita edustavia palikoita ohjelmointialueelle ja kytkemällä niitä toisiinsa. Palikat muistuttavat palapelin paloja tai Lego-palikoita, jotka loksahtavat toisiinsa kiinni ja joista voi oikein järjesteltyinä rakentaa mielekkäästi toimivia ohjelmia. Palikoiden joukosta löytyvät muun muassa ohjelmoinnissa tavalliset kontrollirakenteet, kuten ehdolliset if- ja if-else-rakenteet ja erilaiset silmukat, sekä palikat muuttujien käsittelyyn, niiden operaatioihin ja vertailuihin.
+
+Jotta ohjelmoinnilla saadaan helposti ja nopeasti aikaan jotain näkyvää, käyttää Scratch tähän tarkoitukseen erilaisia hahmoja (sprite), joiden liikkumista ja toimintaa käyttäjä voi ohjelmoida. Hahmoja ohjelmoimalla voi luoda animaatioita tai pelejä ja ne voi laittaa piirtämään kulkemaansa reittiä kilpikonnagrafiikan tapaan. Oletuksena esiintymislavalla, eli taustalla on ohjelman nimen mukaisesti Scratch-kissa, mutta ohjelman hahmovarastosta löytyy suuri joukko valmiita hahmoja, kuten eläimiä, ihmisiä ja esineitä. Myös uusia omia hahmoja on mahdollista piirtää. Taustalle voi valita yhtä aikaa useita hahmoja ja kullekin niistä sekä itse esityslavalle voi ohjelmoida omat toimintonsa. Esityslavalle voi ladata myös omaan ohjelmaan sopivan taustakuvan.
+
+Hahmojen liikkumisen esityslavalla voi ohjelmoida ennalta suunnitelluksi taikka toimintoihin voi ohjelmoida satunnaisuutta käyttämällä satunnaislukuja annetulta väliltä tuottavaa ohjelmointipalikkaa. Kukin hahmo voi myös havaita ja tuottaa tapahtumia (event), jolloin ne voivat reagoida toistensa tekemisiin. Hahmon voi esimerkiksi ohjelmoida tekemään jonkin tietyn toiminnon aina kun se törmää johonkin toiseen hahmoon tai tausta-alueen reunaan. Hahmon voi ohjelmoida muuttamaan ulkoasuaan tietyissä tilanteissa tai vaikka päästämään jonkin äänen ja katoamaan tullessaan toisen hahmon syömäksi.
+
+Scratchilla voi käsitellä myös matematiikkaa ja laskea jonkin verran peruslaskutoimituksia. Jo yksinkertaisilla ohjelmilla on helppoa laittaa vaikka Scratch-kissa piirtämään fraktaalikuviota kilpikonnagrafiikan tapaan. Myös merkkijonomuuttujien tarkastelu ja muokkaus sekä musiikin tekeminen ovat mahdollisia.
+
+Scratch on käytettävissä usealla kielellä, mukaan lukien suomi. Ohjelmasta on mahdollista jakaa tehtyjä Scratch-ohjelmia muiden kanssa Scratch-sivustolla. Sivustolla jaetut ohjelmat ovat tarjolla [http://creativecommons.org/licenses/by-sa/2.0/ CC-BY-SA-lisenssillä].
+
+Kun ohjelmien koko alkaa kasvaa ja Scratch käydä riittämättömäksi, on sen käytöstä varmasti melko yksinkertaista siirtyä jonkin muun, tekstinä kirjoitettavan, ohjelmointikielen pariin, sillä tarvittavat ohjelmointikielille yhteiset rakenteet on jo opittu.
+
+Scratch on mukana valmiiksi asennettuna muun muassa Raspberry Pi koneille tarkoitetussa Raspbian-käyttöjärjestelmässä ja Raspberry Pita käytetäänkin jonkin verran juuri Scratchin käyttämiseen.
+
+Scratchista on tarjolla kahta eri versiota: uudempi 2.0 ja vanhempi 1.4. Uudempi versio julkaistiin 13.5.2014 vapaalla GNU GPL v.2 -lisenssillä. Se on ohjelmoitu ActionScript-kielellä ja vaatii toimiakseen Adoben Flash-soittimen. Vanhempi 1.4-versio on puolestaan ohjelmoitu Smalltalk-kielellä eikä tarvitse Flashia toimiakseen. Sen lähdekoodi on julkaistu kahdella eri lisenssillä, Scratchin omalla [http://wiki.scratch.mit.edu/wiki/Scratch_Source_Code_License Scratch Source Code License]:lla ja GNU GPL v.2:lla. Näillä kahdella lisenssillä julkaistujen lähdekoodien erona on ainakin Scratch-nimen, -logon ja -hahmon käyttäminen brändäykseen sekä mahdollisuus ladata Scratchilla tehtyjä ohjelmia suoraan Scratch-sivustolle. GPL-lisenssillä julkaistu versio on tehty erityisesti helpottamaan ohjelman paketointia Linux-jakeluiden mukaan.
+
+;Kotisivu
+:http://scratch.mit.edu
+:[https://github.com/LLK/scratch-flash Scratch 2.0:n lähdekoodi]
+;Lisenssi
+:[[GNU GPL]] v.2
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X
+;Asennus
+:Ohjelma löytyy moniin Linux-järjestelmiin suoraan paketinhallinnan kautta. Muuten se on ladattavissa ohjelman kotisivuilta.
+;Linkkejä
+: [http://wiki.scratch.mit.edu/wiki/Scratch_Source_Code Lähdekoodista ja lisensseistä]
+: [http://avoinoppikirja.fi/tite-scratch Ohjelmointia Scratchin kanssa], suomenkielinen opas (Nelimarkka, Vainio, Kinnunen, CC-BY-SA)
+: [http://www.cs.helsinki.fi/group/linkki/materiaali/peliohjelmointi/scratch/ Peliohjelmointia Scratchilla]
+: [http://learnscratch.org/ Sivusto Scratch-ohjelmoinnin opetteluun]
+
+<gallery>
+Image:scratch-1.jpg|Scratchin perusnäkymä ja "Tietoa Scratchista" -ikkuna.
+Image:scratch-2.jpg|Muutamia hahmoja, kontrollirakenteiden paneeli sekä yksinkertainen ohjelma.
+Image:scratch-3.jpg|Scratchin mukana tulee suuri valikoima valmiita hahmoja. Eläimiä, ihmisiä, esineitä yms.
+Image:scratch-4.jpg|Taustakuvia on myös tarjolla useita valmiita tai vaihtoehtoisesti voi piirtää oman.
+Image:scratch-5.jpg|Scratchin mukana tulee muutamia esimerkkiohjelmia. Esimerkiksi tämä, jossa hiirellä liikuteltavalla isolla kalalla syödään pienempiä.
+Image:scratch-6.jpg|Yksinkertainen virtapiiri ohjelmoituna.
+Image:scratch-7.jpg|Hahmoilla voi luoda myös ajastettuja animaatioita.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

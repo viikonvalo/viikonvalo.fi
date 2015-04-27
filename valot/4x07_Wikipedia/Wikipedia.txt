@@ -1,0 +1,45 @@
+{{CC-by}}
+'''Wikipedia on yhteismuokkauksellinen vapaa ja avoin Internet-tietosanakirja.'''
+
+[[Image:valo163-wikipedia.png|left]]
+[http://www.wikipedia.org/ Wikipedia] on yhteisöllinen projekti, joka tuottaa [http://fi.wikipedia.org/wiki/Joukkouttaminen joukkouttamista] ([http://en.wikipedia.org/wiki/Crowdsourcing crowdsourcing]) hyödyntäen erittäin kattavaa Internetin välityksellä vapaasti käytettävää ja muokattavaa sähköistä tietosanakirjaa. Wikipedian tavoite on saada kaikki ihmiskunnan tietämys kaikkien saataville omalla kielellä. Wikipedian nimi tulee käytetystä wiki-tekniikasta, jonka ansiosta kuka tahansa käyttäjä voi kirjoittaa ja muokata Wikipedian artikkeleita. Avoimuuden takia kynnys artikkelien tuottamiseen ja korjaamiseen on matala. Näin artikkelien toivotaan vähitellen kehittyvän ajan myötä hioutuvan entistä paremmiksi. Wikipedia koostuu useista rinnakkaisina toimivista ja vastaavien artikkelien kautta toisiinsa linkitetyistä kieliversioista. Nykyään Wikipediassa on noin 30 miljoonaa artikkelia 287 eri kielellä.
+
+Koska Wikipedia on avoimesti muokattavissa, asetetaan sen luotettavuus usein kyseenalaiseksi. Wikipedian artikkeleissa esiintyykin usein epätarkkuuksia, virheitä tai jopa tahallista vääristelyä. Projektin ajatuksena on, että virheet kuitenkin huomataan ja korjataan ennen pitkää. Wikipedia-artikkeleita, kuten mitä tahansa muutakin lähdettä lukiessa on kuitenkin syytä käyttää tervettä mediakritiikkiä. Artikkelien kriittistä lukemista helpottaa toisaalta Wikipedian sisäänrakennettu versiointi, jonka avulla artikkelin muutoshistoriaa on helppo selata, sekä Wikipedian käytäntönä oleva tiukka vaatimus lähteiden merkitsemisestä. Muutoshistoriasta on mahdollista huomata esimerkiksi se, jos kyseinen artikkeli on selvästi kiistanalainen ja tiiviiden vastakkaisten muokkausten alla. Wikipedian periaatteena on, että sinne ei kirjoiteta niin kutsuttua uutta tutkimusta vaan jossain muualla aiemmin julkaistua tietoa. Alkuperäiseen lähteeseen sitten viitataan selkeällä lähdeviittauksella, jolloin lukija voi tarkistaa tiedon luotettavuuden sitä kautta. Myös kuhunkin artikkelisivuun liitettyä keskustelusivua voi käyttää artikkelin luotettavuuden arvioimiseen.
+
+Wikipedian sivut joutuvat toisinaan myös varsinaisen vandalismin kohteeksi. Versiohistorian ansiosta ilkivallan kohteeksi joutuneiden sivujen teksti on kuitenkin melko helppoa palauttaa aikaisempaan versioonsa heti, kun ilkivalta on havaittu. Jotkin suuria tunteita herättävät aiheet, kuten [http://en.wikipedia.org/wiki/Evolution evoluutiota] ja [http://en.wikipedia.org/wiki/Muhammad profeetta Muhammadia] käsittelevät artikkelit voivat joutua suojatuiksi eriasteisin lukituksin, jolloin esimerkiksi vain palveluun sisään kirjautuneet käyttäjät pääsevät muokkaamaan kyseisiä artikkeleita.
+
+Wikipedia-sivuston sisällönhallintaan käytetään tähän käyttöön kehitettyä avoimen lähdekoodin [[Mediawiki]]-ohjelmistoa, jonka ominaisuudet tukevat erityisesti juuri avointa ja mahdollisimman vapaata sisällön tuottamista.
+
+Wikipediaan tuotetut sisällöt on julkaistu vapailla lisensseillä, jotka sallivat materiaalin uudelleenkäyttämisen ja muokkaamisen. Artikkelien tekstisisältöihin on käytetty hieman artikkelista riippuen [http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA]-lisenssillä ja/tai [http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GNU Free Documentation License (GFDL)] -lisenssiä.
+
+Wikipedian perustivat [http://en.wikipedia.org/wiki/Jimmy_Wales Jimmy Wales] ja [http://en.wikipedia.org/wiki/Larry_Sanger Larry Sanger] 15. tammikuuta 2001. Wikipediaa ylläpitää yhdysvaltalainen voittoa tavoittelematon [http://fi.wikipedia.org/wiki/Wikimedia Wikimedia-säätiö] ([http://en.wikipedia.org/wiki/Wikimedia_Foundation Wikimedia Foundation]). Wikimedia pyörittää Wikipedian lisäksi niin ikään Mediawiki-ohjelmistolla toimivia rinnakkaisia sisarprojekteja, kuten [http://www.wiktionary.org/ Wiktionary]-sanakirjaa, [http://www.wikinews.org/ Wikinews]-uutissivustoa, [http://www.wikiquote.org/ Wikiquote]-sitaattiarkistoa, [http://www.wikibooks.org/ Wikibooks]-wikikirjastoa, [http://www.wikiversity.org/ Wikiversity]-virtuaaliopistoa. Erikielisten Wikipedioiden yhteisenä mediapankkina käytetään [[Wikimedia Commons]]-palvelua, josta löytyy suuri kirjasto kuva-, ääni- ja videotiedostoja.
+
+Wikipedian rahoitus on täysin riippuvainen vapaaehtoisten lahjoituksista. Wikimedia-säätiö on esimerkiksi ilmoittanut, että Wikipediaan ei tule koskaan tulemaan mainoksia, jotta tietosanakirja pystyy säilyttämään puolueettomuutensa. Toiminnan rahoittamiseksi Wikimedia järjestää ajoittain Wikipedian sivujen ylälaidassa näkyviä keräyskampanjoita. Näin pyritään saamaan käyttäjät lahjoittamaan varoja käytännön kulujen, kuten palvelimien ja tietoliikenneyhteyksien ylläpitoon sekä henkilökunnan palkkojen, kattamiseen.
+
+Helmikuun 7. päivänä 2014 huomiota herättikin Suomessa tieto, että poliisihallituksen arpajaishallinto oli esittänyt suomenkielisen Wikipedian ylläpidolle lausuntopyynnön meneillään olevasta varainkeruusta. Suomessa rahankeräykset ovat luvanvaraisia ja lupia voivat hakea vain yleishyödylliset järjestöt. Toisaalta, Wikipediassa esillä oleva varainkeruu ei ole minkään suomalaisen toimijan toimeenpanema vaan se on yhdysvaltalaisen Wikimedia-säätiön keräys, jota he mainostavat omilla (Suomesta katsoen) ulkomailla sijaitsevilla palvelimillaan.
+
+;Kotisivu
+:http://www.wikipedia.org/
+;Lisenssi
+:Tekstit: [http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA] / [http://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL],
+:Kuvat ja muu materiaali: useita vapaita lisenssejä
+
+<gallery>
+Image:wikipedia-1.jpg|Wikipedian etusivu ja linkkejä useisiin kieliversioihin.
+Image:wikipedia-2.jpg|Suomenkielisen Wikipedian etusivu. Suositeltu artikkeli ja ajankohtaisia aiheita.
+Image:wikipedia-3.jpg|Artikkelin muokkausnäkymä. Muokkaamisen voi tehdä wikitekstinä.
+Image:wikipedia-4.jpg|Sivun muutoshistoriasta näkee kaikki sivuun tehdyt muokkaukset ja versioita pystyy vertailemaan pareittain.
+Image:wikipedia-5.jpg|Lähdeviitteet ovat tärkeä osa luotettavaa Wikipedia-artikkelia.
+Image:wikipedia-6.jpg|Wikipediaa on 287 kielellä. Kuvassa armeniankielinen sivu.
+Image:wikipedia-7.jpg|Osittain suojattu englanninkielinen Evolution-artikkeli.
+Image:wikipedia-8.jpg|Wikipediaa eri kielillä ja sen sisarprojekteja.
+Image:wikipedia-9.jpg|Wikipedia-artikkeli voi sisältää tekstin lisäksi esimerkiksi valokuvia, piirroskuvia, karttoja ja tietolaatikoita.
+Image:wikipedia-10.jpg|Artikkelin muokkausnäkymä. Muokkaamisen voi tehdä wikitekstinä.
+Image:wikipedia-11.jpg|Wikipedian artikkeli Wikipediasta. Sivun yläreunassa on Wikimedian varainkeruuvetoomus.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

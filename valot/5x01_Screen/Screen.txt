@@ -1,0 +1,149 @@
+Screen on tekstiterminaalissa toimiva työkalu, joka mahdollistaa muun muassa ajossa olevan (tekstipohjaisen) ohjelman jättämisen taustalle käyntiin koneelta ulos kirjautuessa.
+
+== Miksi screen? ==
+
+Oletetaan tilanne, jossa on otettu ssh-ohjelmalla testipohjainen yhteys etäkoneelle, jossa halutaan suorittaa jokin pitkäkestoinen operaatio. Haluamme esimerkiksi suorittaa jonkin vaativan laskennan Pari/GP:llä. Ongelmana on tällöin yhteyden muodostamiseen käyttämämme koneen ja etäkoneen välinen yhteys. Jos katkaisemme yhteyden, katkeaa myös ohjelman suoritus. Jos jätämme yhteyden katkaisematta, jää paikalliselle koneellemme yhteyden ottamiseen käytetty ssh-ohjelma auki ja joudumme varomaan, ettemme vahingossa sulje sitä. Jos paikallinen koneemme sammuu tai verkossa ilmenee häiriötä, katkeaa myös yhteys etäkoneelle ja samalla suoritus taas keskeytyy.
+
+Tällaisessa tilanteessa voidaan käyttää apuna ohjelmaa nimeltä '''screen'''.
+
+== Screenin käynnistys ==
+
+Ensin otetaan yhteys etäkoneelle, kuten tavallisesti. Tässä vaiheessa meillä on edessämme etäkoneen komentokehoite:
+ pesasa@etakone:~$
+Tähän kehotteeseen kirjoitetaan '''<tt>screen</tt>''' ja tämä käynnistää screen-ohjelman.
+ pesasa@etakone:~$ screen
+Ruudulle ilmestyy screenin asetuksista riippuen mahdollisesti jotain tiedotustekstejä ja edelleen etäkoneen komentokehote. Mitä tapahtui? Tapahtuiko mitään?
+
+Screen käynnistyi ja käynnisti uuden komentotulkin, joka nyt on käytettävissä ja josta käsin voidaan käynnistää haluttu aikaa vievä ohjelma.
+ pesasa@etakone:~$ gp
+ Reading GPRC: /home/pesasa/.gprc ...Done.
+ 
+                                    GP/PARI CALCULATOR Version 2.3.4 (released)
+                             i486 running linux (ix86/GMP-4.2.2 kernel) 32-bit version
+                  compiled: Nov  6 2008, gcc-4.3.3 20081030 (prerelease) (Ubuntu 4.3.2-2ubuntu1)
+                                (readline v5.2 enabled, extended help not available)
+ 
+                                       Copyright (C) 2000-2006 The PARI Group
+ 
+ PARI/GP is free software, covered by the GNU General Public License, and comes WITHOUT ANY WARRANTY WHATSOEVER.
+ 
+ Type ? for help, \q to quit.
+ Type ?12 for how to get moral (and possibly technical) support.
+ 
+ parisize = 4000000, primelimit = 500000
+ ?
+Nyt itse laskenta voidaan käynnistää.
+
+== Screenistä irtautuminen ==
+
+Tämän jälkeen pääsemme käyttämään screenin erityisominaisuutta nimeltä '''detach'''. Detach tarkoittaa screen-istunnosta irtautumista. Toisin sanoen jätämme screen-ohjelman sekä sen sisälle käynnistetyt ohjelmat käyntiin taustalle, mutta olemme itse vapaita kirjautumaan ulos etäkoneelta. Tämä tapahtuu näppäinyhdistelmällä '''ctrl-a d'''. Ensin painetaan siis ctrl-näppäin pohjassa a-kirjainta, irrotetaan näistä näppäimistä ja painetaan d-kirjainta. (d=detach) Tämä oli ensimmäinen monesta screenin käyttäästä '''<tt>ctrl-a</tt>'''-alkuisesta näppäinkomennosta.
+ 
+ [detached]
+ pesasa@etakone:~$
+Näin "putoamme" ulos screenistä takaisin komentotulkkiin, josta screenin käynnistimme. Nyt voimme vaikka kirjautua ulos '''<tt>logout</tt>'''-komennolla.
+ pesasa@etakone:~$ logout
+
+== Kytkeytyminen takaisin käynnissä olevaan screeniin ==
+
+Kun otamme uudelleen yhteyden etäkoneelle ja saamme eteemme komentokehotteen, voimme pyytää käynnissä olevaa screen-ohjelmaa palaamaan hallintaamme komennolla
+ pesasa@etakone:~$ screen -r
+Näin saamme eteemme saman ohjelman, jonka jätimme suorittamaan tehtäväänsä. Näemme, että ohjelma on ollut koko ajan käynnissä ja suorittanut antamaamme tehtävää.
+
+Entäpä, jos olemmekin käynnistäneet useita ohjelmia useisiin screen-istuntoihin? Mihin näistä antamamme '''<tt>screen -r</tt>'''-komento kytkeytyy? Hyvä kysymys ja tähän ei tiedä vastausta myöskään screen. Siksipä se kysyykin sitä käyttäjältä:
+ pesasa@etakone:~$ screen -r
+ There are several suitable screens on:
+         30852.pts-3.etakone        (09/16/2009 04:25:27 PM)        (Detached)
+         8604.pts-3.etakone (09/16/2009 03:59:10 PM)        (Detached)
+ Type "screen [-d] -r [pid.]tty.host" to resume one of them.
+ pesasa@etakone:~$
+Screen luettelee kaikki käynnistämämme screen-sessiot numeroituina ja ohjeistaa kertomaan, mihin näistä haluamme kytkeytyä. Valitettavasti tulosteesta ei näe, mitä kussakin screen-sessiossa on käynnissä, mutta päivämäärästä ja kellonajasta, jotka kertovat session käynnistämisen ajankohdan, on mahdollista päätellä mihin sessioista halutaan kytkeytyä. Jos kytkeydymme väärään, se ei ole vaarallista. Irtaudumme vain uudelleen ja yritämme toista sessiota.
+ pesasa@etakone:~$ screen -d 8604
+
+Tämä ongelma voidaan välttää, jos jo screeniä käynnistäessä annamme sessiolle nimen.
+ pesasa@etakone:~$ screen -S Pari
+Tällöin useammat screen-sessiot näkyvät tulostuksessa seuraavasti:
+ pesasa@etakone:~$ screen -r
+ There are several suitable screens on:
+         21691.Pari      (09/16/2009 04:54:08 PM)        (Detached)
+         15152.Mathematica    (09/16/2009 04:47:43 PM)        (Detached)
+ Type "screen [-d] -r [pid.]tty.host" to resume one of them.
+ pesasa@etakone:~$
+Näistä voimme valita, mihin kytkeydymme:
+ pesasa@etakone:~$ screen -S Pari -r
+
+Mitä tapahtuu, jos olemmekin jo toisessa ikkunassa kytkeytyneenä screeniin ja yritämme kytkeytyä uudelleen esimerkiksi toisen ssh-yhteyden kautta?
+ pesasa@etakone:~$ screen -r
+ There is a screen on:
+         8604.pts-3.etakone (09/16/2009 03:59:10 PM)        (Attached)
+ There is no screen to be resumed.
+ pesasa@etakone:~$
+Screen ilmoittaa, että löytynyt sessio on jo kytkettynä (Attached), eikä ole irrallisia screen-sessioita, joihin kytkeytyä.
+
+Jos välttämättä haluamme kytkeytyä tuohon sessioon, jostain syystä, voidaan se tehdä ainakin seuraavilla kahdella tavalla.
+ pesasa@etakone:~$ screen -d -r
+Lisäämällä "vivun" '''<tt>-d</tt>''' kerromme, että screenin saa irrottaa aiemmasta yhteydestä ja kytkeä tähän käyttämäämme terminaaliin. Tällöin aiempaan yhteysikkunaan tulee ilmoitus:
+ [remote detached]
+ pesasa@etakone:~$
+Screen siis irroitettiin "etäkomennolla".
+
+Toinen keino kytkeytyä varattuun screen-sessioon on komennolla:
+ pesasa@etakone:~$ screen -x
+Tällä komennolla screen-sessiota ei irroteta aiemmasta terminaalista vaan kytketään myös uuteen terminaaliin. Nyt jos kirjoitamme jotain jompaan kumpaan ikkunaan, näemme saman molemmissa. Screenin koko (rivit ja sarakkeet) määräytyy ensin kytkeytyneen terminaalin mukaan. Tätä tapaa voi jossain tapauksissa käyttää myös saman tapahtuman esittämiseen useamman tietokoneen ruudulla yhtäaikaisesti.
+
+== Alueet ja ikkunat screenin sisällä ==
+
+Screenin yleisin käyttötarkoitus on varmasti edellä kuvattu mahdollisuus jättää ohjelmia käyntiin taustalle. Tämän lisäksi screenistä löytyy myös muita ominaisuuksia. Eräs näistä on mahdollisuus jakaa terminaali-ikkuna osiin, joita kutsutaan ''alueiksi'' (''region'').
+
+Kun screen on käynnissä, näppäinyhdistelmä '''<tt>ctrl-a S</tt>''' (huomaa iso S) jakaa (''split'') terminaalin vaakasuunnassa kahtia yläosaan ja alaosaan. Käytössä ollut komentotulkki jatkaa eloaan ylemmässä alueessa, mutta alempi alue on tyhjänä. Alueiden välillä voi liikkua näppäinkomennolla '''<tt>ctrl-a tab</tt>'''. Tyhjään alueeseen voi käynnistää uuden komentotulkin näppäimillä '''<tt>ctrl-a c</tt>''' (''screen''). Näin saavutetussa tilassa voidaan kummassakin alueessa ajaa eri ohjelmia. Esimerkiksi toisessa voidaan ajaa laskentaohjelmaa ja toisessa luoda sille tekstieditorilla komentojonotiedostoa tai syötetiedostoa.
+
+Split-komentoa voi käyttää yhä uudelleen terminaalin jakamiseen useampaan alueeseen.
+
+Alueita voi poistaa näppäinkomennolla '''<tt>ctrl-a X</tt>''' (''remove''), joka poistaa aktiivisena olleen alueen. Toinen vaihtoehto on yhdistelmä '''<tt>ctrl-a Q</tt>''' (''only''), joka jättää jäljelle vain aktiivisen alueen ja poistaa muut alueet.
+
+Mitä tapahtuu poistetuissa alueissa käynnissä olleille ohjelmille? Ei itse asiassa mitään. Kukin ohjelma on käynnissä omassa ikkunassaan (''window'') ja alueet ovat vain näkymiä näihin ikkunoihin. Eri alueissa voi siis olla näkyvissä eri ikkunoita tai samoja ikkunoita. Kaikkien ikkunoiden ei tarvitse olla näkyvissä yhtä aikaa. Uusia ikkunoita voidaan luoda jo mainitulla '''<tt>ctrl-a c</tt>'''-näppäinyhdistelmällä. Lista käynnissä olevista ikkunoista näkyy kunkin alueen alareunassa ja niiden välillä voi vaihtaa näppäinyhdistelmällä '''<tt>ctrl-a "</tt>''' esiin tulevasta listasta.
+
+Jotta ikkunat eivät menisi sekaisin, voidaan aktiivisena olevalle ikkunalle antaa oletusnimeä kuvaavampi nimi näppäilemällä '''<tt>ctrl-a A</tt>'''.
+
+== Historian selaaminen ==
+
+Screen ikkunan sisällä ruudulla juosseita tekstejä voi tarkastella kopiointi- ja vieritystilassa (''copy/scrollback mode''), johon pääsee näppäimillä '''<tt>ctrl-a esc</tt>''' (''copy''). Tämän näppäilyn jälkeen screen siirtyy tilaan jossa voi nuolinäppäimillä selata ikkunan sisältöä taakse päin. Selaamisen lisäksi tässä tilassa voi myös kopioida tekstiä. Ensimmäinen enter-näppäimen painallus merkitsee kopioinnin aloituskohdan ja toinen lopetuskohdan, jonka jälkeen kontrolli palaa takaisin ikkunassa ajettavalle ohjelmalle. Kopioidun tekstin voi liittää näppäilemällä '''<tt>ctrl-a ]</tt>'''.
+
+== Tärkeimmät näppäinkomennot ==
+{|
+|-style="text-align: left;"
+! Näppäinyhdistelmä !! nimi !! merkitys
+|-
+|C-a " || (windowlist -b) || Esitä valintalista kaikista ikkunoista.
+|-
+|C-a tab  || (focus) || Vaihda kohdistus seuraavaan alueeseen. (Katso myös ''split'', ''remove'' ja ''only'')
+|-
+|C-a a   ||  (meta)  || Lähetä ohjelmalle ctrl-a -näppäily. Tarvitaan, joska screen nappaa todellisen ctrl-a:n.
+|-
+|C-a A   ||  (title) || Nimeä nykyinen ikkuna
+|-
+|C-a c   ||  (screen) || Luo uusi ikkuna, käynnistä siihen komentotulkki ja siirry siihen.
+|-
+|C-a d   ||  (detach) || Irrota screen tästä terminaalista.
+|-
+|C-a space || (next)  || Vaihda seuraavaan ikkunaan.
+|-
+|C-a backspace || (prev) || Vaihda edelliseen ikkunaan.
+|-
+|C-a Q   || (only)   || Sulje muut alueet ja jätä vain tämä.
+|-
+|C-a S   ||  (split) || Jaa alue kahtia vaakasuunnassa. (Katso myös ''only'', ''remove'' ja ''focus''.)
+|-
+|C-a X   ||  (remove) || Poista nykyinen alue. (Katso myös ''split'', ''only'' ja ''focus''.)
+|-
+|C-a C-\ || (quit)  || Sulje kaikki ikkunat ja lopeta screen.
+|-
+|C-a [, C-a esc || (copy) || Siirry kopiointi- ja vieritystilaan.
+|-
+|C-a ]   || (paste) || Liitä kopioitu teksti.
+|}
+
+Lisää näppäinkomentoja ja ohjeita löytyy screen-ohjelman '''man'''-sivuilta.
+ pesasa@etakone:~$ man screen
+
+[[Luokka:Projektit]]
+[[Luokka:Matematiikka]]

@@ -2,7 +2,7 @@
 Title: 3x49 JSXGraph - Viikon VALO #153
 Date: 2013/12/01
 Pageimage: valo153-jsxgraph.png
-Tags: Selaimet,JavaScript,Ohjelmointi,Piirto,Opetus,Opiskelu,Matematiikka
+Tags: Verkkoselaimet,JavaScript,Ohjelmointi,Piirto,Opetus,Opiskelu,Matematiikka
 -->
 
 **JSXGraph on JavaScript-kirjasto interaktiivisten geometristen

@@ -1,0 +1,41 @@
+{{CC-by}}
+'''Gwenview on monipuolinen ja kätevä kuvankatseluohjelma.'''
+
+[[Image:valo185-gwenview.png|left]]
+Gwenview on kuvankatseluohjelma, jota käytetään oletuksena KDE-työpöydän yhteydessä. Gwenview osaa näyttää lukuisissa eri tallennusmuodoissa olevia kuvia. Se osaa myös tehdä yksinkertaisia muokkaustoimintoja, kuten kuvien kierrot, peilaukset, rajaukset ja skaalaukset sekä punasilmäisyyden poistot. Lisäksi siihen on saatavilla monia lisäosia (plugin), joilla sen toiminnallisuutta voi laajentaa. Gwenviewiä voi käyttää joko yksittäisten kuvien satunnaiseen katseluun taikka tiedostojärjestelmäpohjaisen kuva-arkiston ylläpitoon.
+
+Gwenviewin ensimmäisenä näkymänä kotinäkymä, jossa ovat valittavissa viimeisimmäksi selatut hakemistot ja osoitteet sekä KDE:n muistissa olevat kirjanmerkityt paikat. Muita näkymiä ovat selaustila ja kuvanäkymä, jotka voivat olla myös kokoruututilassa. Selausnäkymässä voidaan selata tiedostojärjestelmää kansiorakenteen mukaan, jolloin Gwenview näyttää tunnistamansa kuvatiedostot esikatselukuvina. Tiedostoja voi raahata selausnäkymään ja siitä pois muihin ohjelmiin. Se toimii muiltakin osin kuin erityisesti kuvien esittämiseen erikoistunut tiedostoselain. Kuvaa napauttamalla siirrytään kuvatilaan, jolloin Gwenview näyttää yksittäisen kuvan. Kuvaa voidaan zoomata lähemmäs ja kauemmas ctrl-näppäimen ja hiiren rullan yhdistelmällä sekä vaihtaa ikkunaan sovitetun ja täysikokoisen koon välillä rullaa napsauttamalla. Kaksoisnapautuksella voidaan puolestaan siirtyä kokoruututilaan, jota voi käyttää esimerkiksi kuvaesitysten pitämiseen.
+
+Kuten muissakin KDE-ohjelmissa tiedostojen käsittely ei rajoitu pelkästään paikallisessa tiedostojärjestelmässä oleviin kuviin ja kansioihin vaan Gwenviewillä on mahdollista selata kuvia myös verkon yli esimerkiksi Samba-yhteyden ([http://en.wikipedia.org/wiki/Server_Message_Block SMB]) tai ssh-yhteyden kautta ([http://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol SFTP]). Samoin kuvia voi tarkastella vaikka kamerasta tai puhelimesta PTP- tai MTP-yhteyksien kautta ([http://en.wikipedia.org/wiki/Picture_Transfer_Protocol Picture Transfer Protocol], [http://en.wikipedia.org/wiki/Media_Transfer_Protocol Media Transfer Protocol]).
+
+Selaus- ja kuvanäkymien vasemman reunan sivupalkissa on kolme välilehteä, joissa ovat saatavilla hakemistopuu, kuvan tiedot sekä muutamia yleisimpiä operaatioita, kuten kierrot ja skaalaukset. Monimutkaisempia operaatioita kuville voi suorittaa joko käyttämällä erikseen asennettavia lisäosia tai avaamalla kuva sitä hiiren oikealla napilla klikkaamalla esiin tulevan valikon kautta jollain varsinaisella kuvankäsittelyohjelmalla, kuten [[GIMP]], [[Pinta]] tai Krita. Lisäosina Gwenviewiin on saatavissa useita toiminnallisuuksia. Niillä voi esimerkiksi muokata kuvia tai niiden metatietoja taikka rakentaa kuvista kollaaseja, kalentereita tai panoraamanäkymiä. Lisäosina on myös tuonti- ja vientitoimintoja (import, export), joilla kuvia voidaan hakea tai lähettää esimerkiksi sosiaalisen median palveluihin tai sähköpostina. Lisäksi lisäosissa on myös joukko työkaluja, joilla voi tehdä tiettyjä samanlaisia toimintoja, kuten koon muuttaminen tai värien ja efektien soveltaminen, suurelle joukolle kuvia sarjatyönä.
+
+;Kotisivu
+:http://gwenview.sourceforge.net/
+;Lisenssi
+:[[GNU GPL]] v.2
+;Toimii seuraavilla alustoilla
+:Linux, FreeBSD, OpenBSD, NetBSD
+;Asennus
+:Ohjelma on asennettavissa jakelun omista pakettilähteistä.
+
+<gallery>
+Image:gwenview-1.jpg|Ohjelman kotinäkymä, jossa näkyvät viimeisimmäksi käytetyt kansiot ja kirjanmerkit.
+Image:gwenview-2.jpg|Selausnäkymä, joka näyttää kansiossa olevat kuvat esikatselukuvina. Esikatselukuvien koko on skaalattavissa ikkunan oikeasta alakulmasta.
+Image:gwenview-3.jpg|Kuvan metatiedot.
+Image:gwenview-4.jpg|Kuvien selaamista smb-yhteyden kautta.
+Image:gwenview-5.jpg|Kuvanäkymä.
+Image:gwenview-6.jpg|Kuvanäkymä kokoruututilassa.
+Image:gwenview-7.jpg|Selausnäkymä kokoruututilassa.
+Image:gwenview-8.jpg|Hiiren oikealla napilla tulee esiin normaali KDE:n tiedostohallinnan valikko, jota kautta kuvan voi avata jossain toisessa ohjelmassa.
+Image:gwenview-9.jpg|Kalenterinluontilisäosa tekee valituista kuvista kalenterin.
+Image:gwenview-10.jpg|Photo Layout Editor, jolla voi valituista kuvista koostaa kollaasin esimerkiksi tulostamista varten.
+Image:gwenview-11.jpg|Share-valikossa näkyvät ohjelmaan asennetut vientilisäosat.
+Image:gwenview-12.jpg|Valittujen kuvien vienti sähköpostilla antaa valita käytetyn sähköpostiohjelman sekä pienentää kuvien kokoa tarvittaessa.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,52 @@
+{{CC-by}}    
+'''Midnight Commander eli <tt>mc</tt> on tiedostonhallintaohjelma tekstipohjaisella käyttöliittymällä.'''
+
+[[Image:valo188-midnight_commander.png|left]]
+Vastaavia on ollut jo DOS:n ajoilta, tunnetuimpia [http://en.wikipedia.org/wiki/Norton_Commander Norton Commander]. 
+
+Aiemmin esitelty [[Dolphin]] on vastaava sovellus, mutta Midnight Commander ei tarvitse graafista käyttöympäristöä eikä hiirtä. Sitä voi siis käyttää pääteikkunassa, konsolilla ja SSH-yhteyden kautta. 
+
+Hiirtä voi käyttää jos koneessa sellainen on. Näköjään X Window:n pääteikkunassa hiiri toimiikin suoraan. Konsolilta käytettäessä pitänee olla [http://en.wikipedia.org/wiki/GPM_(software) gpm] asennettuna. 
+
+[[Image:MC-Classeur-vertical_ouvert.png|right]]
+MC osaa monenlaisia toimintoja: tekstitiedostoja voi muokata sisäänrakennetulla editorilla, tiedostoja voi kopioida tai siirtää, hakemistoja voi luoda jne. Käsiteltävät tiedostot voi merkitä yksitellen insert-näppäimellä tai valita komentotulkin *- ja ?-jokerimerkeillä ja säännöllisillä lausekkeilla. Näitä voi yhdistelläkin, eli käyttää ensin jokerimerkkejä valitsemaan suurin osa ja sitten täydentää merkitsemällä yksitellen ne jotka eivät sopineet jokerimerkkeihin. Mikäli on tarpeen MC voi käynnistää (automaattisesti) toisen ohjelman tiedoston käsittelyä varten. Esimerkiksi kuvatiedoston kohdalla toiminto View käynnistää ohjelman joka osaa näyttää kuvan ruudulla. Kuvien katselu taitaa toimia vain X Window:ssa käytettäessä, konsollilla ei taida olla keinoa näyttää kuvaa.
+
+Virtuaalitiedostojärjestelmätkin toimivat, näkymässä voi katsella .zip-, .tar- tai iso-tiedoston sisältöä taikka FTP- tai SFTP-palvelimen hakemistoa. 
+
+X Window on hieman hankala, kun jotkut näppäilyt eivät mene Midnight Commanderille asti. Esimerkiksi F1 käynnistää päätteen sisäänrakennetun ohjeen. Jos on hiiri käytössä voi hiirellä klikata Midnight Commanderin Help-painiketta ikkunan alareunassa. Toinen mahdollisuus on näppäillä Esc 1, jonka MC tulkitsee F1:ksi. Jos muu ei auta on mahdollista määritellä näppäinkomennot toisenlaisiksi joko päätteessä tai Midnight Commanderissa. Näitä ongelmia ei pitäisi olla konsolilla käytettäessä, kun X Window ei ole sekaantumassa asiaan. 
+
+Tiedostonhallinta tällaisella sovelluksella on näppärää ja nopeaa. Koska toiminnot, kuten kopiointi, hakemiston luonti, tiedoston siirto jne., ovat sovelluksessa sisäänrakennettuina, ne käynnistyvät nopeammin kuin ulkoinen komento (siis cp tai copy, mkdir, mv tai move jne.). Myöskään ei tarvitse opetella, mikä komento missäkin käyttöjärjestelmässä on kopiointi, kun MC:n kopiointitoiminto on sama joka järjestelmässä. Ohjelmassa on onnistuttu yhdistämään komentorivin ja tiedostoselaimen vahvuudet käyttökelpoisella tavalla.
+
+Samantapaisia tai vastaavia ohjelmia on [http://en.wikipedia.org/wiki/Norton_Commander#Norton_Commander_inspired_software useita]. Vertailu ja luettelo ominaisuuksista [http://en.wikipedia.org/wiki/Comparison_of_file_managers#Manager_views löytyy Wikipediasta].
+
+;Kotisivu
+:https://www.midnight-commander.org/
+;Lisenssi
+:[[GNU GPL]]
+;Toimii seuraavilla alustoilla
+:Amiga OS, BSD, Linux, Mac OS X, Unix, Windows
+;Asennus
+:Linux-jakeluissa löytynee jakelun pakettivarastosta. Windows-version saa  [http://sourceforge.net/projects/mcwin32/ Sourceforgesta]. Muille käyttöjärjestelmille voi katsoa vinkkejä saatavuudesta [https://www.midnight-commander.org/wiki/Binaries Binaries]-sivulta. 
+;Käyttöohjeet
+:Mukana on sisäänrakennettu ohje, löytyy funktionäppäimellä F1. Wikistä löytyy englanninkielinen [https://www.midnight-commander.org/wiki/doc käsikirja]. 
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:MC-01.jpg|Midnight Commander ja Windows Vista
+Image:MC-02.png|Midnight Commander Debian GNU/Linux 7:ssa
+Image:MC-03.png|Tiedostonäkymän kahdessa osassa eri hakemistot. Kapeassa sarakkeessa tiedostonimiä typistetään. 
+Image:MC-04.png|Kun ikkuna on tarpeeksi iso pitkät nimet mahtuvat näkymään kokonaisina.
+Image:MC-05.png|Näkymiä on erilaisia
+Image:MC-06.png|Virtuaalitiedostojärjestelmätkin toimivat, tässä FTP-palvelimen hakemisto oikeanpuoleisessa näkymässä.
+Image:MC-07.png|Tar-tiedoston sisällön voi katsoa
+</gallery> 
+
+Lisätietoja:
+* [http://www.trembath.co.za/mctutorial.html Midnight Commander / MC Tutorial]
+* [http://www.tldp.org/LDP/LG/issue23/wkndmech_dec97/mc_article.html An Introduction to the Midnight Commander]
+* [http://linux.die.net/man/1/mc man-sivu]
+''Teksti: Taleman''<br />
+''kuvakaappaukset: Taleman''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

@@ -1,0 +1,48 @@
+{{CC-by}}
+'''C:geo on avoimen lähdekoodin Android-sovellus geokätköilyyn.'''
+
+[[Image:valo183-cgeo.png|left]]
+C:geo on laitteen GPS-toiminnallisuutta hyödyntävä Android-sovellus, joka hakee verkkopalvelusta tiedot pyydettyä paikkaa lähimmistä geokätköistä ja auttaa käyttäjää niiden etsimisessä ja löydetyksi merkitsemisessä.
+
+<blockquote>''[http://fi.wikipedia.org/wiki/Geok%C3%A4tk%C3%B6ily Geokätköily] (engl. geocaching) on ulkoiluharrastus, jossa piilotetaan ja etsitään geokätköiksi kutsuttuja rasioita. Kätköjä etsitään GPS-satelliittipaikannuksen avulla, mutta laitteen käyttö ei ole välttämätöntä. Geokätkön koordinaatit ja muut tarpeelliset tiedot kätkön löytämiseksi ilmoitetaan kätkökuvauksessa, joka julkaistaan jollain harrastuksen Internet-sivustoista. Tyypillinen kätkö koostuu vedenpitävästä säiliöstä, ja sisällä olevasta lokikirjasta, johon kätkön löytäjät voivat lisätä nimensä sekä käyntipäivän.'' (Wikipedia)</blockquote>
+
+C:geo tukee oletuksena käytettävän geocaching.com-sivuston luettelemien kätköjen lisäksi opencaching.de-sivustoa. Sivustojen tarjoamien kätköluetteloiden ja muiden palveluiden, kuten löytömerkintöjen tekemisen käyttäminen vaatii tunnuksen tekoa sivustolle. C:geon aloitusnäkymässä voi valita muutaman perustoiminnallisuuden välillä. Ensimmäisenä vaihtoehtona on "Live map", jolla voi selata kätköjä suoraan kartalla. Toisena vaihtoehtona on "Nearby", joka antaa sen hetkisen GPS-sijainnin mukaisesti luettelon lähimmistä kätköistä, niiden etäisyyksistä sekä suunnista. "Stored"-vaihtoehto antaa luettelon käyttäjän itselleen muistiin merkitsemistä kätköistä. "Search"-toiminnolla kätköjä voi hakea tietokannasta erilaisin hakukriteerein, kuten koordinaattien, osoitteen, kätkön geo-koodin tai hakusanan avulla. "Any destination" puolestaan antaa syöttää kohteen koordinaatit suoraan, jonka jälkeen ohjelma antaa kulkuohjeet suuntana ja etäisyytenä nykyisestä paikasta. Aloitusnäkymän viimeinen valinta toimii suodattimena, jolla voi rajoittaa hakuja joko kaikkiin tai vain tietyn tyyppisiin geokätköihin.
+
+Lähimpien kätköjen listassa näkyy kätkön nimen lisäksi sen tunnus, tiedot haastavuusluokittelu, kätkön koko, sen tyyppi kuvakkeena, etäisyys sekä suunta nuolella esitettynä. Kätkön valitsemalla esiin tulee näkymä, jossa kerrotaan tarkemmat tiedot kyseisestä kätköstä. Tarkemmissa tiedoissa on muun muassa karttakuva kätkön sijainnista, kätkön lyhyt ja pitkä kuvaus sekä lokikirjamerkinnät. Karttakuvaa klikkaamalla voi pyytää sovellusta esimerkiksi näyttämään kätkön suuremmalla kartalla tai kätkölle opastavan kompassin. Löydetyn tai löytämättä jääneen geokätkön voi kirjata suoraan ohjelman kautta, jolloin ei tarvitse erikseen vierailla sivustolla jälkikäteen tietokoneella.
+
+Live-kartta puolestaan antaa nähtäville kaikki valitulla kartta-alueella olevat geokätköt tyypin mukaisina kuvakkeina, joita koskettamalla saa nähtäville tarkemmat tiedot kyseisestä kätköstä. Ohjelman monipuolisilla asetuksilla ohjelmaa saa jonkin verran kustomoitua oman mielen mukaan. Asetuksista voi valita myös esimerkiksi käytettävät karttapohjat. Tarjolla ovat vaihtoehtoina Googlen kartta- ja satelliittipohjat sekä [[OpenStreetMap]]-sivuston Mapnik- ja Cyclemap-pohjat (pyöräkartta) sekä OpenStreetMap-sivustolta ladattavat offline-kartat.
+
+;Kotisivu
+:http://www.cgeo.org/
+:[https://f-droid.org/repository/browse/?fdfilter=c:geo&fdid=cgeo.geocaching F-Droid]
+:[https://play.google.com/store/apps/details?id=cgeo.geocaching&hl=en Google Play]
+;Lisenssi
+:[https://www.gnu.org/licenses/license-list.html#apache2 Apache 2]
+;Toimii seuraavilla alustoilla
+:Android, SailfishOS
+;Asennus
+:Ohjelma on asennettavissa [[F-Droid]]:illa tai Googlen Play-kaupasta.
+;Lisää tietoa
+:[http://www.geocache.fi/ Geokätköilystä]
+:[http://appmanualreader.sourceforge.net/manuals/cgeo/cgeo-help-en.html Sähköinen opas ohjelman käyttöön] (englanniksi)
+
+<gallery>
+Image:cgeo-1.jpg|Aloitusnäkymä
+Image:cgeo-2.jpg|Lähimmät geokätköt
+Image:cgeo-3.jpg|Geokätkön tarkemmat tiedot
+Image:cgeo-4.jpg|Kätkön pitkä kuvaus
+Image:cgeo-5.jpg|Kätkölle voi navigoida vaikka käyttäen karttaa tai suoraan suunnan ja etäisyyden näyttävää kompassia.
+Image:cgeo-6.jpg|Kätkö on kompassin näyttämässä suunnassa kerrotulla etäisyydellä.
+Image:cgeo-7.jpg|Kartalla näkyvän alueen kätöt niiden tyyppien mukaan merkittyinä.
+Image:cgeo-8.jpg|Kartalta valitun kätkön tiedot.
+Image:cgeo-9.jpg|Hakutoiminto toimii monilla eri hakukriteereillä.
+Image:cgeo-10.jpg|Asetuksiin syötetään geocaching.com-sivuston tunnukset.
+Image:cgeo-11.jpg|Monia muita asetuksia.
+Image:cgeo-12.jpg|Karttapohjina on tarjolla Googlen omat kartat tai OpenStreetMap-projektin karttapohjat.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

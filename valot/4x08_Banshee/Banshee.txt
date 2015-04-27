@@ -1,0 +1,49 @@
+{{CC-by}}
+'''Banshee on vapaa, kätevä ja monipuolinen lisäosilla laajennettava musiikinsoitto-ohjelma.'''
+
+[[Image:valo164-banshee.png|left]]
+Banshee on musiikinsoitto-ohjelma, jolla voi kuunnella ja katsella ääni- ja videotiedostoja helposti sekä omalta koneelta että erilaisista verkkolähteistä. Ohjelmalla voi muun muassa ylläpitää musiikkikirjastoa ja muokata tiedostojen metatietoja, hallita ja kuunnella podcast-lähetyksiä ja Internet-radiokanavia sekä selata ja kuunnella äänikirjoja. Suuri osa Bansheen toiminnoista on toteutettu lisäosina, jotka voidaan kytkeä päälle tai pois päältä. Banshee on saatavilla Linux-, Windows- ja Mac OS X -käyttöjärjestelmille.
+
+Ohjelma käy läpi kiintolevyllä olevan musiikkiarkiston ja näyttää sen tiedostojen metatiedon mukaisesti albumeittain. Arkistosta voi selata kaikkea musiikkia kerralla tai suodattaa albuminäkymää artistin mukaan. Kun albumin kappalelistasta valitaan kappale, Banshee alkaa soittaa sitä ja jatkaa sen jälkeen järjestyksessä muilla kyseisen levyn kappaleilla. Vaihtoehtoisesti kappaleista voi luoda soittolistoja tai lisätä niitä soittojonoon, josta kappaleet soitetaan yksi kerrallaan läpi. Kappaleiden metatietoja voi muokata yksitellen tai sarjassa albumeittain. Metatiedot tallennetaan Bansheen tietokantaan ja niin haluttaessa synkronoidaan myös musiikkitiedostoihin.
+
+Banshee etsii automaattisesti albumeille levynkansikuvia. Ensisijaisesti Banshee etsii tiedostoon upotettuja kuvia tai albumin kansiossa olevaa kuvaa ja tämän jälkeen kuvaa etsitään muutamasta verkkopalvelusta. Banshee osaa näyttää myös musiikkiarkistosta löytämiään videotiedostoja, jos vaadittavat videokoodekit on asennettuina.
+
+Banshee integroi käyttöliittymänsä työpöydän paneeliin äänenvoimakkuuden säätövalikkoon, jos käytetty työpöytäympäristö tukee tätä toimintoa. Integrointi toimii ainakin Gnome- ja Cinnamon-työpöydillä. Myös muilla työpöydillä on mahdollista näyttää vastaavat toiminnallisuudet erillisenä kuvakkeena paneelin ilmoitusalueella. Integroitu käyttöliittymä tarjoaa muun muassa hallinnat toiston pysäyttämiseen ja jatkamiseen, seuraavaan ja edelliseen kappaleeseen siirtymiseen sekä ohjelman sulkemiseen. Lisäksi se näyttää soitettavan kappaleen ja albumin tiedot sekä kansikuvan.
+
+Bansheen podcast-toimintoon voi tilata ääni- ja videopodcasteja niitä tarjoavista lähteistä. Ohjelma näyttää tarjolla olevat podcast-lähetykset aikajärjestyksessä ja niitä voi tarkastella kaikkia yhdessä luettelossa taikka podcast-kohtaisesti. Podcast-kohtaisesti voi myös valita, ladataanko uudet jaksot omalle koneelle automaattisesti vai ladataanko ne vasta kuunneltaessa. Podcasteja voi etsiä Banseehen integroidun Miro Guide -palvelun avulla. Podcastien lisäksi ohjelmaan voi tallentaa myös nettiradiokanavien osoitteita ja kuunnella niitä helposti.
+
+Banshee esittää omaan hakemistoonsa tallennetut äänikirjat omana osionaan musiikin rinnalla. Vapaasti ladattavia äänikirjoja voi etsiä lisää muun muassa [[Librivox]]-palvelusta ja Bansheehen lisäosalla integroidusta [http://archive.org Internet Archive]-palvelusta. Internet Archivesta etsiminen ja kirjojen kuunteleminen tapahtuu helposti suoraan Bansheen käyttöliittymällä. Internet Archive tarjoaa äänikirjojen lisäksi esimerkiksi luentovideoita ja konserttitallenteita.
+
+Muina lisäosina Bansheen käyttöliittymään on integroitu muun muassa Amazonin mp3-musiikkikauppa ja Last.fm. Amazonin kaupassa ostosten tekeminen tapahtuu ohjelmaan upotetun web-selainliittymän kautta. Niin ikään lisäosana on toteutettu artistitietoa Wikipediasta ja kappaleeseen liittyviä videoita Youtubesta etsivät näkymät. Kannettavien musiikkilaitteiden tuki Applen laitteille, MTP-laitteille sekä massamuistina näkyville laitteille löytyvät myös lisäosina. Lisäosien joukosta löytyvät myös toiminnot musiikin ja videoiden näyttämiseen lähiverkosta UPnP:n ja DAAP-jaon kautta.
+
+;Kotisivu
+:http://banshee.fm
+;Lisenssi
+:MIT/X11
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X
+;Asennus
+:Banshee löytyy suoraan Linux-jakeluiden pakettivarastoista. Muille alustoille sen voi ladata ohjelman kotisivulta.
+
+<gallery>
+Image:banshee-1.jpg|Bansheen perusnäkymä. Banshee koettaa etsiä levyjen kansikuvia ensin tiedostosta itsestään, sitten sen kansiosta ja lopuksi erilaisista Internet-lähteistä.
+Image:banshee-2.jpg|Banshee näyttää haluttaessa vain soivan kappaleen tiedot.
+Image:banshee-3.jpg|Banshee yksinkertaisessa ulkoasussa.
+Image:banshee-4.jpg|Kappaleita voi valita soittojonoon, josta Banshee soittaa niitä lisäämisjärjestyksessä.
+Image:banshee-5.jpg|Soittojonoa voi järjestellä raahaamalla. Jonoon voi lisätä kappaleita käsin lisäämisen lisäksi myös muilla perusteilla, kuten arvostelun mukaan.
+Image:banshee-6.jpg|Banshee integroituu sitä tukevien työpöytäympäristöjen paneeliin äänenhallinnan yhteyteen.
+Image:banshee-7.jpg|Banshee näyttää tilattujen podcastien jaksot.
+Image:banshee-8.jpg|Ääni- ja video-podcasteja luetteloiva Miro Guide on integroitu Bansheen verkkomedia-osuuteen.
+Image:banshee-9.jpg|Amazonin mp3-kaupassa voi asioida suoraan Bansheella.
+Image:banshee-10.jpg|Internet Archive (archive.org) on suoraan selattavissa Bansheella.
+Image:banshee-11.jpg|Internet Archiven äänikirjahaku.
+Image:banshee-12.jpg|Monte Criston kreivi kuunneltavana kappaleittain suoraan Internet Archivesta.
+Image:banshee-13.jpg|Konserttitallenne Internet Archivesta.
+Image:banshee-14.jpg|Nettiradioiden kuuntelua Bansheella.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

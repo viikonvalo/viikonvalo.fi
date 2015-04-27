@@ -1,0 +1,97 @@
+{{CC-by}}    <!-- Jos haluat käyttää artikkelin lisenssinä CC-by 3.0  -->
+'''Ubuntu 14.04 LTS ”Trusty Tahr” on keväällä 2014 julkaistu versio suositusta vapaasta Linux-käyttöjärjestelmäpaketista.'''
+
+[[Image:2014-valo-173-ubuntu1404lts.png|left]]
+
+Ubuntu 14.04 LTS on julkaistu versionumeronsa mukaisesti huhtikuussa 2014. ''[https://wiki.ubuntu.com/LTS LTS]'' tarkoittaa pitkään tuettua versiota (Long Term Support), joka on Ubuntun tärkein ja käytetyin julkaisu tavallisille käyttäjille, palvelimille ja pilvikäytössä. Ubuntua julkaiseva yhtiö, [http://www.canonical.com/ Canonical], lupaa tukea ja päivittää järjestelmää viiden vuoden ajan. LTS-Ubuntusta julkaistaan puolen vuoden välein myös päivitetty asennusmedia, joka sisältää uusimman laitetuen. Tällä tavoin "vanhemmankin" Ubuntun voi asentaa uusimpiin tietokoneisiin tulevina vuosina. Esimerkiksi helmikuussa 2014 julkaistu 12.04.4 LTS sisältää laitetukea uusimmille oheislaitteille, Intel Haswell- ja AMD Kaveri -suorittimille ja niin edelleen.
+
+Myös suomenkielinen [http://wiki.ubuntu-fi.org/Ubuntu_Finnish_Remix Finnish Remix] on saatavilla. Ubuntu Finnish Remix on Ubuntun asennusmedia, joka sisältää koko suomen kielen tuen valmiiksi ja suomi on asetettu oletuskieleksi. Muita eroja viralliseen asennusmediaan ei ole. Tästä on etua, jos tarkoituksena on esitellä Ubuntua suoraan USB-tikulta tai DVD-levyltä, tai asentaa Ubuntu Internet-yhteydettömään laitteeseen. Myös viralliselta Ubuntu-asennusmedialta asentuu suomen kielen tuki, jos suomi valitaan kieleksi ja Internet-yhteys on käytettävissä.
+
+== Uutta Ubuntussa ==
+
+'''Unity 7''' -käyttäjäkokemus on hiottu 14.04 LTS:ssä huippuunsa, ennen seuraavan sukupolven Unity 8:aa. Useaa visuaalista yksityiskohtaa on parannettu, ja nopeutta ja virheettömyyttä lisätty sadoin korjauksin. Korkean tarkkuuden (HiDPI) näyttöjä tuetaan nyt laaja-alaisesti näyttökohtaisella skaalausasetuksella. Paljon kaivattuna lisänä ikkunoitujen sovellusten valikot saa nyt integroitua ikkunaan itseensä, eli niitä ei tarvitse hakea näytön yläreunasta silloin kun sovellusta ei käytetä koko näytön kokoisena.
+
+Uusi Chromium-pohjainen nopea ja tietoturvallinen '''Oxide'''-webmoottori vauhdittaa Ubuntuun integroituja webpalveluja. Oxide on tarjolla myös itsenäisten sovelluskehittäjien uuden sukupolven sovelluksien kehittämiseen sekä Ubuntun työpöydällä että tulevissa Ubuntu-puhelimissa.
+
+Tuttuun tapaan tuoreimmat sovellukset ovat löytäneet tiensä uuteen Ubuntuun, esimerkkeinä: LibreOffice 4.2, Shotwell 0.18, GIMP 2.8, Inkscape 0.48.4 sekä aina tuoreimpiin versioihin päivittyvät Firefox- ja Chromium-selaimet. Linux-ytimenä toimii herra Linus Torvaldsin julkaisema 3.13 Ubuntun lisäyksien kera.
+
+== Ubuntu Touch ==
+
+[https://wiki.ubuntu.com/Touch Ubuntu Touch] tarjoaa kosketusnäytöllisille laitteille upouuden '''Unity 8''' -käyttökokemuksen sovelluskehittäjille ja kokeilunhaluisille.
+
+Aktiivisesti tuettuja laitteita ovat puhelimista ''LG Nexus 4'' sekä tableteista ''Asus Nexus 7 (2013)'' ja ''Samsung Nexus 10''. Lisäksi yhteisö työstää tukea kymmenille muille alun perin Androidia ajaneille laitteille.
+
+Ubuntun kehittäjäyritys on julkistanut, että ensimmäiset Ubuntu-puhelimet saapuvat myyntiin ''BQ''- ja ''Meizu''-valmistajilta myöhemmin tänä vuonna.
+
+== Rinnakkaisjakelut ==
+
+Unity-käyttöliittymällä varustetun Ubuntun lisäksi on saatavilla koko joukko valmiita, joko Canonicalin tai muun yhteisön ylläpitämiä [http://wiki.ubuntu-fi.org/Kuvia_ja_videoita rinnakkaisjakeluita]. Jakelut käyttävät samaa Ubuntun pakettivarastoa, mutta poikkeavat toisistaan oletuksena asennettavien ohjelmistokokonaisuuksien suhteen. Kaikki samat ohjelmat ovat kuitenkin asennettavissa kaikkiin näistä. Saatavilla ovat:
+ 
+* [http://www.ubuntu.com Ubuntu] Unity-työpöydällä,
+* [http://www.kubuntu.org Kubuntu] vaihtoehtoisella KDE-työpöydällä,
+* [http://ubuntugnome.org/ Ubuntu GNOME] vaihtoehtoisella GNOME-työpöydällä,
+* Koulu- ja muuhun opetuskäyttöön suunnattu [http://www.edubuntu.org/ Edubuntu],
+* Kevyellä XFCE-työpöydällä varustettu [http://xubuntu.org Xubuntu]
+* Erittäin kevyellä LXDE-työpöydällä varustettu [http://lubuntu.net Lubuntu],
+* Multimediatyöskentelyyn ja muuhun luovaan työhön optimoitu [http://ubuntustudio.org/ Ubuntu Studio],
+* Kotiteatterisoittimeksi sopiva [http://www.mythbuntu.org/ Mythbuntu],
+* Kiinalaiseen kulttuuriin mukautettu [http://www.ubuntukylin.com/index.php?lang=en Ubuntu Kylin]
+* Palvelinasennuksiin tarkoitettu [https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuServer Ubuntu Server]
+* Hyvin pieni ja riisuttu [https://wiki.ubuntu.com/Core Ubuntu Core], tarkoitettu niille jotka itse muokkaavat asennustaltion erikoistarkoituksiin
+
+'''Kubuntu 14.04 LTS''' sisältää KDE 4.13 -työpöytäympäristön, jonka mukana tulee muun muassa uusi sovelluskauppa ja viestintäparannuksia. '''Ubuntu GNOME 14.04 LTS''' sisältää aidon GNOME 3 -kokemuksen niille, jotka jäivät sitä kaipaamaan Ubuntun siirryttyä oman näköiseensä Unityyn. Uusia sovelluksia ovat muun muassa sää, kartat, valokuvat ja musiikki.
+
+'''Ubuntu Server''' palvelimille sisältää muun muassa seuraavat teknologiat: OpenStack 2014.1, Puppet 3, Xen 4.4, Qemu 2.0, LXC 1.0, Juju 1.18, MySQL 5.5 & MariaDB 5.5.
+
+Rinnakkaisjakelut ovat itsenäisiä projekteja. Ubuntu 14.04 LTS:ssä viiden vuoden tuen tarjoavat Ubuntu, Ubuntu Server, Ubuntu Core, Kubuntu, Edubuntu ja Ubuntu Kylin. Kolmen vuoden tukeen tyytyvät GNOME, Xubuntu, Mythbuntu, Ubuntu Studio ja Lubuntu. Kolmenkin vuoden tuki riittää hyvin siihen, että seuraavaan pitkäaikaisen tuen 16.04 LTS:ään ehtii päivittää.
+
+== Mikä Ubuntu valita? ==
+
+Ubuntu Suomi [http://wiki.ubuntu-fi.org/PAE tarjoaa] pikaoppaan Ubuntu-version valintaan seuraavasti, mikäli ei halua kokeilla erityisesti jotain rinnakkaisversiota:
+
+* Mikäli tietokone on valmistettu 2007 tai myöhemmin, valitse tuorein Ubuntu 14.04 LTS
+* Mikäli tietokone on valmistettu ennen vuotta 2007, mutta RAM-keskusmuistia on 1GB tai enemmän, valitse tuoreimman Ubuntu 14.04 LTS:n 32-bittinen versio joka toimii vanhemmillakin tietokoneilla – näytönohjaimen tulee kuitenkin tukea OpenGL 2.0 -standardia
+* Mikäli tietokone on valmistettu ennen vuotta 2007, ja RAM-keskusmuistia on alle 1GB, tai jos joka tapauksessa halutaan kevyin mahdollinen vaihtoehto, valitse Lubuntu 14.04 LTS
+
+== Nykyiset Ubuntu-käyttäjät ==
+
+Ubuntu 12.04 LTS:n tuki jatkuu vuoteen 2017 asti. Nykyisille 12.04 LTS -version käyttäjille aletaan tarjota päivitystä 14.04 LTS:ään heinä-elokuussa 2014, kun päivitetty 14.04.1-versio julkaistaan asennusmediasta.
+
+== Muuta ==
+
+Ubuntulla on alusta saakka ollut jokaisella julkaisulla jonkinlainen leikkisä kutsumanimi, joka koostuu adjektiivista ja jostakin samalla kirjaimella alkavasta eläimestä. Ubuntu 14.04 LTS on kutsumanimeltään '''Trusty [http://en.wikipedia.org/wiki/Tahr Tahr]''', eli '''Luotettava [http://fi.wikipedia.org/wiki/Tari Tari]''' (puolivuohi). Ubuntu 12.04 LTS esiteltiin [[Ubuntu_12.04|Viikon Valona numero 70]], ja myös Ubuntun versio 11.04 esiteltiin [[Ubuntu_11.04|numero 18]]:na. Ubuntun ideologiasta ja perusasioista kannattaa lukea ensimmäisestä artikkelista, tässä artikkelissa keskityttiin uuden Ubuntun uutuuksiin.
+
+Ubuntusta julkaistaan edelleen myös tehokäyttäjille ja kokeilijoille puolivuosittainen välijulkaisu, jonka tukiaika on lyhentynyt vain yhdeksään kuukauteen. LTS-versio on siis helposti suositeltavin käytettävä useimmille kotikäyttäjillekin yritys- ja palvelinkäytön lisäksi.
+
+
+
+<div style="clear: left;"></div>
+
+;Kotisivu
+:http://www.ubuntu.com/ ([http://www.ubuntu-fi.org/ Ubuntu Suomi])
+;Lisenssi
+:Sisältää ohjelmia useilla vapailla lisensseillä
+;Asennus
+:http://wiki.ubuntu-fi.org/Asentaminen
+;Käyttöohjeet
+:[https://help.ubuntu.com/14.04/ubuntu-help/index.html.fi Ubuntun käyttöopas]
+:[http://www.ubuntu-fi.org/Ubuntu%2014.04%20LTS%20–%20verkkoesittely/fi/ Kokeile] Ubuntun käyttöä selaimella
+:[http://linux.fi/ Linux.fi-wiki], josta löytyy ohjeita ja opasteita moneen Linux-aiheiseen asiaan.
+:[http://forum.ubuntu-fi.org/ Ubuntu Suomen keskustelualueet]
+:[http://insights.ubuntu.com/news/ubuntu-14-04-desktop-trusted-os-for-consumers-and-business/ Lehdistötiedote: Ubuntu 14.04 desktop: trusted OS for consumers and business]
+:[http://insights.ubuntu.com/news/ubuntu-14-04-lts-the-cloud-platform-of-choice/ Lehdistötiedote: Ubuntu 14.04 LTS: the cloud platform of choice]
+:[http://www.ubuntu-fi.org/Lehdistötiedote_Ubuntu_14.04_LTS.pdf Ubuntu Suomen lehdistötiedote]
+
+<!-- Tallenna kuvatiedostot wikiin ja lisää kuvalinkit tuon mallin mukaan tähän. Tag p.o. Image: eikä Kuva: jotta Drupal ymmärtää sen kuvaksi. -->
+<gallery>
+Image:Ubuntu 14.04 LTS - 1.png‎|Ubuntun ''Unity''-työpöytä
+Image:Ubuntu 14.04 LTS - 2.png‎|Firefox ja LibreOffice
+Image:Ubuntu 14.04 LTS - 3.png‎|Sovelluskauppa ja näytön asetukset
+Image:Ubuntu_14.04_Unity8-1.png|Unity 8 -kuvakaappaus Nexus 4 -puhelimesta
+</gallery> 
+
+''Teksti: Tjyrinki''<br />
+''kuvakaappaukset: Tjyrinki''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

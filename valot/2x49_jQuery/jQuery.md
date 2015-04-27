@@ -2,7 +2,7 @@
 Title: 2x49 jQuery - Viikon VALO #101
 Date: 2012/12/02
 Pageimage: valo101-jquery.png
-Tags: Selaimet,Ohjelmointi
+Tags: Verkkoselaimet,Ohjelmointi
 -->
 
 **jQuery on pieni ja kätevä kirjasto Javascript-sovellusten

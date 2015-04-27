@@ -1,0 +1,43 @@
+{{CC-by}}
+'''Internet Archive Book Images on laaja kokoelma vanhoista kirjoista skannattuja public domain -kuvia.'''
+
+[[Image:valo192-internet_archive_book_images.png|left]]
+[http://archive.org Internet Archive]] on amerikkalainen voittoa tavoittelematon järjestö, joka pyrkii arkistoimaan kirjaston tavoin Internetin sisältöä tutkijoille ja tuleville polville. Järjestön tunnetuimpia palveluita on [https://archive.org/web/ WayBack Machine], jolla voi etsiä ja selata Internet-sivustojen vanhoja arkistoituja sisältöjä. Internet-sivustojen lisäksi järjestö arkistoi myös painettua aineistoa digitaaliseen muotoon skannaamalla tekijänoikeuksista vapaita kirjoja sähköiseen muotoon. Kirjoja on yli viideltä vuosisadalta. Internet Archive Book Images on järjestön [http://flickr.com Flickr]-palveluun koostama kokoelma näistä sähköiseen muotoon saatetuista kirjoista löydettyjä kuvia. Yli kahdesta miljoonasta skannatusta kirjasta kuvia on saatu noin 14 miljoonaa, joista noin 2,6 miljoonaa on jo saatettu julkiseen jakeluun.
+
+Koska skannatuille kirjoille on digitoinnin yhteydessä tehty myöskin tekstintunnistus, on kunkin kuvan mukaan voitu liittää metatiedoksi 500 sanaa, jotka esiintyvät kirjassa kuvan edellä ja sen jälkeen. Näin kullekin kuvalle on saatu konteksti, jonka perusteella niitä voidaan hakea. Flickr-palvelun hakutoiminnossa voi sanahaun rajoittaa kyseisen tilin jakamiin kuviin, jolloin on helppoa etsiä vaikka [https://www.flickr.com/search/?w=126377022@N07&q=cat kissoihin liittyviä kuvia]. Kontekstitekstin laajuudesta johtuen hakuihin saattaa tulla jonkin verran myös ylimääräisiä osumia. Esimerkiksi kissahaun yhteydessä löytyi myös joukko muiden eläimien kuvia. Samoin tästä syystä kuvien kuvatekstit eivät useinkaan kerro suoraan, mitä kuva sisältää vaan tiedon joutuu etsimään itse asiayhteydestä. Jokaisen kuvan Flickr-sivu sisältää lisäksi tiedot kyseisestä kirjasta sekä linkin sen sähköiseen versioon Internet Archivessa.
+
+Koska kuvat on skannattu kirjoista, jotka ovat public domainia joko ikänsä tai lähteensä vuoksi, ovat kuvat vapaasti käytettävissä. Niiden käyttöehdoiksi on Flickrssä merkitty "No known copyright restrictions".
+
+;Kotisivu
+:https://www.flickr.com/people/internetarchivebookimages/ (Tilin etusivu)
+:https://www.flickr.com/photos/internetarchivebookimages/ (Kuvavirta)
+;Lisenssi
+:Public Domain
+;Toimii seuraavilla alustoilla
+:Kaikki
+;Muuta tietoa
+:[https://blog.archive.org/2014/08/29/millions-of-historic-images-posted-to-flickr/ Internet Archiven blogi-kirjoitus]
+:[http://www.bbc.com/news/technology-28976849 BBC:n uutinen aiheesta]
+:http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons/ Internet Archiven esittäytyminen Flickrssä]
+;Muita vastaavia Viikon VALOja
+:[[Ylen arkistokuvat]]
+:[[Mechanical Curator collection]]
+:[[Flickr: Creative Commons|Flickr: Creative Commons]]
+:[[Wikimedia Commons]]
+
+<gallery>
+Image:internet_archive_book_images-0.jpg|Kokoelman kuvavirta.
+Image:internet_archive_book_images-1.jpg|Lisää kissakuvia Internetiin.
+Image:internet_archive_book_images-2.jpg|Maailmankartta
+Image:internet_archive_book_images-3.jpg|Hakutuloksia hakusanalla "Turku"
+Image:internet_archive_book_images-4.jpg|Näkymä Aurajoelta ja Turun tuomiokirkko.
+Image:internet_archive_book_images-5.jpg|Lintuja
+Image:internet_archive_book_images-6.jpg|Rooma
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''<br />
+''Kuvat: Internet Archive''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]
