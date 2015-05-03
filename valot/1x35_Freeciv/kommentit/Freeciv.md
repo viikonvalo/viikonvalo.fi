@@ -19,3 +19,8 @@ Pitkä peli
 :   No pahus, silloin kun kirjoitin artikkelia, oli muistaakseni kolme
     ilmoittautunutta. Mahdollisesti pelejä voi käynnistää useita jos
     niin paljon tulee pelaajia.
+
+Selaimella pelattava versio taas olemassa
+:   Anonymous 29. Huhtikuu 2015 - 10:05
+:   Osoitteessa <http://play.freeciv.org/> voi selaimella pelata FreeCiviä.
+    Luvataan toimivan myös älypuhelimessa ja tabletilla. 
