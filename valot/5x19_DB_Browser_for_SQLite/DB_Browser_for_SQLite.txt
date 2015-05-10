@@ -1,0 +1,43 @@
+{{CC-by}}
+'''DB Browser for SQLite on graafinen käyttöliittymä SQLite-tiedostojen käsittelyyn.'''
+
+[[Image:valo227-sqlitebrowser.png|left]]
+DB Browser for SQLite on usealla käyttöjärjestelmällä toimiva graafinen käyttöliittymä tiedostopohjaisen [[SQLite]]-tietokannan tietokantatiedostojen käsittelyyn. Sillä voidaan luoda tietokantoja, etsiä niistä tietoa sekä syöttää uutta tietoa  kantaan. Taulujen luontia ja määrittelyä voidaan tehdä graafisella työkalulla ja tietoja voi syöttää suoraan taulukkonäkymässä. Vaihtoehtoisesti ohjelmalle voidaan antaa suoritettavaksi komentoja SQL-kyselykieltä käyttäen.
+
+Ohjelman tuonti- ja vientitoiminnoilla voidaan tietokantaan tuoda ja sieltä viedä tauluja pilkulla eroteltuun tekstimuotoiseen tiedostoon (csv, comma separated values). Joissain tapauksissa tosin csv-tiedoston tuonti on nopeampaa tuoda suoraan SQLiten komentorivikäyttöliittymällä. Esimerkiksi [http://www.trafi.fi/tietopalvelut/avoin_data Trafin avoimen ajoneuvodatan] vanhemman version (noin 2,5 miljoonaa riviä) tuonti SQLite-tietokantaan DB Browser for SQLitellä kesti noin tunnin, kun sen uudemman version (lähes 5 miljoonaa riviä) tuonti SQLiten komentorivikäyttöliittymällä kesti samalla tietokoneella vain noin 1,5 minuuttia. Pienillä tiedostoilla tällä ei ole suurta merkitystä, mutta suurilla aikaero on merkittävä. Komentorivityökalulla tuonnin voi tehdä seuraavilla komennoilla:
+ .separator ','
+ .mode csv
+ .import tiedosto.csv taulu
+
+Lisäksi DB Browser for SQLite sisältää yksinkertaisen plot-työkalun, jolla taulun tai kyselyn tuloksen numeerisia arvoja voi sijoittaa x-y-koordinaatistoon. Luettelosta valitaan rastiruuduilla, mikä arvoista on x-akselilla ja mitkä piirretään y-arvoina.
+
+;Kotisivu
+:http://sqlitebrowser.org/
+;Lähdekoodi
+:https://github.com/sqlitebrowser/sqlitebrowser
+;Twitter
+:[https://twitter.com/sqlitebrowser @sqlitebrowser]
+;Lisenssi
+:[https://www.mozilla.org/MPL/ MPL] v.2 / [[GNU GPL]] v.3 (kaksoislisensointi)
+;Toimii seuraavilla alustoilla
+:Linux, Windows, Mac OS X, FreeBSD
+;Asennus
+:Linux- ja BSD-jakeluihin ohjelma löytyy suoraan paketinhallinnasta nimellä sqlitebrowser. Ohjelman lataus- ja asennusohjeet löytyvät sen kotisivuilta.
+
+<gallery>
+Image:sqlitebrowser-1.jpg|Uuden taulun luonti tietokantaan. Luetellaan kentät ja niiden tyypit sekä muut ominaisuudet.
+Image:sqlitebrowser-2.jpg|Taulukkonäkymässä voi tarkastella taulun sisältöä, syöttää uusia rivejä ja muokata solujen sisältöä. Oikeassa reunassa olevassa näkymässä näkyvät ohjelman sisäisesti suorittamat SQL-kyselyt.
+Image:sqlitebrowser-3.jpg|Tietokannan asetuksia.
+Image:sqlitebrowser-4.jpg|Tekstinä syötetty SQL-kysely sekä sen tuloksena saatu taulu.
+Image:sqlitebrowser-5.jpg|Eri tauluja yhdistävä kysely.
+Image:sqlitebrowser-6.jpg|CSV-tiedoston tuonti tauluksi.
+Image:sqlitebrowser-7.jpg|Kysely lähes viisi miljoonaa riviä sisältävään tauluun.
+Image:sqlitebrowser-8.jpg|Suomen vanhimmat ajoneuvot käyttöönottopäivämäärän mukaan. Oikean reunan näkymässä käyttäjän syöttämien SQL-kyselyiden historia.
+Image:sqlitebrowser-9.jpg|Oikeassa reunassa plot-toiminto, jossa x-akselille valittu rivin järjestysnumero ja y-akselille ajoneuvon omamassa.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]
