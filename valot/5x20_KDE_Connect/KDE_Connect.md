@@ -1,8 +1,10 @@
 <!--
-Title: 5x20 KDE Connect - Viikon VALO #228
+Title: KDE Connect
+Week: 5x20
+Number: 228
 Date: 2015/05/10
 Pageimage: valo228-kdeconnect.png
-Tags: Linux,Android,SailfishOS,Blackberry,Tiedostohallinta,Viestintä
+Tags: Linux,Android,SailfishOS,Blackberry,Tiedostonhallinta,Viestintä
 -->
 
 **KDE Connect on ohjelmisto tietokoneiden ja mobiililaitteiden väliseen

@@ -1,5 +1,7 @@
 <!--
-Title: 4x20 JFractionLab - Viikon VALO #176
+Title: JFractionLab
+Week: 4x20
+Number: 176
 Date: 2014/05/11
 Pageimage: valo176-jfractionlab.png
 Tags: Linux,Windows,Mac OS X,Matematiikka,Opetus,Oppiminen

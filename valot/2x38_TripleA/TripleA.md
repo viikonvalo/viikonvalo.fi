@@ -1,5 +1,7 @@
 <!--
-Title: 2x38 TripleA - Viikon VALO #90
+Title: TripleA
+Week: 2x38
+Number: 90
 Date: 2012/09/16
 Pageimage: valo90-triplea.png
 Tags: Linux,Windows,Mac OS X,Peli

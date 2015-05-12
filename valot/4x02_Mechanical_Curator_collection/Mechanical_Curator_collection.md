@@ -1,5 +1,7 @@
 <!--
-Title: 4x02 Mechanical Curator collection - Viikon VALO #158
+Title: Mechanical Curator collection
+Week: 4x02
+Number: 158
 Date: 2014/01/05
 Pageimage: valo158-mechanical_curator.png
 Tags: Kaikki alustat,Kuvat,Aineisto

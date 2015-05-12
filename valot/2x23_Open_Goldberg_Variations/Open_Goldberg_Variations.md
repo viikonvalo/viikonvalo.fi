@@ -1,5 +1,7 @@
 <!--
-Title: 2x23 Open Goldberg Variations - Viikon VALO #75
+Title: Open Goldberg Variations
+Week: 2x23
+Number: 75
 Date: 2012/06/03
 Pageimage: valo75-opengolbergvariations.png
 Tags: Kaikki alustat

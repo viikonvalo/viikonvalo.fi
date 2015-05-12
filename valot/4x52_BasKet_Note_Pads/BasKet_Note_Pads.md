@@ -1,5 +1,7 @@
 <!--
-Title: 4x52 BasKet Note Pads - Viikon VALO #208
+Title: BasKet Note Pads
+Week: 4x52
+Number: 208
 Date: 2014/12/21
 Pageimage: valo208-basket.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Muistiinpanot

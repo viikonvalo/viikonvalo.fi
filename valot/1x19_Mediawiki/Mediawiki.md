@@ -1,5 +1,7 @@
 <!--
-Title: 1x19 Mediawiki - Viikon VALO #19
+Title: Mediawiki
+Week: 1x19
+Number: 19
 Date: 2011/05/08
 Pageimage: valo19-Mediawiki.png
 Tags: Linux,Windows,CMS,Palvelin,Palvelinohjelma,Sisällönhallinta,Wiki

@@ -1,5 +1,7 @@
 <!--
-Title: 1x17 Pinta - Viikon VALO #17
+Title: Pinta
+Week: 1x17
+Number: 17
 Date: 2011/04/24
 Pageimage: valo17-pinta.png
 Tags: Windows,Linux,Mac OS X,Kuvankäsittely,Kuvat

@@ -1,5 +1,7 @@
 <!--
-Title: 3x48 Chromium - Viikon VALO #152
+Title: Chromium
+Week: 3x48
+Number: 152
 Date: 2013/11/24
 Pageimage: valo152-chromium.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Android,Internet,Www-selain

@@ -1,5 +1,7 @@
 <!--
-Title: 3x15 Walma - Viikon VALO #119
+Title: Walma
+Week: 3x15
+Number: 119
 Date: 2013/04/07
 Pageimage: valo119-walma.png
 Tags: Kaikki alustat,Linux,Mac OS X,Windows,Palvelinohjelma,Opetus

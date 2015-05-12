@@ -1,5 +1,7 @@
 <!--
-Title: 1x41 SuperTuxKart - Viikon VALO #41
+Title: SuperTuxKart
+Week: 1x41
+Number: 41
 Date: 2011/10/09
 Pageimage: valo41-Supertuxkart.png
 Tags: Linux,Windows,Mac OS X,Amiga OS,FreeBSD,Solaris,Peli

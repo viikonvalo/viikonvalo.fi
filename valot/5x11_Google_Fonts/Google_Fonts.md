@@ -1,5 +1,7 @@
 <!--
-Title: 5x11 Google Fonts - Viikon VALO #219
+Title: Google Fonts
+Week: 5x11
+Number: 219
 Date: 2015/03/14
 Pageimage: valo219-googlefonts.png
 Tags: Kaikki alustat,Fontit,Kirjasintyypit,Materiaali

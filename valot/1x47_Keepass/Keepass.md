@@ -1,5 +1,7 @@
 <!--
-Title: 1x47 Keepass - Viikon VALO #47
+Title: Keepass
+Week: 1x47
+Number: 47
 Date: 2011/11/20
 Pageimage: valo47-keepass.png
 Tags: Linux,Windows,Mac OS X,Android,iOS,Windows Phone 7,Blackberry,Java,PocketPC,Apuohjelma,Salaus

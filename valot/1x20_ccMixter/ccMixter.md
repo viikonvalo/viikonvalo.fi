@@ -1,5 +1,7 @@
 <!--
-Title: 1x20 ccMixter - Viikon VALO #20
+Title: ccMixter
+Week: 1x20
+Number: 20
 Date: 2011/05/15
 Pageimage: valo20-ccmixter.png
 Tags: Kaikki alustat,Aineisto,Musiikki,Ääni

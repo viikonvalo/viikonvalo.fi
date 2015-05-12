@@ -1,5 +1,7 @@
 <!--
-Title: 2x39 Zen Coding - Viikon VALO #91
+Title: Zen Coding
+Week: 2x39
+Number: 91
 Date: 2012/09/23
 Pageimage: valo91-zencoding.png
 Tags: Linux,Windows,Mac OS X,Ohjelmointi

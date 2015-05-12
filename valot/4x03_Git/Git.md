@@ -1,5 +1,7 @@
 <!--
-Title: 4x03 Git - Viikon VALO #159
+Title: Git
+Week: 4x03
+Number: 159
 Date: 2014/01/12
 Pageimage: valo159-git.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Ohjelmointi,Versionhallinta

@@ -1,5 +1,7 @@
 <!--
-Title: 1x34 Inkscape - Viikon VALO #34
+Title: Inkscape
+Week: 1x34
+Number: 34
 Date: 2011/08/21
 Pageimage: valo34-inkscape.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Vektoripiirto,Kuvat,Kaaviot,Toimisto

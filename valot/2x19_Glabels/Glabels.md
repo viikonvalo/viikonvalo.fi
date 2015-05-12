@@ -1,5 +1,7 @@
 <!--
-Title: 2x19 Glabels - Viikon VALO #71
+Title: Glabels
+Week: 2x19
+Number: 71
 Date: 2012/05/06
 Pageimage: valo71-glabels.png
 Tags: Linux,Mac OS X,FreeBSD,OpenBSD,NetBSD

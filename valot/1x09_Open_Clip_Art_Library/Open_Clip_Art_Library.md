@@ -1,5 +1,7 @@
 <!--
-Title: 1x09 Open Clip Art Library - Viikon VALO #9
+Title: Open Clip Art Library
+Week: 1x09
+Number: 9
 Date: 2011/02/27
 Pageimage: valo9-ocal.png
 Tags: Kaikki alustat,Kuvat,Aineisto

@@ -1,5 +1,7 @@
 <!--
-Title: 5x19 DB Browser for SQLite - Viikon VALO #227
+Title: DB Browser for SQLite
+Week: 5x19
+Number: 227
 Date: 2015/05/05
 Pageimage: valo227-sqlitebrowser.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,Tietokanta

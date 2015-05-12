@@ -1,5 +1,7 @@
 <!--
-Title: 2x11 Subsonic - Viikon VALO #63
+Title: Subsonic
+Week: 2x11
+Number: 63
 Date: 2012/03/11
 Pageimage: valo63-subsonic.png
 Tags: Linux,Mac OS X,Windows,Musiikki

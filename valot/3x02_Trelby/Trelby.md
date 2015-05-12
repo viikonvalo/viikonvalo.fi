@@ -1,5 +1,7 @@
 <!--
-Title: 3x02 Trelby - Viikon VALO #106
+Title: Trelby
+Week: 3x02
+Number: 106
 Date: 2013/01/06
 Pageimage: valo106-trelby.png
 Tags: Linux,Windows,Tekstinkäsittely

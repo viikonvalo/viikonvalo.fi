@@ -1,5 +1,7 @@
 <!--
-Title: 4x30 Tails - Viikon VALO #186
+Title: Tails
+Week: 4x30
+Number: 186
 Date: 2014/07/20
 Pageimage: valo186-tails.png
 Tags: Käyttöjärjestelmä,Linux,Tietoturva

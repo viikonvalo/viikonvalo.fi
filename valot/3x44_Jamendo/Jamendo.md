@@ -1,5 +1,7 @@
 <!--
-Title: 3x44 Jamendo - Viikon VALO #148
+Title: Jamendo
+Week: 3x44
+Number: 148
 Date: 2013/10/27
 Pageimage: valo148-jamendo.png
 Tags: Kaikki alustat,Musiikki,Aineisto

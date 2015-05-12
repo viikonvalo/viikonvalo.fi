@@ -1,5 +1,7 @@
 <!--
-Title: 3x38 MariaDB - Viikon VALO #142
+Title: MariaDB
+Week: 3x38
+Number: 142
 Date: 2013/09/15
 Pageimage: valo142-mariadb.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Palvelin,Tietokanta

@@ -1,5 +1,7 @@
 <!--
-Title: 3x23 Darktable - Viikon VALO #127
+Title: Darktable
+Week: 3x23
+Number: 127
 Date: 2013/06/02
 Pageimage: valo127-darktable.png
 Tags: Linux,Mac OS X,Kuvat,Kuvankäsittely,Valokuvat

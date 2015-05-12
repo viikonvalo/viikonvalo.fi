@@ -1,5 +1,7 @@
 <!--
-Title: 3x22 Meld - Viikon VALO #126
+Title: Meld
+Week: 3x22
+Number: 126
 Date: 2013/05/26
 Pageimage: valo126-meld.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Teksti,Ohjelmointi

@@ -1,5 +1,7 @@
 <!--
-Title: 3x46 BirdFont - Viikon VALO #150
+Title: BirdFont
+Week: 3x46
+Number: 150
 Date: 2013/11/10
 Pageimage: valo150-birdfont.png
 Tags: Linux,Windows,Mac OS X,OpenBSD,Teksti,Piirto,Vektoripiirto

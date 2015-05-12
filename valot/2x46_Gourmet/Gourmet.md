@@ -1,5 +1,7 @@
 <!--
-Title: 2x46 Gourmet - Viikon VALO #98
+Title: Gourmet
+Week: 2x46
+Number: 98
 Date: 2012/11/11
 Pageimage: valo98-gourmet.png
 Tags: Linux,Windows,Reseptit,Ruoka

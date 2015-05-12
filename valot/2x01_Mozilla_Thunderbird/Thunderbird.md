@@ -1,5 +1,7 @@
 <!--
-Title: 2x01 Mozilla Thunderbird - Viikon VALO #53
+Title: Mozilla Thunderbird
+Week: 2x01
+Number: 53
 Date: 2012/01/01
 Pageimage: valo53-Thunderbird.png
 Tags: Windows,Linux,Mac OS X,Sähköposti,Viestintä,Internet

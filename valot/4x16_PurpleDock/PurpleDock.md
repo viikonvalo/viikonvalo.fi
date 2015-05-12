@@ -1,5 +1,7 @@
 <!--
-Title: 4x16 PurpleDock - Viikon VALO #172
+Title: PurpleDock
+Week: 4x16
+Number: 172
 Date: 2014/04/13
 Pageimage: valo172-purpledock.png
 Tags: Android,SailfishOS,Navigointi

@@ -1,5 +1,7 @@
 <!--
-Title: 1x12 UFO:AI - Viikon VALO #12
+Title: UFO:AI
+Week: 1x12
+Number: 12
 Date: 2011/03/20
 Tags: Linux,Mac OS X,Windows,Peli
 Pageimage: valo12-Ufo_ai.png

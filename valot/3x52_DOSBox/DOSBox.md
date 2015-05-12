@@ -1,5 +1,7 @@
 <!--
-Title: 3x52 DOSBox  - Viikon VALO #156
+Title: DOSBox 
+Week: 3x52
+Number: 156
 Date: 2013/12/22
 Pageimage: valo156-dosbox.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,Solaris,BeOS,OS/2,RISC OS,Emulaattori

@@ -1,9 +1,11 @@
-/*
-Title: 5x08 TiddlyWiki5 - Viikon VALO #216
+<!--
+Title: TiddlyWiki5
+Week: 5x08
+Number: 216
 Date: 2015/02/21
 Pageimage: valo216-tiddlywiki5.png
 Tags: Muistiinpanot,www,Verkkoselaimet
-*/
+-->
 
 **TiddlyWiki5 on selaimella käytettävä yhden tiedoston
 muistiinpanotyökalu.**

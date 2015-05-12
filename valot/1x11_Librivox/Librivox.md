@@ -1,5 +1,7 @@
 <!--
-Title: 1x11 Librivox - Viikon VALO #11
+Title: Librivox
+Week: 1x11
+Number: 11
 Date: 2011/03/13
 Pageimage: valo11-Librivox.png
 Tags: Kaikki alustat,Aineisto,Kirjat,Äänikirjat

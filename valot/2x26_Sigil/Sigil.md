@@ -1,5 +1,7 @@
 <!--
-Title: 2x26 Sigil - Viikon VALO #78
+Title: Sigil
+Week: 2x26
+Number: 78
 Date: 2012/06/24
 Pageimage: valo78-sigil.png
 Tags: Linux,Windows,Mac OS X,EPUB,e-kirja

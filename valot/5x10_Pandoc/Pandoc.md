@@ -1,9 +1,11 @@
-/*
-Title: 5x10 Pandoc - Viikon VALO #218
+<!--
+Title: Pandoc
+Week: 5x10
+Number: 218
 Date: 2015/03/07
 Pageimage: valo218-pandoc.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Tekstinkäsittely,Tiedostomuodot,Teksti
-*/
+-->
 
 **Pandoc on komentorivityökalu tekstipohjaisten tiedostojen muuntamiseen
 muodosta toiseen.**

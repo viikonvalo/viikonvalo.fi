@@ -1,5 +1,7 @@
 <!--
-Title: 2x16 Irssi - Viikon VALO #68
+Title: Irssi
+Week: 2x16
+Number: 68
 Date: 2012/04/15
 Pageimage: valo68-irssi.png
 Tags: Linux,Mac OS X,Windows,Solaris

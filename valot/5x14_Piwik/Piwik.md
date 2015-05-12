@@ -1,5 +1,7 @@
 <!--
-Title: 5x14 Piwik - Viikon VALO #222
+Title: Piwik
+Week: 5x14
+Number: 222
 Date: 2015/04/06 16:11
 Pageimage: valo222-piwik.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Solaris,Windows,Mac OS X,Palvelinohjelma,Webtilastot

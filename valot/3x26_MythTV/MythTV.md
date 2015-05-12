@@ -1,5 +1,7 @@
 <!--
-Title: 3x26 MythTV - Viikon VALO #130
+Title: MythTV
+Week: 3x26
+Number: 130
 Date: 2013/06/23
 Pageimage: valo130-mythtv.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,Video,Mediakeskus,Multimedia,Televisio,Elokuva

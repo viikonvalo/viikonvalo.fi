@@ -1,5 +1,7 @@
 <!--
-Title: 5x01 Screen - Viikon VALO #209
+Title: Screen
+Week: 5x01
+Number: 209
 Date: 2015/01/01
 Pageimage: valo209-screen.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Solaris,Komentorivi
@@ -10,21 +12,40 @@ muassa ajossa olevan (tekstipohjaisen) ohjelman jättämisen taustalle
 käyntiin koneelta ulos kirjautuessa.**
 
 ![](images/valo209-screen.png "fig:valo209-screen.png")
-Screen on ohjelma, jolla voi hallita terminaali-ikkunassa ajettavia komentoriviohjelmia, niiden suorittamista rinnakkain sekä tausta-ajossa. Screen on mahdollista jättää käyntiin taustalle ilman käyttöliittymää ja kutsua taas tarvittaessa esiin. Tämän lisäksi Screen sisältää toimintoja, joilla voidaan hallita useita rinnakkain ajettavia komentoriviohjelmia, siirtyä niiden välillä ja näyttää halutut ohjelmat yhtä aikaa.
+Screen on ohjelma, jolla voi hallita terminaali-ikkunassa ajettavia komentoriviohjelmia,
+niiden suorittamista rinnakkain sekä tausta-ajossa. Screen on mahdollista jättää käyntiin
+taustalle ilman käyttöliittymää ja kutsua taas tarvittaessa esiin. Tämän lisäksi Screen sisältää
+toimintoja, joilla voidaan hallita useita rinnakkain ajettavia komentoriviohjelmia,
+siirtyä niiden välillä ja näyttää halutut ohjelmat yhtä aikaa.
 
 Screenistä irtautuminen ja siihen kytkeytyminen
 -------------
 
-Oletetaan tilanne, jossa halutaan suorittaa jokin pitkäkestoinen operaatio tekstipohjaisella ohjelmalla etäkoneella, johon voidaan ottaa ssh-yhteys. Ongelmaksi muodostuu yhteyden ottamiseen käytetyn koneen ja etäkoneen välinen yhteys. Jos yhteys katkaistaan, katkeaa myös ohjelman suoritus. Jos yhteys jätetään auki, jää paikalliselle koneelle auki yhteyden ottamiseen käytetty ssh-ohjelma ja joudutaan varomaan, ettei sitä suljeta vahingossa. Jos paikallinen kone jostain syystä sammuu tai verkossa ilmenee häiriötä, katkeaa myös yhteys etäkoneelle ja samalla ohjelman suoritus keskeytyy. Tällaisessa tilanteessa voidaan hyödyntää Screeniä.
+Oletetaan tilanne, jossa halutaan suorittaa jokin pitkäkestoinen operaatio tekstipohjaisella
+ohjelmalla etäkoneella, johon voidaan ottaa ssh-yhteys. Ongelmaksi muodostuu yhteyden ottamiseen
+käytetyn koneen ja etäkoneen välinen yhteys. Jos yhteys katkaistaan, katkeaa myös ohjelman
+suoritus. Jos yhteys jätetään auki, jää paikalliselle koneelle auki yhteyden ottamiseen käytetty
+ssh-ohjelma ja joudutaan varomaan, ettei sitä suljeta vahingossa. Jos paikallinen kone jostain
+syystä sammuu tai verkossa ilmenee häiriötä, katkeaa myös yhteys etäkoneelle ja samalla ohjelman
+suoritus keskeytyy. Tällaisessa tilanteessa voidaan hyödyntää Screeniä.
 
-Eräs usein käytetty sovellutus on Screenin käyttö yhdessä [Irssi](irssi)-IRC-sovelluksen kanssa. Koska IRC-keskustelukanavilla käytävä keskustelu on reaaliaikaista ja käyttäjä näkee vain ne keskustelut, jotka tapahtuvat hänen ollessa paikalla, haluaa moni keskustelija jättää IRC-sovelluksensa päälle myös silloin, kun eivät itse ole tietokoneen ääressä. Yksi toimivaksi todettu tapa on hankkia ssh-tunnukset johonkin jatkuvasti päällä olevaan tietokoneeseen ja käynnistää sinne Screen-ohjelma ja sen sisään komentorivipohjainen Irssi. Tällöin käyttäjä voi halutessaan ottaa yhteyden tuohon tietokoneeseen ja kytkeytyä siellä käynnissä olevaan Screen+Irssi-yhdistelmään ja tarvittaessa katkaista yhteyden tuohon etätietokoneeseen ja jättää Screen+Irssi-yhdistelmän käyntiin.
+Eräs usein käytetty sovellutus on Screenin käyttö yhdessä [Irssi](irssi)-IRC-sovelluksen kanssa.
+Koska IRC-keskustelukanavilla käytävä keskustelu on reaaliaikaista ja käyttäjä näkee vain ne
+keskustelut, jotka tapahtuvat hänen ollessa paikalla, haluaa moni keskustelija jättää IRC-sovelluksensa
+päälle myös silloin, kun eivät itse ole tietokoneen ääressä. Yksi toimivaksi todettu tapa on hankkia ssh-tunnukset
+johonkin jatkuvasti päällä olevaan tietokoneeseen ja käynnistää sinne Screen-ohjelma ja sen sisään
+komentorivipohjainen Irssi. Tällöin käyttäjä voi halutessaan ottaa yhteyden tuohon tietokoneeseen ja kytkeytyä
+siellä käynnissä olevaan Screen+Irssi-yhdistelmään ja tarvittaessa katkaista yhteyden tuohon etätietokoneeseen
+ja jättää Screen+Irssi-yhdistelmän käyntiin.
 
 Screenin käyttö tässä esimerkkitapauksessa toimii seuraavasti. Otetaan ssh-yhteys etäkoneelle ja käynnistetään Screen komennolla:
 ```
 screen
 ```
 
-Ruudulle ilmestyy Screenin asetuksista riippuen mahdollisesti jotain tiedotustekstejä ja edelleen etäkoneen komentokehote. Nyt Screen on käynnissä ja sen sisään on käynnistetty uusi komentokehote. Tämän jälkeen voidaan käynnistää Irssi-ohjelma komennolla:
+Ruudulle ilmestyy Screenin asetuksista riippuen mahdollisesti jotain tiedotustekstejä ja
+edelleen etäkoneen komentokehote. Nyt Screen on käynnissä ja sen sisään on käynnistetty
+uusi komentokehote. Tämän jälkeen voidaan käynnistää Irssi-ohjelma komennolla:
 ```
 irssi
 ```

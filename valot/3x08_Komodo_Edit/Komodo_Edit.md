@@ -1,5 +1,7 @@
 <!--
-Title: 3x08 Komodo Edit - Viikon VALO #112
+Title: Komodo Edit
+Week: 3x08
+Number: 112
 Date: 2013/02/17
 Pageimage: valo112-komodo_edit.png
 Tags: Linux,Windows,Mac OS X,Tekstieditori,Ohjelmointi

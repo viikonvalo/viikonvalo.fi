@@ -1,5 +1,7 @@
 <!--
-Title: 2x29 K3b - Viikon VALO #81
+Title: K3b
+Week: 2x29
+Number: 81
 Date: 2012/07/15
 Pageimage: valo81-k3b.png
 Tags: Linux,FreeBSD,PC-BSD,DVD

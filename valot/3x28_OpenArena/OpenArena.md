@@ -1,5 +1,7 @@
 <!--
-Title: 3x28 OpenArena - Viikon VALO #132
+Title: OpenArena
+Week: 3x28
+Number: 132
 Date: 2013/07/07
 Pageimage: valo132-openarena.png
 Tags: Linux,Windows,Mac OS X,Android,Peli

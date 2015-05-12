@@ -1,5 +1,7 @@
 <!--
-Title: 1x36 Marble - Viikon VALO #36
+Title: Marble
+Week: 1x36
+Number: 36
 Date: 2011/09/04
 Pageimage: valo36-marble.png
 Tags: Linux,Windows,Mac OS X,Maemo,Kartta,Tiede

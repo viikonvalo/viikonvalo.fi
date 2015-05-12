@@ -1,5 +1,7 @@
 <!--
-Title: 4x26 Scratch - Viikon VALO #182
+Title: Scratch
+Week: 4x26
+Number: 182
 Date: 2014/06/22
 Pageimage: valo182-scratch.png
 Tags: Linux,Windows,Mac OS X,Ohjelmointi,Opetus,Opiskelu

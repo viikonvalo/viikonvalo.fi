@@ -1,5 +1,7 @@
 <!--
-Title: 3x50 LibreOffice Base - Viikon VALO #154
+Title: LibreOffice Base
+Week: 3x50
+Number: 154
 Date: 2013/12/08
 Pageimage: valo154-libreoffice_base.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,Solaris,Unix,Toimisto,Tietokanta

@@ -1,5 +1,7 @@
 <!--
-Title: 4x09 LXDE - Viikon VALO #165
+Title: LXDE
+Week: 4x09
+Number: 165
 Date: 2014/02/23
 Pageimage: valo165-lxde.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Solaris,työpöytäympäristö

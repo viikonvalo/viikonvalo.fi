@@ -1,5 +1,7 @@
 <!--
-Title: 4x39 Subtitle Editor - Viikon VALO #195
+Title: Subtitle Editor
+Week: 4x39
+Number: 195
 Date: 2014/09/21
 Pageimage: valo195-subtitleeditor.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Video,Teksti

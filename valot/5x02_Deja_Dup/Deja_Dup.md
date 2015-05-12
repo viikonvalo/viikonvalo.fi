@@ -1,5 +1,7 @@
 <!--
-Title: 5x02 Deja Dup - Viikon VALO #210
+Title: Deja Dup
+Week: 5x02
+Number: 210
 Date: 2015/01/04
 Pageimage: valo210-deja_dup.png
 Tags: Linux,Varmuuskopiointi,Tietoturva

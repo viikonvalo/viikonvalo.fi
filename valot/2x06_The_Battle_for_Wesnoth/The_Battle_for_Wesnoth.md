@@ -1,5 +1,7 @@
 <!--
-Title: 2x06 The Battle for Wesnoth - Viikon VALO #58
+Title: The Battle for Wesnoth
+Week: 2x06
+Number: 58
 Date: 2012/02/05
 Pageimage: valo58-wesnoth.png
 Tags: Linux,Windows,Mac OS X,OpenPandora,Peli

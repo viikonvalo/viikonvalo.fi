@@ -1,5 +1,7 @@
 <!--
-Title: 2x18 Ubuntu 12.04 - Viikon VALO #70
+Title: Ubuntu 12.04
+Week: 2x18
+Number: 70
 Date: 2012/04/29
 Pageimage: valo70-ubuntu.png
 Tags: Käyttöjärjestelmä

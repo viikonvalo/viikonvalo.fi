@@ -1,5 +1,7 @@
 <!--
-Title: 2x37 Pedometer - Viikon VALO #89
+Title: Pedometer
+Week: 2x37
+Number: 89
 Date: 2012/09/09
 Pageimage: valo89-pedometer.png
 Tags: Android,Liikunta

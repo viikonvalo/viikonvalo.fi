@@ -1,5 +1,7 @@
 <!--
-Title: 3x31 Kalzium - Viikon VALO #135
+Title: Kalzium
+Week: 3x31
+Number: 135
 Date: 2013/07/28
 Pageimage: valo135-kalzium.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Opiskelu,Opetus,Tiede,Kemia

@@ -1,5 +1,7 @@
 <!--
-Title: 3x27 Mindmup - Viikon VALO #131
+Title: Mindmup
+Week: 3x27
+Number: 131
 Date: 2013/06/30
 Pageimage: valo131-mindmup.png
 Tags: Verkkoselaimet,Toimisto,Opiskelu,Opetus

@@ -1,5 +1,7 @@
 <!--
-Title: 3x49 JSXGraph - Viikon VALO #153
+Title: JSXGraph
+Week: 3x49
+Number: 153
 Date: 2013/12/01
 Pageimage: valo153-jsxgraph.png
 Tags: Verkkoselaimet,JavaScript,Ohjelmointi,Piirto,Opetus,Opiskelu,Matematiikka

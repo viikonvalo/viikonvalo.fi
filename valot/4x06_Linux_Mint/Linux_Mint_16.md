@@ -1,5 +1,7 @@
 <!--
-Title: 4x06 Linux Mint - Viikon VALO #162
+Title: Linux Mint
+Week: 4x06
+Number: 162
 Date: 2014/02/02
 Pageimage: valo162-linuxmint.png
 Tags: Käyttöjärjestelmä,Linux

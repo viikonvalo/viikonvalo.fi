@@ -1,5 +1,7 @@
 <!--
-Title: 2x41 RedNotebook - Viikon VALO #93
+Title: RedNotebook
+Week: 2x41
+Number: 93
 Date: 2012/10/07
 Pageimage: valo93-rednotebook.png
 Tags: Linux,Mac OS X,Windows,OpenBSD,Muistiinpanot,Kalenteri

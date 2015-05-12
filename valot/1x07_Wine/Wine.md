@@ -1,5 +1,7 @@
 <!--
-Title: 1x07 Wine - Viikon VALO #7
+Title: Wine
+Week: 1x07
+Number: 7
 Date: 2011/02/14
 Pageimage: valo7-Wine.png
 Tags: Emulaattori,Järjestelmä,FreeBSD,Linux,PC-BSD,Solaris

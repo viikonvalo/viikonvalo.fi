@@ -1,5 +1,7 @@
 <!--
-Title: 2x32 MyPaint - Viikon VALO #84
+Title: MyPaint
+Week: 2x32
+Number: 84
 Date: 2012/08/05
 Pageimage: valo84-mypaint.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,Maemo,Kuvat,Piirto

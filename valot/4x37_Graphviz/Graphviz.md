@@ -1,5 +1,7 @@
 <!--
-Title: 4x37 Graphviz - Viikon VALO #193
+Title: Graphviz
+Week: 4x37
+Number: 193
 Date: 2014/09/07
 Pageimage: valo193-graphviz.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Kuvat,Kaaviot,Tiede

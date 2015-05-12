@@ -1,5 +1,7 @@
 <!--
-Title: 5x12 PDFtk - Viikon VALO #220
+Title: PDFtk
+Week: 5x12
+Number: 220
 Date: 2015/04/06 12:00
 Pageimage: valo220-pdftk.png
 Tags: Linux,Windows,Mac OS X,PDF,Toimisto

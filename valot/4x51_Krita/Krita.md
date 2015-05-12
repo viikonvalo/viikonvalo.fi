@@ -1,5 +1,7 @@
 <!--
-Title: 4x51 Krita - Viikon VALO #207
+Title: Krita
+Week: 4x51
+Number: 207
 Date: 2014/12/14
 Pageimage: valo207-krita.png
 Tags: Linux,Windows,FreeBSD,OpenBSD,NetBSD,Piirto,Vektoripiirto,Kuvankäsittely

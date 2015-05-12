@@ -1,5 +1,7 @@
 <!--
-Title: 3x11 AbiWord - Viikon VALO #115
+Title: AbiWord
+Week: 3x11
+Number: 115
 Date: 2013/03/10
 Pageimage: valo115-abiword.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,QNX,Tekstinkäsittely,Toimisto

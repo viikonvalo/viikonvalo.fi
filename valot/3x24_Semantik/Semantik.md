@@ -1,5 +1,7 @@
 <!--
-Title: 3x24 Semantik - Viikon VALO #128
+Title: Semantik
+Week: 3x24
+Number: 128
 Date: 2013/06/09
 Pageimage: valo128-semantik.png
 Tags: Linux,Unixit,Toimisto,Opiskelu,Opetus

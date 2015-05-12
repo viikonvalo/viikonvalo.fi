@@ -1,5 +1,7 @@
 <!--
-Title: 3x20 Fontello - Viikon VALO #124
+Title: Fontello
+Week: 3x20
+Number: 124
 Date: 2013/05/12
 Pageimage: valo124-fontello.png
 Tags: Kaikki alustat,Fontit

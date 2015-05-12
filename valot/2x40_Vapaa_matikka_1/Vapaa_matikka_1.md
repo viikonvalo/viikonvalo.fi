@@ -1,5 +1,7 @@
 <!--
-Title: 2x40 Vapaa matikka 1 - Viikon VALO #92
+Title: Vapaa matikka 1
+Week: 2x40
+Number: 92
 Date: 2012/09/30
 Pageimage: valo92-vapaa_matikka_1.png
 Tags: Kaikki alustat,Materiaali,Tiede,Oppikirja,Opetus,Matematiikka

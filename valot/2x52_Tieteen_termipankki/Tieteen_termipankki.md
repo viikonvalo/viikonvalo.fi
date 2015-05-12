@@ -1,5 +1,7 @@
 <!--
-Title: 2x52 Tieteen termipankki - Viikon VALO #104
+Title: Tieteen termipankki
+Week: 2x52
+Number: 104
 Date: 2012/12/23
 Pageimage: valo104-tieteentermipankki.png
 Tags: Verkkoselaimet,Tiede,Materiaali

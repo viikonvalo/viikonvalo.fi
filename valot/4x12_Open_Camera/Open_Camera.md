@@ -1,5 +1,7 @@
 <!--
-Title: 4x12 Open Camera - Viikon VALO #168
+Title: Open Camera
+Week: 4x12
+Number: 168
 Date: 2014/03/16
 Pageimage: valo168-opencamera.png
 Tags: Android,SailfishOS,Kuvat

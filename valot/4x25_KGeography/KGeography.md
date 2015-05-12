@@ -1,5 +1,7 @@
 <!--
-Title: 4x25 KGeography - Viikon VALO #181
+Title: KGeography
+Week: 4x25
+Number: 181
 Date: 2014/06/15
 Pageimage: valo181-kgeography.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Kartta,Opetus,Opiskelu

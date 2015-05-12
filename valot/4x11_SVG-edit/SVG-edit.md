@@ -1,5 +1,7 @@
 <!--
-Title: 4x11 SVG-edit - Viikon VALO #167
+Title: SVG-edit
+Week: 4x11
+Number: 167
 Date: 2014/03/09
 Pageimage: valo167-svgedit.png
 Tags: Verkkoselaimet,Piirto,Vektoripiirto

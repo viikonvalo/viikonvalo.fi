@@ -1,5 +1,7 @@
 <!--
-Title: 1x46 GNU Emacs - Viikon VALO #46
+Title: GNU Emacs
+Week: 1x46
+Number: 46
 Date: 2011/11/13
 Pageimage: valo46-gnu_emacs.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Aix,Dos,HP-UX,Irix,OpenVMS,Toimisto,Ohjelmointi,Tekstinkäsittely,Tekstieditori,Teksti

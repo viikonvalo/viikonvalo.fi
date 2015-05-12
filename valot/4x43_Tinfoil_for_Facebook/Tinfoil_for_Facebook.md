@@ -1,5 +1,7 @@
 <!--
-Title: 4x43 Tinfoil for Facebook - Viikon VALO #199
+Title: Tinfoil for Facebook
+Week: 4x43
+Number: 199
 Date: 2014/10/19
 Pageimage: valo199-tinfoil_for_facebook.png
 Tags: Android,SailfishOS,Internet,Viestintä

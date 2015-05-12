@@ -1,5 +1,7 @@
 <!--
-Title: 5x04 Linux Voice - Viikon VALO #212
+Title: Linux Voice
+Week: 5x04
+Number: 212
 Date: 2015/01/18
 Pageimage: valo212-linuxvoice.png
 Tags: Kaikki alustat,Lehti,Materiaali

@@ -1,5 +1,7 @@
 <!--
-Title: 4x32 Midnight Commander - Viikon VALO #188
+Title: Midnight Commander
+Week: 4x32
+Number: 188
 Date: 2014/08/03
 Pageimage: valo188-midnight_commander.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,AmigaOS,Komentorivi,Tiedostonhallinta

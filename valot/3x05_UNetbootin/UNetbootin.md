@@ -1,5 +1,7 @@
 <!--
-Title: 3x05 UNetbootin - Viikon VALO #109
+Title: UNetbootin
+Week: 3x05
+Number: 109
 Date: 2013/01/27
 Pageimage: valo109-unetbootin.png
 Tags: Linux,Windows,Mac OS X

@@ -1,5 +1,7 @@
 <!--
-Title: 4x38 Unsplash - Viikon VALO #194
+Title: Unsplash
+Week: 4x38
+Number: 194
 Date: 2014/09/14
 Pageimage: valo194-unsplash.png
 Tags: Kaikki alustat,Kuvat,Valokuvat,Aineisto

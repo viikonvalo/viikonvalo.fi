@@ -1,5 +1,7 @@
 <!--
-Title: 3x43 FocusWriter - Viikon VALO #147
+Title: FocusWriter
+Week: 3x43
+Number: 147
 Date: 2013/10/20
 Pageimage: valo147-focuswriter.png
 Tags: Linux,Windows,Mac OS X,Tekstinkäsittely

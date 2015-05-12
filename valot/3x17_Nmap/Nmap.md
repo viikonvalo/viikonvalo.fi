@@ -1,5 +1,7 @@
 <!--
-Title: 3x17 Nmap - Viikon VALO #121
+Title: Nmap
+Week: 3x17
+Number: 121
 Date: 2013/04/21
 Pageimage: valo121-nmap.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,NetBSD,OpenBSD,Solaris,Unix,Verkko,Tietoturva

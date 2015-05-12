@@ -1,5 +1,7 @@
 <!--
-Title: 1x35 Freeciv - Viikon VALO #35
+Title: Freeciv
+Week: 1x35
+Number: 35
 Date: 2011/08/28
 Pageimage: valo35-freeciv.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,OS/2,Cygwin,AmigaOS,Maemo,Peli

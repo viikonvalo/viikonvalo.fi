@@ -1,5 +1,7 @@
 <!--
-Title: 3x18 Reinteract - Viikon VALO #122
+Title: Reinteract
+Week: 3x18
+Number: 122
 Date: 2013/04/28
 Pageimage: valo122-reinteract.png
 Tags: Linux,Windows,Mac OS X,Matematiikka,Ohjelmointi,Tiede,Opiskelu,Opetus

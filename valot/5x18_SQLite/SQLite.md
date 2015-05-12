@@ -1,5 +1,7 @@
 <!--
-Title: 5x18 SQLite - Viikon VALO #226
+Title: SQLite
+Week: 5x18
+Number: 226
 Date: 2015/05/03
 Pageimage: valo226-sqlite.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Android,iOS,Tietokanta

@@ -1,5 +1,7 @@
 <!--
-Title: 2x07 Open Font Library - Viikon VALO #59
+Title: Open Font Library
+Week: 2x07
+Number: 59
 Date: 2012/02/12
 Pageimage: valo59-openfontlibrary.png
 Tags: Kaikki alustat

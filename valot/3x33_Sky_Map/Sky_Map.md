@@ -1,5 +1,7 @@
 <!--
-Title: 3x33 Sky Map - Viikon VALO #137
+Title: Sky Map
+Week: 3x33
+Number: 137
 Date: 2013/08/11
 Pageimage: valo137-sky_map.png
 Tags: Android,Opetus,Opiskelu,Tiede

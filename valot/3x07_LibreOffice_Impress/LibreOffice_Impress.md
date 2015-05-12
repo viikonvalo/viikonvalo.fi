@@ -1,5 +1,7 @@
 <!--
-Title: 3x07 LibreOffice Impress - Viikon VALO #111
+Title: LibreOffice Impress
+Week: 3x07
+Number: 111
 Date: 2013/02/10
 Pageimage: valo111-libreoffice_impress.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,NetBSD,OpenBSD

@@ -1,5 +1,7 @@
 <!--
-Title: 1x15 LibreOffice Writer - Viikon VALO #15
+Title: LibreOffice Writer
+Week: 1x15
+Number: 15
 Date: 2011/04/10
 Pageimage: valo15-Libreoffice_writer.png
 Tags: Linux,Mac OS X,Windows,Toimisto,Tekstinkäsittely

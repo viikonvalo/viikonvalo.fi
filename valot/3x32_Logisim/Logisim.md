@@ -1,5 +1,7 @@
 <!--
-Title: 3x32 Logisim - Viikon VALO #136
+Title: Logisim
+Week: 3x32
+Number: 136
 Date: 2013/08/04
 Pageimage: valo136-logisim.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Logiikka,Opetus,Opiskelu,Tiede

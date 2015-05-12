@@ -1,5 +1,7 @@
 <!--
-Title: 3x40 Razor-qt - Viikon VALO #144
+Title: Razor-qt
+Week: 3x40
+Number: 144
 Date: 2013/09/29
 Pageimage: valo144-razor-qt.png
 Tags: Linux,Työpöytä

@@ -1,5 +1,7 @@
 <!--
-Title: 4x46 Vokoscreen - Viikon VALO #202
+Title: Vokoscreen
+Week: 4x46
+Number: 202
 Date: 2014/11/09
 Pageimage: valo202-vokoscreen.png
 Tags: Linux,Video,Ruudunkaappaus

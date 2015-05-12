@@ -1,5 +1,7 @@
 <!--
-Title: 1x42 X-Moto - Viikon VALO #42
+Title: X-Moto
+Week: 1x42
+Number: 42
 Date: 2011/10/16
 Pageimage: valo42-XMoto.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,Peli

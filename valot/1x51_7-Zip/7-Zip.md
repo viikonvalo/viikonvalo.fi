@@ -1,5 +1,7 @@
 <!--
-Title: 1x51 7-Zip - Viikon VALO #51
+Title: 7-Zip
+Week: 1x51
+Number: 51
 Date: 2011/12/18
 Pageimage: valo51-7zip.png
 Tags: Windows,Tiedostonhallinta,Järjestelmä,Apuohjelma

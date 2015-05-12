@@ -1,5 +1,7 @@
 <!--
-Title: 3x13 F-Droid - Viikon VALO #117
+Title: F-Droid
+Week: 3x13
+Number: 117
 Date: 2013/03/24
 Pageimage: valo117-fdroid.png
 Tags: Android,Mobiilisovellukset

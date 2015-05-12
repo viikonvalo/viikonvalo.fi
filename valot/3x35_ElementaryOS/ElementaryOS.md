@@ -1,5 +1,7 @@
 <!--
-Title: 3x35 ElementaryOS - Viikon VALO #139
+Title: ElementaryOS
+Week: 3x35
+Number: 139
 Date: 2013/08/25
 Pageimage: valo139-elementaryos.png
 Tags: Käyttöjärjestelmä,Linux

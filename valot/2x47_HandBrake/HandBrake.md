@@ -1,5 +1,7 @@
 <!--
-Title: 2x47 HandBrake - Viikon VALO #99
+Title: HandBrake
+Week: 2x47
+Number: 99
 Date: 2012/11/18
 Pageimage: valo99-handbrake.png
 Tags: Linux,Mac OS X,Windows,Video

@@ -1,5 +1,7 @@
 <!--
-Title: 1x29 Avidemux - Viikon VALO #29
+Title: Avidemux
+Week: 1x29
+Number: 29
 Date: 2011/07/17
 Pageimage: valo29-Avidemux.png
 Tags: Linux,Mac OS X,Windows,FreeBSD,OpenBSD,NetBSD,PC-BSD,Video

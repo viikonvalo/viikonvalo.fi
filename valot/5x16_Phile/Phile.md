@@ -1,5 +1,7 @@
 <!--
-Title: 5x16 Phile - Viikon VALO #224
+Title: Phile
+Week: 5x16
+Number: 224
 Date: 2015/04/24
 Pageimage: valo224-phile.png
 Tags: PHP,www

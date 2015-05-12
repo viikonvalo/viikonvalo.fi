@@ -1,5 +1,7 @@
 <!--
-Title: 2x28 KMediaFactory - Viikon VALO #80
+Title: KMediaFactory
+Week: 2x28
+Number: 80
 Date: 2012/07/08
 Pageimage: valo80-kmediafactory.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Video,DVD

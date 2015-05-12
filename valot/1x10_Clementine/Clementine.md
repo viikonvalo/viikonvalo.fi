@@ -1,5 +1,7 @@
 <!--
-Title: 1x10 Clementine - Viikon VALO #10
+Title: Clementine
+Week: 1x10
+Number: 10
 Date: 2011/03/06
 Pageimage: valo10-Clementine.png
 Tags: Linux,Mac OS X,Windows,Musiikki

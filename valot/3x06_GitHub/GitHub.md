@@ -1,5 +1,7 @@
 <!--
-Title: 3x06 GitHub - Viikon VALO #110
+Title: GitHub
+Week: 3x06
+Number: 110
 Date: 2013/02/03
 Pageimage: valo110-github.png
 Tags: Kaikki,Ohjelmointi

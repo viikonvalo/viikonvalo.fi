@@ -1,5 +1,7 @@
 <!--
-Title: 5x13 PDF Chain - Viikon VALO #221
+Title: PDF Chain
+Week: 5x13
+Number: 221
 Date: 2015/04/06 14:22
 Pageimage: valo221-pdfchain.png
 Tags: Linux,PDF,Toimisto

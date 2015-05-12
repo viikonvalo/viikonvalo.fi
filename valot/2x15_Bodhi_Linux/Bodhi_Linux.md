@@ -1,5 +1,7 @@
 <!--
-Title: 2x15 Bodhi Linux - Viikon VALO #67
+Title: Bodhi Linux
+Week: 2x15
+Number: 67
 Date: 2012/04/08
 Pageimage: valo67-bodhilinux.png
 Tags: Käyttöjärjestelmä

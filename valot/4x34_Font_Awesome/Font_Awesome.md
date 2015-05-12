@@ -1,5 +1,7 @@
 <!--
-Title: 4x34 Font Awesome - Viikon VALO #190
+Title: Font Awesome
+Week: 4x34
+Number: 190
 Date: 2014/08/17
 Pageimage: valo190-font_awesome.png
 Tags: Kaikki alustat,www-sivut,www-sovellukset,Aineisto

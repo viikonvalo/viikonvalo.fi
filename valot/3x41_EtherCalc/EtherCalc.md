@@ -1,5 +1,7 @@
 <!--
-Title: 3x41 EtherCalc - Viikon VALO #145
+Title: EtherCalc
+Week: 3x41
+Number: 145
 Date: 2013/10/06
 Pageimage: valo145-ethercalc.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,Kaikki alustat,Palvelin,Palvelu,Taulukkolaskenta,Yhteistyö,Toimisto

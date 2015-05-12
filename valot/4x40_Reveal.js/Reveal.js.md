@@ -1,5 +1,7 @@
 <!--
-Title: 4x40 Reveal.js - Viikon VALO #196
+Title: Reveal.js
+Week: 4x40
+Number: 196
 Date: 2014/09/28
 Pageimage: valo196-revealjs.png
 Tags: Verkkoselaimet,Esitys,Toimisto

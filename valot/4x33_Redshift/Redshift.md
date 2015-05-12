@@ -1,5 +1,7 @@
 <!--
-Title: 4x33 Redshift - Viikon VALO #189
+Title: Redshift
+Week: 4x33
+Number: 189
 Date: 2014/08/10
 Pageimage: valo189-redshift.png
 Tags: Linux,Windows,Näyttö,Värilämpötila

@@ -1,5 +1,7 @@
 <!--
-Title: 4x14 TreeSheets - Viikon VALO #170
+Title: TreeSheets
+Week: 4x14
+Number: 170
 Date: 2014/03/30
 Pageimage: valo170-treesheets.png
 Tags: Linux,Windows,Mac OS X,Toimisto

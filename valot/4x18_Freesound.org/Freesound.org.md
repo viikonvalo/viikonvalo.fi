@@ -1,5 +1,7 @@
 <!--
-Title: 4x18 Freesound.org - Viikon VALO #174
+Title: Freesound.org
+Week: 4x18
+Number: 174
 Date: 2014/04/27
 Pageimage: valo174-freesoundorg.png
 Tags: Kaikki alustat,Ääni,Aineisto

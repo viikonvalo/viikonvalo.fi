@@ -1,5 +1,7 @@
 <!--
-Title: 3x29 Fake Dawn - Viikon VALO #133
+Title: Fake Dawn
+Week: 3x29
+Number: 133
 Date: 2013/07/14
 Pageimage: valo133-fakedawn.png
 Tags: Android,Apuohjelma

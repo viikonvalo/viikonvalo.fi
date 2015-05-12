@@ -1,5 +1,7 @@
 <!--
-Title: 1x31 Virtualbox - Viikon VALO #31
+Title: Virtualbox
+Week: 1x31
+Number: 31
 Date: 2011/07/31
 Pageimage: valo31-Virtualbox.png
 Tags: Windows,Mac OS X,Linux,Solaris,Virtualisointi,Järjestelmä

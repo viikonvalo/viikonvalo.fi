@@ -1,5 +1,7 @@
 <!--
-Title: 4x41 PDF-Shuffler - Viikon VALO #197
+Title: PDF-Shuffler
+Week: 4x41
+Number: 197
 Date: 2014/10/05
 Pageimage: valo197-pdfshuffler.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Toimisto,PDF

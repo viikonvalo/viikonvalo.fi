@@ -1,5 +1,7 @@
 <!--
-Title: 4x29 Gwenview - Viikon VALO #185
+Title: Gwenview
+Week: 4x29
+Number: 185
 Date: 2014/07/13
 Pageimage: valo185-gwenview.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Kuvat,Valokuvat

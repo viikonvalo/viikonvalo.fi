@@ -1,5 +1,7 @@
 <!--
-Title: 4x44 Bitcoin - Viikon VALO #200
+Title: Bitcoin
+Week: 4x44
+Number: 200
 Date: 2014/10/26
 Pageimage: valo200-bitcoin.png
 Tags: Kaikki alustat,Internet,Raha

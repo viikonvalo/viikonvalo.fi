@@ -1,5 +1,7 @@
 <!--
-Title: 4x31 Dolphin - Viikon VALO #187
+Title: Dolphin
+Week: 4x31
+Number: 187
 Date: 2014/07/27
 Pageimage: valo187-dolphin.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Tiedostonhallinta

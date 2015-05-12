@@ -1,5 +1,7 @@
 <!--
-Title: 2x25 Bluefish - Viikon VALO #77
+Title: Bluefish
+Week: 2x25
+Number: 77
 Date: 2012/06/17
 Pageimage: valo77-bluefish.png
 Tags: Linux,Windows,Mac OS X,Solaris,Unix,Tekstieditori

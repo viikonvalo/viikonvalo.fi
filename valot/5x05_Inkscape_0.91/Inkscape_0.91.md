@@ -1,5 +1,7 @@
 <!--
-Title: 5x05 Inkscape 0.91 - Viikon VALO #213
+Title: Inkscape 0.91
+Week: 5x05
+Number: 213
 Date: 2015/01/25
 Pageimage: valo213-inkscape.png
 Tags: Linux,Windows,Mac OS X,Vektoripiirto,Kuvat,Kaaviot,Toimisto

@@ -1,5 +1,7 @@
 <!--
-Title: 5x17 OpenWRT - Viikon VALO #225
+Title: OpenWRT
+Week: 5x17
+Number: 225
 Date: 2015/04/26
 Pageimage: valo225-openwrt.png
 Tags: Sulautetut,Käyttöjärjestelmä

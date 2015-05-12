@@ -1,5 +1,7 @@
 <!--
-Title: 3x21 HTTPS Everywhere - Viikon VALO #125
+Title: HTTPS Everywhere
+Week: 3x21
+Number: 125
 Date: 2013/05/19
 Pageimage: valo125-https_everywhere.png
 Tags: Chrome,Firefox,Verkko,Tietoturva

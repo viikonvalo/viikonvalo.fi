@@ -1,5 +1,7 @@
 <!--
-Title: 3x19 Debian Wheezy - Viikon VALO #123
+Title: Debian Wheezy
+Week: 3x19
+Number: 123
 Date: 2013/05/05
 Pageimage: valo123-debian_wheezy.png
 Tags: Käyttöjärjestelmä

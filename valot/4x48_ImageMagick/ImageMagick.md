@@ -1,5 +1,7 @@
 <!--
-Title: 4x48 ImageMagick - Viikon VALO #204
+Title: ImageMagick
+Week: 4x48
+Number: 204
 Date: 2014/11/23
 Pageimage: valo204-imagemagick.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,iOS,Komentorivi,Kuvat,Kuvankäsittely

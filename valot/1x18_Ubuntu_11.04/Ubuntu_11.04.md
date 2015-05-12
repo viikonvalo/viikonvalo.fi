@@ -1,5 +1,7 @@
 <!--
-Title: 1x18 Ubuntu 11.04 - Viikon VALO #18
+Title: Ubuntu 11.04
+Week: 1x18
+Number: 18
 Date: 2011/05/01
 Pageimage: valo18-ubuntu.png
 Tags: Järjestelmä,Käyttöjärjestelmä

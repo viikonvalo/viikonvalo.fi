@@ -1,5 +1,7 @@
 <!--
-Title: 3x09 Poedit - Viikon VALO #113
+Title: Poedit
+Week: 3x09
+Number: 113
 Date: 2013/02/24
 Pageimage: valo113-poedit.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,NetBSD,Unix,Lokalisointi

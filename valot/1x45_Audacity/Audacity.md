@@ -1,5 +1,7 @@
 <!--
-Title: 1x45 Audacity - Viikon VALO #45
+Title: Audacity
+Week: 1x45
+Number: 45
 Date: 2011/11/06
 Pageimage: valo45-audacity.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Ääni

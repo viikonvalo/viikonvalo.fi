@@ -1,5 +1,7 @@
 <!--
-Title: 3x25 Graph.tk - Viikon VALO #129
+Title: Graph.tk
+Week: 3x25
+Number: 129
 Date: 2013/06/16
 Pageimage: valo129-graph.tk.png
 Tags: Verkkoselaimet,Matematiikka,Opiskelu,Opetus

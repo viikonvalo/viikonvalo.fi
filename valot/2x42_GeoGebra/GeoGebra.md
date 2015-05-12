@@ -1,5 +1,7 @@
 <!--
-Title: 2x42 GeoGebra - Viikon VALO #94
+Title: GeoGebra
+Week: 2x42
+Number: 94
 Date: 2012/10/14
 Pageimage: valo94-geogebra.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Matematiikka,Opetus,Opiskelu

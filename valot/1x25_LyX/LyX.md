@@ -1,5 +1,7 @@
 <!--
-Title: 1x25 LyX - Viikon VALO #25
+Title: LyX
+Week: 1x25
+Number: 25
 Date: 2011/06/19
 Pageimage: valo25-Lyx.png
 Tags: Linux,Windows,Mac OS X,OS/2,Tekstinkäsittely,Toimisto

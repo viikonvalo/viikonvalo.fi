@@ -1,5 +1,7 @@
 <!--
-Title: 4x49 JollaOpas - Viikon VALO #205
+Title: JollaOpas
+Week: 4x49
+Number: 205
 Date: 2014/11/30
 Pageimage: valo205-jollaopas.png
 Tags: SailfishOS,Kartta,Matkustaminen

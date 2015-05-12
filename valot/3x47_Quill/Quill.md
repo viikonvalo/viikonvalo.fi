@@ -1,5 +1,7 @@
 <!--
-Title: 3x47 Quill - Viikon VALO #151
+Title: Quill
+Week: 3x47
+Number: 151
 Date: 2013/11/17
 Pageimage: valo151-quill.png
 Tags: Android,Piirto,Teksti

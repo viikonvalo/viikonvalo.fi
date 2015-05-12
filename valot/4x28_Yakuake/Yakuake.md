@@ -1,5 +1,7 @@
 <!--
-Title: 4x28 Yakuake - Viikon VALO #184
+Title: Yakuake
+Week: 4x28
+Number: 184
 Date: 2014/07/06
 Pageimage: valo184-yakuake.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Solaris,Komentorivi,Terminaali

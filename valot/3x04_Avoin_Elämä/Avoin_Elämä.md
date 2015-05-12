@@ -1,5 +1,7 @@
 <!--
-Title: 3x04 Avoin Elämä - Viikon VALO #108
+Title: Avoin Elämä
+Week: 3x04
+Number: 108
 Date: 2013/01/20
 Pageimage: valo108-avoin_elama.png
 Tags: Kirja

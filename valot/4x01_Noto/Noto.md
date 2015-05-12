@@ -1,5 +1,7 @@
 <!--
-Title: 4x01 Noto - Viikon VALO #157
+Title: Noto
+Week: 4x01
+Number: 157
 Date: 2014/01/01
 Pageimage: valo157-noto.png
 Tags: SailfishOS,Apuohjelma,Teksti,Muistiinpano

@@ -1,9 +1,11 @@
-/*
-Title: 5x09 Phatch - Viikon VALO #217
+<!--
+Title: Phatch
+Week: 5x09
+Number: 217
 Date: 2015/02/28
 Pageimage: valo217-phatch.png
 Tags: Linux,Windows,Mac OS X,Kuvat
-*/
+-->
 
 **Phatch on työkalu, jolla voi tehdä joukon erilaisia
 muokkausoperaatioita suureenkin määrään kuvatiedostoja yhdellä kertaa.**

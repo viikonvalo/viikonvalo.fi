@@ -1,5 +1,7 @@
 <!--
-Title: 2x08 Python - Viikon VALO #60
+Title: Python
+Week: 2x08
+Number: 60
 Date: 2012/02/19
 Pageimage: valo60-python.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,NetBSD,OpenBSD,S60,Solaris

@@ -1,5 +1,7 @@
 <!--
-Title: 2x12 Emacs Org-mode - Viikon VALO #64
+Title: Emacs Org-mode
+Week: 2x12
+Number: 64
 Date: 2012/03/18
 Pageimage: valo64-emacs_org-mode.png
 Tags: Aix,Dos,FreeBSD,HP-UX,Irix,Linux,Mac OS X,NetBSD,OpenBSD,OpenVMS,Solaris,Windows,Muistiinpanot

@@ -1,5 +1,7 @@
 <!--
-Title: 2x20 Ardesia - Viikon VALO #72
+Title: Ardesia
+Week: 2x20
+Number: 72
 Date: 2012/05/13
 Pageimage: valo72-ardesia.png
 Tags: Linux,Windows

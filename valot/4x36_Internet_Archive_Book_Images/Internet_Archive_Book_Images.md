@@ -1,5 +1,7 @@
 <!--
-Title: 4x36 Internet Archive Book Images - Viikon VALO #192
+Title: Internet Archive Book Images
+Week: 4x36
+Number: 192
 Date: 2014/08/31
 Pageimage: valo192-internet_archive_book_images.png
 Tags: Kaikki alustat,Kuvat,Aineisto

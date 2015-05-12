@@ -1,5 +1,7 @@
 <!--
-Title: 1x39 Clonezilla - Viikon VALO #39
+Title: Clonezilla
+Week: 1x39
+Number: 39
 Date: 2011/09/25
 Pageimage: valo39-clonezilla.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Järjestelmä

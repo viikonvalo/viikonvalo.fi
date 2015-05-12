@@ -1,5 +1,7 @@
 <!--
-Title: 4x27 c:geo - Viikon VALO #183
+Title: c:geo
+Week: 4x27
+Number: 183
 Date: 2014/06/29
 Pageimage: valo183-cgeo.png
 Tags: Android,SailfishOS,gps,Navigointi

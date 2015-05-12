@@ -1,5 +1,7 @@
 <!--
-Title: 1x13 Firefox - Viikon VALO #13
+Title: Firefox
+Week: 1x13
+Number: 13
 Date: 2011/03/27
 Pageimage: valo13-Firefox.png
 Tags: Android,Linux,Mac OS X,Windows,Maemo,Internet,Viestintä,Www-selain

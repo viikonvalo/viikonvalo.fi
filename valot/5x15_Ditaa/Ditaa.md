@@ -1,5 +1,7 @@
 <!--
-Title: 5x15 Ditaa - Viikon VALO #223
+Title: Ditaa
+Week: 5x15
+Number: 223
 Date: 2015/04/12
 Pageimage: valo223-ditaa.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Toimisto,Kuvat,Kaaviot

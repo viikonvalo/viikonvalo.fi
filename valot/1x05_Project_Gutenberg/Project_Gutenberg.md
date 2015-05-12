@@ -1,5 +1,7 @@
 <!--
-Title: 1x05 Project Gutenberg - Viikon VALO #5
+Title: Project Gutenberg
+Week: 1x05
+Number: 5
 Date: 2011/01/30 20:00
 Tags: Kaikki alustat,Aineisto,Kirjat
 Pageimage: valo5-Project_Gutenberg.png

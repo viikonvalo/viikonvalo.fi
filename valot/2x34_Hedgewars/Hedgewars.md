@@ -1,5 +1,7 @@
 <!--
-Title: 2x34 Hedgewars - Viikon VALO #86
+Title: Hedgewars
+Week: 2x34
+Number: 86
 Date: 2012/08/19
 Pageimage: valo86-hedgewars.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,Android,iOS,Peli

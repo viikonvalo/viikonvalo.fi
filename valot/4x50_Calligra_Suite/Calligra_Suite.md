@@ -1,5 +1,7 @@
 <!--
-Title: 4x50 Calligra Suite - Viikon VALO #206
+Title: Calligra Suite
+Week: 4x50
+Number: 206
 Date: 2014/12/07
 Pageimage: valo206-calligra_suite.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Taulukkolaskenta,Kuvankäsittely,Tekstinkäsittely,Toimisto

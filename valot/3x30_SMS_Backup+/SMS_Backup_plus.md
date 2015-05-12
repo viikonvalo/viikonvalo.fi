@@ -1,5 +1,7 @@
 <!--
-Title: 3x30 SMS Backup+ - Viikon VALO #134
+Title: SMS Backup+
+Week: 3x30
+Number: 134
 Date: 2013/07/21
 Pageimage: valo134-smsbackupplus.png
 Tags: Android,Viestintä

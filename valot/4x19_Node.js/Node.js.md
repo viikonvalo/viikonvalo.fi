@@ -1,5 +1,7 @@
 <!--
-Title: 4x19 Node.js - Viikon VALO #175
+Title: Node.js
+Week: 4x19
+Number: 175
 Date: 2014/05/04
 Pageimage: valo175-nodejs.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,WebOS,Ohjelmointi,JavaScript,Palvelin

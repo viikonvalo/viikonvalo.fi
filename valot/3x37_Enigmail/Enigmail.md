@@ -1,5 +1,7 @@
 <!--
-Title: 3x37 Enigmail - Viikon VALO #141
+Title: Enigmail
+Week: 3x37
+Number: 141
 Date: 2013/09/08
 Pageimage: valo141-enigmail.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,OS/2,Viestintä,Sähköposti,Tietoturva

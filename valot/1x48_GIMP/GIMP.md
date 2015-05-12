@@ -1,5 +1,7 @@
 <!--
-Title: 1x48 GIMP - Viikon VALO #48
+Title: GIMP
+Week: 1x48
+Number: 48
 Date: 2011/11/27
 Pageimage: valo48-gimp.png
 Tags: Windows,Linux,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Kuvat,Kuvankäsittely

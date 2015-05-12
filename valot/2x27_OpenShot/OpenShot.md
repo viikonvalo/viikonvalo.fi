@@ -1,5 +1,7 @@
 <!--
-Title: 2x27 OpenShot - Viikon VALO #79
+Title: OpenShot
+Week: 2x27
+Number: 79
 Date: 2012/07/01
 Pageimage: valo79-openshot.png
 Tags: Linux,Video

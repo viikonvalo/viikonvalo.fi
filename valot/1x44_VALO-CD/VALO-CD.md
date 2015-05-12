@@ -1,5 +1,7 @@
 <!--
-Title: 1x44 VALO-CD - Viikon VALO #44
+Title: VALO-CD
+Week: 1x44
+Number: 44
 Date: 2011/10/30
 Pageimage: valo44-valocd.png
 Tags: Windows,Aineisto,Ohjelmakokoelma

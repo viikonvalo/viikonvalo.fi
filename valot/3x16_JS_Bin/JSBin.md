@@ -1,5 +1,7 @@
 <!--
-Title: 3x16 JS Bin - Viikon VALO #120
+Title: JS Bin
+Week: 3x16
+Number: 120
 Date: 2013/04/14
 Pageimage: valo120-jsbin.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Palvelinohjelma,Ohjelmointi

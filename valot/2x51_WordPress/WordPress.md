@@ -1,5 +1,7 @@
 <!--
-Title: 2x51 WordPress - Viikon VALO #103
+Title: WordPress
+Week: 2x51
+Number: 103
 Date: 2012/12/16
 Pageimage: valo103-wordpress.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Unix,Palvelinohjelma,Sisällönhallinta,Blogi,CMS

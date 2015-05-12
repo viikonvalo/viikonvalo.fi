@@ -1,5 +1,7 @@
 <!--
-Title: 2x17 Evince - Viikon VALO #69
+Title: Evince
+Week: 2x17
+Number: 69
 Date: 2012/04/22
 Pageimage: valo69-evince.png
 Tags: Linux,Windows,PDF

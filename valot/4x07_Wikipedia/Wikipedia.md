@@ -1,5 +1,7 @@
 <!--
-Title: 4x07 Wikipedia - Viikon VALO #163
+Title: Wikipedia
+Week: 4x07
+Number: 163
 Date: 2014/02/09
 Pageimage: valo163-wikipedia.png
 Tags: Verkkoselaimet,Aineisto

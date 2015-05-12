@@ -1,5 +1,7 @@
 <!--
-Title: 4x04 LLs Video Player - Viikon VALO #160
+Title: LLs Video Player
+Week: 4x04
+Number: 160
 Date: 2014/01/19
 Pageimage: valo160-lls_video_player.png
 Tags: SailfishOS,Video,Multimedia

@@ -1,5 +1,7 @@
 <!--
-Title: 2x14 Rahanjako - Viikon VALO #66
+Title: Rahanjako
+Week: 2x14
+Number: 66
 Date: 2012/04/01 10:00
 Pageimage: valo66-rahanjako.png
 Tags: AmigaOS,Linux,Mac OS X,Windows,Raha

@@ -1,5 +1,7 @@
 <!--
-Title: 1x40 Voikko - Viikon VALO #40
+Title: Voikko
+Week: 1x40
+Number: 40
 Date: 2011/10/02
 Pageimage: valo40-Voikko.png
 Tags: Linux,Windows,Mac OS X,Apuohjelma,Toimisto

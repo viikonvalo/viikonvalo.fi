@@ -1,5 +1,7 @@
 <!--
-Title: 2x35 TiddlyWiki - Viikon VALO #87
+Title: TiddlyWiki
+Week: 2x35
+Number: 87
 Date: 2012/08/26
 Pageimage: valo87-tiddlywiki.png
 Tags: Chrome,Chromium,Firefox,Internet Explorer,Opera,Safari,Muistiinpanot,Wiki

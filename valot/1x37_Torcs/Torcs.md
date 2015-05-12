@@ -1,5 +1,7 @@
 <!--
-Title: 1x37 Torcs - Viikon VALO #37
+Title: Torcs
+Week: 1x37
+Number: 37
 Date: 2011/09/11
 Pageimage: valo37-Torcs.png
 Tags: FreeBSD,Linux,MacOS X,Windows,Peli

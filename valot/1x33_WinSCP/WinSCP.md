@@ -1,5 +1,7 @@
 <!--
-Title: 1x33 WinSCP - Viikon VALO #33
+Title: WinSCP
+Week: 1x33
+Number: 33
 Date: 2011/08/14
 Pageimage: valo33-winscp.png
 Tags: Windows,Internet,Tiedostonhallinta

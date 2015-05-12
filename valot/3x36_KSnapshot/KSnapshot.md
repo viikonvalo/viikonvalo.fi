@@ -1,5 +1,7 @@
 <!--
-Title: 3x36 KSnapshot - Viikon VALO #140
+Title: KSnapshot
+Week: 3x36
+Number: 140
 Date: 2013/09/01
 Pageimage: valo140-ksnapshot.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Solaris,Kuvat,Apuohjelma

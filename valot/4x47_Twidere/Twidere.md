@@ -1,5 +1,7 @@
 <!--
-Title: 4x47 Twidere - Viikon VALO #203
+Title: Twidere
+Week: 4x47
+Number: 203
 Date: 2014/11/16
 Pageimage: valo203-twidere.png
 Tags: Android,SailfishOS,Internet,Viestintä

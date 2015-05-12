@@ -1,5 +1,7 @@
 <!--
-Title: 3x12 Kig - Viikon VALO #116
+Title: Kig
+Week: 3x12
+Number: 116
 Date: 2013/03/17
 Pageimage: valo116-kig.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD,Geometria,Matematiikka,Opiskelu,Opetus

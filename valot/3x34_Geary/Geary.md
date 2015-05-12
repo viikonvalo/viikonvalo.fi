@@ -1,5 +1,7 @@
 <!--
-Title: 3x34 Geary - Viikon VALO #138
+Title: Geary
+Week: 3x34
+Number: 138
 Date: 2013/08/18
 Pageimage: valo138-geary.png
 Tags: Linux,FreeBSD,OpenBSD,Solaris,Sähköposti,Internet,Viestintä

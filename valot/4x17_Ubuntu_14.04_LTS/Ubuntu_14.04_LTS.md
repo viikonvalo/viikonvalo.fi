@@ -1,5 +1,7 @@
 <!--
-Title: 4x17 Ubuntu 14.04 LTS - Viikon VALO #173
+Title: Ubuntu 14.04 LTS
+Week: 4x17
+Number: 173
 Date: 2014/04/20
 Pageimage: valo173-ubuntu_1404_lts.png
 Tags: Käyttöjärjestelmä,Linux

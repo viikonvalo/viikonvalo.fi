@@ -1,5 +1,7 @@
 <!--
-Title: 4x08 Banshee - Viikon VALO #164
+Title: Banshee
+Week: 4x08
+Number: 164
 Date: 2014/02/16
 Pageimage: valo164-banshee.png
 Tags: Linux,Windows,Mac OS X,Musiikki

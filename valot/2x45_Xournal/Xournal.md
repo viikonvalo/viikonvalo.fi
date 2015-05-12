@@ -1,5 +1,7 @@
 <!--
-Title: 2x45 Xournal - Viikon VALO #97
+Title: Xournal
+Week: 2x45
+Number: 97
 Date: 2012/11/04
 Pageimage: valo97-xournal.png
 Tags: Linux,Windows,PDF,Muistiinpanot

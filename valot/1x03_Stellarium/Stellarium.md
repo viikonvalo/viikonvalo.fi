@@ -1,5 +1,7 @@
 <!--
-Title: 1x03 Stellarium - Viikon VALO #3
+Title: Stellarium
+Week: 1x03
+Number: 3
 Date: 2011/01/16 20:00
 Tags: Linux,Mac OS X,Windows,Opiskelu,Tiede
 Pageimage: valo3-stellarium.png

@@ -1,5 +1,7 @@
 <!--
-Title: 4x15 Kevyet Linux-jakelut - Viikon VALO #171
+Title: Kevyet Linux-jakelut
+Week: 4x15
+Number: 171
 Date: 2014/04/06
 Pageimage: valo171-kevyet_linux-jakelut.png
 Tags: Käyttöjärjestelmä,Linux

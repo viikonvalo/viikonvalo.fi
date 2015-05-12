@@ -1,5 +1,7 @@
 <!--
-Title: 3x42 Filezilla - Viikon VALO #146
+Title: Filezilla
+Week: 3x42
+Number: 146
 Date: 2013/10/13
 Pageimage: valo146-filezilla.png
 Tags: Linux,Windows,Mac OS X,Internet,Tiedostonhallinta,FTP,SFTP

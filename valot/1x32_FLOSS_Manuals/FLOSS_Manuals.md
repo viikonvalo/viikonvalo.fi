@@ -1,5 +1,7 @@
 <!--
-Title: 1x32 FLOSS Manuals - Viikon VALO #32
+Title: FLOSS Manuals
+Week: 1x32
+Number: 32
 Date: 2011/08/07
 Pageimage: valo32-floss_manuals.png
 Tags: Kaikki alustat,Aineisto,Kirjat

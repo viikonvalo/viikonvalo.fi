@@ -1,5 +1,7 @@
 <!--
-Title: 2x49 jQuery - Viikon VALO #101
+Title: jQuery
+Week: 2x49
+Number: 101
 Date: 2012/12/02
 Pageimage: valo101-jquery.png
 Tags: Verkkoselaimet,Ohjelmointi

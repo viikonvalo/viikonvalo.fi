@@ -1,5 +1,7 @@
 <!--
-Title: 1x28 Hugin - Viikon VALO #28
+Title: Hugin
+Week: 1x28
+Number: 28
 Date: 2011/07/10
 Pageimage: valo28-Hugin.png
 Tags: Windows,Linux,Mac OS X,FreeBSD,Kuvat,Kuvankäsittely

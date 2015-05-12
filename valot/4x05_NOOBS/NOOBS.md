@@ -1,5 +1,7 @@
 <!--
-Title: 4x05 NOOBS - Viikon VALO #161
+Title: NOOBS
+Week: 4x05
+Number: 161
 Date: 2014/01/26
 Pageimage: valo161-noobs.png
 Tags: Raspberry Pi,Käyttöjärjestelmä

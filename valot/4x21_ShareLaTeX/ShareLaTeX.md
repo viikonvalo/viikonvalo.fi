@@ -1,5 +1,7 @@
 <!--
-Title: 4x21 ShareLaTeX - Viikon VALO #177
+Title: ShareLaTeX
+Week: 4x21
+Number: 177
 Date: 2014/05/18
 Pageimage: valo177-sharelatex.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Palvelin,Palvelu

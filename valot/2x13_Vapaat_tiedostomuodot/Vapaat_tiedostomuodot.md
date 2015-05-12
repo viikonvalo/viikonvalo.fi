@@ -1,5 +1,7 @@
 <!--
-Title: 2x13 Vapaat tiedostomuodot - Viikon VALO #65
+Title: Vapaat tiedostomuodot
+Week: 2x13
+Number: 65
 Date: 2012/03/25
 Pageimage: valo65-vapaat_tiedostomuodot.png
 Tags: Kaikki alustat,Tiedostomuodot

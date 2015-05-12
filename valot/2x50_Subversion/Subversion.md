@@ -1,5 +1,7 @@
 <!--
-Title: 2x50 Subversion - Viikon VALO #102
+Title: Subversion
+Week: 2x50
+Number: 102
 Date: 2012/12/09
 Pageimage: valo102-subversion.png
 Tags: Linux,Mac OS X,Windows,FreeBSD,OpenBSD,NetBSD,Solaris,Unix,Android,Ohjelmointi,Versionhallinta

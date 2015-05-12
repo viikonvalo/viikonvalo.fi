@@ -1,5 +1,7 @@
 <!--
-Title: 4x10 ownCloud - Viikon VALO #166
+Title: ownCloud
+Week: 4x10
+Number: 166
 Date: 2014/03/02
 Pageimage: valo166-owncloud.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Palvelin,Pilvipalvelu

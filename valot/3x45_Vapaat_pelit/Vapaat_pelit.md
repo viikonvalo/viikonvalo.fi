@@ -1,5 +1,7 @@
 <!--
-Title: 3x45 Vapaat pelit - Viikon VALO #149
+Title: Vapaat pelit
+Week: 3x45
+Number: 149
 Date: 2013/11/03
 Pageimage: valo149-vapaat_pelit.png
 Tags: Linux,Windows,Mac OS X,Peli

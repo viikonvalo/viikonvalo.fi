@@ -1,5 +1,7 @@
 <!--
-Title: 3x14 KeepScore - Viikon VALO #118
+Title: KeepScore
+Week: 3x14
+Number: 118
 Date: 2013/03/31
 Pageimage: valo118-keepscore.png
 Tags: Android,Peli

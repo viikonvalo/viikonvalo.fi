@@ -1,5 +1,7 @@
 <!--
-Title: 4x23 Entangle - Viikon VALO #179
+Title: Entangle
+Week: 4x23
+Number: 179
 Date: 2014/06/01
 Pageimage: valo179-entangle.png
 Tags: Linux,Kuvat,Valokuvat

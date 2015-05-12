@@ -1,5 +1,7 @@
 <!--
-Title: 1x01 Really Slick Screensavers - Viikon VALO #1
+Title: Really Slick Screensavers
+Week: 1x01
+Number: 1
 Date: 2011/01/02 20:00:00
 Tags: Windows,Linux,Mac OS X,Solaris
 Pageimage: valo1-rss.png

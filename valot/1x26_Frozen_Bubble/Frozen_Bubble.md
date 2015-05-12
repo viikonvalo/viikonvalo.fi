@@ -1,5 +1,7 @@
 <!--
-Title: 1x26 Frozen Bubble - Viikon VALO #26
+Title: Frozen Bubble
+Week: 1x26
+Number: 26
 Date: 2011/06/26
 Pageimage: valo26-FrozenBubble.png
 Tags: Linux,Windows,Mac OS X,Android,iOS,S60,Java,Peli

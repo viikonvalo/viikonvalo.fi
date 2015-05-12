@@ -1,5 +1,7 @@
 <!--
-Title: 3x39 ClamAV - Viikon VALO #143
+Title: ClamAV
+Week: 3x39
+Number: 143
 Date: 2013/09/22
 Pageimage: valo143-clamav.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Aix,HP-UX,OpenVMS,OSF,Tietoturva,Virustorjunta

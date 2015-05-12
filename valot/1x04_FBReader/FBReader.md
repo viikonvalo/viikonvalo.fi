@@ -1,5 +1,7 @@
 <!--
-Title: 1x04 FBReader - Viikon VALO #4
+Title: FBReader
+Week: 1x04
+Number: 4
 Date: 2011/01/23 20:00
 Tags: Linux,Mac OS X,Windows,FreeBSD,Maemo,Android,Kirjat,Vapaa-aika
 Pageimage: valo4-fbreader.png

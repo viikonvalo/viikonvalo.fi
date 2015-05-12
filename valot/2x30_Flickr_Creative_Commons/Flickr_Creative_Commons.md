@@ -1,5 +1,7 @@
 <!--
-Title: 2x30 Flickr: Creative Commons - Viikon VALO #82
+Title: Flickr: Creative Commons
+Week: 2x30
+Number: 82
 Date: 2012/07/22
 Pageimage: valo82-flickr_creative_commons.png
 Tags: Kaikki alustat,Kuvat,Aineisto

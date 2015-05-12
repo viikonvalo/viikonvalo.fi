@@ -1,5 +1,7 @@
 <!--
-Title: 3x03 VDR - Viikon VALO #107
+Title: VDR
+Week: 3x03
+Number: 107
 Date: 2013/01/13
 Pageimage: valo107-vdr.png
 Tags: Linux,Multimedia,Video,Mediakeskus,Televisio,Elokuva

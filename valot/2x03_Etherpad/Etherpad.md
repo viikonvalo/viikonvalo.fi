@@ -1,5 +1,7 @@
 <!--
-Title: 2x03 Etherpad - Viikon VALO #55
+Title: Etherpad
+Week: 2x03
+Number: 55
 Date: 2012/01/15
 Pageimage: valo55-etherpad.png
 Tags: Kaikki alustat,Windows,Linux,Mac OS X,Palvelinohjelma

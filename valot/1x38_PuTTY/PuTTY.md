@@ -1,5 +1,7 @@
 <!--
-Title: 1x38 PuTTY - Viikon VALO #38
+Title: PuTTY
+Week: 1x38
+Number: 38
 Date: 2011/09/18
 Pageimage: valo38-putty.png
 Tags: Windows,Linux,Unix,Windows Mobile,Symbian OS,Internet

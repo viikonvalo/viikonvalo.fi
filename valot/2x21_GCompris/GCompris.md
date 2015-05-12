@@ -1,5 +1,7 @@
 <!--
-Title: 2x21 GCompris - Viikon VALO #73
+Title: GCompris
+Week: 2x21
+Number: 73
 Date: 2012/05/20
 Pageimage: valo73-gcompris.png
 Tags: Linux,Mac OS X,Windows

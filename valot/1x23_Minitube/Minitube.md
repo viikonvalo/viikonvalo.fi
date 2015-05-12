@@ -1,5 +1,7 @@
 <!--
-Title: 1x23 Minitube - Viikon VALO #23
+Title: Minitube
+Week: 1x23
+Number: 23
 Date: 2011/06/05
 Pageimage: valo23-Minitube.png
 Tags: Windows,Linux,Mac OS X,Video

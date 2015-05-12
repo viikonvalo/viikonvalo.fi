@@ -1,5 +1,7 @@
 <!--
-Title: 3x51 PC-BSD - Viikon VALO #155
+Title: PC-BSD
+Week: 3x51
+Number: 155
 Date: 2013/12/15
 Pageimage: valo155-pc-bsd.png
 Tags: Käyttöjärjestelmä

@@ -1,5 +1,7 @@
 <!--
-Title: 2x33 BackupPC - Viikon VALO #85
+Title: BackupPC
+Week: 2x33
+Number: 85
 Date: 2012/08/12
 Pageimage: valo85-backuppc.png
 Tags: Linux,Windows,Mac OS X,Solaris,Unix,Varmuuskopiointi

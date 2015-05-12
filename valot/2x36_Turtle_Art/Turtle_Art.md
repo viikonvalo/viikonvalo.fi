@@ -1,5 +1,7 @@
 <!--
-Title: 2x36 Turtle Art - Viikon VALO #88
+Title: Turtle Art
+Week: 2x36
+Number: 88
 Date: 2012/09/02
 Pageimage: valo88-turtleart.png
 Tags: Linux,Ohjelmointi,Opetus

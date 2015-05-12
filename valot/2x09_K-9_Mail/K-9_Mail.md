@@ -1,5 +1,7 @@
 <!--
-Title: 2x09 K-9 Mail - Viikon VALO #61
+Title: K-9 Mail
+Week: 2x09
+Number: 61
 Date: 2012/02/26
 Pageimage: valo61-k9mail.png
 Tags: Android,Sähköposti,Viestintä,Internet

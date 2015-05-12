@@ -1,5 +1,7 @@
 <!--
-Title: 2x24 Simple Scan - Viikon VALO #76
+Title: Simple Scan
+Week: 2x24
+Number: 76
 Date: 2012/06/10
 Pageimage: valo76-simplescan.png
 Tags: Linux,FreeBSD,OpenBSD,NetBSD

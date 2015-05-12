@@ -1,5 +1,7 @@
 <!--
-Title: 3x01 Avoin Oppikirja.fi - Viikon VALO #105
+Title: Avoin Oppikirja.fi
+Week: 3x01
+Number: 105
 Date: 2013/01/01
 Pageimage: valo105-avoinoppikirja.fi.png
 Tags: Kaikki,Opetus,Oppikirja

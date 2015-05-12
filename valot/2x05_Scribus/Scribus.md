@@ -1,5 +1,7 @@
 <!--
-Title: 2x05 Scribus - Viikon VALO #57
+Title: Scribus
+Week: 2x05
+Number: 57
 Date: 2012/01/29
 Pageimage: valo57-scribus.png
 Tags: Linux,Windows,Mac OS X,OS/2,Toimisto,Sivuntaitto,Julkaiseminen

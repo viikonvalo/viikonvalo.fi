@@ -1,5 +1,7 @@
 <!--
-Title: 3x10 KDE - Viikon VALO #114
+Title: KDE
+Week: 3x10
+Number: 114
 Date: 2013/03/03
 Pageimage: valo114-kde.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Solaris,Työpöytä

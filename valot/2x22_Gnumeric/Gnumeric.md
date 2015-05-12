@@ -1,5 +1,7 @@
 <!--
-Title: 2x22 Gnumeric - Viikon VALO #74
+Title: Gnumeric
+Week: 2x22
+Number: 74
 Date: 2012/05/27
 Pageimage: valo74-gnumeric.png
 Tags: Linux,Windows,FreeBSD,OpenBSD,NetBSD

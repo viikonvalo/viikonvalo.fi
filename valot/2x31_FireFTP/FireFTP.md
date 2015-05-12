@@ -1,5 +1,7 @@
 <!--
-Title: 2x31 FireFTP - Viikon VALO #83
+Title: FireFTP
+Week: 2x31
+Number: 83
 Date: 2012/07/29
 Pageimage: valo83-fireftp.png
 Tags: Linux,Windows,Mac OS X,Firefox,Tiedostonsiirto

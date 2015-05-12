@@ -1,5 +1,7 @@
 <!--
-Title: 2x44 soRvi - Viikon VALO #96
+Title: soRvi
+Week: 2x44
+Number: 96
 Date: 2012/10/28
 Pageimage: valo96-sorvi.png
 Tags: Linux,Mac OS X,Windows,Tilastot,Avoin data

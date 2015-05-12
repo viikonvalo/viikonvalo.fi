@@ -1,5 +1,7 @@
 <!--
-Title: 4x22 OsmAnd - Viikon VALO #178
+Title: OsmAnd
+Week: 4x22
+Number: 178
 Date: 2014/05/25
 Pageimage: valo178-osmand.png
 Tags: Android,SailfishOS,Kartta,Navigointi

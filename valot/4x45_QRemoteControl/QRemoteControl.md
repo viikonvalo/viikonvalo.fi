@@ -1,5 +1,7 @@
 <!--
-Title: 4x45 QRemoteControl - Viikon VALO #201
+Title: QRemoteControl
+Week: 4x45
+Number: 201
 Date: 2014/11/02
 Pageimage: valo201-qremotecontrol.png
 Tags: Linux,Windows,Mac OS X,Android,SailfishOS,Blackberry,iOS,Meego,Symbian,Multimedia

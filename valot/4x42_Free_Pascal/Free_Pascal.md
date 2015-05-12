@@ -1,5 +1,7 @@
 <!--
-Title: 4x42 Free Pascal - Viikon VALO #198
+Title: Free Pascal
+Week: 4x42
+Number: 198
 Date: 2014/10/12
 Pageimage: valo198-free_pascal.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,DOS,Haiku,iOS,MorphOS,Nintendo DS,Nintendo GBA,Nintendo Wii,OS/2,WinCE,Ohjelmointi

@@ -1,5 +1,7 @@
 <!--
-Title: 4x24 Ylen arkistokuvat - Viikon VALO #180
+Title: Ylen arkistokuvat
+Week: 4x24
+Number: 180
 Date: 2014/06/08
 Pageimage: valo180-ylen_arkistokuvat.png
 Tags: Kaikki alustat,Kuvat,Valokuvat,Aineisto

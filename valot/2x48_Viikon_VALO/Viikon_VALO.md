@@ -1,5 +1,7 @@
 <!--
-Title: 2x48 Viikon VALO - Viikon VALO #100
+Title: Viikon VALO
+Week: 2x48
+Number: 100
 Date: 2012/11/25
 Pageimage: valo100-viikon_valo.png
 Tags: Useita,Materiaali

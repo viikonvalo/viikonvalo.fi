@@ -1,5 +1,7 @@
 <!--
-Title: 4x35 OpenDyslexic - Viikon VALO #191
+Title: OpenDyslexic
+Week: 4x35
+Number: 191
 Date: 2014/08/24
 Pageimage: valo191-opendyslexic.png
 Tags: Kaikki alustat,Fontti,Kirjasintyypit,Aineisto

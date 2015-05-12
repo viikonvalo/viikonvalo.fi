@@ -1,9 +1,11 @@
-/*
-Title: 5x06 Software Carpentry - Viikon VALO #214
+<!--
+Title: Software Carpentry
+Week: 5x06
+Number: 214
 Date: 2015/02/08
 Pageimage: valo214-softwarecarpentry.png
 Tags: Materiaali,Opetus,Tutkimus,Kaikki alustat
-*/
+-->
 **Sofware Carpentry -sivustolla on avointa opetusmateriaalia erityisesti
 tutkijoiden käyttöön sopivista ohjelmistoista.**
 

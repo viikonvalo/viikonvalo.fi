@@ -1,5 +1,7 @@
 <!--
-Title: 4x13 Midori - Viikon VALO #169
+Title: Midori
+Week: 4x13
+Number: 169
 Date: 2014/03/23
 Pageimage: valo169-midori.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Internet,Viestintä,Www-selain

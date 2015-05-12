@@ -1,5 +1,7 @@
 <!--
-Title: 1x22 Translatewiki.net - Viikon VALO #22
+Title: Translatewiki.net
+Week: 1x22
+Number: 22
 Date: 2011/05/29
 Pageimage: valo22-translatewiki.net.png
 Tags: Kaikki alustat,Palvelu,Yhteisö

@@ -1,5 +1,7 @@
 <!--
-Title: 2x10 Blob Wars - Viikon VALO #62
+Title: Blob Wars
+Week: 2x10
+Number: 62
 Date: 2012/03/04
 Pageimage: valo62-blobwars.png
 Tags: AmigaOS,BeOS,FreeBSD,Linux,Mac OS X,NetBSD,OpenBSD,Windows,Peli

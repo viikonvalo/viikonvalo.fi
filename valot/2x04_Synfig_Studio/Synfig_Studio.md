@@ -1,5 +1,7 @@
 <!--
-Title: 2x04 Synfig Studio - Viikon VALO #56
+Title: Synfig Studio
+Week: 2x04
+Number: 56
 Date: 2012/01/22
 Pageimage: valo56-synfigstudio.png
 Tags: Linux,Windows,Mac OS X,Video,Animaatio

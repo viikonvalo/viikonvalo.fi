@@ -1,5 +1,7 @@
 <!--
-Title: 2x43 Sozi - Viikon VALO #95
+Title: Sozi
+Week: 2x43
+Number: 95
 Date: 2012/10/21
 Pageimage: valo95-sozi.png
 Tags: Linux,Windows,Mac OS X,FreeBSD,OpenBSD,NetBSD,Esitys,Toimisto,Opetus
