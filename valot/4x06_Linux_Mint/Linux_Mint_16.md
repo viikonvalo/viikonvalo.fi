@@ -1,5 +1,5 @@
 <!--
-Title: Linux Mint
+Title: Linux Mint 16
 Week: 4x06
 Number: 162
 Date: 2014/02/02

@@ -1,5 +1,5 @@
 <!--
-Title: Mediawiki
+Title: MediaWiki
 Week: 1x19
 Number: 19
 Date: 2011/05/08

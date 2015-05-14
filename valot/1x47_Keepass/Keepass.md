@@ -1,5 +1,5 @@
 <!--
-Title: Keepass
+Title: KeePass / KeePassX
 Week: 1x47
 Number: 47
 Date: 2011/11/20
