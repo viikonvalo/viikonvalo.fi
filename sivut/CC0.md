@@ -1,7 +1,7 @@
-/*
+<!--
 Title: CC0
 Tags: Lisenssi
-*/
+-->
 
 <div class="rightimage" markdown="1">
 [![](http://creativecommons.org/images/deed/nolaw.png)](http://creativecommons.org/images/deed/nolaw.png)

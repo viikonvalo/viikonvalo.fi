@@ -1,7 +1,7 @@
-/*
+<!--
 Title: GNU GPL
 Tags: Lisenssi
-*/
+-->
 <div class="rightimage" markdown="1">
 ![](images/heckert_gnu.small.png "fig:heckert_gnu.small.png")
 </div>

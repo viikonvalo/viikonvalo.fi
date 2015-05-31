@@ -1,7 +1,7 @@
-/*
+<!--
 Title: Lukuvalosivulista
 Lukuvalo: true
-*/
+-->
 
 Jack London, 1904
 :   Merisusi

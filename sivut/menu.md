@@ -1,6 +1,6 @@
-/*
+<!--
 Title: Lisää tietoa
-*/
+-->
 
 - [Kysymyksiä ja vastauksia]
 - [Linkitä Viikon VALOon]

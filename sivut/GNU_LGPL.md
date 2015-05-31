@@ -1,7 +1,7 @@
-/*
+<!--
 Title: GNU LGPL
 Tags: Lisenssi
-*/
+-->
 
 ![](heckert_gnu.small.png "fig:heckert_gnu.small.png") [GNU Lesser
 General Public License](http://www.gnu.org/licenses/lgpl.html) on

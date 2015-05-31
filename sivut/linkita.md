@@ -1,7 +1,7 @@
-/*
+<!--
 Title: Linkitä Viikon VALOon
 Menuitem: Linkitä Viikon VALOon
-*/
+-->
 Voit auttaa meitä linkittämällä sivustollemme blogissasi, kotisivullasi tai vaikka sähköpostisi signaturessa. Linkittämiseen voit halutessasi käyttää alla olevia bannereita.
 
 Sivuston kävijämääriä voi seurata [oindex.fi]-palvelusta.

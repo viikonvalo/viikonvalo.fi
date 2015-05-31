@@ -1,6 +1,6 @@
-/*
+<!--
 Title: Lukuvalo
-*/
+-->
 
 <div class="rightimage" markdown="1">
 ![](images/lukuvalo-iso.png "fig:lukuvalo-iso.png")
