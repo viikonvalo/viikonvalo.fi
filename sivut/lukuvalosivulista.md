@@ -3,6 +3,11 @@ Title: Lukuvalosivulista
 Lukuvalo: true
 -->
 
+Daniel Defoe, 1719
+:   Robinson Crusoe
+:   [e-kirja suomeksi](http://www.gutenberg.org/ebooks/48387)
+:   [kirja Wikipediassa](https://fi.wikipedia.org/wiki/Robinson_Crusoe)
+
 Jack London, 1904
 :   Merisusi
 :   [e-kirja suomeksi](http://www.gutenberg.org/ebooks/48489)
