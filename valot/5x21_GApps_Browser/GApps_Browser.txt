@@ -1,0 +1,41 @@
+{{CC-by}}
+'''GApps Browser on webkäyttöliittymiä hyödyntävä hiekkalaatikko Googlen tarjoamille palveluille.'''
+
+[[Image:valo229-gapps_browser.png|left]]
+Googlen palvelut toimivat hyvin mobiililaitteiden selaimilla, mutta tietoturvastaan tarkkaa käyttäjää voi häiritä Googlen mahdollisuus seurata palveluunsa sisään kirjautuneen käyttäjän muuta selauskäyttäytymistä muilla sivustoilla, jotka käyttävät sivuillaan Googlen palveluita. Tämän voi välttää käyttämällä erillisiä sovelluksia Googlen palveluiden käyttöön, jolloin selaimen ei tarvitse olla kirjautuneena Googlen tunnuksilla. Tällöin kuitenkin sovelluksilla on usein suora pääsy puhelimen muihin tietoihin, kuten yhteystietoihin ja kalenteriin. GApps Browser on erillinen sovellus, jonka tarkoituksena on toimia Googlen palveluita käyttävänä selaimena, jolloin muuhun selailuun voidaan käyttää jotain muuta selainta. Käyttäjän kannattaa kuitenkin muistaa, että Android-alusta itsessään on Googlen hallinnassa ja vaatii Google-tilille kirjautumisen Play-kaupan ja muiden palveluiden käyttöön. Siksi GApps Browser onkin hyödyllinen erityisesti "Google-vapaiden", Android Open Source Projektiin ([http://source.android.com/ AOSP]) perustuvien, Android-versioiden, kuten [http://www.cyanogenmod.org/ CyanogenModin] tai [http://www.replicant.us/ Replicantin] käyttäjille, jotka haluavat käyttää Googlen palveluita turvallisemmin. GApps Browser tuo Googlen palvelut helposti käytettäviksi myös Jollan SailfishOS:n käyttäjille.
+
+GApps Browseria käyttämällä käyttäjä voi olla sovelluksessa kirjautuneena Google-tililleen ja sovellus muistaa sen käynnistysten välillä. Näin sen käyttö on helpompaa kuin varsinaisen selaimen käyttö, jos haluaa pitää muun verkkoselailunsa omana tietonaan. Googlen palveluita sovellus käyttää https-protokollalla ja käyttäjä voi halutessaan kieltää sovellusta lataamasta kuvia ja skriptejä muualta kuin Googlen sivustoilta. Googlen palveluista ulos viittaavat linkit avataan tavallisella selaimella. Ohjelmaa asennettaessa se vaatii oikeudet vain verkkoyhteyden käyttämiseen, eli sillä ei ole pääsyä laitteen tietoihin.
+
+Koska sovellus ei tee taustalla synkronointia sekä muuta toimintaa, se on tyypillisesti kevyempi ja käyttää vähemmän verkkokaistaa kuin palveluiden natiivisovellukset, esimerkiksi Google+. Tämän vuoksi se todennäköisesti kuluttaa myös vähemmän akkua.
+
+GApps Browseria vastaava sovellus Facebookin käyttöön on [[Tinfoil for Facebook]].
+
+;Kotisivu
+:https://github.com/tobykurien/GoogleApps
+:[https://play.google.com/store/apps/details?id=com.tobykurien.google_news Ohjelma Google Playssa]
+:[https://f-droid.org/repository/browse/?fdfilter=gapps&fdid=com.tobykurien.google_news Ohjelma F-Droid-palvelussa]
+;Lisenssi
+:[[MIT]]
+;Toimii seuraavilla alustoilla
+:Android, SailfishOS
+;Asennus
+:Ohjelman voi ladata Googlen [https://play.google.com/store/apps/details?id=com.tobykurien.google_news Play-kaupasta] tai [[F-Droid]]illa.
+
+<gallery>
+Image:gapps_browser-1.jpg|Sovelluksen voi asentaa F-Droidilla.
+Image:gapps_browser-2.jpg|Sovelluksen asennussivu F-Droidissa.
+Image:gapps_browser-3.jpg|Sovellus vaatii oikeudet vain verkkoyhteyden käyttöön.
+Image:gapps_browser-4.jpg|Googlen News-palvelu
+Image:gapps_browser-5.jpg|Google+ sisään kirjautumattomana
+Image:gapps_browser-6.jpg|Google+ kirjautuneena
+Image:gapps_browser-7.jpg|Asetukset
+Image:gapps_browser-8.jpg|Valittavissa käytettävät Googlen palvelut
+Image:gapps_browser-9.jpg|Gmailin webnäkymä sovelluksessa
+Image:gapps_browser-10.jpg|Google Maps
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]

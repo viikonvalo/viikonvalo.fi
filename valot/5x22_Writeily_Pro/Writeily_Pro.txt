@@ -1,0 +1,40 @@
+{{CC-by}}
+'''Writeily Pro on Markdown-muotoiluja hyödyntävä muistiinpanosovellus Android-ympäristöön.'''
+
+[[Image:valoX-X.png|left]]
+Writeily Prolla voi kirjoittaa tekstimuotoisia muistiinpanoja Andoid-laitteella käyttäen [https://en.wikipedia.org/wiki/Markdown Markdown]-muotoiluja. Muotoiluina voi käyttää ainakin eri tasoisia otsikoita, numeroituja ja numeroimattomia luetteloita, sisäkkäisiä luetteloita, lainauksia, lihavointeja sekä kursivointeja. Tekstiin voi lisätä myös hyperlinkkejä www-sivuille.
+
+Sovelluksella voi luoda uusia tekstitiedostoja, muokata niitä ja tarkastella niitä lukutilassa. Ohjelmassa voi luoda myös kansioita, joilla muistiinpanoja saa pidettyä järjestyksessä. Lukutilassa näkyvän muistiinpanon voi lähettää sovelluksesta muualle muutamassa eri muodossa. Pelkkänä tekstinä sen voi lähettää vaikka sähköpostilla, johon Markdown-muotoilu sopii varsin hyvin. Sisällön voi lähettää tai tallentaa myös HTML-muodossa tai kuvana.
+
+Muokkaustilalle voi valita asetuksista päälle syntaksinkorostuksen. Sovellukselle voi myös asettaa salasanalukituksen, jolloin sen voi avata vain salasanan antamalla. Jos salasanaa haluaa käyttää, kannattaa kuitenkin muistaa, että kaikki muistiinpanot on tallennettu selväkielisinä tiedostoina laitteeseen ja niitä on mahdollista lukea ja muokata jollain muulla ohjelmalla. Suojaus on siis vain hyvin pinnallinen.
+
+;Kotisivu
+:http://writeily.me/
+:[https://play.google.com/store/apps/details?id=me.writeily Google Play]
+:[https://f-droid.org/repository/browse/?fdfilter=writeily+pro&fdid=me.writeily F-Droid]
+:[https://github.com/plafue/writeily-pro Lähdekoodi (Github)]
+;Twitter
+:[https://twitter.com/writeily @writeily]
+;Lisenssi
+:[http://opensource.org/licenses/MIT MIT]
+;Toimii seuraavilla alustoilla
+:Android, SailfishOS
+;Asennus
+:Ohjelma on asennettavissa Googlen Play-kaupasta sekä [[F-Droid]]-sovelluksella.
+
+<gallery>
+Image:writeily_pro-1.jpg|Lista muistiinpanoista.
+Image:writeily_pro-2.jpg|Muokkaustilassa käytetään Markdown-merkintöjä.
+Image:writeily_pro-3.jpg|Lukutilassa Markdown-merkinnät näytetään otsikkoina, luetteloina ja niin edelleen.
+Image:writeily_pro-4.jpg|Jaa-toiminnolla tiedoston voi lähettää tai tallentaa eri keinoin erilaisissa muodoissa.
+Image:writeily_pro-5.jpg|Muokkausta tabletilla
+Image:writeily_pro-6.jpg|Tiedoston lähetys puhtaana Markdown-tekstinä sähköpostissa.
+Image:writeily_pro-7.jpg|Asetukset
+Image:writeily_pro-8.jpg|Muistiinpanoille voi luoda kansioita niiden järjestelmemiseksi.
+</gallery> 
+
+''Teksti: Pesasa''<br />
+''Kuvakaappaukset: Pesasa''
+
+[[Luokka:Projektit]]
+[[Luokka:Viikon VALO]]
