@@ -23,6 +23,7 @@ Lisenssinantaja ei voi peruuttaa näitä oikeuksia niin kauan kuin noudatat lise
 Projektiin osallistuminen
 -------------------------
 Projektiin voi osallistua monella tapaa:
+
 1.  **Ehdottamalla ohjelmaa** Viikon VALOksi  
     Voit lisätä VALO-toiveesi GitHubiin uutena issuena. Kirjoita issuen otsikoksi ohjelman
     tai esiteltävän projektin nimi, tekstisisältöön pieni kuvaus ohjelmasta sekä mielellään
