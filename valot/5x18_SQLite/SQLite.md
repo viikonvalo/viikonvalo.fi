@@ -45,7 +45,7 @@ SQLiten mukana tulee komentorivikäyttöliittymä, jolla SQLite-tiedostoa
 voidaan ylläpitää ja siihen voidaan tehdä kyselyitä. Lisäksi
 SQLite-tiedostoja voi luoda, tarkastella ja ylläpitää useilla
 erilaisilla graafisilla käyttöliittymillä, kuten
-[SQLiteBrowser](SQLiteBrowser) (DB Browser for SQLite) ja
+[SQLiteBrowser](DB_Browser_for_SQLite) (DB Browser for SQLite) ja
 [Sqliteman](http://sqliteman.yarpen.cz/). Myös
 [Calligra\_Suiten](Calligra_Suite) Kexi-tietokantaohjelma
 käyttää omana tiedostomuotonaan SQLite-tiedostoja, joihin on lisätty
