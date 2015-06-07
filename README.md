@@ -27,7 +27,7 @@ Projektiin voi osallistua monella tapaa:
 1.  **Ehdottamalla ohjelmaa** Viikon VALOksi  
     Voit lisätä VALO-toiveesi GitHubiin uutena issuena. Kirjoita issuen otsikoksi ohjelman
     tai esiteltävän projektin nimi, tekstisisältöön pieni kuvaus ohjelmasta sekä mielellään
-    linkki ohjelman tai projektin kotisivulle. Lisää issueen vielä *"VALO-toive"*-leima.
+    linkki ohjelman tai projektin kotisivulle.
     Voit myös esittää toiveen esiteltävästä viikosta, jos jokin viikko on mielestäsi erityisen sopiva.
 2.  **Kirjoittamalla** VALOlle esittely  
     Esittelyitä voi kirjoittaa useammalla tavalla:
