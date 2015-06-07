@@ -25,7 +25,7 @@ kirjoituksen julkaisemisessa webbisivuna tai LaTeX-tiedostona. Org-moden
 ominaisuuksia voi lisäksi käyttää tavanomaisessa kirjoittamisessaan
 tekstin työstämisen tukena.
 <div class="rightimage" markdown="1">
-![](images/Org-mode-organize.png "fig:Org-mode-organize.png")
+![](images/Org-mode_organize.png "fig:Org-mode_organize.png")
 </div>
 
 Tiedosto tallennetaan tavallisena
