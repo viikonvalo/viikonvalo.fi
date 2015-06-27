@@ -18,6 +18,8 @@ Kommentointitoiminto sisältää useita työkaluja, joita ovat ponnahdusmuistiin
 
 KDE-sovellusten tapaan Okular antaa käyttäjälle mahdollisuuden vaikuttaa asetuksilla monipuolisesti sovelluksen toimintaan. Oletusasetukset ovat varsin järkevät, eikä niihin yleensä tarvitse puuttua, mutta käyttäjän niin halutessa tämä on mahdollista. Esimerkiksi PDF-tiedostoissa voi olla sisäänrakennettuna DRM-rajoituksia muun muassa tulostukseen, mutta Okularin asetuksista käyttäjä voi valita, noudattaako Okular näitä rajoituksia.
 
+Okular sisältää myös joitain toimintoja esteettömyyden parantamiseksi. Asetuksista voi valita tiedostossa olevien hyperlinkkien selkeämmän korostuksen sekä oletuksesta poikkeavat värit. Lisäksi ohjelmalla katseltavan tekstin voi ohjata puhesyntetisaattorille luettavaksi, jos sellainen on asennettu järjestelmään.
+
 Ohjelma on saatavilla erityisesti Linux- ja *BSD-alustoille. Myös Windows- ja Mac OS X -alustoille on jonkinlaiset versiot saatavilla, mutta niiden asentaminen ei ole välttämättä yhtä suoraviivaista.
 
 Kotisivu
@@ -31,6 +33,9 @@ Toimii seuraavilla alustoilla
 
 Asennus
 :   Linux- ja *BSD-alustoille ohjelma on asennettavissa niiden omasta paketinhallintajärjestelmästä.
+
+Muita vastaavia ohjelmia
+:   [Evince](Evince)
 
 <div class="psgallery" markdown="1">
 -   [Linux Voice -lehden PDF-versio avattuna Okularilla.](images/okular-1.jpg)
