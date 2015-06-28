@@ -7,8 +7,8 @@ Viikon VALO -projekti esittelee viikottain jonkin vapaan avoimen lähdekoodin oh
 
 Lisenssi
 --------
-Esittelyiden lisenssinä on mahdollisimman laajan uudellleenkäytettävyyden takaamiseksi
-pääsääntöisesi [CC-by], ellei artikkelissa ole toisin mainittu. Esimerkiksi osassa
+Esittelyiden lisenssinä on mahdollisimman laajan uudelleenkäytettävyyden takaamiseksi
+pääsääntöisesti [CC-by], ellei artikkelissa ole toisin mainittu. Esimerkiksi osassa
 kuvituksista saattaa olla käytössä jokin toinen lisenssi, joka on mainittu artikkelin yhteydessä.
 
 CC-by-lisenssi, eli Creative Commons Nimeä 4.0, tarkoittaa, että voit vapaasti:
