@@ -3,7 +3,7 @@ Viikon VALO
 
 [Viikonvalo.fi]-sivuston materiaali.
 
-Viikon VALO -projekti esittelee viikottain jonkin vapaan avoimen lähdekoodin ohjelman (VALOn), vapaan materiaalilähteen taikka muun näihin läheisesti liittyvän asian. Projekti alkoi vuoden 2011 alussa.
+Viikon VALO -projekti esittelee viikoittain jonkin vapaan avoimen lähdekoodin ohjelman (VALOn), vapaan materiaalilähteen taikka muun näihin läheisesti liittyvän asian. Projekti alkoi vuoden 2011 alussa.
 
 Lisenssi
 --------

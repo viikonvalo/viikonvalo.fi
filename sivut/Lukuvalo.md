@@ -26,6 +26,13 @@ Lukuvihjeet
   -   In Praise of Folly (Suomeksi tyhmyyden ylistys)
   -   [e-kirja englanniksi](http://www.gutenberg.org/ebooks/30201)
   -   [kirjasta Wikipediassa](https://fi.wikipedia.org/wiki/Tyhmyyden_ylistys)
+- Lewis Carrol, 1876
+  - Hunting of the Snark
+  - [e-kirja englanniksi](http://www.gutenberg.org/ebooks/13)
+  - [kirja Wikipediassa](https://fi.wikipedia.org/wiki/Kraukijahti)
+- Open Source Summer Reading List, 2015
+  - Ehdotus kesälukemiseksi vapaakoodista kiinnostuneille. Vain osa luettelon kirjoista on vapaita, muut on ostettavia e-kirjoja tai painettuja kirjoja. 
+  - [Ehdotukset webbisivulla](http://opensource.com/life/15/6/2015-summer-reading-list) 
 - Daniel Defoe, 1719
   -   Robinson Crusoe
   -   [e-kirja suomeksi](http://www.gutenberg.org/ebooks/48387)
