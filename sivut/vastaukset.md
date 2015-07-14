@@ -40,13 +40,13 @@ Sivustoa ylläpitävät yksityiset ihmiset, jotka haluavat edistää tietoisuutt
 
 Toimintaa tukevat muun muassa:
 
-- [Linux-Aktivaattori ry][L-A] sekä sen työryhmät
-    - [Turuxi][Turuxi] (Turku)
-    - [Porixi][Porixi] (Pori)
+- [Turuxi][Turuxi] (Turku)
+- [Porixi][Porixi] (Pori)
 
-Läheisesti sivustoon liittyy myös [VALO-CD-projekti][VALO-CD], joka jakelee suurta osaa tälläkin sivustolla esitellyistä ohjelmista CD-levyn muodossa.
+Aiemmin sivuston ylläpidossa oli mukana nyt jo lopetettu yhdistys Linux-Aktivaattori ry.
 
-[![Linux-Aktivaattori ry](images/l-a-logo.png "L-A")][L-A]
+Läheisesti sivustoon liittyy myös [VALO-CD-projekti][VALO-CD], joka jakelee osaa tälläkin sivustolla esitellyistä ohjelmista CD-levyn muodossa.
+
 [![Turuxi](images/turuxi-logo.png "Turuxi")][Turuxi]
 [![Porixi](images/Porixi-logo.png "Porixi")][Porixi]
 [![VALO-CD](http://www.valo-cd.fi/img/valo-160x60.gif "VALO-CD")][VALO-CD]
@@ -60,30 +60,27 @@ Voinko osallistua jotenkin?
 - **Seuraa** sivustolla julkaistavia viikon VALOja ja **kerro** niistä
   kavereilleisi. Nämä onnistuvat helposti vaikka sosiaalisen median,
   kuten [Facebookin][Facebook] ja [Twitterin][Twitter], kautta.
-  Sivustolta löytyy *tykkää*-nappi,
-  jota painamalla voit seurata uusia julkaisuja ja jokaisen artikkelin
-  alta löytyy *jaa*-nappulat muutamalle yleisimmälle sosiaaliselle medialle. Pidä ystäväsi informoituina!
-- Voit osallistua **sisällön tuottamiseen** osoitteessa
-  [http://www.l-a.fi/Projektit/Viikon_VALO][L-A-valo]. Osoitteesta
-  löytyy wiki, jossa täällä julkaistavat esittelyt työstetään. Siellä
-  voi:
-    -    **Ehdottaa ohjelmaa** Viikon VALOksi lisäämällä sen nimen listaan.
-    -    **Ehdottaa sopivaa viikkoa** ohjelman julkaisemiselle.
-    -    Tallentaa wikiin ohjelmien **kuvakaappauksia**.
-    -    **Kirjoittaa ohjelmalle esittelyn**
+  Jokaisen artikkelin lopusta löytyvät *jaa*-nappulat muutamalle yleisimmälle
+  sosiaaliselle medialle. Pidä ystäväsi informoituina!
+- Voit osallistua **sisällön tuottamiseen** [Githubissa][Github].
+  Siellä voi:
+    -    **Ehdottaa ohjelmaa** Viikon VALOksi lisäämällä "*issuen*".
+    -    **Kirjoittaa ohjelmalle esittelyn** (tarkemmat ohjeet Githubissa)
     -    **Oikolukea** ja **korjata** kirjoitus- sekä muita virheitä esittelyteksteistä.
 
 <a id="kayta"></a>
 Saako näitä esittelytekstejä ja kuvakaappauksia käyttää muualla?
 ----------------------------------------------------------------
 
-Kyllä! Tekstit ja kuvat on lisensoitu
-[Creative Commons Nimeä - Tarttuva 4.0 Suomi][CC-by-sa-4fi]
--lisenssillä. Tämä tarkoittaa lyhyesti, että niitä voi käyttää, myös
-muokattuina, kunhan mainitsee alkuperäisen tekijän ja julkaisee
-johdetun tuotoksen samalla lisenssillä. Jos haluat käyttää aineistoa,
-mutta jäi jotain kysyttävää, yhteyttä voi ottaa osoitteeseen info (at)
-viikonvalo.fi .
+Kyllä! Tekstit ja kuvat on pääsääntöisesti lisensoitu
+[Creative Commons Nimeä - Tarttuva 4.0 Suomi][CC-by-sa-4fi] -lisenssillä.
+Poikkeukset tästä on ilmoitettu erikseen. Tämä CC-BY-SA -lisenssi tarkoittaa lyhyesti,
+että niitä voi käyttää, myös muokattuina, kunhan mainitsee alkuperäisen
+tekijän ja julkaisee johdetun tuotoksen samalla lisenssillä.
+Jos haluat käyttää aineistoa, mutta jäi jotain kysyttävää, yhteyttä
+voi ottaa osoitteeseen info (at) viikonvalo.fi .
+
+Kuvat ja tekstit raakaversioina löytyvät [Viikon VALOn Github-varastosta][Github].
 
 <a id="kuvitus"></a>
 Mistä sivuston muu kuvitus on peräisin? Voiko sitä saada käyttöön jostain?
@@ -105,8 +102,8 @@ viereisen kuvan [punatulkku](http://www.openclipart.org/detail/103141).
 Paljonko sivustolla on kävijöitä?
 ---------------------------------
 
-Kuvaajaa viikottaisen kävijämäärän kehityksestä voi käydä katsomassa
-[oindex.fi-palvelusta][oindex].
+Yksittäisten sivujen alareunasta näkee kyseisen sivun latauskertojen määrän. Tällä hetkellä
+sivusto ei seuraa käyttäjiään muilla keinoin.
 
 
 
@@ -119,6 +116,7 @@ Kuvaajaa viikottaisen kävijämäärän kehityksestä voi käydä katsomassa
 [Facebook]:     http://www.facebook.com/viikonvalo
 [Twitter]:      http://twitter.com/viikonvalo
 [L-A-valo]:     http://www.l-a.fi/Projektit/Viikon_VALO
+[Github]:       https://github.com/viikonvalo/viikonvalo.fi
 [CC-by-sa-4fi]: http://creativecommons.org/licenses/by-sa/4.0/deed.fi
 [OCAL]:         http://openclipart.org/
 [CC0]:          http://creativecommons.org/publicdomain/zero/1.0/
