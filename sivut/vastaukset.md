@@ -64,9 +64,9 @@ Voinko osallistua jotenkin?
   sosiaaliselle medialle. Pidä ystäväsi informoituina!
 - Voit osallistua **sisällön tuottamiseen** [Githubissa][Github].
   Siellä voi:
-    -    **Ehdottaa ohjelmaa** Viikon VALOksi lisäämällä "*issuen*".
-    -    **Kirjoittaa ohjelmalle esittelyn** (tarkemmat ohjeet Githubissa)
-    -    **Oikolukea** ja **korjata** kirjoitus- sekä muita virheitä esittelyteksteistä.
+   -    **Ehdottaa ohjelmaa** Viikon VALOksi lisäämällä "*issuen*".
+   -    **Kirjoittaa ohjelmalle esittelyn** (tarkemmat ohjeet Githubissa)
+   -    **Oikolukea** ja **korjata** kirjoitus- sekä muita virheitä esittelyteksteistä.
 
 <a id="kayta"></a>
 Saako näitä esittelytekstejä ja kuvakaappauksia käyttää muualla?
