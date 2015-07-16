@@ -2,7 +2,7 @@
 Title: Nettiradio
 Week: 5x27
 Number: 235
-Date: 2015/07/14
+Date: 2015/07/14 20:00
 Pageimage: valo235-nettiradio.png
 Tags: SailfishOS,Musiikki,Audio
 -->

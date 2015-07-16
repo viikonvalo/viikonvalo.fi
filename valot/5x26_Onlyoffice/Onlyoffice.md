@@ -2,7 +2,7 @@
 Title: Onlyoffice
 Week: 5x26
 Number: 234
-Date: 2015/07/14
+Date: 2015/07/14 12:00
 Pageimage: valo234-onlyoffice.png
 Tags: Linux,Windows,Toimisto,Tekstinkäsittely,Taulukkolaskenta,Esitys
 -->
