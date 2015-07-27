@@ -39,7 +39,7 @@ Suunnitelmissa oli myös julkaista
 [Hurd-versio](http://www.debian.org/ports/hurd/), mutta se lienee vielä
 liian keskeneräinen.
 
-Edellisen julkaisun [Debian Squeeze](Debian_GNU/Linux)
+Edellisen julkaisun [Debian Squeeze](Debian_GNU_Linux)
 helmikuulta 2011 jälkeen on tullut yli 12800 uutta ohjelmapakettia.
 Ohjelmapaketteja on nyt yli 37000. Lisäksi yli puolet ohjelmapaketeista
 on saanut uuden version Squeezen jälkeen. Yli 4000 pakettia on poistettu
