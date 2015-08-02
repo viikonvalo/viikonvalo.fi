@@ -3,6 +3,11 @@ Title: Lukuvalosivulista
 Lukuvalo: true
 -->
 
+Leo Tolstoi, 1875-1877
+: Anna Karenina
+: [e-kirja suomeksi](http://www.gutenberg.org/ebooks/49487)
+: [kirja Wikipediassa](https://fi.wikipedia.org/wiki/Anna_Karenina)
+
 Open Source Summer Reading List, 2015
 :   Ehdotus kesälukemiseksi vapaakoodista kiinnostuneille. Vain osa
     luettelon kirjoista on vapaita, muut on ostettavia e-kirjoja tai
@@ -50,12 +55,6 @@ Edwin Abbott Abbott, 1884:
 :    Flatland (Suomennettu nimellä Tasomaa)
 :    [e-kirja englanniksi](http://www.gutenberg.org/ebooks/201)
 :    [Artikkeli Wikipediassa](https://fi.wikipedia.org/wiki/Tasomaa)
-
-Churchill, 1940:
-:    Radiopuheet taistelun Ranskasta aikana
-:    [Tekstinä](http://www.winstonchurchill.org/learn/speeches/speeches-of-winston-churchill)
-:    [Äänitteinä](http://www.fiftiesweb.com/great-speeches.htm)
-:    [Wikipediassa](https://en.wikipedia.org/wiki/We_shall_fight_on_the_beaches)
 
 
 [Lisää poimintoja...](./Lukuvalo)
