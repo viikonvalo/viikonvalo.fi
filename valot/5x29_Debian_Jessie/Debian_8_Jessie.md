@@ -37,6 +37,7 @@ Nämä ovat tyypillisesti kokoelma metapaketteja, jotka asentamalla käyttäjä 
 tiettyyn käyttöön soveltuvia ohjelmistoja käyttövalmiilla asetuksilla. Osasta Debian Pure Blendejä voi olla tarjolla
 oma asennuslevynsä. Toisaalta ne on mahdollista asentaa täysin tavalliseen Debian-asennukseen asentamalla vain
 tarvittavat metapaketit. Debian 8:n julkaisumuistiossa mainittuja Blendejä ovat:
+
 -   [Debian Games Blend](http://blends.debian.org/games/tasks/) (pelikäyttöön),
 -   [Debian Med Blend](http://blends.debian.org/med/tasks/) (lääketieteelliseen käyttöön),
 -   [Debian Science Blend](http://blends.debian.org/science/tasks/) (tieteellisen tutkimuksen käyttöön),
