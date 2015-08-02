@@ -30,6 +30,10 @@ Lukuvihjeet
   - Hunting of the Snark
   - [e-kirja englanniksi](http://www.gutenberg.org/ebooks/13)
   - [kirja Wikipediassa](https://fi.wikipedia.org/wiki/Kraukijahti)
+- Leo Tolstoi, 1875-1877
+  - Anna Karenina
+  - [e-kirja suomeksi](http://www.gutenberg.org/ebooks/49487)
+  - [kirja Wikipediassa](https://fi.wikipedia.org/wiki/Anna_Karenina)
 - Open Source Summer Reading List, 2015
   - Ehdotus kesälukemiseksi vapaakoodista kiinnostuneille. Vain osa luettelon kirjoista on vapaita, muut on ostettavia e-kirjoja tai painettuja kirjoja. 
   - [Ehdotukset webbisivulla](http://opensource.com/life/15/6/2015-summer-reading-list) 
