@@ -1,5 +1,5 @@
 <!--
-Title: Debian Jessie
+Title: Debian 8 Jessie
 Week: 5x29
 Number: 237
 Date: 2015/07/27
@@ -19,9 +19,9 @@ Debian 8:n myötä tuettujen laitteistoarkkitehtuurien lista muuttuu hieman. Uud
 tulee muun muassa 64-bittinen ARM-prosessori. Joitain harvinaisempia laitteistoja puolestaan poistuu tuettujen listalta.
 Tarkempi luettelo löytyy [julkaisumuistiosta](https://www.debian.org/releases/stable/amd64/release-notes/ch-whats-new.en.html).
 
-Kuten aiemminkin, Debian vältää ottamasta kantaa työpöytäympäristöjen valintaan ja antaa käyttäjän itse valita suosikkiympäristönsä
+Kuten aiemminkin, Debian välttää ottamasta kantaa työpöytäympäristöjen valintaan ja antaa käyttäjän itse valita suosikkiympäristönsä
 asennuksen yhteydessä. Valittavina työpöydiksi ovat Gnome, KDE, Xfce, LXDE, Cinnamon ja MATE, joista käyttäjä voi valita yhden tai
-useamman. Näistä mukana on luonnollisesti aiempaa uudemmat versiot. KDE:n Plasma-työpöydästä tarjolla ei kuitenkaan ole vielä
+useamman. Näistä mukana ovat luonnollisesti aiempaa uudemmat versiot. KDE:n Plasma-työpöydästä tarjolla ei kuitenkaan ole vielä
 ohjelmiston 5.x versiota vaan 4.11.
 
 Yksi tärkeimmistä ja eniten etukäteen huomiota herättäneistä muutoksista tässä julkaisussa on se, että
@@ -40,7 +40,7 @@ tarvittavat metapaketit. Debian 8:n julkaisumuistiossa mainittuja Blendejä ovat
 -   [Debian Games Blend](http://blends.debian.org/games/tasks/) (pelikäyttöön),
 -   [Debian Med Blend](http://blends.debian.org/med/tasks/) (lääketieteelliseen käyttöön),
 -   [Debian Science Blend](http://blends.debian.org/science/tasks/) (tieteellisen tutkimuksen käyttöön),
--   [Debian Geographical Information Systems Blend](http://blends.debian.org/gis/tasks/) (maantieteelliseen käyttöön)
+-   [Debian Geographical Information Systems Blend](http://blends.debian.org/gis/tasks/) (paikkatietojärjestelmiin)
 
 Kotisivu
 :   <https://www.debian.org>
