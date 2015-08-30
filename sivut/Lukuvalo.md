@@ -22,6 +22,11 @@ Myös näiden projektien toimintaan on mahdollista osallistua.
 
 Lukuvihjeet
 -----------
+- Karl Marx, 1867
+  - Capital, Volume I
+  - [e-kirja saksaksi](https://archive.org/details/KarlMarxDasKapitalpdf)
+  - [e-kirja englanniksi](https://www.marxists.org/archive/marx/works/1867-c1/index.htm)
+  - [kirjasta Wikipediassa](https://fi.wikipedia.org/wiki/P%C3%A4%C3%A4oma_(Marx))
 - Erasmus Rotterdamilainen, 1509
   -   In Praise of Folly (Suomeksi tyhmyyden ylistys)
   -   [e-kirja englanniksi](http://www.gutenberg.org/ebooks/30201)
