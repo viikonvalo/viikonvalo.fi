@@ -3,6 +3,11 @@ Title: Lukuvalosivulista
 Lukuvalo: true
 -->
 
+Lewis Carrol, 1876
+: Hunting of the Snark
+: [e-kirja englanniksi](http://www.gutenberg.org/ebooks/13)
+: [kirja Wikipediassa](https://fi.wikipedia.org/wiki/Kraukijahti)
+
 Leo Tolstoi, 1875-1877
 : Anna Karenina
 : [e-kirja suomeksi](http://www.gutenberg.org/ebooks/49487)
@@ -50,11 +55,5 @@ Arthur Conan Doyle, 1907:
 :    Toisen tahran tarina
 :    [e-kirja suomeksi](http://www.gutenberg.org/ebooks/45335)
 :    [Artikkeli wikipediassa](https://fi.wikipedia.org/wiki/Toinen_tahra)
-
-Edwin Abbott Abbott, 1884:
-:    Flatland (Suomennettu nimellä Tasomaa)
-:    [e-kirja englanniksi](http://www.gutenberg.org/ebooks/201)
-:    [Artikkeli Wikipediassa](https://fi.wikipedia.org/wiki/Tasomaa)
-
 
 [Lisää poimintoja...](./Lukuvalo)
