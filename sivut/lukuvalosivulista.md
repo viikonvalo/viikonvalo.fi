@@ -3,6 +3,11 @@ Title: Lukuvalosivulista
 Lukuvalo: true
 -->
 
+Erasmus Rotterdamilainen, 1509
+: In Praise of Folly (Suomeksi tyhmyyden ylistys)
+: [e-kirja englanniksi](http://www.gutenberg.org/ebooks/30201)
+: [kirjasta Wikipediassa](https://fi.wikipedia.org/wiki/Tyhmyyden_ylistys)
+
 Lewis Carrol, 1876
 : Hunting of the Snark
 : [e-kirja englanniksi](http://www.gutenberg.org/ebooks/13)
@@ -50,10 +55,5 @@ Dante Alighieri, 1321:
 :    Jumalainen näytelmä
 :    [e-kirja suomeksi](https://www.gutenberg.org/ebooks/12546)
 :    [teos Wikipediassa](https://fi.wikipedia.org/wiki/Jumalainen_n%C3%A4ytelm%C3%A4)
-
-Arthur Conan Doyle, 1907:
-:    Toisen tahran tarina
-:    [e-kirja suomeksi](http://www.gutenberg.org/ebooks/45335)
-:    [Artikkeli wikipediassa](https://fi.wikipedia.org/wiki/Toinen_tahra)
 
 [Lisää poimintoja...](./Lukuvalo)
