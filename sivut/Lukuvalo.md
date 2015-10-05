@@ -22,6 +22,12 @@ Myös näiden projektien toimintaan on mahdollista osallistua.
 
 Lukuvihjeet
 -----------
+- P. G. Wodehouse, 1921
+  - Indescretions of Archie
+  - [e-kirja englanniksi](http://www.gutenberg.org/ebooks/3756)
+  - [äänikirja englanniksi](https://librivox.org/indiscretions-of-archie-by-p-g-wodehouse/)
+  - [Tietoja kirjasta](http://wodehouse.ru/27.htm)
+
 - Karl Marx, 1867
   - Capital, Volume I
   - [e-kirja saksaksi](https://archive.org/details/KarlMarxDasKapitalpdf)
