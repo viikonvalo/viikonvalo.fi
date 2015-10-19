@@ -3,6 +3,21 @@ Title: Lukuvalosivulista
 Lukuvalo: true
 -->
 
+Erasmus Rotterdamilainen, 1509
+: In Praise of Folly (Suomeksi tyhmyyden ylistys)
+: [e-kirja englanniksi](http://www.gutenberg.org/ebooks/30201)
+: [kirjasta Wikipediassa](https://fi.wikipedia.org/wiki/Tyhmyyden_ylistys)
+
+Lewis Carrol, 1876
+: Hunting of the Snark
+: [e-kirja englanniksi](http://www.gutenberg.org/ebooks/13)
+: [kirja Wikipediassa](https://fi.wikipedia.org/wiki/Kraukijahti)
+
+Leo Tolstoi, 1875-1877
+: Anna Karenina
+: [e-kirja suomeksi](http://www.gutenberg.org/ebooks/49487)
+: [kirja Wikipediassa](https://fi.wikipedia.org/wiki/Anna_Karenina)
+
 Open Source Summer Reading List, 2015
 :   Ehdotus kesälukemiseksi vapaakoodista kiinnostuneille. Vain osa
     luettelon kirjoista on vapaita, muut on ostettavia e-kirjoja tai
@@ -40,22 +55,5 @@ Dante Alighieri, 1321:
 :    Jumalainen näytelmä
 :    [e-kirja suomeksi](https://www.gutenberg.org/ebooks/12546)
 :    [teos Wikipediassa](https://fi.wikipedia.org/wiki/Jumalainen_n%C3%A4ytelm%C3%A4)
-
-Arthur Conan Doyle, 1907:
-:    Toisen tahran tarina
-:    [e-kirja suomeksi](http://www.gutenberg.org/ebooks/45335)
-:    [Artikkeli wikipediassa](https://fi.wikipedia.org/wiki/Toinen_tahra)
-
-Edwin Abbott Abbott, 1884:
-:    Flatland (Suomennettu nimellä Tasomaa)
-:    [e-kirja englanniksi](http://www.gutenberg.org/ebooks/201)
-:    [Artikkeli Wikipediassa](https://fi.wikipedia.org/wiki/Tasomaa)
-
-Churchill, 1940:
-:    Radiopuheet taistelun Ranskasta aikana
-:    [Tekstinä](http://www.winstonchurchill.org/learn/speeches/speeches-of-winston-churchill)
-:    [Äänitteinä](http://www.fiftiesweb.com/great-speeches.htm)
-:    [Wikipediassa](https://en.wikipedia.org/wiki/We_shall_fight_on_the_beaches)
-
 
 [Lisää poimintoja...](./Lukuvalo)

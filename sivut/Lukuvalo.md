@@ -22,6 +22,17 @@ Myös näiden projektien toimintaan on mahdollista osallistua.
 
 Lukuvihjeet
 -----------
+- P. G. Wodehouse, 1921
+  - Indescretions of Archie
+  - [e-kirja englanniksi](http://www.gutenberg.org/ebooks/3756)
+  - [äänikirja englanniksi](https://librivox.org/indiscretions-of-archie-by-p-g-wodehouse/)
+  - [Tietoja kirjasta](http://wodehouse.ru/27.htm)
+
+- Karl Marx, 1867
+  - Capital, Volume I
+  - [e-kirja saksaksi](https://archive.org/details/KarlMarxDasKapitalpdf)
+  - [e-kirja englanniksi](https://www.marxists.org/archive/marx/works/1867-c1/index.htm)
+  - [kirjasta Wikipediassa](https://fi.wikipedia.org/wiki/P%C3%A4%C3%A4oma_(Marx))
 - Erasmus Rotterdamilainen, 1509
   -   In Praise of Folly (Suomeksi tyhmyyden ylistys)
   -   [e-kirja englanniksi](http://www.gutenberg.org/ebooks/30201)
@@ -30,6 +41,10 @@ Lukuvihjeet
   - Hunting of the Snark
   - [e-kirja englanniksi](http://www.gutenberg.org/ebooks/13)
   - [kirja Wikipediassa](https://fi.wikipedia.org/wiki/Kraukijahti)
+- Leo Tolstoi, 1875-1877
+  - Anna Karenina
+  - [e-kirja suomeksi](http://www.gutenberg.org/ebooks/49487)
+  - [kirja Wikipediassa](https://fi.wikipedia.org/wiki/Anna_Karenina)
 - Open Source Summer Reading List, 2015
   - Ehdotus kesälukemiseksi vapaakoodista kiinnostuneille. Vain osa luettelon kirjoista on vapaita, muut on ostettavia e-kirjoja tai painettuja kirjoja. 
   - [Ehdotukset webbisivulla](http://opensource.com/life/15/6/2015-summer-reading-list) 
