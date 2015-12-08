@@ -3,6 +3,12 @@ Title: Lukuvalosivulista
 Lukuvalo: true
 -->
 
+Karl Marx, 1867
+: Capital, Volume 1
+: [e-kirja saksaksi](https://archive.org/details/KarlMarxDasKapitalpdf)
+: [e-kirja englanniksi](https://www.marxists.org/archive/marx/works/1867-c1/index.htm)
+: [kirjasta Wikipediassa](https://fi.wikipedia.org/wiki/P%C3%A4%C3%A4oma_(Marx))
+
 Erasmus Rotterdamilainen, 1509
 : In Praise of Folly (Suomeksi tyhmyyden ylistys)
 : [e-kirja englanniksi](http://www.gutenberg.org/ebooks/30201)
@@ -50,10 +56,5 @@ Marx-veljekset, 1932:
 :    Flywheel, Shyster and Flywheel
 :    [radiokuunnelma](https://archive.org/details/otr_flywheelshysterflywheel)
 :    [Teos Wikipediassa](https://fi.wikipedia.org/wiki/Flywheel,_Shyster_and_Flywheel)
-
-Dante Alighieri, 1321:
-:    Jumalainen näytelmä
-:    [e-kirja suomeksi](https://www.gutenberg.org/ebooks/12546)
-:    [teos Wikipediassa](https://fi.wikipedia.org/wiki/Jumalainen_n%C3%A4ytelm%C3%A4)
 
 [Lisää poimintoja...](./Lukuvalo)
