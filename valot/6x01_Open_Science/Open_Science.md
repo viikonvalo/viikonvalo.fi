@@ -7,7 +7,7 @@ Pageimage: valo243-open_science.png
 Tags: Tiede, Openscience
 -->
 
-**Tieteen tekemisen tulisi olla läpinäkyvää ja kaikkien saatavilla. Open Science -liike pyrkii lisäämään tieteen avoimuutta ja varmennettavuutta.**
+**Tieteen tekemisen tulisi olla läpinäkyvää ja kaikkien saatavilla. Open Science -liike pyrkii lisäämään tieteen avoimuutta ja tarkistettavuutta.**
 
 ![](images/valo243-open_science.png "fig:valo243-open_science.png")
 Tiedeyhteisö on 1600-luvulla aloitetusta tieteellisten lehtien julkaisemisesta lähtien pyrkinyt jakamaan tutkimustietoa keskenään, jotta tulokset olisivat helpommin
@@ -22,14 +22,14 @@ Yritysten pyrkimykset pitää rahoittamansa tutkimus omassa käytössään on ym
 tieteellisen tiedon vaihtaminen muiden tutkijoiden kanssa kiihdyttää myös oman tutkimuksen kehitystä ja tekee siitä luotettavampaa.
 Painotalojen toiminnassa ongelmallisena nähdään erityisesti se, miten yleensä julkisella rahoituksella toimivat tutkijat tuottavat painotaloille vastikkeettomasti
 julkaistavaa sisältöä, josta samat julkiset tahot, esimerkiksi yliopistot, jälleen maksavat paperille painettujen lehtien ja sähköisiin lehtiarkistoihin pääsyn muodossa.
-Sen lisäksi, että tutkijat tuottavat lehtien sisällön ja maksavat kolleegojensa tuottamasta sisällöstä, he usein toimivat myös vastikkeettomasti julkaisujen
-uskottavuutta ylläpitävinä artikkelien vertaisarvioijina. Painotalot lisäksi tyypillisesti vaativat tutkijoilta allekirjoitetun tekijänoikeussiirtosopimuksen, mutta ovat
-alkaneet siirtyä sen sijaan julkaisulupiin.
+Sen lisäksi, että tutkijat tuottavat lehtien sisällön ja maksavat kollegojensa tuottamasta sisällöstä, he usein toimivat myös vastikkeettomasti julkaisujen
+uskottavuutta ylläpitävinä artikkelien vertaisarvioijina. Painotalot lisäksi tyypillisesti vaativat tutkijoilta allekirjoitetun sopimuksen, jolla artikkelien tekijänoikeudet
+siirrettiin kustantajalle. Onneksi nykyään on nähtävissä painotalojen tyytyminen julkaisulupiin, jolloin tekijä voi julkaista artikkeleitaan myös muualla.
 
 Aiemmin paperille tapahtuva julkaiseminen vaati julkaisutalolta organisointityötä. Papereita kopioitiin ja läheteltiin fyysisinä kopioina vertaisarvioijille.
 Latominen sekä painaminen tehtiin painossa ja painettuja lehtiä läheteltiin yliopistojen kirjastoihin ympäri maailmaa. Digitalisoitumisen myötä myös tieteellisten
 tutkimusten julkaiseminen on yksinkertaistunut ja helpottunut eikä siihen kaivata samalla tavalla välikäsiä. Toisaalta julkaisujen hinnat ovat nousseet ja pääsy
-julkaistuun tietoon on kallistunut. Lisäksi juuri oikean tiedon löytäminen voi olla vaikeaa ja kallista, kun jokaisesta julkaisusta pitää maksaa ennen sen lukemista.
+julkaistuun tietoon on kallistunut. Lisäksi etsityn tiedon löytäminen voi olla vaikeaa ja kallista, kun jokaisesta julkaisusta pitää maksaa ennen sen lukemista.
 Tieteen avoimuutta ja saatavuutta puolustavat tutkijat ovat alkaneet kannattaa [Open Science](https://en.wikipedia.org/wiki/Open_science)- ja
 [Open access](https://en.wikipedia.org/wiki/Open_access) -liikkeitä, joiden tarkoituksena on helpottaa tutkijoiden välistä yhteistyötä. Tutkijat julkaisevat
 tekemänsä tutkimuksen perinteisten lehtien lisäksi Open Access -tyyppisesti avoimesti saatavilla olevina artikkeleina verkkopalveluissa. Erityisesti
@@ -50,7 +50,12 @@ Avoimen julkaisemisen sudenkuoppia:
 * Suuri yleisö voi ymmärtää tutkimuksen väärin. Alaan perehtymättömät mediat saattavat uutisoida tutkimuksesta suurelle yleisölle virheellisesti tai epätarkasti.
 
 Vapaiden ja avoimien lähdekoodin ohjelmien aate on saanut alkunsa yliopistoympäristössä tutkijoiden keskuudessa ja avoimen tieteen liikkeiden myötä myös muu tiede on
-pyrkimässä takaisin avoimempaan tutkimustapaan.
+pyrkimässä edelleen avoimempaan tieteen tekoon. Tieteellä olisikin vielä paljon opittavaa avoimen lähdekoodin yhteisöjen käyttämistä menetelmistä, kuten
+tulosten julkaisemisesta varhaisessa vaiheessa, jopa keskeneräisenä, sekä versionhallinnan käytössä. Esimerkiksi [Software Carpentry](Software_Carpentry) -sivusto
+sisältää hyvää opetusmateriaalia tutkijoiden käyttöön sopivista ohjelmistoista, kuten [Git](Git), [Python](Python) ja [R](R).
+
+> "Jos olen nähnyt muita kauemmas, se johtuu siitä, että olen seissyt jättiläisten harteilla."
+> &ndash; Isaac Newton
 
 Verkkosivustoja
 :   [arXiv.org](http://arxiv.org/) 
