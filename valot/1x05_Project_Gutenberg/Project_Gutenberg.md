@@ -44,7 +44,8 @@ ihmemaassa -kirjan kuvitus](http://www.gutenberg.org/ebooks/114)).
 Kotisivu:
 :    <http://www.gutenberg.org/>
 
-Lisenssi: [Project Gutenberg Licence](http://www.gutenberg.org/wiki/Gutenberg:The_Project_Gutenberg_License)
+Lisenssi:
+:   [Project Gutenberg Licence](http://www.gutenberg.org/wiki/Gutenberg:The_Project_Gutenberg_License)
 :   Tekijänoikeuksista vapautuneet kirjat ovat Public Domainia, eli
     julkista omaisuutta, Yhdysvaltalaisen tekijänoikeuslain mukaan.
 :   Katso tarkempi tieto lisenssistä kunkin kirjan alusta.
