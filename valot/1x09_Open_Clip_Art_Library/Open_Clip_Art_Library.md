@@ -46,15 +46,15 @@ kirjaston kuvista on piirrettykin. Tässä kirjoitelmassa käytetty kuvitus
 löytyi Openclipartsista (paitsi Viikon Valo -logo).
 
 <div class="psgallery" markdown="1">
-* [](images/ocal-Swan.png)
-* [](images/ocal-talitiainen.png)
-* [](images/ocal-Keep_tidy_inside_01.png)
-* [](images/ocal-Defense_de_fumer_yves_gu_01.png)
-* [](images/ocal-Ribbon.png)
-* [](images/ocal-Rana01_architetto_france_01.png)
-* [](images/ocal-tree.png)
-* [](images/ocal-Led_rainbow_ganson.png)
-* [](images/ocal-packet6.png)
+* [Joutsen](images/ocal-Swan.png)
+* [Talitiainen](images/ocal-talitiainen.png)
+* [Pidä ympäristö siistinä](images/ocal-Keep_tidy_inside_01.png)
+* [tupakointikielto](images/ocal-Defense_de_fumer_yves_gu_01.png)
+* [Sinetti](images/ocal-Ribbon.png)
+* [Sammakko](images/ocal-Rana01_architetto_france_01.png)
+* [Puu](images/ocal-tree.png)
+* [Ledejä](images/ocal-Led_rainbow_ganson.png)
+* [Pahvilaatikko](images/ocal-packet6.png)
 </div>
 
 *Teksti: Taleman* <br />

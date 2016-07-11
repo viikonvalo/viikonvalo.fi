@@ -28,7 +28,7 @@ näppäimistöoikopolulla. Esimerkiksi piirtoalustaa voi siirtää
 nuolinäppäimillä ja työkalun piirtojälkeä suurentaa ja pienentää **f**-
 ja **d**-näppäimillä vastaavasti.
 
-<div markdown="1" class="rightimage">
+<div class="rightimage" markdown="1">
 ![](images/wolf-01.jpg "fig:wolf-01.jpg")
 </div>
 MyPaint sisältää valmiina lukuisia

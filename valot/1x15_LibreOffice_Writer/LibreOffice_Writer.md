@@ -70,9 +70,9 @@ Lisää (englanninkielisiä) ohjevideoita löytyy
 [Showmedosta](http://showmedo.com/videotutorials/openoffice).
 
 <div class="psgallery" markdown="1">
-* [](images/LibreOffice-Writer-1-sivu.png)
-* [](images/LibreOffice-Writer-2-oikoluku.png)
-* [](images/LibreOffice-Writer-3-tyylit.png)
+* [Sivu](images/LibreOffice-Writer-1-sivu.png)
+* [Oikoluku](images/LibreOffice-Writer-2-oikoluku.png)
+* [Tyylit](images/LibreOffice-Writer-3-tyylit.png)
 </div>
 
 *Teksti: Taleman* <br />

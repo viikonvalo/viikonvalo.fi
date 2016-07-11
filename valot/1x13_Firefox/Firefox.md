@@ -138,14 +138,14 @@ Lisää luettavaa
 :   [Ominaisuudet](http://www.mozilla-europe.org/fi/firefox/features/)
 
 <div class="psgallery" markdown="1">
-* [](images/Firefox-1-valikko.png)
-* [](images/Firefox-2-firefox-painike.png)
-* [](images/Firefox-3-sovellusvalilehdet.png)
-* [](images/Firefox-4-firefox-painike.png)
-* [](images/Firefox-5-linux.png)
-* [](images/Firefox-6-mathml.png)
-* [](images/Firefox-7-webm.png)
-* [](images/Firefox-8-tabgroups.png)
+* [Firefoxin valikko](images/Firefox-1-valikko.png)
+* [Firefox-painike](images/Firefox-2-firefox-painike.png)
+* [Sovellusvälilehdet](images/Firefox-3-sovellusvalilehdet.png)
+* [Firefox-painikkeesta tuleva valikko](images/Firefox-4-firefox-painike.png)
+* [Firefox Ubuntu-Linuxilla](images/Firefox-5-linux.png)
+* [Kehittynyt MathML-tuki](images/Firefox-6-mathml.png)
+* [Webm-videoiden tuki](images/Firefox-7-webm.png)
+* [Välilehtiryhmät](images/Firefox-8-tabgroups.png)
 </div>
 
 *Teksti: pesasa* <br />

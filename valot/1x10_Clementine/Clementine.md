@@ -44,13 +44,13 @@ Asennus:
 :    Asennuspaketit löytyvät ohjelman kotisivulta. Linux-järjestelmiin sivulta löytyvät asennuspaketit Ubuntu-, Debian- ja Fedora Core -jakeluille.
 
 <div class="psgallery" markdown="1">
-* [](images/clementine-1.png)
-* [](images/clementine-2.png)
-* [](images/clementine-3.png)
-* [](images/clementine-4.png)
-* [](images/clementine-5.png)
-* [](images/clementine-6.png)
-* [](images/clementine-7.png)
+* [Musiikkiarkisto esittäjän ja levyn mukaan sekä soittolista](images/clementine-1.png)
+* [Työpöydällä näytettävä ilmoitus kappaleen vaihtuessa](images/clementine-2.png)
+* [Tiedostoselain](images/clementine-3.png)
+* [Musiikki- ja äänilähteet Internetissä](images/clementine-4.png)
+* [Jamendon musiikkivalikoimaa](images/clementine-5.png)
+* [Artistitietoja Wikipediasta](images/clementine-6.png)
+* [Lisää artistitietoja Lastfm-palvelusta ja Myspacesta](images/clementine-7.png)
 </div>
 
 *Teksti: pesasa* <br />

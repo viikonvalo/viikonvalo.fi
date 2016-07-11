@@ -30,7 +30,7 @@ kaksi on keskeneräisiä.
 -   Librivox toivottaa tervetulleeksi kaikki vapaaehtoiset osallistumaan
     ympäri maapallon
 
-<div class="rightimage">
+<div class="rightimage" markdown="1">
 ![](Kuva:Librivox-logo.jpg)
 </div>
 **Näin se toimii** Librivoxin vapaaehtoiset osallistujat lukevat lukuja

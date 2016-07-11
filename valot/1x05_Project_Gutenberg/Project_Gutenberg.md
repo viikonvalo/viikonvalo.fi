@@ -51,11 +51,11 @@ Lisenssi:
 :   Katso tarkempi tieto lisenssistä kunkin kirjan alusta.
 
 <div class="psgallery" markdown="1">
-* [](images/project_gutenberg-1.png)
-* [](images/project_gutenberg-2.png)
-* [](images/project_gutenberg-3.png)
-* [](images/project_gutenberg-4.png)
-* [](images/project_gutenberg-5.png)
+* [Kirjat ovat ladattavissa useammassa muodossa.](images/project_gutenberg-1.png)
+* [Kirjojen selaaminen kielen mukaan](images/project_gutenberg-2.png)
+* [Suomenkielisiä kirjoja kirjailijan mukaan järjestettyinä](images/project_gutenberg-3.png)
+* [Beatrix Potterin lastenkirjaklassikko](images/project_gutenberg-4.png)
+* [Kuvitettu kirja](images/project_gutenberg-5.png)
 </div>
 
 *Teksti: pesasa* <br />

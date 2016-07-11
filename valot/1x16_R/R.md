@@ -54,9 +54,9 @@ Käyttöohjeita
 :   [R-ohjelmointi](http://www.r-ohjelmointi.org/)
 
 <div class="psgallery" markdown="1">
-* [](images/R-demoplot1.png)
-* [](images/R-demoplot2.png)
-* [](images/R-Fig4_AT2.png)
+* [Plottauksia](images/R-demoplot1.png)
+* [3D-kuvaaja](images/R-demoplot2.png)
+* [Frekvenssejä](images/R-Fig4_AT2.png)
 </div>
 
 *Teksti: ATTE TENKANEN* <br />

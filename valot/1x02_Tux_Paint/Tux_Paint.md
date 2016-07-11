@@ -39,12 +39,12 @@ Asennus
     omasta paketinhallinnasta käsin.
 
 <div class="psgallery" markdown="1">
-* [](images/tuxpaint-0.png "fig:tuxpaint-0.png")
-* [](images/tuxpaint-1.png "fig:tuxpaint-1.png")
-* [](images/tuxpaint-2.png "fig:tuxpaint-2.png")
-* [](images/tuxpaint-3.png "fig:tuxpaint-3.png")
-* [](images/tuxpaint-4.png "fig:tuxpaint-4.png")
-* [](images/tuxpaint-5.png "fig:tuxpaint-5.png")
+* [Aloituskuva](images/tuxpaint-0.png "fig:tuxpaint-0.png")
+* [Tyhjä piirtoalusta.](images/tuxpaint-1.png "fig:tuxpaint-1.png")
+* [Siveltimillä piirrettyjä kuvia.](images/tuxpaint-2.png "fig:tuxpaint-2.png")
+* [Leimasimia](images/tuxpaint-3.png "fig:tuxpaint-3.png")
+* [Taikasauvan käyttöä.](images/tuxpaint-4.png "fig:tuxpaint-4.png")
+* [Värityskuva](images/tuxpaint-5.png "fig:tuxpaint-5.png")
 </div>
 
 *Teksti: pesasa* <br />

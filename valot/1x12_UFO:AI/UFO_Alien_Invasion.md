@@ -35,9 +35,9 @@ Peli on varsin laaja vaatien kohtalaista paneutumista. Läpipelaaminen ei
 onnistu parissa illassa.
 
 <div class="psgallery" markdown="1">
-* [](images/Ufoai-800px-Player002.jpg "fig:Ufoai-800px-Player002.jpg")
-* [](images/Ufoai-Alien_commander2.jpg "wikilink")
-* [](images/Ufoai-Grenl.jpg "wikilink")
+* [Pelaajahahmo](images/Ufoai-800px-Player002.jpg "fig:Ufoai-800px-Player002.jpg")
+* [Alien-komentaja](images/Ufoai-Alien_commander2.jpg "wikilink")
+* [Ase](images/Ufoai-Grenl.jpg "wikilink")
 </div>
 
 Saatavilla on

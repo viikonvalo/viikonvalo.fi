@@ -200,16 +200,16 @@ Muuta materiaalia
 :   [Nelson Mandela kertoo, mistä ubuntussa on kyse.](http://www.youtube.com/watch?v=ODQ4WiDsEBQ)
 
 <div class="psgallery" markdown="1">
--   [](images/ubuntu-11.04-1.jpg)
--   [](images/ubuntu-11.04-2.jpg)
--   [](images/ubuntu-11.04-3.jpg)
--   [](images/ubuntu-11.04-4.jpg)
--   [](images/ubuntu-11.04-5.jpg)
--   [](images/ubuntu-11.04-6.jpg)
--   [](images/ubuntu-11.04-7.jpg)
--   [](images/ubuntu-11.04-8.jpg)
--   [](images/kubuntu-11.04-1.jpg)
--   [](images/kubuntu-11.04-2.jpg)
+-   [Ubuntun työpöytä](images/ubuntu-11.04-1.jpg)
+-   [Firefox avoinna](images/ubuntu-11.04-2.jpg)
+-   [Pikaviestin ja sosiaalinen media](images/ubuntu-11.04-3.jpg)
+-   [Musiikkisoitin](images/ubuntu-11.04-4.jpg)
+-   [Pelejä](images/ubuntu-11.04-5.jpg)
+-   [Ohjelmistokeskus](images/ubuntu-11.04-6.jpg)
+-   [Ohjelmistokeskus ja Inkscapen asennus](images/ubuntu-11.04-7.jpg)
+-   [Useita työtiloja](images/ubuntu-11.04-8.jpg)
+-   [Kubuntu ja KDE-työpöytä](images/kubuntu-11.04-1.jpg)
+-   [Amarok-musiikkisoitin KDE-työpöydällä](images/kubuntu-11.04-2.jpg)
 </div>
 
 *Teksti: pesasa* <br />

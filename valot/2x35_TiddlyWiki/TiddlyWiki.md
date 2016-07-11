@@ -200,5 +200,5 @@ Linkkejä
     oheen.](images/tiddlywiki-10.png)
 </div>
 
-*Teksti: oma Pesasa* <br />
+*Teksti: Pesasa* <br />
 *Kuvakaappaukset: Pesasa*

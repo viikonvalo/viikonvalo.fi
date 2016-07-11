@@ -47,11 +47,11 @@ Asennus
     paketinhallinnasta.
 
 <div class="psgallery" markdown="1">
-* [](images/pinta-1.png)
-* [](images/pinta-3.png)
-* [](images/pinta-6.png)
-* [](images/pinta-7.png)
-* [](images/pinta-5.png)
+* [Pinta-ohjelman perusnäkymä Windows-alustalla](images/pinta-1.png)
+* [Piirrettyä sisältöä ja säätöjä](images/pinta-3.png)
+* [Pinta Linux-alustalla](images/pinta-6.png)
+* [Kuvan muokkausta](images/pinta-7.png)
+* [Tehosteita](images/pinta-5.png)
 </div>
 
 *Teksti: oma pesasa* <br />

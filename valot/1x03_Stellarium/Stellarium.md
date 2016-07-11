@@ -48,18 +48,18 @@ Oppaita
 :   [FLOSS Manuals](http://fi.flossmanuals.net/stellarium/)
 
 <div class="psgallery" markdown="1">
-* [](images/stellarium-1.png)
-* [](images/stellarium-2.png)
-* [](images/stellarium-3.png)
-* [](images/stellarium-4.png)
-* [](images/stellarium-5.png)
-* [](images/stellarium-6.png)
-* [](images/stellarium-7.png)
-* [](images/stellarium-8.png)
-* [](images/stellarium-9.png)
-* [](images/stellarium-10.png)
-* [](images/stellarium-11.png)
-* [](images/stellarium-12.png)
+* [Orion](images/stellarium-1.png)
+* [Koko tähtitaivas kerralla](images/stellarium-2.png)
+* [Ajan valinta](images/stellarium-3.png)
+* [Merkinnät ja projektio](images/stellarium-4.png)
+* [Maiseman valinta](images/stellarium-5.png)
+* [Tähtikuvioiden valinta kulttuurin mukaan](images/stellarium-6.png)
+* [Auringonpimennys](images/stellarium-7.png)
+* [Tähdistöviivat näkyvissä](images/stellarium-8.png)
+* [Tähdistöt kuvina](images/stellarium-9.png)
+* [Kuu](images/stellarium-10.png)
+* [Maa kuusta katsottuna](images/stellarium-11.png)
+* [Maa kuusta katsottuna](images/stellarium-12.png)
 </div>
 
 *Teksti: pesasa* <br />

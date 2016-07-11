@@ -47,13 +47,13 @@ VALO-CD
     [VALO-CD](http://www.valo-cd.fi/ilmainen_pidgin)-kokoelmasta.
 
 <div class="psgallery" markdown="1">
--   [](images/pidgin-1-tilit.png)
--   [](images/pidgin-2-tuttavat.png)
--   [](images/pidgin-3-keskustelu.png)
--   [](images/pidgin-4-smiley.png)
--   [](images/pidgin-5-jabber_room.png)
--   [](images/pidgin-6-liitannaiset.png)
-
+-   [Pikaviestitilin lisääminen](images/pidgin-1-tilit.png)
+-   [Kaverilista](images/pidgin-2-tuttavat.png)
+-   [Keskustelu](images/pidgin-3-keskustelu.png)
+-   [Hymiöitä](images/pidgin-4-smiley.png)
+-   [Jabber-huoneiden käyttö ryhmäkeskusteluun](images/pidgin-5-jabber_room.png)
+-   [Liitännäisiä](images/pidgin-6-liitannaiset.png)
 </div>
+
 *Teksti: pesasa* <br />
 *kuvakaappaukset: pesasa*

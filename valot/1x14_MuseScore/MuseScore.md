@@ -52,10 +52,10 @@ Esimerkki
 :   [MuseScoreDemo1.pdf](Media:MuseScoreDemo1.pdf "wikilink")
 
 <div class="psgallery" markdown="1">
-* [](images/musescore-1.png)
-* [](images/musescore-2.png)
-* [](images/musescore-3.png)
-* [](images/musescore-4.png)
+* [Nuotinnusta](images/musescore-1.png)
+* [Tekstimuotoisten tietojen syöttöä](images/musescore-2.png)
+* [Useita soittimia](images/musescore-3.png)
+* [Bachia](images/musescore-4.png)
 </div>
 
 Viitteitä

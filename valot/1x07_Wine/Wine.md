@@ -31,9 +31,9 @@ Asennus:
 :    Todennäköisesti asennuspaketti löytyy jakelun omasta pakettivarastosta, mutta tarvittaessa ne on saatavilla myös Winen kotisivuilta.
 
 <div class="psgallery" markdown="1">
-* [](images/Wine_civ4-2.png "fig:Wine_civ4-2.png")
-* [](images/Wine_cs-source.png "fig:Wine_cs-source.png")
-* [](images/Wine-fifa10.png "fig:Wine-fifa10.png")
+* [Civilization 4](images/Wine_civ4-2.png "fig:Wine_civ4-2.png")
+* [Counter-Strike](images/Wine_cs-source.png "fig:Wine_cs-source.png")
+* [FIFA 10](images/Wine-fifa10.png "fig:Wine-fifa10.png")
 </div>
 
 *Teksti: teroajk* <br />

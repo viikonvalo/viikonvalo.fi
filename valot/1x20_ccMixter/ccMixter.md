@@ -60,11 +60,11 @@ Toimii seuraavilla alustoilla
 :   Kaikki
 
 <div class="psgallery" markdown="1">
--   [](images/ccmixter-1.png)
--   [](images/ccmixter-2.png)
--   [](images/ccmixter-3.png)
--   [](images/ccmixter-4.png)
--   [](images/ccmixter-5.png)
+-   [Palvelun etusivu](images/ccmixter-1.png)
+-   [Valikoituja äänitiedostoja](images/ccmixter-2.png)
+-   [Remiksauksia](images/ccmixter-3.png)
+-   [Äänisampleja](images/ccmixter-4.png)
+-   [Ode To Joy](images/ccmixter-5.png)
 </div>
 
 *Teksti: pesasa* <br />

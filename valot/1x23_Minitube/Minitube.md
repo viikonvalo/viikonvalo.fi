@@ -56,14 +56,14 @@ Käyttöohjeet
     Minitube](http://www.youtube.com/watch?v=abLOxZPIPcI)
 
 <div class="psgallery" markdown="1">
--   [](images/minitube-1.png)
--   [](images/minitube-2.png)
--   [](images/minitube-3.png)
--   [](images/minitube-4.png)
--   [](images/minitube-5.png)
--   [](images/minitube-6.png)
--   [](images/minitube-7.png)
--   [](images/minitube-8.png)
+-   [ ](images/minitube-1.png)
+-   [ ](images/minitube-2.png)
+-   [ ](images/minitube-3.png)
+-   [ ](images/minitube-4.png)
+-   [ ](images/minitube-5.png)
+-   [ ](images/minitube-6.png)
+-   [ ](images/minitube-7.png)
+-   [ ](images/minitube-8.png)
 </div>
 
 *Teksti: pesasa* <br />
