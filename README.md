@@ -1,6 +1,11 @@
 Viikon VALO
 ===========
 
+**HUOM! Viikon VALO on siirretty Hugo-alustalle ja sen myötä muokattu materiaali
+löytyy [uudesta repositorysta](https://github.com/viikonvalo/viikonvalo).**
+Bugiraportit, toiveet yms. voi ainakin toistaiseksi tehdä vielä tähän
+repositoryyn, mutta uudet sisällöt luodaan uuteen.
+
 [Viikonvalo.fi]-sivuston materiaali.
 
 Viikon VALO -projekti esittelee viikoittain jonkin vapaan avoimen lähdekoodin ohjelman (VALOn), vapaan materiaalilähteen taikka muun näihin läheisesti liittyvän asian. Projekti alkoi vuoden 2011 alussa.
